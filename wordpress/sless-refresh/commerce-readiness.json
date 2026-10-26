@@ -1,0 +1,59 @@
+{
+  "checkedAt": "2026-10-08T22:24:09.585Z",
+  "payment": {
+    "enabled": true,
+    "testMode": true,
+    "testPublishableKeyConfigured": true,
+    "testSecretKeyConfigured": true,
+    "testWebhookConfigured": true
+  },
+  "notifications": {
+    "ownerNewOrderEnabled": true,
+    "ownerRecipientConfigured": true,
+    "customerProcessingEnabled": true,
+    "customerCompletedEnabled": true,
+    "emailReceiptObserved": false
+  },
+  "digital": {
+    "existingProtectedPackageObserved": true,
+    "method": "force",
+    "insecureRedirectFallback": false,
+    "accessAfterPayment": true,
+    "products": [
+      {
+        "id": 215,
+        "name": "SlessBox Studio",
+        "status": "draft",
+        "downloadable": false,
+        "fileCount": 0,
+        "wooUploadPathsOnly": false
+      },
+      {
+        "id": 214,
+        "name": "SlessBox Pro",
+        "status": "draft",
+        "downloadable": false,
+        "fileCount": 0,
+        "wooUploadPathsOnly": false
+      }
+    ]
+  },
+  "fulfillment": {
+    "activeProcessingHooks": [
+      {
+        "id": 1,
+        "topic": "action.woocommerce_order_status_processing"
+      }
+    ],
+    "productionSafetyConfirmed": false
+  },
+  "orderCount": 0,
+  "transactionTestRun": false,
+  "realPayoutVerified": false,
+  "blockers": [
+    "The existing protected installer is not yet connected to WooCommerce paid-order delivery.",
+    "Paid-tier activation is not implemented; do not claim Pro/Studio feature delivery is ready.",
+    "An active order-processing webhook may trigger production fulfillment; isolate it before a test order.",
+    "Draft products are not publicly purchasable; do not publish them without authorization."
+  ]
+}

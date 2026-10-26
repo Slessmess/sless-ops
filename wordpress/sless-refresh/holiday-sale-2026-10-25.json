@@ -1,0 +1,451 @@
+{
+  "products": [
+    {
+      "id": 238,
+      "title": "Sless After Dark — Oversized Garment-Dyed T-Shirt",
+      "url": "https://slessismore.org/product/sless-after-dark-halloween-oversized-tee/",
+      "regularMin": 36,
+      "saleMin": 28.8,
+      "saleMax": 35.2,
+      "variants": [
+        {
+          "id": 240,
+          "regular": "36",
+          "sale": "28.80",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 241,
+          "regular": "44",
+          "sale": "35.20",
+          "endTimestamp": 1792987199
+        }
+      ]
+    },
+    {
+      "id": 260,
+      "title": "Be Thankful for Sless! — Triblend Tee",
+      "url": "https://slessismore.org/product/more-gratitude-thanksgiving-triblend-tee/",
+      "regularMin": 48,
+      "saleMin": 38.4,
+      "saleMax": 44.8,
+      "variants": [
+        {
+          "id": 261,
+          "regular": "48",
+          "sale": "38.40",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 262,
+          "regular": "48",
+          "sale": "38.40",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 263,
+          "regular": "48",
+          "sale": "38.40",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 265,
+          "regular": "48",
+          "sale": "38.40",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 266,
+          "regular": "56",
+          "sale": "44.80",
+          "endTimestamp": 1792987199
+        }
+      ]
+    },
+    {
+      "id": 314,
+      "title": "Sless Is Cheer — Heavy Blend Crewneck Sweatshirt",
+      "url": "https://slessismore.org/product/more-cheer-christmas-crewneck/",
+      "regularMin": 36,
+      "saleMin": 28.8,
+      "saleMax": 34.4,
+      "variants": [
+        {
+          "id": 316,
+          "regular": "36",
+          "sale": "28.80",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 317,
+          "regular": "36",
+          "sale": "28.80",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 318,
+          "regular": "36",
+          "sale": "28.80",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 319,
+          "regular": "36",
+          "sale": "28.80",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 320,
+          "regular": "41",
+          "sale": "32.80",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 321,
+          "regular": "43",
+          "sale": "34.40",
+          "endTimestamp": 1792987199
+        }
+      ]
+    },
+    {
+      "id": 323,
+      "title": "Be Thankful for Sless! — Garment-Dyed Sweatshirt",
+      "url": "https://slessismore.org/product/more-gratitude-thanksgiving-garment-dyed-sweatshirt/",
+      "regularMin": 70,
+      "saleMin": 56,
+      "saleMax": 74.4,
+      "variants": [
+        {
+          "id": 324,
+          "regular": "70",
+          "sale": "56.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 325,
+          "regular": "70",
+          "sale": "56.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 326,
+          "regular": "70",
+          "sale": "56.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 327,
+          "regular": "70",
+          "sale": "56.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 328,
+          "regular": "81",
+          "sale": "64.80",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 329,
+          "regular": "93",
+          "sale": "74.40",
+          "endTimestamp": 1792987199
+        }
+      ]
+    },
+    {
+      "id": 330,
+      "title": "Sless After Dark — Heavy Blend Hooded Sweatshirt",
+      "url": "https://slessismore.org/product/sless-after-dark-halloween-hoodie/",
+      "regularMin": 43,
+      "saleMin": 34.4,
+      "saleMax": 39.2,
+      "variants": [
+        {
+          "id": 331,
+          "regular": "43",
+          "sale": "34.40",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 332,
+          "regular": "43",
+          "sale": "34.40",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 333,
+          "regular": "43",
+          "sale": "34.40",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 334,
+          "regular": "43",
+          "sale": "34.40",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 335,
+          "regular": "47",
+          "sale": "37.60",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 336,
+          "regular": "49",
+          "sale": "39.20",
+          "endTimestamp": 1792987199
+        }
+      ]
+    },
+    {
+      "id": 660,
+      "title": "Sless After Dark — Halloween Tee",
+      "url": "https://slessismore.org/product/sless-after-dark-halloween-tee/",
+      "regularMin": 25,
+      "saleMin": 20,
+      "saleMax": 24,
+      "variants": [
+        {
+          "id": 661,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 662,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 663,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 664,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 665,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 666,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 667,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 668,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 669,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 670,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 671,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 672,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 673,
+          "regular": "28",
+          "sale": "22.40",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 674,
+          "regular": "28",
+          "sale": "22.40",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 675,
+          "regular": "28",
+          "sale": "22.40",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 676,
+          "regular": "30",
+          "sale": "24.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 677,
+          "regular": "30",
+          "sale": "24.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 678,
+          "regular": "30",
+          "sale": "24.00",
+          "endTimestamp": 1792987199
+        }
+      ]
+    },
+    {
+      "id": 735,
+      "title": "Sless Is Cheer — Christmas Tee",
+      "url": "https://slessismore.org/product/sless-is-cheer-christmas-tee/",
+      "regularMin": 25,
+      "saleMin": 20,
+      "saleMax": 24,
+      "variants": [
+        {
+          "id": 736,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 737,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 738,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 739,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 740,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 741,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 742,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 743,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 744,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 745,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 746,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 747,
+          "regular": "25",
+          "sale": "20.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 748,
+          "regular": "28",
+          "sale": "22.40",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 749,
+          "regular": "28",
+          "sale": "22.40",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 750,
+          "regular": "28",
+          "sale": "22.40",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 751,
+          "regular": "30",
+          "sale": "24.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 752,
+          "regular": "30",
+          "sale": "24.00",
+          "endTimestamp": 1792987199
+        },
+        {
+          "id": 753,
+          "regular": "30",
+          "sale": "24.00",
+          "endTimestamp": 1792987199
+        }
+      ]
+    }
+  ],
+  "discountPercent": 20,
+  "verifiedVariants": 61,
+  "endsAtEastern": "2026-10-25T23:59:59-04:00",
+  "endTimestamp": 1792987199,
+  "expiryEvent": 1792987200,
+  "regularPricesPreserved": true,
+  "nonholidayMerchandiseUnchanged": true,
+  "ordersCreated": false,
+  "productionApproved": false,
+  "checkedAt": "2026-10-18T23:17:41.661Z",
+  "authorization": "Owner approved 20% off all seven holiday tops through October 25, 2026 at 11:59 p.m. Eastern."
+}

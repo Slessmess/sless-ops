@@ -1,0 +1,68 @@
+{
+  "note": "Recommendations only. SEO plugin meta fields are not exposed by the site's REST API; these values have not been installed in page head markup.",
+  "pages": [
+    {
+      "title": "Sless Is More | Sless Taylor, Wrestling, SlessBox & Apparel",
+      "description": "Meet Sless Taylor. Watch real wrestling footage, explore SlessBox local Windows AI, and see the three-shirt Fall Collection.",
+      "keywords": ["Sless Taylor", "Sless Is More", "professional wrestler", "SlessBox", "local Windows AI", "Fall Collection shirts"],
+      "slug": "home-redesign",
+      "index": true
+    },
+    {
+      "title": "Wrestling Matches | Sless Taylor",
+      "description": "Watch Sless Taylor wrestling footage, including Sless vs Brandon Fields, tag team matches, and the complete Matches archive.",
+      "keywords": ["Sless Taylor wrestling", "Sless matches", "Sless vs Brandon Fields", "wrestling footage"],
+      "slug": "wrestling",
+      "index": true
+    },
+    {
+      "title": "SlessBox AI | Offline Local AI for Windows",
+      "description": "Explore SlessBox Lite, Pro, and Studio: local AI for Windows 10/11 with one-time pricing and no subscriptions.",
+      "keywords": ["SlessBox", "offline AI Windows", "local AI Windows 10", "local AI Windows 11"],
+      "slug": "ai",
+      "index": true
+    },
+    {
+      "title": "Sless Store | The Fall Collection",
+      "description": "Shop the Sless Fall Collection: three statement unisex tees, plus SlessBox digital editions and the Fall Brawl Bundle.",
+      "keywords": ["Sless Store", "Sless shirts", "Fall Collection", "SlessBox bundle"],
+      "slug": "store",
+      "index": true
+    },
+    {
+      "title": "Fall Brawl 2025 | End of Summer Sless Slam",
+      "description": "Review the Fall Brawl 2025 prize details, entry methods, and official rules. Supplied campaign dates are historical.",
+      "keywords": ["Fall Brawl 2025", "End of Summer Sless Slam", "Sless giveaway"],
+      "slug": "giveaway",
+      "index": false
+    },
+    {
+      "title": "Thank You | Sless Is More",
+      "description": "Sless Is More post-checkout next-step copy for shirt shipping, SlessBox downloads, bundles, and giveaway confirmation.",
+      "keywords": ["Sless Is More thank you", "SlessBox download next steps"],
+      "slug": "thank-you",
+      "index": false
+    },
+    {
+      "title": "SlessBox Download | Sless Is More",
+      "description": "SlessBox download page draft. WordPress password protection must be configured before publishing.",
+      "keywords": ["SlessBox download", "SlessBox installer"],
+      "slug": "download",
+      "index": false
+    },
+    {
+      "title": "Checkout | Sless Is More",
+      "description": "Checkout draft for Sless Is More products. Secure Stripe checkout is not connected yet.",
+      "keywords": ["Sless Store checkout", "SlessBox checkout"],
+      "slug": "checkout",
+      "index": false
+    },
+    {
+      "title": "Fall Brawl Winners | Sless Is More",
+      "description": "Fall Brawl 2025 winner announcement page. Remains a draft until a winner is selected.",
+      "keywords": ["Fall Brawl winners", "Sless giveaway winner"],
+      "slug": "winners",
+      "index": false
+    }
+  ]
+}

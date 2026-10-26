@@ -1,0 +1,32 @@
+{
+  "shirt-1": {
+    "id": 140,
+    "url": "https://slessismore.org/wp-content/uploads/2026/10/sless-fall-shirt-1.png",
+    "slug": "no-introduction-needed-product"
+  },
+  "shirt-1-lifestyle": {
+    "id": 141,
+    "url": "https://slessismore.org/wp-content/uploads/2026/10/sless-fall-shirt-1-lifestyle.jpg",
+    "slug": "no-introduction-needed-lifestyle"
+  },
+  "shirt-2": {
+    "id": 142,
+    "url": "https://slessismore.org/wp-content/uploads/2026/10/sless-fall-shirt-2.png",
+    "slug": "stay-undeniable-product"
+  },
+  "shirt-2-lifestyle": {
+    "id": 143,
+    "url": "https://slessismore.org/wp-content/uploads/2026/10/sless-fall-shirt-2-lifestyle.jpg",
+    "slug": "stay-undeniable-lifestyle"
+  },
+  "shirt-3": {
+    "id": 144,
+    "url": "https://slessismore.org/wp-content/uploads/2026/10/sless-fall-shirt-3.png",
+    "slug": "built-different-proven-daily-product"
+  },
+  "shirt-3-lifestyle": {
+    "id": 145,
+    "url": "https://slessismore.org/wp-content/uploads/2026/10/sless-fall-shirt-3-lifestyle.jpg",
+    "slug": "built-different-proven-daily-lifestyle"
+  }
+}

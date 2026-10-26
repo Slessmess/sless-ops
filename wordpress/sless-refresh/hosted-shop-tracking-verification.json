@@ -1,0 +1,44 @@
+{
+  "checkedOn": "2026-10-20",
+  "storefront": "https://shop.slessismore.org",
+  "product": "https://shop.slessismore.org/product/33343713",
+  "method": "Fresh browser context with outbound request capture before navigation; no KERNEL",
+  "ownerConfirmedSettingsSaved": true,
+  "serverHtmlChecks": {
+    "homepage": { "status": 200, "ga4IdPresent": true, "metaIdPresent": true },
+    "product": { "status": 200, "ga4IdPresent": true, "metaIdPresent": true }
+  },
+  "ga4": {
+    "measurementId": "G-RZLZGN6CRQ",
+    "observedEvents": ["page_view", "user_engagement"],
+    "pageViewStages": ["homepage", "product", "checkout"],
+    "notObserved": ["view_item", "add_to_cart", "begin_checkout"]
+  },
+  "meta": {
+    "pixelId": "910105715704651",
+    "observedEvents": ["PageView", "SubscribedButtonClick"],
+    "pageViewStages": ["homepage", "product", "checkout"],
+    "notObserved": ["ViewContent", "AddToCart", "InitiateCheckout"],
+    "note": "SubscribedButtonClick after Add to cart is not standard AddToCart conversion evidence. One additional request had no parsed event name."
+  },
+  "consent": {
+    "bannerObserved": false,
+    "rejectOrPreferencesControlsObserved": false,
+    "merchantRequestsBeforeConsent": true,
+    "gaCookiesBeforeInteraction": true,
+    "metaFbpCookieBeforeInteraction": true,
+    "result": "Consent gating not verified; tracking observed before any choice"
+  },
+  "duplicates": "No duplicate owner page-view or conversion event evident for tested stages",
+  "platformInternalAnalytics": "Printify cart and checkout logs are not evidence of merchant GA4 or Meta ecommerce delivery",
+  "safety": {
+    "purchaseSubmitted": false,
+    "purchaseEventFabricated": false,
+    "customerDetailsEntered": false,
+    "settingsChangedByAgent": false,
+    "cartItemRemoved": true
+  },
+  "purchaseTracking": "Intentionally unverified",
+  "result": "Incomplete: owner page views confirmed, consent and ecommerce events unresolved",
+  "recommendedImmediateAction": "Remove merchant IDs from native Marketing settings until consent and event support are resolved"
+}

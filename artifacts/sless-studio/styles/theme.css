@@ -1,0 +1,112 @@
+/**
+ * Quanta tokens → shadcn variables, so q-* utilities and shadcn components read
+ * one palette. Lives outside globals.css on purpose: `shadcn add` merges
+ * globals.css and keeps the base template's :root values, while this file is
+ * written verbatim. The attribute selector outranks the template's :root/.dark.
+ * Dark only — data-theme is pinned in app/layout.tsx.
+ *
+ * Sless Studio skin (matches slessismore.org): warm black surfaces, cream type,
+ * signal yellow #FFD700, square corners, Anton display + wide Archivo labels.
+ * The vendored Quanta primitives are re-pointed here instead of edited, so the
+ * generated token files stay untouched.
+ */
+:root[data-theme="default-dark"] {
+    --hf-type-family-grotesk-base: var(--font-anton), "Anton";
+    --hf-type-family-primary-base: var(--font-inter), "Inter";
+    /* Wide heavy label face for nav, buttons and eyebrows (.font-label). */
+    --sless-font-label: var(--font-archivo), "Archivo", "Arial Black", sans-serif;
+    --hf-type-family-secondary-base: var(--font-inter), "Inter";
+    --hf-type-family-mono-base: var(--font-plex-mono), "IBM Plex Mono";
+
+    /* Warm blacks (slessismore.org header #0d0d0c, bands #11100d / #141414). */
+    --hf-color-cool-050: #6b665c;
+    --hf-color-cool-100: #524e46;
+    --hf-color-cool-150: #3e3b34;
+    --hf-color-cool-200: #2d2a24;
+    --hf-color-cool-250: #24221d;
+    --hf-color-cool-300: #1b1a16;
+    --hf-color-cool-350: #171612;
+    --hf-color-cool-400: #141310;
+
+    /* Cream "white" and warm greys. */
+    --hf-color-grey-050: #f6f3eb;
+    --hf-color-grey-100: #f3f0e8;
+    --hf-color-grey-300: #a8a296;
+    --hf-color-grey-325: #7d786d;
+    --hf-color-grey-550: #11100d;
+    --hf-color-glass-dark: #1b1a16bf;
+
+    /* Quanta's brand ramp ("lime" in the vendored names) → signal yellow. */
+    --hf-color-lime-100: #fffbe0;
+    --hf-color-lime-200: #fff3b0;
+    --hf-color-lime-300: #ffeb80;
+    --hf-color-lime-400: #ffe14d;
+    --hf-color-lime-500: #ffd700;
+    --hf-color-lime-600: #d9b700;
+    --hf-color-lime-700: #b39700;
+    --hf-color-lime-800: #8c7600;
+    --hf-color-lime-900: #665600;
+    --hf-color-lime-1000: #403600;
+    --hf-color-lime-1100: #261f00;
+    --hf-color-lime-1200: #141000;
+    --hf-color-lime-alpha-05: #ffd7000d;
+    --hf-color-lime-alpha-10: #ffd7001a;
+    --hf-color-lime-alpha-100: #ffd700;
+    --hf-color-lime-alpha-15: #ffd70026;
+    --hf-color-lime-alpha-20: #ffd70033;
+    --hf-color-lime-alpha-30: #ffd7004d;
+    --hf-color-lime-alpha-40: #ffd70066;
+    --hf-color-lime-alpha-50: #ffd70080;
+    --hf-color-lime-alpha-60: #ffd70099;
+    --hf-color-lime-alpha-70: #ffd700b2;
+    --hf-color-lime-alpha-80: #ffd700cc;
+    --hf-color-lime-alpha-90: #ffd700e5;
+    --hf-gradient-special-gloss-lime: linear-gradient(rgba(255, 215, 0, 0) 0%, rgb(255, 215, 0) 100%);
+    --hf-gradient-special-gloss-lime-angled: linear-gradient(191.434deg, rgba(255, 215, 0, 0) 12.723%, rgb(255, 215, 0) 75.8%);
+
+    /* Square, poster-like corners everywhere (pills stay round: radius-full). */
+    --hf-radius-100: 2px;
+    --hf-radius-150: 2px;
+    --hf-radius-200: 2px;
+    --hf-radius-250: 2px;
+    --hf-radius-300: 2px;
+    --hf-radius-400: 3px;
+    --hf-radius-500: 3px;
+    --hf-radius-600: 4px;
+
+    --background: var(--hf-color-background-primary);
+    --foreground: var(--hf-color-text-primary);
+    --card: var(--hf-color-background-secondary);
+    --card-foreground: var(--hf-color-text-primary);
+    --popover: var(--hf-color-background-tertiary);
+    --popover-foreground: var(--hf-color-text-primary);
+    --primary: var(--hf-color-brand-primary);
+    --primary-foreground: var(--hf-color-button-label-brand);
+    --secondary: var(--hf-color-transparent-light-05);
+    --secondary-foreground: var(--hf-color-text-primary);
+    --muted: var(--hf-color-transparent-light-05);
+    /* Warm grey that passes 4.5:1 on every card surface. */
+    --muted-foreground: #a8a296;
+    --accent: var(--hf-color-overlay-hover);
+    --accent-foreground: var(--hf-color-text-primary);
+    --destructive: var(--hf-color-state-error-fg);
+    --border: var(--hf-color-border-default);
+    --input: var(--hf-color-border-strong);
+    --ring: var(--hf-color-border-focus);
+    --chart-1: var(--hf-color-brand-primary);
+    --chart-2: var(--hf-color-brand-blue);
+    --chart-3: var(--hf-color-brand-pink);
+    --chart-4: var(--hf-color-brand-orange);
+    --chart-5: var(--hf-color-brand-cyan);
+    /* Square, poster-like corners. */
+    --radius: 2px;
+    --sidebar: var(--hf-color-background-secondary);
+    --sidebar-foreground: var(--hf-color-text-primary);
+    --sidebar-primary: var(--hf-color-brand-primary);
+    --sidebar-primary-foreground: var(--hf-color-button-label-brand);
+    --sidebar-accent: var(--hf-color-overlay-hover);
+    --sidebar-accent-foreground: var(--hf-color-text-primary);
+    --sidebar-border: var(--hf-color-border-default);
+    --sidebar-ring: var(--hf-color-border-focus);
+    color-scheme: dark;
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Sless After Dark — Larger Print PROOF — NOT PUBLISHED",
+  "shopId": 29231820,
+  "liveProductId": "6ad4ff59e2ff8ddc0b0e6627",
+  "authorization": "Prepare a sharper, larger-print proof; review before replacing live artwork.",
+  "publicationAuthorized": false,
+  "liveProductChanged": false,
+  "canvasChanged": false,
+  "ordersCreated": false,
+  "productionApproved": false,
+  "approximatePrintWidthInches": 10.5,
+  "liveBeforeSignature": "4fbccbc7e76a1129a4a522970eacaf27da00fc67833614f3488859ceca8be7c2",
+  "image": {
+    "id": "6ad50b1f42c3dee4e8b474e9",
+    "width": 3150,
+    "height": 3150
+  },
+  "productId": "6ad50b27d244ed568e02921f",
+  "placement": {
+    "id": "6ad50b1f42c3dee4e8b474e9",
+    "x": 0.5,
+    "y": 0.401386404293381,
+    "scale": 0.8771929824561403,
+    "angle": 0
+  },
+  "template": {
+    "position": "front",
+    "decoration_method": "dtg",
+    "width": 3591,
+    "height": 4472
+  },
+  "createdAt": "2026-10-18T18:08:40.851Z",
+  "signatureVersion": 2,
+  "mockups": [
+    {
+      "color": "purple",
+      "variantId": 12017,
+      "file": "attached_assets/generated_images/halloween-large-proof/larger-purple-supplier.jpg",
+      "url": "https://images.printify.com/mockup/6ad50b27d244ed568e02921f/12016/102005/sless-after-dark-larger-print-proof-not-published.jpg?camera_label=front-2"
+    },
+    {
+      "color": "black",
+      "variantId": 12125,
+      "file": "attached_assets/generated_images/halloween-large-proof/larger-black-supplier.jpg",
+      "url": "https://images.printify.com/mockup/6ad50b27d244ed568e02921f/12124/102005/sless-after-dark-larger-print-proof-not-published.jpg?camera_label=front-2"
+    },
+    {
+      "color": "orange",
+      "variantId": 12011,
+      "file": "attached_assets/generated_images/halloween-large-proof/larger-orange-supplier.jpg",
+      "url": "https://images.printify.com/mockup/6ad50b27d244ed568e02921f/12010/102005/sless-after-dark-larger-print-proof-not-published.jpg?camera_label=front-2"
+    }
+  ],
+  "liveProductUnchangedVerified": true,
+  "nativeChannelLinked": false
+}

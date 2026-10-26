@@ -1,0 +1,640 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "qmHnGAh5yvZ2MiZ8y2vbI"
+uri = "file://wordpress/sless-refresh/screenshots/home-desktop.jpg"
+type = "image"
+title = "Home draft — desktop preview"
+description = "Preview of the uploaded WordPress draft content, including the SLESS IS MORE hero, Wrestling/AI sections, and your three shirt designs. The original video is retained with a hosting-access notice."
+logical_id = "1c180219-d210-4d13-9af1-c88c325da0c3"
+content_hash = "sha256:cfba5e401187b2cb0357a084d1367c47ca8b917c72450e832cd24ab5865bcda6"
+size = 308281
+mtime_ms = 1791000829426
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/1c180219-d210-4d13-9af1-c88c325da0c3/6c15babb-0310-4c0b-81c9-23eac66d4e23"
+storage_version_token = "1791000892475961"
+content_type = "image/jpeg"
+
+[[outputs]]
+id = "3d8JaNy6_p_mmNxXG8GCQ"
+uri = "file://reports/sless-merchandise/artwork-proofs.html"
+type = "html"
+title = "Sless merchandise proofs and pricing"
+description = "50 unpublished product drafts, dated comparison notes for 14 products, proposed prices, and variant cost floors. The HTML contains original artwork previews, not physical product samples."
+logical_id = "3abe1ac8-5e07-482d-9fe5-c862cc651b73"
+content_hash = "sha256:378257ca471f3c90bdf1440d7c74b6303cd4576146f1e0298ffecfccfb639207"
+size = 867457
+mtime_ms = 1791389721828
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/3abe1ac8-5e07-482d-9fe5-c862cc651b73/5db4f35a-0e52-437b-81c5-7173dad64210"
+storage_version_token = "1791389858088940"
+content_type = "text/html"
+
+[[outputs]]
+id = "kb1qosb3XQjpwJ6cJmazb"
+uri = "file://reports/sless-merchandise/draft-assortment.csv"
+type = "table"
+title = "Sless merchandise assortment and prices"
+description = "CSV for all 50 additional unpublished Printify drafts, including current proposals, production costs, estimated-fee floors, benchmark sources, shipping notes, and publication state."
+logical_id = "d2c02e76-a976-42ef-9cf8-248f34447e45"
+content_hash = "sha256:02969345b14f3a0bf346d00f1bff6c8aa995ddaee90b0c5b52ed9a988d15fe8d"
+size = 17305
+mtime_ms = 1791389721836
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/d2c02e76-a976-42ef-9cf8-248f34447e45/d2de7d83-8407-4959-8c79-9f70cb4068f7"
+storage_version_token = "1791389858842414"
+content_type = "text/csv"
+
+[[outputs]]
+id = "0AD9xqumo9Nxnkl3VAgS-"
+uri = "file://attached_assets/generated_images/merch-refresh-ringside.png"
+type = "image"
+title = "Ringside Riot"
+description = "Sless Is More merchandise concept mockup for review. Not a production print file; live products unchanged."
+logical_id = "a0332f6b-e9e5-4559-952e-3091008f68a0"
+content_hash = "sha256:ac20d402fd23b0e1fe515a1cd90527add579897c907cb9acac1173e44af23f30"
+size = 2228983
+mtime_ms = 1792339853208
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/a0332f6b-e9e5-4559-952e-3091008f68a0/e4a9b5ab-b451-40b5-92e5-59abb8e9ac0e"
+storage_version_token = "1792339894704747"
+content_type = "image/png"
+
+[[outputs]]
+id = "bGYYZMrviJPI6QywAVUez"
+uri = "file://attached_assets/generated_images/merch-refresh-good-trouble.png"
+type = "image"
+title = "Good Trouble"
+description = "Sless Is More merchandise concept mockup for review. Not a production print file; live products unchanged."
+logical_id = "8b924a53-bc68-48ea-a395-939d42960eb9"
+content_hash = "sha256:cb92ac4587039981fb5d65b2390898bc6db749f110a6674734cedde44b187afd"
+size = 1580552
+mtime_ms = 1792339847216
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/8b924a53-bc68-48ea-a395-939d42960eb9/2d369380-737c-463a-b2bf-644069bbb3d8"
+storage_version_token = "1792339895404830"
+content_type = "image/png"
+
+[[outputs]]
+id = "PqMnKh0AQlqkUr6SuD98d"
+uri = "file://attached_assets/generated_images/merch-refresh-after-hours.png"
+type = "image"
+title = "After Hours"
+description = "Sless Is More merchandise concept mockup for review. Not a production print file; live products unchanged."
+logical_id = "982079fa-7aa2-46ba-9988-74955c6a3ddb"
+content_hash = "sha256:f7610018bbced0d76fd2bbcff7c2f61fc2232bb93271887b20bf249602c2b5a9"
+size = 2284340
+mtime_ms = 1792339849572
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/982079fa-7aa2-46ba-9988-74955c6a3ddb/4d06c784-d8cf-4b71-9339-ed4dd7a622a1"
+storage_version_token = "1792339896103401"
+content_type = "image/png"
+
+[[outputs]]
+id = "1eAh8MbMke0mTtun0DxGk"
+uri = "file://attached_assets/generated_images/merch-refresh-sless-taylor-mascot.png"
+type = "image"
+title = "Sless Taylor — mascot artwork study"
+description = "Visual concept based on the supplied Sless Taylor photos. For review, not a production print file. Live store unchanged."
+logical_id = "5a6ac454-4dea-4ea1-8a7d-76f245c3c347"
+content_hash = "sha256:6da8617d0ccbd71d7d58f7c5e4d16d0b4dae46e6f8f1fbe195c5ca70b4ea5f78"
+size = 1289488
+mtime_ms = 1792340272444
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/5a6ac454-4dea-4ea1-8a7d-76f245c3c347/fee0d080-f1e3-4788-97ed-d73e5741f57e"
+storage_version_token = "1792340402145692"
+content_type = "image/png"
+
+[[outputs]]
+id = "WYBcOTPtupTmO-GDlPiyZ"
+uri = "file://attached_assets/generated_images/merch-refresh-sless-taylor-shirt-refined.png"
+type = "image"
+title = "Sless Taylor — signature tee concept"
+description = "Visual concept based on the supplied Sless Taylor photos. For review, not a production print file. Live store unchanged."
+logical_id = "6a7f2807-f3a5-4876-9f76-1631e460c335"
+content_hash = "sha256:522642aa16bec2a4e3ba1f887434006680b067a84b917dd1ecfe6f178f543a7b"
+size = 1791560
+mtime_ms = 1792340376788
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/6a7f2807-f3a5-4876-9f76-1631e460c335/135a458b-53d5-4aa4-83c0-940e8069a11e"
+storage_version_token = "1792340402998077"
+content_type = "image/png"
+
+[[outputs]]
+id = "L_yP-fY-ACLyF-agrQLlE"
+uri = "file://attached_assets/generated_images/merch-refresh-sless-taylor-holiday-collection.png"
+type = "image"
+title = "Sless Taylor — holiday collection concepts"
+description = "Visual concept based on the supplied Sless Taylor photos. For review, not a production print file. Live store unchanged."
+logical_id = "8f215b56-ea2b-4c49-af02-1d4d2ae1deaf"
+content_hash = "sha256:8bc81ce08a3005f7e004c638d15874377421d9ae6efeb7bca1227045633c5bff"
+size = 1758160
+mtime_ms = 1792340328948
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/8f215b56-ea2b-4c49-af02-1d4d2ae1deaf/8e166224-6fa8-41a2-9414-9b1d33728970"
+storage_version_token = "1792340403644036"
+content_type = "image/png"
+
+[[outputs]]
+id = "YFv2B08QvV78bL0O2LfzL"
+uri = "file://attached_assets/generated_images/merch-refresh-sless-taylor-full-beard.png"
+type = "image"
+title = "Sless Taylor — full-beard mascot"
+description = "An alternate full-beard version of the approved mascot. Original pose, lettering, colors, and ring gear retained. Concept artwork; live merchandise unchanged."
+logical_id = "ebd3763a-ff6b-42b1-a59b-08e7730d8c6d"
+content_hash = "sha256:7f729023cb2a034d8c604216623845a062a074d4640aff71a2721e0c2179467c"
+size = 1433977
+mtime_ms = 1792340697188
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/ebd3763a-ff6b-42b1-a59b-08e7730d8c6d/9bf591a4-49c8-49ad-89e1-5fbe19fd52f3"
+storage_version_token = "1792340746804803"
+content_type = "image/png"
+
+[[outputs]]
+id = "xc1lCeJ-IulrVHbBky6gd"
+uri = "file://attached_assets/generated_images/merch-refresh-sless-taylor-short-beard.png"
+type = "image"
+title = "Sless Taylor — lighter facial hair"
+description = "Updated mascot with much shorter facial hair. Pose, lettering, colors and ring gear retained. Earlier versions preserved; live store unchanged."
+logical_id = "d863d602-675e-41f3-86ca-9b3db8625692"
+content_hash = "sha256:6be2f63f2b6690bb20abcff2d9b31aecd2df4f5287027ebb05c9cb8146914550"
+size = 1500554
+mtime_ms = 1792340796344
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/d863d602-675e-41f3-86ca-9b3db8625692/60870cf2-ed59-4201-9044-f5283db43ccd"
+storage_version_token = "1792340818524644"
+content_type = "image/png"
+
+[[outputs]]
+id = "_V9tT4EKIIc2Q7UQtIOXU"
+uri = "file://attached_assets/generated_images/merch-refresh-sless-taylor-medium-beard.png"
+type = "image"
+title = "Sless Taylor — in-between beard"
+description = "A defined short beard, fuller than the stubble treatment and less bulky than the original full beard. Prior versions preserved. Concept artwork only; live store unchanged."
+logical_id = "b837db26-569d-405c-b470-2ed43cdd2a28"
+content_hash = "sha256:5a6b65647b22e739c5dca1041bf84f52c5f29668730a64ba8a9686737aa245f6"
+size = 1500706
+mtime_ms = 1792340885356
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/b837db26-569d-405c-b470-2ed43cdd2a28/f3770e7d-2068-47ec-a08e-cb8e1818535e"
+storage_version_token = "1792340917077053"
+content_type = "image/png"
+
+[[outputs]]
+id = "ObGQeklP7KO_8CXZkXSw2"
+uri = "file://attached_assets/generated_images/merch-refresh-holiday-halloween-entrance.png"
+type = "image"
+title = "Sless After Dark — Halloween"
+description = "Revised holiday apparel concept with the approved Sless Taylor likeness. Visual review mockup, not a production print file; live store unchanged."
+logical_id = "15f59701-2ec4-4e24-aceb-c6c98642eaa9"
+content_hash = "sha256:3ff21a4e91249f5da7ef08303f0ef4550404e438f15f4847f02d592f41ad8bfd"
+size = 1460822
+mtime_ms = 1792341053656
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/15f59701-2ec4-4e24-aceb-c6c98642eaa9/1a7c1d0e-90bf-4ad2-901a-f18c3a30f0d6"
+storage_version_token = "1792341115155465"
+content_type = "image/png"
+
+[[outputs]]
+id = "HFwKCpj42qPDERN0Bjt_A"
+uri = "file://attached_assets/generated_images/merch-refresh-holiday-thanksgiving-more-gratitude.png"
+type = "image"
+title = "More Gratitude — Thanksgiving"
+description = "Revised holiday apparel concept with the approved Sless Taylor likeness. Visual review mockup, not a production print file; live store unchanged."
+logical_id = "6efdbbfd-4dfd-4ebc-b82f-8422431f79b2"
+content_hash = "sha256:0c100d36a273e612cfdadbf2bd7078ee1bd42bba9d9c236b22a5dc03a2c394c9"
+size = 1442058
+mtime_ms = 1792341083967
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/6efdbbfd-4dfd-4ebc-b82f-8422431f79b2/a902d5b7-7239-4eb1-a79e-7bd0d2ff2406"
+storage_version_token = "1792341115782339"
+content_type = "image/png"
+
+[[outputs]]
+id = "GhH-qgXrr2s672DoOgrgU"
+uri = "file://attached_assets/generated_images/merch-refresh-holiday-christmas-gift-breakout.png"
+type = "image"
+title = "More Cheer — Christmas"
+description = "Revised holiday apparel concept with the approved Sless Taylor likeness. Visual review mockup, not a production print file; live store unchanged."
+logical_id = "b91cc25c-8c5b-4195-95fe-fa4fce4902be"
+content_hash = "sha256:b35cb90c909968cd62dd0779e59e41d471fdcaa1592431b0e362b123aa742a35"
+size = 1557832
+mtime_ms = 1792341040448
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/b91cc25c-8c5b-4195-95fe-fa4fce4902be/d0bcd12e-5ce2-4cf7-9023-00791b938fa0"
+storage_version_token = "1792341116432675"
+content_type = "image/png"
+
+[[outputs]]
+id = "TiHXnBWkWMYcSAiLsc-bH"
+uri = "file://attached_assets/generated_images/merch-refresh-holiday-halloween-perched-corner.png"
+type = "image"
+title = "Sless After Dark — ring-corner pose"
+description = "Revised Halloween shirt mockup with a crouched corner pose and visible boots instead of tucked-under floating legs. Face, lantern, cape, ghosts and wording retained. Live store unchanged."
+logical_id = "6f6607ab-3e63-422e-ba84-bccb091b89e8"
+content_hash = "sha256:2480f5bade91c459da83996847519996fed30b7b41172ed1fbf6aca42f8cdca2"
+size = 1527410
+mtime_ms = 1792341321763
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/6f6607ab-3e63-422e-ba84-bccb091b89e8/ca41cee7-7e8f-4620-9dbf-cb1f3d6deca0"
+storage_version_token = "1792341361268210"
+content_type = "image/png"
+
+[[outputs]]
+id = "irDAcgNPuz8nb0weqE31L"
+uri = "file://attached_assets/generated_images/merch-refresh-halloween-white-cape-top-pad.png"
+type = "image"
+title = "Sless After Dark — white-cape perch"
+description = "Revised illustration with both boots on top of the turnbuckle pad, free hand in lap, serious expression, orange ropes, white cape and white/black/silver ring gear. Concept artwork for review, not production-ready; live store unchanged."
+logical_id = "4efa18e4-9a29-432a-8505-a16d66aac761"
+content_hash = "sha256:9b8b633b82d0e1bc6ccbdcc3d36918d33b876322fd766c5cd135f73c983c509f"
+size = 1244001
+mtime_ms = 1792341791571
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/4efa18e4-9a29-432a-8505-a16d66aac761/f630f197-67f9-4d5a-9a6f-59fc1e947822"
+storage_version_token = "1792341840551500"
+content_type = "image/png"
+
+[[outputs]]
+id = "odtk1smtQNIrQ9TDQ8W5n"
+uri = "file://attached_assets/generated_images/merch-refresh-halloween-compact-perch-final.png"
+type = "image"
+title = "Sless After Dark — compact turnbuckle perch"
+description = "Revised Halloween concept with a smaller pad and boots close together on top, knees brought inward, white/black/silver gear, white cape, serious expression and orange ropes. Concept artwork, not production-ready; live store unchanged."
+logical_id = "4a03ba84-409a-4cc1-b66b-bb45c7f5e7ab"
+content_hash = "sha256:7877fc43d37d3fab2374fef26a779b65f814b466b5009e3a3de555236a382710"
+size = 1196612
+mtime_ms = 1792342066659
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/4a03ba84-409a-4cc1-b66b-bb45c7f5e7ab/6f487cfa-a2e6-487d-a527-adc63a96c38a"
+storage_version_token = "1792342096761104"
+content_type = "image/png"
+
+[[outputs]]
+id = "6bO64VuhXpl4oo6hdYm0m"
+uri = "file://attached_assets/generated_images/merch-refresh-halloween-haunted-backdrop.png"
+type = "image"
+title = "Sless After Dark — haunted Halloween backdrop"
+description = "Revised Halloween concept with stray crossing ropes removed and a colorful orange moon, purple clouds, bats, haunted silhouettes and lavender mist. Compact perch, white cape, white/black/silver gear and serious expression retained. Concept artwork for review; live store unchanged."
+logical_id = "6d8073d5-d720-43fc-b8ae-6ee405db7d43"
+content_hash = "sha256:b44366b21730bf40a8e7fe0d0533394fda5ec2b198dddaa60160fb17a93cdae8"
+size = 1819736
+mtime_ms = 1792342218675
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/6d8073d5-d720-43fc-b8ae-6ee405db7d43/d421da8a-f44b-4334-a387-3e4e805715ce"
+storage_version_token = "1792342247449697"
+content_type = "image/png"
+
+[[outputs]]
+id = "uqOYP2E40wDzTmS8jt38O"
+uri = "file://attached_assets/generated_images/merch-refresh-halloween-shirt-transparent.png"
+type = "image"
+title = "Halloween shirt artwork — transparent outline"
+description = "Separate apparel version with a cloud-shaped transparent edge, not a square print. 1024 × 1024 concept master; final supplier print sizing and resolution still require preparation."
+logical_id = "23e4b2e7-5151-4269-9006-db3fc21bcb5e"
+content_hash = "sha256:31a22314f9bf035d8494a9c69a8cf340be000eedc6a5681b930d1b2915ad10d0"
+size = 2393477
+mtime_ms = 1792342610123
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/23e4b2e7-5151-4269-9006-db3fc21bcb5e/6eb781cc-ae7d-4ed5-866c-282b8e13e6af"
+storage_version_token = "1792342736891646"
+content_type = "image/png"
+
+[[outputs]]
+id = "LwhlKifHN7vdpnFcPF6yp"
+uri = "file://attached_assets/generated_images/merch-refresh-halloween-canvas-original.png"
+type = "image"
+title = "Halloween canvas artwork — exact approved original"
+description = "Byte-for-byte unchanged copy of the approved square Halloween artwork. Kept separate from the shirt adaptation for canvas wall art; final print size and wrap layout still require preparation."
+logical_id = "823977f3-c0a8-4f98-98c9-d138116924b9"
+content_hash = "sha256:b44366b21730bf40a8e7fe0d0533394fda5ec2b198dddaa60160fb17a93cdae8"
+size = 1819736
+mtime_ms = 1792342661704
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/823977f3-c0a8-4f98-98c9-d138116924b9/f8277337-a965-4553-9e86-1f9549f15b42"
+storage_version_token = "1792342737474327"
+content_type = "image/png"
+
+[[outputs]]
+id = "tEy1vlo_NEY7-Txe5n1fo"
+uri = "file://attached_assets/generated_images/merch-refresh-halloween-product-lineup.png"
+type = "image"
+title = "Purple, orange, black shirts + original canvas"
+description = "Color concept previews and canvas wall-art preview. These are presentation concepts, not supplier mockups or live listings."
+logical_id = "384cdc08-4fe5-44df-98fe-1079b314525a"
+content_hash = "sha256:ddd972ff3619cbf74ec9305a977d3b43edc6fef7e3763959d19dda30a30de863"
+size = 601168
+mtime_ms = 1792342705492
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/384cdc08-4fe5-44df-98fe-1079b314525a/ab566512-b068-4b74-a149-cb72f96d7669"
+storage_version_token = "1792342738060792"
+content_type = "image/png"
+
+[[outputs]]
+id = "54iayuQ4XYoJMWQugb7k8"
+uri = "file://attached_assets/generated_images/halloween-large-proof/larger-shirt-three-color-proof.jpg"
+type = "image"
+title = "Larger shirt print — three-color proof"
+description = "Supplier mockups: proposed 10.5-inch print on top, current 6.75-inch print below. Purple, black and orange. Proof only; nothing published."
+logical_id = "93f34a44-d04c-4466-b709-4170c7c1e844"
+content_hash = "sha256:1f399faeaab4d273f9213d532560c0fa42a77e833775433664bfe30ae0e4c1be"
+size = 231757
+mtime_ms = 1792347128966
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/93f34a44-d04c-4466-b709-4170c7c1e844/0f9e57bc-5a7a-4392-be45-71468eb00bbf"
+storage_version_token = "1792347234733290"
+content_type = "image/jpeg"
+
+[[outputs]]
+id = "UOkDYFrbs54RvKdjW821A"
+uri = "file://attached_assets/generated_images/halloween-large-proof/detail-comparison.jpg"
+type = "image"
+title = "Artwork sharpness comparison"
+description = "Original artwork enlarged on the left; enhanced print artwork on the right. An AI-enhanced upscale, not a physical print sample."
+logical_id = "fbdd68c0-3590-400a-b0b3-bcd01c293a3b"
+content_hash = "sha256:004a3664cb07080c0196193fa33047bf3faa889905b28842a7f5800f14726e32"
+size = 414577
+mtime_ms = 1792346923530
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/fbdd68c0-3590-400a-b0b3-bcd01c293a3b/9fe3c311-d532-41f3-9bff-076c78863f2a"
+storage_version_token = "1792347235460705"
+content_type = "image/jpeg"
+
+[[outputs]]
+id = "0rcDA_oiCtl6Sid46mnHt"
+uri = "file://generated-artifacts/holiday-shirts/thanksgiving-shirt-proof.png"
+type = "image"
+title = "Thanksgiving — Sless Gratitude"
+description = "Design proof on a warm ivory T-shirt: Sless with a championship pie, purple apron, and autumn leaves. Illustrative placement, not a supplier mockup."
+logical_id = "9993d16e-6e2a-43fe-9ca1-a0550783dd72"
+content_hash = "sha256:9cd9a0d92b784bbf2417385460e4d4cc97fbb0947a0dec735d905b51ee207448"
+size = 288023
+mtime_ms = 1792354330408
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/9993d16e-6e2a-43fe-9ca1-a0550783dd72/f4d7e5c8-a232-4178-b567-52e7e7b516a7"
+storage_version_token = "1792354344733709"
+content_type = "image/png"
+
+[[outputs]]
+id = "x8qbmlJBXagXXZzd-XldC"
+uri = "file://generated-artifacts/holiday-shirts/christmas-shirt-proof.png"
+type = "image"
+title = "Christmas — More Cheer"
+description = "Design proof on a forest-green T-shirt: Sless in a Santa hat, gift-wrap breakout, candy-cane prop, and festive lettering. Illustrative placement, not a supplier mockup."
+logical_id = "073b6d8c-8c53-468a-87b2-c767102e080a"
+content_hash = "sha256:1694c04cb8e141d90536a6415c8777bf8e6dc9ddeca28cd467a866285d0f41f4"
+size = 281265
+mtime_ms = 1792354330592
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/073b6d8c-8c53-468a-87b2-c767102e080a/cb76f2fc-04fb-40a6-ad8c-4053bcef4399"
+storage_version_token = "1792354345340811"
+content_type = "image/png"
+
+[[outputs]]
+id = "3U9Z237-NxK7wv52gDmMG"
+uri = "file://generated-artifacts/holiday-shirts/thanksgiving-be-thankful-art-preview.png"
+type = "image"
+title = "Thanksgiving — Be Thankful for Sless!"
+description = "Revised artwork with the exact requested slogan and exclamation mark, keeping the pie, purple apron and autumn leaves. Preview on ivory; not yet submitted to Printify."
+logical_id = "9293eaa3-6aab-4d03-8926-bb713836edc4"
+content_hash = "sha256:f86a3e23006fe683d9e02ff48ae52f2d54cc8611976a8b507fb020884ffff7e9"
+size = 729067
+mtime_ms = 1792357615021
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/9293eaa3-6aab-4d03-8926-bb713836edc4/2317a7e8-9f97-42d4-8e90-30c939bee4b8"
+storage_version_token = "1792357622616043"
+content_type = "image/png"
+
+[[outputs]]
+id = "GUD_knp1ZtirvtaCan-SB"
+uri = "file://generated-artifacts/holiday-shirts/christmas-sless-is-cheer-art-preview.png"
+type = "image"
+title = "Christmas — Sless Is Cheer"
+description = "Revised artwork with purple-and-black wrestling gear, one high armband on each bicep, and white wrist tape. Preview on forest green; not yet submitted to Printify."
+logical_id = "bb6a4577-d054-4ef6-ad85-a25523140e4a"
+content_hash = "sha256:4da2dee0213c913ebbea5e58f5b5a829b16cbab93a9b375867ec3bb33278f042"
+size = 874370
+mtime_ms = 1792357615389
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/bb6a4577-d054-4ef6-ad85-a25523140e4a/753b06f3-c8f1-4e14-a79f-b5a1b030686c"
+storage_version_token = "1792357623284491"
+content_type = "image/png"
+
+[[outputs]]
+id = "R06Vi01wlWOPdY6TK54zn"
+uri = "file://generated-artifacts/holiday-shirts/christmas-sless-is-cheer-thin-armbands-art-preview.png"
+type = "image"
+title = "Sless Is Cheer — Thinner Armbands"
+description = "Revised Christmas design with narrower high-bicep bands exposing more of both arms. Purple-and-black gear and the slogan are retained. Design proof only; not published."
+logical_id = "7b60afe5-918d-491e-9b34-744fffbbff58"
+content_hash = "sha256:7b342af4ef2f0410836ae649101e6811b1f4f25ded3252fe0d6ffed1227b440a"
+size = 886264
+mtime_ms = 1792357736054
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/7b60afe5-918d-491e-9b34-744fffbbff58/fd0aaacc-461b-4c43-8069-44235a25e1d0"
+storage_version_token = "1792357749914049"
+content_type = "image/png"
+
+[[outputs]]
+id = "a82lSoT8uiB9wzDLYNXF5"
+uri = "file://generated-artifacts/large-tee-correction/thanksgiving-before-after.jpg"
+type = "image"
+title = "Thanksgiving shirt — before and after"
+description = "Supplier mockups at the same scale. The actual chest print has been enlarged; this is not a zoomed product photo."
+logical_id = "6312a298-0b0f-44a6-94bd-8b3f31747a0a"
+content_hash = "sha256:fdd3d4310bc390b617d9e666d317b07e036897dd19ff53771a2d57dd9de6af2c"
+size = 143844
+mtime_ms = 1792364741650
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/6312a298-0b0f-44a6-94bd-8b3f31747a0a/253435e0-927c-4d6a-b81c-3b7c928efd87"
+storage_version_token = "1792364883895361"
+content_type = "image/jpeg"
+
+[[outputs]]
+id = "ngHrYFkbhUruF2UUw62Fi"
+uri = "file://artifacts/sless-holiday-campaign/public/audio/bg_music.mp3"
+type = "audio"
+title = "hype music"
+description = "Generated music: Trendy high-energy phonk / trap hype instrumental for vertical social ads, punchy 808s, cowbell, hard claps, 140 BPM, immediate hook in the first second, big drops roughly every 10 s…"
+logical_id = "067c2a9f-40ca-45a7-b003-fef47e45346c"
+
+[[outputs]]
+id = "Qz_9CzowiTDSzK5X1DqJk"
+uri = "file://generated-artifacts/holiday-marketing/campaign-review.html"
+type = "html"
+title = "Review all 12 ads and captions"
+description = "Full-size gallery: images I01–I09 and actual playable MP4 videos V01–V03, with proposed Instagram and Facebook captions. Drafts only—not published."
+logical_id = "754da2be-08ee-4a6b-9e52-43b1bdbd37d3"
+content_hash = "sha256:2f03da44c910765b91e4b9899a89173f08c72558ac9c1356c0cf279fec8b568a"
+size = 10323671
+mtime_ms = 1792418387657
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/754da2be-08ee-4a6b-9e52-43b1bdbd37d3/31bd5178-730c-4731-a880-ea5ab6a42b6f"
+storage_version_token = "1792418400894387"
+content_type = "text/html"
+
+[[outputs]]
+id = "5KQ2Tc6OAW1UQoawd7-kJ"
+uri = "file://generated-artifacts/holiday-marketing/all-nine-image-drafts.jpg"
+type = "image"
+title = "Images I01–I09 — quick overview"
+description = "Numbered overview of all nine image drafts. Open the full review gallery to inspect each at full size and read its caption."
+logical_id = "981146bc-6df2-4802-8cf4-30db9637ce6b"
+content_hash = "sha256:5b4fb965d12733ffc3947cf8befabffed106f50261badf1693fee3b038b85a68"
+size = 413725
+mtime_ms = 1792418390241
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/981146bc-6df2-4802-8cf4-30db9637ce6b/2e3bd4ad-fa5e-4434-8649-7e61420bc74f"
+storage_version_token = "1792418401554404"
+content_type = "image/jpeg"
+
+[[outputs]]
+id = "3KHbD4XmFvSzZ7jXw3Jwd"
+uri = "file://generated-artifacts/holiday-marketing/exports/reel-01-halloween.mp4"
+type = "video"
+title = "V01 — Halloween video draft"
+description = "Actual uploadable vertical MP4, with music. Review before approving. This export differs from the separate animated preview."
+logical_id = "08c587ec-54b6-4856-a9e2-fd4fc8e0d7e6"
+content_hash = "sha256:a993dc6badfe9ef0e009133ad38841536b006ca1f770ca34744c61543c1688b5"
+size = 2108564
+mtime_ms = 1792418085741
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/08c587ec-54b6-4856-a9e2-fd4fc8e0d7e6/e0129c60-634e-4075-ac70-e46410715bb4"
+storage_version_token = "1792418402535503"
+content_type = "video/mp4"
+
+[[outputs]]
+id = "rRzD3mbSNgmiZBHTFFVJE"
+uri = "file://generated-artifacts/holiday-marketing/exports/reel-02-thanksgiving.mp4"
+type = "video"
+title = "V02 — Thanksgiving video draft"
+description = "Actual uploadable vertical MP4, with music. Review before approving. This export differs from the separate animated preview."
+logical_id = "b8d75048-37e6-4c74-ab12-c8ae4dce25b7"
+content_hash = "sha256:547890023f5b230bc98cca3bf2101776a3a89a303e69f3529335096ca4e9e0cb"
+size = 2110779
+mtime_ms = 1792418093805
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/b8d75048-37e6-4c74-ab12-c8ae4dce25b7/e9edceba-5949-4a08-99d2-8681c6859b05"
+storage_version_token = "1792418403210317"
+content_type = "video/mp4"
+
+[[outputs]]
+id = "q5Q8VF9oCn5dXjI1fUvWS"
+uri = "file://generated-artifacts/holiday-marketing/exports/reel-03-christmas.mp4"
+type = "video"
+title = "V03 — Christmas video draft"
+description = "Actual uploadable vertical MP4, with music. Review before approving. This export differs from the separate animated preview."
+logical_id = "784bef5a-c6c2-4994-b33c-30b9c2b2da9a"
+content_hash = "sha256:bcc5e74885ba4663e2a1ec5ec6abcd0810cc9854c884371261351c16da4e15f3"
+size = 2092871
+mtime_ms = 1792418101569
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/784bef5a-c6c2-4994-b33c-30b9c2b2da9a/1cafe1b0-f4cd-416b-8f10-17868f7f2824"
+storage_version_token = "1792418403836963"
+content_type = "video/mp4"
+
+[[outputs]]
+id = "N-qvLDy51GlyIF-d2wJR4"
+uri = "file://generated-artifacts/holiday-marketing/campaign-review-festive.html"
+type = "html"
+title = "Holiday campaign — 12 ads and captions for approval"
+description = "Review all nine images, three uploadable videos, and final Instagram/Facebook captions. Prices checked against the live store. Nothing published."
+logical_id = "dbb1961d-2e63-4c38-afa3-096eddb0a031"
+content_hash = "sha256:b1365c2e7fca305226091d07c32a792e9c32e1c81edf4a0608704c97eeb85339"
+size = 13253508
+mtime_ms = 1792419130709
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/dbb1961d-2e63-4c38-afa3-096eddb0a031/28d77bff-d81f-4b13-bae2-4c7c18d6e10d"
+storage_version_token = "1792430839646163"
+content_type = "text/html"
+
+[[outputs]]
+id = "nM8X4OwpiTdC_AnacWRFP"
+uri = "file://generated-artifacts/holiday-marketing/all-nine-festive-image-drafts.jpg"
+type = "image"
+title = "Nine image ads — quick overview"
+description = "I01–I09. The Last Day creative I09 is reserved for October 25."
+logical_id = "5307d11a-410d-4dd3-9db0-fc45dde1887c"
+content_hash = "sha256:f6a040b48e85d7c680b3ce3b208827191b76ebc2b703bc74649da506d3498ace"
+size = 468342
+mtime_ms = 1792419132189
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/5307d11a-410d-4dd3-9db0-fc45dde1887c/4cdb2ed1-fccd-41c0-8657-dcb44406a342"
+storage_version_token = "1792430840383441"
+content_type = "image/jpeg"
+
+[[outputs]]
+id = "PZPeqKh0ZB_ITgWQ8aE08"
+uri = "file://generated-artifacts/printify-popup/store-logo.png"
+type = "image"
+title = "Your existing website logo"
+description = "Use this logo in Printify’s Brand settings to match slessismore.org."
+logical_id = "6e7ba46f-6c81-4e93-b345-276c6aee72ef"
+content_hash = "sha256:bd0f058d57892279d5c93e661a31ddaddc9df0661e2519227103bef286bd1c44"
+size = 191721
+mtime_ms = 1792461080832
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/6e7ba46f-6c81-4e93-b345-276c6aee72ef/9b5e90fc-4e24-4419-a946-990ea1eaf2f5"
+storage_version_token = "1792461095799446"
+content_type = "image/png"
+
+[[outputs]]
+id = "eAO_17iGglwJdey5i0tYH"
+uri = "file://generated-artifacts/printify-popup/desktop-review.png"
+type = "image"
+title = "Desktop shop design"
+description = "Saved black-and-gold branding, return navigation and corrected footer. Products remain unpublished pending approval and readiness checks."
+logical_id = "424e02e0-5245-420d-ab44-a136ccc7b50c"
+content_hash = "sha256:f63a7cbc161d0723306be1f0544e6bcccbd885d162689b4a18666b3caf886c7e"
+size = 64257
+mtime_ms = 1792498577257
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/424e02e0-5245-420d-ab44-a136ccc7b50c/4987fb5b-7ff5-4934-95ef-18183759d0c9"
+storage_version_token = "1792498756835388"
+content_type = "image/png"
+
+[[outputs]]
+id = "qRZa3qnUT9gRWluLCDDWl"
+uri = "file://generated-artifacts/printify-popup/mobile-review.jpg"
+type = "image"
+title = "Mobile shop design"
+description = "390px mobile layout with corrected footer and no horizontal overflow. Product space is empty because merchandise is not yet published."
+logical_id = "5b4dde99-788f-4ae1-8a2b-0debcdd832c8"
+content_hash = "sha256:33a0c3cda7a7c813eb0657fb86995900cd0917ba25cb41c858eeae262e34dc92"
+size = 37376
+mtime_ms = 1792498710589
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/5b4dde99-788f-4ae1-8a2b-0debcdd832c8/3b7f7de3-d1b6-4ab9-bb94-f3ca84ccd9e0"
+storage_version_token = "1792498757671729"
+content_type = "image/jpeg"
+
+[[outputs]]
+id = "QkQOAPFhuY5OB09uywBsR"
+uri = "file://generated-artifacts/printify-popup/live-desktop-review.png"
+type = "image"
+title = "Live 46-product shop"
+description = "Approved merchandise is now visible on shop.slessismore.org. Ten products remain held; main-site shop links are still unchanged."
+logical_id = "1b7d0cf4-36d9-46f3-8171-dd1d206d158f"
+content_hash = "sha256:f9b8607af6493d566943a1c6f5b577f1bdd7d401b3d5e5aa2d8878dc47c6cdcf"
+size = 402299
+mtime_ms = 1792516732274
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/1b7d0cf4-36d9-46f3-8171-dd1d206d158f/21291352-0ee8-4579-a424-6a420f4369fa"
+storage_version_token = "1792516973588859"
+content_type = "image/png"
+
+[[outputs]]
+id = "dO2oIwFzLqL9_BN_C1iTz"
+uri = "file://generated-artifacts/live-shop-launch/review.html"
+type = "html"
+title = "Review the live-shop launch posts"
+description = "Three live products with feed and Story previews, Instagram/Facebook captions and direct shopping links. Nothing published."
+logical_id = "0132ea48-c2f1-4774-a878-a4f876ad92e2"
+content_hash = "sha256:2fc2f62feae50d02e901c094cb4df80caa7bed85164806ff47027ba70cb8d2b0"
+size = 1257141
+mtime_ms = 1792597398946
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/0132ea48-c2f1-4774-a878-a4f876ad92e2/a7d8c45f-3550-455d-8cdf-470122a32580"
+storage_version_token = "1792597449452853"
+content_type = "text/html"
+
+[[outputs]]
+id = "wOiZv_6N0EmUOfHGfB_m-"
+uri = "file://generated-artifacts/live-shop-launch/sless-live-shop-launch.zip"
+type = "unspecified"
+title = "Download the launch pack"
+description = "Six images, captions, tagged links, alt text and staggered posting instructions. Approval pending; no paid ads."
+logical_id = "930727c0-21db-4948-9bba-259b6a7446d3"
+content_hash = "sha256:db8b2402af0b265c250e4fea98be47d8cb59f67e909abc60c52bfbbd0b4cd989"
+size = 846219
+mtime_ms = 1792597398994
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/930727c0-21db-4948-9bba-259b6a7446d3/10c81105-f9c3-4973-be69-6d74960d6c47"
+storage_version_token = "1792597450090960"
+content_type = "application/octet-stream"
+
+[[outputs]]
+id = "HUxQuRHtq3zsvhlr5Pncy"
+uri = "file://generated-artifacts/conversation-export/sless-conversation.txt"
+type = "text"
+title = "Sless conversation export"
+description = "Downloadable text copy of the recent conversation, with earlier history clearly labeled as a summary. No credentials included."
+logical_id = "10146c66-2cb1-4a69-a27e-be5a00e46739"
+content_hash = "sha256:a9497668056722b9f6d55eb6387726c80f7d2947e380fc7bf3f90f8d8f093b87"
+size = 5194
+mtime_ms = 1792956887466
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/10146c66-2cb1-4a69-a27e-be5a00e46739/e30c5632-839e-4f0a-b71b-b3a0dc85cec1"
+storage_version_token = "1792956891640177"
+content_type = "text/plain"
+
+[[outputs]]
+id = "vTHzuBOdQfisOLJnibs0Y"
+uri = "file://generated-artifacts/conversation-export/sless-conversation.pdf"
+type = "pdf"
+title = "Download conversation PDF"
+description = "Recent conversation transcript with earlier messages clearly labeled as a summary."
+logical_id = "a0dbdcce-3e0f-44ef-90b5-8315f1f010f2"
+content_hash = "sha256:86443d6ff5bc0577caa397bf9ed516a554e079bc1f42242564b3c2bd1581df77"
+size = 7243
+mtime_ms = 1792956970400
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:6618219d-6184-4de2-a0f1-b4c67af02af5/a0dbdcce-3e0f-44ef-90b5-8315f1f010f2/5195600a-d0cb-4bd8-b8b6-64070449753c"
+storage_version_token = "1792956974170637"
+content_type = "application/pdf"

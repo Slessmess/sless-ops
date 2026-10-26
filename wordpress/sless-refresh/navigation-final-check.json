@@ -1,0 +1,96 @@
+{
+  "originalShirtDirectLinks": {
+    "485": true,
+    "493": true,
+    "502": true
+  },
+  "featureCount": 1,
+  "headerCount": 1,
+  "menuScriptPresent": true,
+  "categoryPages": [
+    {
+      "category": "T-Shirts &amp; Tanks",
+      "status": 200,
+      "catalogControls": true,
+      "hasProducts": true
+    },
+    {
+      "category": "Hoodies &amp; Sweatshirts",
+      "status": 200,
+      "catalogControls": true,
+      "hasProducts": true
+    },
+    {
+      "category": "Shorts &amp; Joggers",
+      "status": 200,
+      "catalogControls": true,
+      "hasProducts": true
+    },
+    {
+      "category": "Hats &amp; Beanies",
+      "status": 200,
+      "catalogControls": true,
+      "hasProducts": true
+    },
+    {
+      "category": "Bags &amp; Totes",
+      "status": 200,
+      "catalogControls": true,
+      "hasProducts": true
+    },
+    {
+      "category": "Mugs &amp; Drinkware",
+      "status": 200,
+      "catalogControls": true,
+      "hasProducts": true
+    },
+    {
+      "category": "Canvas &amp; Wall Art",
+      "status": 200,
+      "catalogControls": true,
+      "hasProducts": true
+    },
+    {
+      "category": "Home &amp; Living",
+      "status": 200,
+      "catalogControls": true,
+      "hasProducts": true
+    },
+    {
+      "category": "Tech Accessories",
+      "status": 200,
+      "catalogControls": true,
+      "hasProducts": true
+    },
+    {
+      "category": "Stickers &amp; Stationery",
+      "status": 200,
+      "catalogControls": true,
+      "hasProducts": true
+    },
+    {
+      "category": "Halloween",
+      "status": 200,
+      "catalogControls": true,
+      "hasProducts": true
+    },
+    {
+      "category": "Thanksgiving",
+      "status": 200,
+      "catalogControls": true,
+      "hasProducts": true
+    },
+    {
+      "category": "Christmas",
+      "status": 200,
+      "catalogControls": true,
+      "hasProducts": true
+    },
+    {
+      "category": "Sless Originals",
+      "status": 200,
+      "catalogControls": true,
+      "hasProducts": true
+    }
+  ]
+}

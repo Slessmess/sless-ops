@@ -1,0 +1,21 @@
+{
+  "preparedAt": "2026-10-19T14:25:15.834Z",
+  "plugins": [
+    {
+      "slug": "google-site-kit",
+      "name": "Site Kit by Google",
+      "version": "1.189.0",
+      "installedNow": true,
+      "active": false
+    },
+    {
+      "slug": "facebook-for-woocommerce",
+      "name": "Meta for WooCommerce",
+      "version": "3.7.8",
+      "installedNow": true,
+      "active": false
+    }
+  ],
+  "trackingActivated": false,
+  "accountAuthorizationRequired": true
+}

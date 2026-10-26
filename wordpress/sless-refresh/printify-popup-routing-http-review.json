@@ -1,0 +1,415 @@
+{
+  "reviewedAt": "2026-10-20T21:22:01.888Z",
+  "redirectsChecked": 58,
+  "passed": 58,
+  "homepageShopLinks": 29,
+  "homepageOldMerchLinks": [],
+  "results": [
+    {
+      "path": "/product/sless-is-cheer-christmas-tee/",
+      "expected": "https://shop.slessismore.org/",
+      "status": 302,
+      "location": "https://shop.slessismore.org/",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-after-dark-halloween-tee/",
+      "expected": "https://shop.slessismore.org/",
+      "status": 302,
+      "location": "https://shop.slessismore.org/",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-matte-canvas-12-x-20-in/",
+      "expected": "https://shop.slessismore.org/product/33343704",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343704",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-after-dark-halloween-canvas-6-x-6-in/",
+      "expected": "https://shop.slessismore.org/product/33343713",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343713",
+      "passed": true
+    },
+    {
+      "path": "/product/more-gratitude-thanksgiving-coaster/",
+      "expected": "https://shop.slessismore.org/product/33343711",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343711",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-sherpa-fleece-blanket/",
+      "expected": "https://shop.slessismore.org/product/33343691",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343691",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-matte-vertical-posters/",
+      "expected": "https://shop.slessismore.org/product/33343701",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343701",
+      "passed": true
+    },
+    {
+      "path": "/product/more-cheer-christmas-throw-pillow/",
+      "expected": "https://shop.slessismore.org/product/33343699",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343699",
+      "passed": true
+    },
+    {
+      "path": "/product/more-cheer-christmas-plush-blanket/",
+      "expected": "https://shop.slessismore.org/product/33343696",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343696",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-desk-mat/",
+      "expected": "https://shop.slessismore.org/product/33343689",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343689",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-spiral-notebook-ruled-line/",
+      "expected": "https://shop.slessismore.org/product/33343684",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343684",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-laptop-sleeve/",
+      "expected": "https://shop.slessismore.org/product/33343685",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343685",
+      "passed": true
+    },
+    {
+      "path": "/product/more-gratitude-thanksgiving-journal/",
+      "expected": "https://shop.slessismore.org/product/33343510",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343510",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-tough-phone-cases/",
+      "expected": "https://shop.slessismore.org/product/33343688",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343688",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-slim-phone-cases/",
+      "expected": "https://shop.slessismore.org/product/33343697",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343697",
+      "passed": true
+    },
+    {
+      "path": "/product/more-gratitude-thanksgiving-insulated-bottle/",
+      "expected": "https://shop.slessismore.org/product/33343680",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343680",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-tumbler-20oz/",
+      "expected": "https://shop.slessismore.org/product/33343679",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343679",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-kiss-cut-stickers/",
+      "expected": "https://shop.slessismore.org/product/33343682",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343682",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-after-dark-halloween-vinyl-sticker/",
+      "expected": "https://shop.slessismore.org/product/33343683",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343683",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-stainless-steel-travel-mug/",
+      "expected": "https://shop.slessismore.org/product/33343678",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343678",
+      "passed": true
+    },
+    {
+      "path": "/product/more-cheer-christmas-latte-mug/",
+      "expected": "https://shop.slessismore.org/product/33343681",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343681",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-after-dark-halloween-black-mug/",
+      "expected": "https://shop.slessismore.org/product/33343676",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343676",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-enamel-camping-mug/",
+      "expected": "https://shop.slessismore.org/product/33343677",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343677",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-mug-15oz/",
+      "expected": "https://shop.slessismore.org/product/33343674",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343674",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-mug-11oz/",
+      "expected": "https://shop.slessismore.org/product/33343669",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343669",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-weekender-bag/",
+      "expected": "https://shop.slessismore.org/product/33343531",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343531",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-after-dark-halloween-canvas-tote/",
+      "expected": "https://shop.slessismore.org/product/33343534",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343534",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-organic-canvas-tote-bag/",
+      "expected": "https://shop.slessismore.org/product/33343533",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343533",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-backpack/",
+      "expected": "https://shop.slessismore.org/product/33343508",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343508",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-cotton-tote-bag/",
+      "expected": "https://shop.slessismore.org/product/33343530",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343530",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-trucker-caps/",
+      "expected": "https://shop.slessismore.org/product/33343525",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343525",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-classic-dad-cap/",
+      "expected": "https://shop.slessismore.org/product/33343527",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343527",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-snapback-trucker-cap/",
+      "expected": "https://shop.slessismore.org/product/33343526",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343526",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-holiday-star-christmas-embroidered-beanie/",
+      "expected": "https://shop.slessismore.org/product/33343524",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343524",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-low-profile-baseball-cap/",
+      "expected": "https://shop.slessismore.org/product/33343522",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343522",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-basketball-shorts-aop/",
+      "expected": "https://shop.slessismore.org/product/33343523",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343523",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-unisex-sponge-fleece-pullover-hoodie/",
+      "expected": "https://shop.slessismore.org/product/33343520",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343520",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-athletic-joggers-aop/",
+      "expected": "https://shop.slessismore.org/product/33343519",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343519",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-after-dark-halloween-hoodie/",
+      "expected": "https://shop.slessismore.org/",
+      "status": 302,
+      "location": "https://shop.slessismore.org/",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-unisex-heavy-blend-full-zip-hooded-sweatshirt/",
+      "expected": "https://shop.slessismore.org/product/33343518",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343518",
+      "passed": true
+    },
+    {
+      "path": "/product/more-cheer-christmas-crewneck/",
+      "expected": "https://shop.slessismore.org/",
+      "status": 302,
+      "location": "https://shop.slessismore.org/",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-unisex-jersey-tank/",
+      "expected": "https://shop.slessismore.org/product/33343516",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343516",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-unisex-34-sleeve-baseball-tee/",
+      "expected": "https://shop.slessismore.org/product/33343514",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343514",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-womens-ideal-racerback-tank/",
+      "expected": "https://shop.slessismore.org/product/33343521",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343521",
+      "passed": true
+    },
+    {
+      "path": "/product/more-gratitude-thanksgiving-garment-dyed-sweatshirt/",
+      "expected": "https://shop.slessismore.org/",
+      "status": 302,
+      "location": "https://shop.slessismore.org/",
+      "passed": true
+    },
+    {
+      "path": "/product/more-gratitude-thanksgiving-triblend-tee/",
+      "expected": "https://shop.slessismore.org/",
+      "status": 302,
+      "location": "https://shop.slessismore.org/",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-unisex-jersey-short-sleeve-v-neck-tee/",
+      "expected": "https://shop.slessismore.org/product/33343512",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343512",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-unisex-garment-dyed-long-sleeve-t-shirt/",
+      "expected": "https://shop.slessismore.org/product/33343515",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343515",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-unisex-cotton-crew-tee/",
+      "expected": "https://shop.slessismore.org/product/33343511",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343511",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-unisex-jersey-long-sleeve-tee/",
+      "expected": "https://shop.slessismore.org/product/33343513",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343513",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-unisex-garment-dyed-t-shirt/",
+      "expected": "https://shop.slessismore.org/product/33343509",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343509",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-is-more-unisex-jersey-short-sleeve-tee/",
+      "expected": "https://shop.slessismore.org/product/33343517",
+      "status": 302,
+      "location": "https://shop.slessismore.org/product/33343517",
+      "passed": true
+    },
+    {
+      "path": "/product/stay-undeniable/",
+      "expected": "https://shop.slessismore.org/",
+      "status": 302,
+      "location": "https://shop.slessismore.org/",
+      "passed": true
+    },
+    {
+      "path": "/product/sless-after-dark-halloween-oversized-tee/",
+      "expected": "https://shop.slessismore.org/",
+      "status": 302,
+      "location": "https://shop.slessismore.org/",
+      "passed": true
+    },
+    {
+      "path": "/product/built-different-proven-daily/",
+      "expected": "https://shop.slessismore.org/",
+      "status": 302,
+      "location": "https://shop.slessismore.org/",
+      "passed": true
+    },
+    {
+      "path": "/product/no-introduction-needed/",
+      "expected": "https://shop.slessismore.org/",
+      "status": 302,
+      "location": "https://shop.slessismore.org/",
+      "passed": true
+    },
+    {
+      "path": "/product-category/clothing/",
+      "expected": "https://shop.slessismore.org/",
+      "status": 302,
+      "location": "https://shop.slessismore.org/",
+      "passed": true
+    },
+    {
+      "path": "/merch/?utm_source=cutover&key=private",
+      "expected": "https://shop.slessismore.org/?utm_source=cutover",
+      "status": 302,
+      "location": "https://shop.slessismore.org/?utm_source=cutover",
+      "passed": true
+    }
+  ]
+}

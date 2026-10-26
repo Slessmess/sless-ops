@@ -1,0 +1,29 @@
+- [Environment guards](environment-guards.md) — the workspace can report a production environment label while using the development database.
+- [WordPress hosting challenges](wordpress-hosting-challenges.md) — hosting anti-bot responses can return HTTP 202 HTML instead of WordPress REST JSON.
+- [SiteGround SSH access](siteground-ssh-verification.md) — use saved SSH when web REST is blocked; distinguish key-format errors from rejected credentials and retain host-key pins.
+- [WordPress brand and launch boundaries](wordpress-brand-launch-boundaries.md) — preserve existing footage; draft work does not authorize publication or service activation.
+- [WordPress rendered-content verification](wordpress-rendered-content-verification.md) — builder metadata can be current while the visible HTML remains stale.
+- [Native image dimensions](native-image-dimensions.md) — image-reading previews can be resized; measure source dimensions before cropping and inspect the result.
+- [Sless Media Group direction](sless-media-group-direction.md) — restaurants first; offer cheaper self-service content tools and a higher-priced owner-managed service.
+- [Merchandise price evidence](merchandise-price-evidence.md) — use dated one-item retail comparables, disclose shipping limits, and keep estimated fee floors explicit.
+- [Browser video codecs](browser-video-codecs.md) — a valid H.264 download may not play in the preview browser; test preview codecs separately.
+- [Merchandise direction](merchandise-direction.md) — owner makes the first three artworks; Printify fulfills them and 50 agent-selected bestseller/trend items.
+- [Printify operator safeguards](printify-operator-safety.md) — validate minimal draft payloads; reconcile timed-out writes before retries; preparation is not publication or production.
+- [WordPress snippet activation safety](wordpress-snippet-activation-safety.md) — Code Snippets can expose stored executable records even when its plugin files were absent.
+- [SlessBox release confirmation](slessbox-release-confirmation.md) — the owner confirmed Local-AI-Setup 0.1.4 is the installer for staged SlessBox delivery.
+- [Commerce testing scope](commerce-testing-scope.md) — test the full buyer-to-fulfillment journey once ready; test payments do not prove real payouts.
+- [Stripe test connection boundaries](stripe-test-connection-boundaries.md) — check the existing integration before requesting test keys; WooCommerce mode and Stripe mode are separate.
+- [Transactional email provider](transactional-email-provider.md) — use the owner's existing SiteGround business mailbox for order confirmations.
+- [Native merchandise publication](native-merch-publication.md) — accepted supplier updates can leave blank galleries or stale variation photos; verify storefront images separately.
+- [Shirt print sizing](shirt-print-sizing.md) — owner repeatedly requires large chest graphics; use cropped art and actual supplier geometry, not padded full-template files.
+- [Storefront promotions](storefront-promotions.md) — WooCommerce-only temporary discounts; preserve supplier artwork/prices and honor the approved deadline timezone.
+- [Instagram publishing verification](instagram-publishing-verification.md) — profile/quota reads do not prove publishing permission; distinguish containers from published posts.
+- [Facebook publication verification](facebook-publication-verification.md) — native scheduling receipts do not prove public visibility; reconcile asynchronous videos before retrying.
+- [Marketing approval](marketing-approval.md) — owner must confirm the actual ads and captions before publication.
+- [WooCommerce tracking approach](woocommerce-tracking-approach.md) — reuse native account assets; prevent duplicate event senders and distinguish prepared plugins from live tracking.
+- [WordPress MU bootstrap](wordpress-mu-bootstrap.md) — defer private session entry to init; pluggable helpers may be unavailable during early plugin loading.
+- [Complianz consent controls](complianz-consent-controls.md) — keep mobile preference reopening visible; native banner saves can silently fail without an admin context.
+- [Hosted editor access](hosted-editor-access.md) — use approved shared-browser login; verify the selected store and distinguish native publication from API visibility.
+- [Studio hosting direction](studio-hosting-direction.md) — use Vercel for Sless Studio rather than continuing the Replit hosting adaptation.
+- [Studio infrastructure credentials](studio-infrastructure-credentials.md) — separate operator integrations from bucket-scoped application credentials.
+- [Validation upgrade safety](validation-upgrade-safety.md) — preserve omitted patch fields across schema-library upgrades; force fresh declarations after dependency type changes.

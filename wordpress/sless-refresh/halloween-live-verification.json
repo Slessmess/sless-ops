@@ -1,0 +1,346 @@
+{
+  "products": {
+    "shirt": {
+      "id": 660,
+      "name": "Sless After Dark — Halloween Tee",
+      "status": "publish",
+      "url": "https://slessismore.org/product/sless-after-dark-halloween-tee/",
+      "visibility": "visible",
+      "variations": [
+        {
+          "id": 661,
+          "attributes": {
+            "attribute_clothing-sizes": "M",
+            "attribute_gildan-colors": "Purple"
+          },
+          "price": "25",
+          "purchasable": true,
+          "inStock": true,
+          "image": "https://slessismore.org/wp-content/uploads/2026/10/315779262547831271_2048.jpeg"
+        },
+        {
+          "id": 662,
+          "attributes": {
+            "attribute_clothing-sizes": "S",
+            "attribute_gildan-colors": "Purple"
+          },
+          "price": "25",
+          "purchasable": true,
+          "inStock": true,
+          "image": "https://slessismore.org/wp-content/uploads/2026/10/315779262547831271_2048.jpeg"
+        },
+        {
+          "id": 663,
+          "attributes": {
+            "attribute_clothing-sizes": "M",
+            "attribute_gildan-colors": "Black"
+          },
+          "price": "25",
+          "purchasable": true,
+          "inStock": true,
+          "image": "https://slessismore.org/wp-content/uploads/2026/10/8754040870189505960_2048.jpeg"
+        },
+        {
+          "id": 664,
+          "attributes": {
+            "attribute_clothing-sizes": "L",
+            "attribute_gildan-colors": "Purple"
+          },
+          "price": "25",
+          "purchasable": true,
+          "inStock": true,
+          "image": "https://slessismore.org/wp-content/uploads/2026/10/315779262547831271_2048.jpeg"
+        },
+        {
+          "id": 665,
+          "attributes": {
+            "attribute_clothing-sizes": "L",
+            "attribute_gildan-colors": "Orange"
+          },
+          "price": "25",
+          "purchasable": true,
+          "inStock": true,
+          "image": "https://slessismore.org/wp-content/uploads/2026/10/14709789811452141801_2048.jpeg"
+        },
+        {
+          "id": 666,
+          "attributes": {
+            "attribute_clothing-sizes": "XL",
+            "attribute_gildan-colors": "Purple"
+          },
+          "price": "25",
+          "purchasable": true,
+          "inStock": true,
+          "image": "https://slessismore.org/wp-content/uploads/2026/10/315779262547831271_2048.jpeg"
+        },
+        {
+          "id": 667,
+          "attributes": {
+            "attribute_clothing-sizes": "S",
+            "attribute_gildan-colors": "Black"
+          },
+          "price": "25",
+          "purchasable": true,
+          "inStock": true,
+          "image": "https://slessismore.org/wp-content/uploads/2026/10/8754040870189505960_2048.jpeg"
+        },
+        {
+          "id": 668,
+          "attributes": {
+            "attribute_clothing-sizes": "XL",
+            "attribute_gildan-colors": "Orange"
+          },
+          "price": "25",
+          "purchasable": true,
+          "inStock": true,
+          "image": "https://slessismore.org/wp-content/uploads/2026/10/14709789811452141801_2048.jpeg"
+        },
+        {
+          "id": 669,
+          "attributes": {
+            "attribute_clothing-sizes": "S",
+            "attribute_gildan-colors": "Orange"
+          },
+          "price": "25",
+          "purchasable": true,
+          "inStock": true,
+          "image": "https://slessismore.org/wp-content/uploads/2026/10/14709789811452141801_2048.jpeg"
+        },
+        {
+          "id": 670,
+          "attributes": {
+            "attribute_clothing-sizes": "L",
+            "attribute_gildan-colors": "Black"
+          },
+          "price": "25",
+          "purchasable": true,
+          "inStock": true,
+          "image": "https://slessismore.org/wp-content/uploads/2026/10/8754040870189505960_2048.jpeg"
+        },
+        {
+          "id": 671,
+          "attributes": {
+            "attribute_clothing-sizes": "XL",
+            "attribute_gildan-colors": "Black"
+          },
+          "price": "25",
+          "purchasable": true,
+          "inStock": true,
+          "image": "https://slessismore.org/wp-content/uploads/2026/10/8754040870189505960_2048.jpeg"
+        },
+        {
+          "id": 672,
+          "attributes": {
+            "attribute_clothing-sizes": "M",
+            "attribute_gildan-colors": "Orange"
+          },
+          "price": "25",
+          "purchasable": true,
+          "inStock": true,
+          "image": "https://slessismore.org/wp-content/uploads/2026/10/14709789811452141801_2048.jpeg"
+        },
+        {
+          "id": 673,
+          "attributes": {
+            "attribute_clothing-sizes": "2XL",
+            "attribute_gildan-colors": "Orange"
+          },
+          "price": "28",
+          "purchasable": true,
+          "inStock": true,
+          "image": "https://slessismore.org/wp-content/uploads/2026/10/14709789811452141801_2048.jpeg"
+        },
+        {
+          "id": 674,
+          "attributes": {
+            "attribute_clothing-sizes": "2XL",
+            "attribute_gildan-colors": "Purple"
+          },
+          "price": "28",
+          "purchasable": true,
+          "inStock": true,
+          "image": "https://slessismore.org/wp-content/uploads/2026/10/315779262547831271_2048.jpeg"
+        },
+        {
+          "id": 675,
+          "attributes": {
+            "attribute_clothing-sizes": "2XL",
+            "attribute_gildan-colors": "Black"
+          },
+          "price": "28",
+          "purchasable": true,
+          "inStock": true,
+          "image": "https://slessismore.org/wp-content/uploads/2026/10/8754040870189505960_2048.jpeg"
+        },
+        {
+          "id": 676,
+          "attributes": {
+            "attribute_clothing-sizes": "3XL",
+            "attribute_gildan-colors": "Purple"
+          },
+          "price": "30",
+          "purchasable": true,
+          "inStock": true,
+          "image": "https://slessismore.org/wp-content/uploads/2026/10/315779262547831271_2048.jpeg"
+        },
+        {
+          "id": 677,
+          "attributes": {
+            "attribute_clothing-sizes": "3XL",
+            "attribute_gildan-colors": "Black"
+          },
+          "price": "30",
+          "purchasable": true,
+          "inStock": true,
+          "image": "https://slessismore.org/wp-content/uploads/2026/10/8754040870189505960_2048.jpeg"
+        },
+        {
+          "id": 678,
+          "attributes": {
+            "attribute_clothing-sizes": "3XL",
+            "attribute_gildan-colors": "Orange"
+          },
+          "price": "30",
+          "purchasable": true,
+          "inStock": true,
+          "image": "https://slessismore.org/wp-content/uploads/2026/10/14709789811452141801_2048.jpeg"
+        }
+      ],
+      "featuredImage": "https://slessismore.org/wp-content/uploads/2026/10/8754040870189505960_2048.jpeg",
+      "galleryCount": 11
+    },
+    "canvas": {
+      "id": 680,
+      "name": "Sless After Dark — Halloween Canvas, 6 × 6 in",
+      "status": "publish",
+      "url": "https://slessismore.org/product/sless-after-dark-halloween-canvas-6-x-6-in/",
+      "visibility": "visible",
+      "variations": [
+        {
+          "id": 681,
+          "attributes": {
+            "attribute_sizes": "6\" x 6\"",
+            "attribute_depth": "0.75''"
+          },
+          "price": "31",
+          "purchasable": true,
+          "inStock": true,
+          "image": "https://slessismore.org/wp-content/uploads/2026/10/3889546421594365590_2048.jpeg"
+        }
+      ],
+      "featuredImage": "https://slessismore.org/wp-content/uploads/2026/10/3889546421594365590_2048.jpeg",
+      "galleryCount": 3
+    }
+  },
+  "cartChecks": {
+    "purpleUS": {
+      "items": 1,
+      "subtotal": 25,
+      "rates": [
+        {
+          "method": "printify_shipping",
+          "cost": 5.35
+        }
+      ],
+      "country": "US"
+    },
+    "orangeUS": {
+      "items": 1,
+      "subtotal": 25,
+      "rates": [
+        {
+          "method": "printify_shipping",
+          "cost": 5.35
+        }
+      ],
+      "country": "US"
+    },
+    "blackUS": {
+      "items": 1,
+      "subtotal": 25,
+      "rates": [
+        {
+          "method": "printify_shipping",
+          "cost": 5.35
+        }
+      ],
+      "country": "US"
+    },
+    "canvasUS": {
+      "items": 1,
+      "subtotal": 31,
+      "rates": [
+        {
+          "method": "printify_shipping",
+          "cost": 11.59
+        },
+        {
+          "method": "printify_shipping",
+          "cost": 34.4
+        }
+      ],
+      "country": "US"
+    },
+    "mixedUS": {
+      "items": 2,
+      "subtotal": 56,
+      "rates": [
+        {
+          "method": "printify_shipping",
+          "cost": 16.54
+        }
+      ],
+      "country": "US"
+    },
+    "shirtCanada": {
+      "items": 1,
+      "subtotal": 25,
+      "rates": [
+        {
+          "method": "printify_shipping",
+          "cost": 9.69
+        }
+      ],
+      "country": "CA"
+    },
+    "canvasCanada": {
+      "items": 1,
+      "subtotal": 31,
+      "rates": [
+        {
+          "method": "printify_shipping",
+          "cost": 14.89
+        }
+      ],
+      "country": "CA"
+    }
+  },
+  "paymentsLive": true,
+  "storeOpen": true,
+  "originalCoreGuardIntact": true,
+  "ordersCreated": false,
+  "paymentsSubmitted": false,
+  "merchandising": [
+    {
+      "id": 660,
+      "featured": true,
+      "categories": [
+        "Halloween",
+        "T-Shirts"
+      ],
+      "order": -20,
+      "url": "https://slessismore.org/product/sless-after-dark-halloween-tee/"
+    },
+    {
+      "id": 680,
+      "featured": true,
+      "categories": [
+        "Canvas Wall Art",
+        "Halloween"
+      ],
+      "order": -19,
+      "url": "https://slessismore.org/product/sless-after-dark-halloween-canvas-6-x-6-in/"
+    }
+  ],
+  "verifiedAt": "2026-10-18T17:23:16.327Z"
+}

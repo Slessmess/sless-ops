@@ -1,0 +1,2576 @@
+{
+  "preparedAt": "2026-10-20T00:09:03.957Z",
+  "lastReviewedAt": "2026-10-20T21:21:01.581Z",
+  "status": "approved_46_products_live_main_site_routing_enabled",
+  "catalogCopy": {
+    "receiptPath": "wordpress/sless-refresh/printify-popup-drafts.json",
+    "createdHiddenDrafts": 54,
+    "verifiedHiddenDrafts": 10,
+    "placementReviewDrafts": 0,
+    "blockedBeforeCreation": 0,
+    "nativeCopiedUnpublishedDrafts": 0,
+    "totalVerifiedUnpublishedDrafts": 10,
+    "pendingNativeCopyReconciliation": 0,
+    "notAttempted": 0,
+    "publicProductsPublishedByOperator": 46,
+    "note": "Catalog entries below are source planning baselines. Copy receipts are authoritative for destination IDs and verification.",
+    "nativeBrandingAndReturnNavigationCompleted": true,
+    "nativeBrandingDesignSaved": true,
+    "nativeReturnNavigationSaved": true,
+    "publicStorefrontStillHasNoProducts": false,
+    "remainingBrandingIssue": null,
+    "responsiveFooterCopyrightCorrected": true,
+    "genericFooterSocialBlocksRemoved": true,
+    "requiredPolicyLinksPreserved": true,
+    "mobileReturnNavigationVerified": true,
+    "emptyCartExitVerified": true,
+    "productReturnNavigationVerified": true,
+    "cartWithItemsReturnVerified": true,
+    "checkoutEntryVerified": true,
+    "checkoutReturnToShopVerified": true,
+    "ownerPreviewApproval": true,
+    "partialLaunchCandidates": 46,
+    "heldForShippingRestriction": 3,
+    "heldForSelectedProductSale": 7,
+    "partialLaunchApproved": true,
+    "totalVerifiedProducts": 56,
+    "partialCatalogLive": true
+  },
+  "nativeReadinessReview": {
+    "productPromotionScope": "All eligible product variants storewide, not a selected list of seven products",
+    "nativePromotionClockObserved": "Starts at 00:00, GMT 0",
+    "approvedSaleEnds": "2026-10-25T23:59:59-04:00",
+    "supplierPricesChanged": false,
+    "promotionsCreated": false,
+    "usOnlyRestrictionReproduced": false,
+    "shippingReview": "No equivalent destination restriction exposed in reviewed store information, order settings or publishing preferences. Do not infer a provider country dropdown enforces buyer destination restrictions.",
+    "sellerReadinessConfirmed": true,
+    "sellerReview": "Owner confirmed Verified or complete in their regular browser. Native destination My Products independently displays: All set! Your account is verified and ready to go; ready to start making transactions and receiving payouts. No banking changes or transactions submitted.",
+    "completedOrderScreenVerified": false,
+    "unpaidCheckoutReview": "Live backpack added to an initially empty isolated cart: item $78.00, displayed checkout total $87.19. Native checkout reached Contact, Shipping, Payment, Review navigation without entering customer or payment information. Store-logo return preserved the cart; the test item was removed; mobile main-website return opened the correct domain.",
+    "finalRoutingGate": "Owner explicitly accepted unpaid-only checks and authorized cutover. Actual payment, final shipping/tax and completed-order return remain unverified; no transaction authorized.",
+    "transactionSubmitted": false,
+    "references": [
+      "https://help.printify.com/hc/en-us/articles/25028388602897-How-do-discounts-work-for-Pop-Up-Store",
+      "https://help.printify.com/hc/en-us/articles/25028470142225-How-can-I-create-a-product-discount-in-my-Pop-Up-Store"
+    ],
+    "unpaidOnlyAcceptance": {
+      "acceptedAt": "2026-10-20T21:21:01.581Z",
+      "ownerAcceptedUnpaidOnly": true,
+      "scope": "Switch main-site merchandise links to the approved 46-product shop",
+      "actualPaymentVerified": false,
+      "completedOrderReturnVerified": false,
+      "finalShippingAndTaxVerified": false,
+      "noTransactionAuthorized": true
+    }
+  },
+  "sourceShopId": 29231820,
+  "sourceSalesChannel": "woocommerce",
+  "observedShops": [
+    {
+      "id": 29189193,
+      "title": "My new store",
+      "salesChannel": "disconnected"
+    },
+    {
+      "id": 29231820,
+      "title": "WooCommerce store",
+      "salesChannel": "woocommerce"
+    },
+    {
+      "id": 29392858,
+      "title": "Slessismore",
+      "salesChannel": "storefront"
+    }
+  ],
+  "proposedHostname": "shop.slessismore.org",
+  "hostnameConnected": true,
+  "destinationShopId": 29392858,
+  "destinationVerified": true,
+  "destinationVerification": {
+    "temporarySetupUrl": "https://slessismore.printify.me",
+    "salesChannel": "storefront",
+    "productCount": 0,
+    "publicHttpStatus": 200,
+    "customHostnameResolves": true,
+    "customHostnameCname": "custom-domains-cname-target.printify.me",
+    "customHostnameHttpStatus": 200,
+    "checkoutOrSellerVerificationTested": true
+  },
+  "branding": {
+    "name": "Sless Is More",
+    "logo": "https://slessismore.org/wp-content/uploads/2024/10/trainwithsless-01-1.png",
+    "background": "#0a0a0a",
+    "panels": "#141410",
+    "accent": "#ffd700",
+    "text": "#f6f3eb",
+    "mutedText": "#b8b5ad",
+    "displayFontPreference": "Anton",
+    "note": "Use native builder options; exact layout/font availability needs owner preview approval."
+  },
+  "returnNavigation": [
+    {
+      "label": "Back to main website",
+      "url": "https://slessismore.org/"
+    },
+    {
+      "label": "Wrestling",
+      "url": "https://slessismore.org/wrestling/"
+    },
+    {
+      "label": "SlessBox AI",
+      "url": "https://slessismore.org/ai/"
+    },
+    {
+      "label": "Giveaway",
+      "url": "https://slessismore.org/giveaway/"
+    }
+  ],
+  "catalog": [
+    {
+      "sourceProductId": "6ad538ebd244ed568e02b814",
+      "wooProductId": 735,
+      "title": "Sless Is Cheer — Christmas Tee",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-cheer-christmas-tee/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "77b56803e0f84e5a46a1befefe4247616c3871a043421ef78602848fc845f11e",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 12125,
+          "sku": "65322021323174328763",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12142,
+          "sku": "11666885097473511777",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12025,
+          "sku": "26222387436006687331",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12143,
+          "sku": "22499312614406254414",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12126,
+          "sku": "17863350045379205883",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12023,
+          "sku": "32517484545861743567",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12024,
+          "sku": "22177453070099620841",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12022,
+          "sku": "14726159518454662918",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12145,
+          "sku": "29692989909618743591",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12124,
+          "sku": "19227803953370492092",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12127,
+          "sku": "36660332211551036913",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12144,
+          "sku": "13983597268348419702",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12128,
+          "sku": "29470221401521537536",
+          "supplierRetailCents": 2800,
+          "websiteCurrentCents": 2240,
+          "websiteRegularCents": 2800,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12146,
+          "sku": "96931503858216737132",
+          "supplierRetailCents": 2800,
+          "websiteCurrentCents": 2240,
+          "websiteRegularCents": 2800,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12026,
+          "sku": "66151551750820825620",
+          "supplierRetailCents": 2800,
+          "websiteCurrentCents": 2240,
+          "websiteRegularCents": 2800,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12027,
+          "sku": "29348938287495973919",
+          "supplierRetailCents": 3000,
+          "websiteCurrentCents": 2400,
+          "websiteRegularCents": 3000,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12129,
+          "sku": "23909635943685823183",
+          "supplierRetailCents": 3000,
+          "websiteCurrentCents": 2400,
+          "websiteRegularCents": 3000,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12147,
+          "sku": "13240238402995608281",
+          "supplierRetailCents": 3000,
+          "websiteCurrentCents": 2400,
+          "websiteRegularCents": 3000,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        }
+      ],
+      "specialReview": [
+        "WooCommerce-only pricing/discount does not automatically transfer; review expiry before publication"
+      ],
+      "destinationProductId": null,
+      "destinationUrl": null,
+      "publishedToPopup": false
+    },
+    {
+      "sourceProductId": "6ad4ff607e86416ffc097c36",
+      "wooProductId": 680,
+      "title": "Sless After Dark — Halloween Canvas, 6 × 6 in",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-after-dark-halloween-canvas-6-x-6-in/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "9723f549db4797073f86348ffda2d57cd090b83cc466cb2a35444b0aced0d7cd",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 102202,
+          "sku": "25948553959643044395",
+          "supplierRetailCents": 3100,
+          "websiteCurrentCents": 3100,
+          "websiteRegularCents": 3100,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c11b04f48b1ecc03e4f2",
+      "destinationUrl": "https://shop.slessismore.org/product/33343713",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ad4ff59e2ff8ddc0b0e6627",
+      "wooProductId": 660,
+      "title": "Sless After Dark — Halloween Tee",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-after-dark-halloween-tee/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "665d2520f5cb2061db88e783e1ecc39285c4f034979009d51124cf708f9f21ba",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 12018,
+          "sku": "23787156820325807069",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12125,
+          "sku": "13043694626241804297",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12016,
+          "sku": "31101564715633109583",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12010,
+          "sku": "17828289165533407799",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12019,
+          "sku": "27675164935282954778",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12126,
+          "sku": "32715285300203381957",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12013,
+          "sku": "19373767620524694914",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12012,
+          "sku": "11570074820350549773",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12124,
+          "sku": "62662569584707775492",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12127,
+          "sku": "17220245638854570162",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12017,
+          "sku": "57219374410082304943",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12011,
+          "sku": "30826142991004260775",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12014,
+          "sku": "69485981382074594533",
+          "supplierRetailCents": 2800,
+          "websiteCurrentCents": 2240,
+          "websiteRegularCents": 2800,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12020,
+          "sku": "57793198016635886338",
+          "supplierRetailCents": 2800,
+          "websiteCurrentCents": 2240,
+          "websiteRegularCents": 2800,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12128,
+          "sku": "29203567270790372106",
+          "supplierRetailCents": 2800,
+          "websiteCurrentCents": 2240,
+          "websiteRegularCents": 2800,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12021,
+          "sku": "17057162134294738209",
+          "supplierRetailCents": 3000,
+          "websiteCurrentCents": 2400,
+          "websiteRegularCents": 3000,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12129,
+          "sku": "11778946892361652149",
+          "supplierRetailCents": 3000,
+          "websiteCurrentCents": 2400,
+          "websiteRegularCents": 3000,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 12015,
+          "sku": "38735140922015049681",
+          "supplierRetailCents": 3000,
+          "websiteCurrentCents": 2400,
+          "websiteRegularCents": 3000,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        }
+      ],
+      "specialReview": [
+        "WooCommerce-only pricing/discount does not automatically transfer; review expiry before publication"
+      ],
+      "destinationProductId": null,
+      "destinationUrl": null,
+      "publishedToPopup": false
+    },
+    {
+      "sourceProductId": "6ac5d2f8eb881c661602cbed",
+      "wooProductId": 483,
+      "title": "Be Thankful for Sless! — Cork Back Coaster",
+      "currentWebsiteUrl": "https://slessismore.org/product/more-gratitude-thanksgiving-coaster/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "578788289f14d33d8001054554b486635f0c043e0d3593c50c030f3063859d9f",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 71689,
+          "sku": "13797898974972355077",
+          "supplierRetailCents": 894,
+          "websiteCurrentCents": 894,
+          "websiteRegularCents": 894,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c133be6698df65001c86",
+      "destinationUrl": "https://shop.slessismore.org/product/33343711",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d2f275161e32c107f499",
+      "wooProductId": 475,
+      "title": "Sless Ring Breaker — Matte Canvas, 12 × 20 in",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-matte-canvas-12-x-20-in/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "71df88a4ec56f64fee7b837bc3c0e806f9c17db1963b02223676bf50175e8b5d",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 253230,
+          "sku": "59699466957329793817",
+          "supplierRetailCents": 4100,
+          "websiteCurrentCents": 4100,
+          "websiteRegularCents": 4100,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c135d1de54a2f20cc464",
+      "destinationUrl": "https://shop.slessismore.org/product/33343704",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d2edfeeac1bd9403d4aa",
+      "wooProductId": 479,
+      "title": "Sless Champion — Matte Vertical Posters",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-matte-vertical-posters/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "6113fd97580f03c8a9866cf3caa1f58f8000ea28b37baeb7f472935978da6a47",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 101133,
+          "sku": "15241977814678632622",
+          "supplierRetailCents": 1421,
+          "websiteCurrentCents": 1421,
+          "websiteRegularCents": 1421,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c138d2c7f3234908dc8b",
+      "destinationUrl": "https://shop.slessismore.org/product/33343701",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d2e801e006db230b0f76",
+      "wooProductId": 473,
+      "title": "Sless Is Cheer — Spun Polyester Square Pillow",
+      "currentWebsiteUrl": "https://slessismore.org/product/more-cheer-christmas-throw-pillow/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "52cf4ce6bf5d3bd05983fc9bb7d5c33318ffb62404af43724548c15ecebde154",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 41527,
+          "sku": "30922377967873352751",
+          "supplierRetailCents": 3700,
+          "websiteCurrentCents": 3700,
+          "websiteRegularCents": 3700,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c13bbe6698df65001c92",
+      "destinationUrl": "https://shop.slessismore.org/product/33343699",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d2e355eec60e6a057b7d",
+      "wooProductId": 470,
+      "title": "Sless Is Cheer — Velveteen Plush Blanket",
+      "currentWebsiteUrl": "https://slessismore.org/product/more-cheer-christmas-plush-blanket/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "acd7b3fc8a82bedf3106621b47964804359e23f32632328ba7dc327a14517c7e",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 68322,
+          "sku": "21398365791446568359",
+          "supplierRetailCents": 3549,
+          "websiteCurrentCents": 3549,
+          "websiteRegularCents": 3549,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c13dd1de54a2f20cc46d",
+      "destinationUrl": "https://shop.slessismore.org/product/33343696",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d2dcd8513ff05a0865a3",
+      "wooProductId": 466,
+      "title": "Sless Ring Breaker — Sherpa Fleece Blanket",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-sherpa-fleece-blanket/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "59201dab6eede24a9fd4e030e9f8fb8aa784d50961f9ecae02c13bbda8225731",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 41656,
+          "sku": "20458322098886321064",
+          "supplierRetailCents": 6200,
+          "websiteCurrentCents": 6200,
+          "websiteRegularCents": 6200,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c140d2c7f3234908dc9a",
+      "destinationUrl": "https://shop.slessismore.org/product/33343691",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d2d475161e32c107f48e",
+      "wooProductId": 463,
+      "title": "Sless Champion — Desk Mat",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-desk-mat/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "1b7d24b239808215af64353aadc29d8048212f94d71d44f725bbf5fcffc3d13a",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 65240,
+          "sku": "17901894629560519800",
+          "supplierRetailCents": 2179,
+          "websiteCurrentCents": 2179,
+          "websiteRegularCents": 2179,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c142b8e1b2aced006766",
+      "destinationUrl": "https://shop.slessismore.org/product/33343689",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d2cf55eec60e6a057b70",
+      "wooProductId": 454,
+      "title": "Sless Ring Breaker — Slim Phone Cases",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-slim-phone-cases/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "0e41f7b79b6e01e3f3f3165ed284feb9ea7ebc62a9c20e6aedb26d273c6987db",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 112817,
+          "sku": "12968818588589831058",
+          "supplierRetailCents": 1900,
+          "websiteCurrentCents": 1900,
+          "websiteRegularCents": 1900,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 112819,
+          "sku": "32700722184979628217",
+          "supplierRetailCents": 1900,
+          "websiteCurrentCents": 1900,
+          "websiteRegularCents": 1900,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 130103,
+          "sku": "15046171851170008791",
+          "supplierRetailCents": 1900,
+          "websiteCurrentCents": 1900,
+          "websiteRegularCents": 1900,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 130104,
+          "sku": "84855553300937157682",
+          "supplierRetailCents": 1900,
+          "websiteCurrentCents": 1900,
+          "websiteRegularCents": 1900,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 130105,
+          "sku": "68240111862563958998",
+          "supplierRetailCents": 1900,
+          "websiteCurrentCents": 1900,
+          "websiteRegularCents": 1900,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 130106,
+          "sku": "22357439946381797752",
+          "supplierRetailCents": 1900,
+          "websiteCurrentCents": 1900,
+          "websiteRegularCents": 1900,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c144003392ba2b0bcfcf",
+      "destinationUrl": "https://shop.slessismore.org/product/33343697",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d2c4eb881c661602cbc3",
+      "wooProductId": 446,
+      "title": "Sless Champion — Tough Phone Cases",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-tough-phone-cases/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "f498df75070c2f52d035a6c9c00f66b4d8999db4589bb82b6d99ee59673b36a3",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 112813,
+          "sku": "16750567043532444439",
+          "supplierRetailCents": 2100,
+          "websiteCurrentCents": 2100,
+          "websiteRegularCents": 2100,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 130115,
+          "sku": "12232577547141027805",
+          "supplierRetailCents": 2100,
+          "websiteCurrentCents": 2100,
+          "websiteRegularCents": 2100,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 130116,
+          "sku": "10957312014405668277",
+          "supplierRetailCents": 2100,
+          "websiteCurrentCents": 2100,
+          "websiteRegularCents": 2100,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 130117,
+          "sku": "67492793359129046160",
+          "supplierRetailCents": 2100,
+          "websiteCurrentCents": 2100,
+          "websiteRegularCents": 2100,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 423467,
+          "sku": "33829648349898091680",
+          "supplierRetailCents": 2100,
+          "websiteCurrentCents": 2100,
+          "websiteRegularCents": 2100,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 423468,
+          "sku": "22151801602905396977",
+          "supplierRetailCents": 2100,
+          "websiteCurrentCents": 2100,
+          "websiteRegularCents": 2100,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c183b8e1b2aced00678c",
+      "destinationUrl": "https://shop.slessismore.org/product/33343688",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d2be7226b35d210a8c5b",
+      "wooProductId": 441,
+      "title": "Sless Ring Breaker — Laptop Sleeve",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-laptop-sleeve/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "935e91bd5fae7f2856be171036154c32eb62bfed852cc1ee9b85b1c349e08ce1",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 62037,
+          "sku": "19338509745300333698",
+          "supplierRetailCents": 3400,
+          "websiteCurrentCents": 3400,
+          "websiteRegularCents": 3400,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c187c439a7627f05ec4e",
+      "destinationUrl": "https://shop.slessismore.org/product/33343685",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d2ba5e26a6128202295c",
+      "wooProductId": 439,
+      "title": "Be Thankful for Sless! — Hardcover Journal Matte (Lined)",
+      "currentWebsiteUrl": "https://slessismore.org/product/more-gratitude-thanksgiving-journal/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "adb0dd7973173b96f8abd44be616af661f328d85902295388d323302554ac55c",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 65223,
+          "sku": "67024232531431760159",
+          "supplierRetailCents": 2000,
+          "websiteCurrentCents": 2000,
+          "websiteRegularCents": 2000,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6d4b978cf7cbdf706eda4",
+      "destinationUrl": "https://shop.slessismore.org/product/33343510",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d2b45e26a61282022957",
+      "wooProductId": 434,
+      "title": "Sless Ring Breaker — Spiral Notebook - Ruled Line",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-spiral-notebook-ruled-line/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "a67dba2a4c8c43b689780131d8777a57212ba337ae365e87f9e9cb9bad18c92d",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 34240,
+          "sku": "17828058033130279650",
+          "supplierRetailCents": 912,
+          "websiteCurrentCents": 912,
+          "websiteRegularCents": 912,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c1fed1de54a2f20cc512",
+      "destinationUrl": "https://shop.slessismore.org/product/33343684",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d2af5e26a61282022953",
+      "wooProductId": 427,
+      "title": "Sless After Dark — Square Vinyl Stickers",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-after-dark-halloween-vinyl-sticker/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "94e402528fb61c6b61f4166670a59069d06d38390cd5818f968a80dc00db2a29",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 65210,
+          "sku": "92255747254907041264",
+          "supplierRetailCents": 3200,
+          "websiteCurrentCents": 3200,
+          "websiteRegularCents": 3200,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 65211,
+          "sku": "16735936053922639846",
+          "supplierRetailCents": 600,
+          "websiteCurrentCents": 600,
+          "websiteRegularCents": 600,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 65212,
+          "sku": "24171262074121787891",
+          "supplierRetailCents": 800,
+          "websiteCurrentCents": 800,
+          "websiteRegularCents": 800,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 65213,
+          "sku": "24782315834536172730",
+          "supplierRetailCents": 1000,
+          "websiteCurrentCents": 1000,
+          "websiteRegularCents": 1000,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 65214,
+          "sku": "33057896982934720098",
+          "supplierRetailCents": 1500,
+          "websiteCurrentCents": 1500,
+          "websiteRegularCents": 1500,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c200d1de54a2f20cc515",
+      "destinationUrl": "https://shop.slessismore.org/product/33343683",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d2a955eec60e6a057b4e",
+      "wooProductId": 225,
+      "title": "Sless Ring Breaker — Kiss-Cut Stickers",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-kiss-cut-stickers/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "04a584ee207f1bae3610bbd33f1dc2019e5176b23047e9338f695510cd4a7f1b",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 45747,
+          "sku": "22719358182461632513",
+          "supplierRetailCents": 400,
+          "websiteCurrentCents": 400,
+          "websiteRegularCents": 400,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c20304f48b1ecc03e5cd",
+      "destinationUrl": "https://shop.slessismore.org/product/33343682",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d2a5ac3cff86ef057884",
+      "wooProductId": 425,
+      "title": "Be Thankful for Sless! — Copper Vacuum Insulated Bottle, 22oz",
+      "currentWebsiteUrl": "https://slessismore.org/product/more-gratitude-thanksgiving-insulated-bottle/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "3422f6bb212a1f28efa270bfd2ec9a71997e750f4107d3a2e1f2abac6bf3430d",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 71139,
+          "sku": "30344111915425783747",
+          "supplierRetailCents": 4800,
+          "websiteCurrentCents": 4800,
+          "websiteRegularCents": 4800,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c20504f48b1ecc03e5d0",
+      "destinationUrl": "https://shop.slessismore.org/product/33343680",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d2a05e26a61282022947",
+      "wooProductId": 422,
+      "title": "Sless Ring Breaker — Tumbler 20oz",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-tumbler-20oz/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "3b7d909929f200e5a7531cb768d339ea75f1f889beda0706137eaf7959697595",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 44519,
+          "sku": "13177709338067744851",
+          "supplierRetailCents": 4600,
+          "websiteCurrentCents": 4600,
+          "websiteRegularCents": 4600,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c2082b511f922206418e",
+      "destinationUrl": "https://shop.slessismore.org/product/33343679",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d29cbd34d756940c4f92",
+      "wooProductId": 418,
+      "title": "Sless Champion — Stainless Steel Travel Mug",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-stainless-steel-travel-mug/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "f6d8ef344298f619fda10f23bbcd7e034318ae365c90c6900e145e166e36df83",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 33765,
+          "sku": "26466463540145919271",
+          "supplierRetailCents": 4200,
+          "websiteCurrentCents": 4200,
+          "websiteRegularCents": 4200,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c20a003392ba2b0bd061",
+      "destinationUrl": "https://shop.slessismore.org/product/33343678",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d297724aee2017046779",
+      "wooProductId": 415,
+      "title": "Sless Ring Breaker — Enamel Camping Mug",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-enamel-camping-mug/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "69dc924b23dc3c6b4674e9f9d26834df4e3dd44bb8d976663b291c702b8a26bd",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 70768,
+          "sku": "17893200364905155508",
+          "supplierRetailCents": 2200,
+          "websiteCurrentCents": 2200,
+          "websiteRegularCents": 2200,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c20c13d9efc1490f1005",
+      "destinationUrl": "https://shop.slessismore.org/product/33343677",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d293d7ff457b4d0c7e17",
+      "wooProductId": 412,
+      "title": "Sless Is Cheer — Latte Mug",
+      "currentWebsiteUrl": "https://slessismore.org/product/more-cheer-christmas-latte-mug/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "983aec433e767e4d96d50bddf2db64cbd9489985281a78f117f8d3648604a559",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 43321,
+          "sku": "16981752746402436066",
+          "supplierRetailCents": 1095,
+          "websiteCurrentCents": 1095,
+          "websiteRegularCents": 1095,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c20fd1de54a2f20cc51e",
+      "destinationUrl": "https://shop.slessismore.org/product/33343681",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d28ed8513ff05a086581",
+      "wooProductId": 408,
+      "title": "Sless After Dark — Black Mug (11oz, 15oz)",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-after-dark-halloween-black-mug/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "14346def3489ea1eb3990ae8469b12a9884c67234595113ee114211b0b3c3bc8",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 104470,
+          "sku": "61577528465006143674",
+          "supplierRetailCents": 1142,
+          "websiteCurrentCents": 1142,
+          "websiteRegularCents": 1142,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c21113d9efc1490f1009",
+      "destinationUrl": "https://shop.slessismore.org/product/33343676",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d2895e26a61282022933",
+      "wooProductId": 405,
+      "title": "Sless Champion — Mug 15oz",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-mug-15oz/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "9cb18d59fa9bca6ca265de58f03918d7f0adf8903c0c1a0fa34acf43a9fd1180",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 62014,
+          "sku": "20215829730847686016",
+          "supplierRetailCents": 947,
+          "websiteCurrentCents": 947,
+          "websiteRegularCents": 947,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c214816e27163903ac61",
+      "destinationUrl": "https://shop.slessismore.org/product/33343674",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d285841732a55b0c4630",
+      "wooProductId": 403,
+      "title": "Sless Ring Breaker — Mug 11oz",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-mug-11oz/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "24083efbbd7f667cb99b42e902055960c6bf9f197aff0451c75fada6020bd393",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 33719,
+          "sku": "32848916992899330599",
+          "supplierRetailCents": 796,
+          "websiteCurrentCents": 796,
+          "websiteRegularCents": 796,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c216d2c7f3234908dd2d",
+      "destinationUrl": "https://shop.slessismore.org/product/33343669",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d0eb5e26a612820227b8",
+      "wooProductId": 401,
+      "title": "Sless Champion — Backpack",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-backpack/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "57fffbcf105a8a3b94077cf15935d5297f0603e0b097c6b78d6a18a731a64f1e",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 61364,
+          "sku": "18159511143588449230",
+          "supplierRetailCents": 7800,
+          "websiteCurrentCents": 7800,
+          "websiteRegularCents": 7800,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6d99408eeb0b7850cae7a",
+      "destinationUrl": "https://shop.slessismore.org/product/33343508",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d0defeeac1bd9403d2f8",
+      "wooProductId": 397,
+      "title": "Sless Ring Breaker — Weekender Bag",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-weekender-bag/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "6f09ff4d1a6ea5d6db68b16a64ff2f7320716bcfd91ac8906c6a56e67ae7e6d7",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 44271,
+          "sku": "26889010862579746585",
+          "supplierRetailCents": 3331,
+          "websiteCurrentCents": 3331,
+          "websiteRegularCents": 3331,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c26c78e220919c07f170",
+      "destinationUrl": "https://shop.slessismore.org/product/33343531",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d0d94c4e49c98f0f07fc",
+      "wooProductId": 394,
+      "title": "Sless After Dark — Canvas Tote Bag, 5-Color Straps",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-after-dark-halloween-canvas-tote/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "a42a81b771fdee5f9ab52efffbea44f0ed2070c9354ef16748b8c320d8e051e1",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 80825,
+          "sku": "32715737847269590840",
+          "supplierRetailCents": 3900,
+          "websiteCurrentCents": 3900,
+          "websiteRegularCents": 3900,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c26e78e220919c07f177",
+      "destinationUrl": "https://shop.slessismore.org/product/33343534",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d0d34c4e49c98f0f07f7",
+      "wooProductId": 392,
+      "title": "Sless Ring Breaker — Organic Canvas Tote Bag",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-organic-canvas-tote-bag/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "7d59ed4abbc58725875d4fb4fbf90cfbb566ef782dee7a5364003fe7d4bb6cc5",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 71925,
+          "sku": "21378166316969370992",
+          "supplierRetailCents": 4000,
+          "websiteCurrentCents": 4000,
+          "websiteRegularCents": 4000,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c270d1de54a2f20cc5a9",
+      "destinationUrl": "https://shop.slessismore.org/product/33343533",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d0ce841732a55b0c449b",
+      "wooProductId": 388,
+      "title": "Sless Champion — Cotton Tote Bag",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-cotton-tote-bag/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "11f6d28b97fd9c7df10100da018229702ab3c340e493390be98afcc1d4425732",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 150646,
+          "sku": "25451552715859853630",
+          "supplierRetailCents": 2171,
+          "websiteCurrentCents": 2171,
+          "websiteRegularCents": 2171,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c273d1de54a2f20cc5ae",
+      "destinationUrl": "https://shop.slessismore.org/product/33343530",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d0c8ac3cff86ef05773d",
+      "wooProductId": 386,
+      "title": "Sless Holiday Lightning Mascot — Classic Cuffed Beanie (Embroidery)",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-holiday-star-christmas-embroidered-beanie/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "d535ce0efc4fbf48d43d70d49a1baa62715333a9336bacbbbc9bb9531e27e36a",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 116417,
+          "sku": "33807388959788269118",
+          "supplierRetailCents": 2800,
+          "websiteCurrentCents": 2800,
+          "websiteRegularCents": 2800,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c27678e220919c07f17d",
+      "destinationUrl": "https://shop.slessismore.org/product/33343524",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d0c3679a412443086f1d",
+      "wooProductId": 382,
+      "title": "Sless Lightning Mascot — Classic Dad Cap",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-classic-dad-cap/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "ba564cfcdbcbe5971790ded66fb88c45001cbbb178113e6dfdc6c7c673a612f3",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 105372,
+          "sku": "15692492455208496970",
+          "supplierRetailCents": 3900,
+          "websiteCurrentCents": 3900,
+          "websiteRegularCents": 3900,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c27878e220919c07f183",
+      "destinationUrl": "https://shop.slessismore.org/product/33343527",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d0bcd7ff457b4d0c7ccb",
+      "wooProductId": 378,
+      "title": "Sless Lightning Mascot — Snapback Trucker Cap",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-snapback-trucker-cap/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "fccdf61e91c29db1d7f76f028ff0a3d7142277a24b953b4a9b69aeaaea6a0921",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 105362,
+          "sku": "78419178975444015684",
+          "supplierRetailCents": 3500,
+          "websiteCurrentCents": 3500,
+          "websiteRegularCents": 3500,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c27b003392ba2b0bd0a8",
+      "destinationUrl": "https://shop.slessismore.org/product/33343526",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d0b7ac3cff86ef057731",
+      "wooProductId": 376,
+      "title": "Sless Lightning Mascot — Trucker Caps",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-trucker-caps/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "c270f60f8f45c6a73262ab3437c3da2c9e908ccf63b6775c6ffaa8c603cd1bcf",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 84650,
+          "sku": "29239436228036315512",
+          "supplierRetailCents": 2800,
+          "websiteCurrentCents": 2800,
+          "websiteRegularCents": 2800,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c27dd2c7f3234908dd8f",
+      "destinationUrl": "https://shop.slessismore.org/product/33343525",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d0ab80f7c61095062149",
+      "wooProductId": 373,
+      "title": "Sless Lightning Mascot — Low Profile Baseball Cap",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-low-profile-baseball-cap/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "49f022027894041ab698250d49304f5c9dc79dfbd3623e49a4aebcbde2e480dd",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 104278,
+          "sku": "10226329250599245569",
+          "supplierRetailCents": 3300,
+          "websiteCurrentCents": 3300,
+          "websiteRegularCents": 3300,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c27f816e27163903acae",
+      "destinationUrl": "https://shop.slessismore.org/product/33343522",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d0a001e006db230b0e0a",
+      "wooProductId": 364,
+      "title": "Sless Champion — Basketball Shorts (AOP)",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-basketball-shorts-aop/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "3be8536589780ccb0ecd8d27b657c7862fa1f0c6815e0dff22134e527d7df313",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 78572,
+          "sku": "33257704919279583498",
+          "supplierRetailCents": 5200,
+          "websiteCurrentCents": 5200,
+          "websiteRegularCents": 5200,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 78573,
+          "sku": "13579457105058587898",
+          "supplierRetailCents": 5200,
+          "websiteCurrentCents": 5200,
+          "websiteRegularCents": 5200,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 78574,
+          "sku": "27402876257502729855",
+          "supplierRetailCents": 5200,
+          "websiteCurrentCents": 5200,
+          "websiteRegularCents": 5200,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 78575,
+          "sku": "27155150761241701897",
+          "supplierRetailCents": 5200,
+          "websiteCurrentCents": 5200,
+          "websiteRegularCents": 5200,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 78576,
+          "sku": "17867708750755812180",
+          "supplierRetailCents": 5800,
+          "websiteCurrentCents": 5800,
+          "websiteRegularCents": 5800,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 79955,
+          "sku": "14804787736053628887",
+          "supplierRetailCents": 5200,
+          "websiteCurrentCents": 5200,
+          "websiteRegularCents": 5200,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c282003392ba2b0bd0ae",
+      "destinationUrl": "https://shop.slessismore.org/product/33343523",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d0965e26a6128202278f",
+      "wooProductId": 356,
+      "title": "Sless Ring Breaker — Athletic Joggers (AOP)",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-athletic-joggers-aop/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "05c790f28c6aca91705e9174d3f565bab9b9f81a2e4da44a8c7eeb3190e926e3",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 72926,
+          "sku": "19658881421968246548",
+          "supplierRetailCents": 6400,
+          "websiteCurrentCents": 6400,
+          "websiteRegularCents": 6400,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 72927,
+          "sku": "25877769296469926348",
+          "supplierRetailCents": 6400,
+          "websiteCurrentCents": 6400,
+          "websiteRegularCents": 6400,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 72928,
+          "sku": "32583625696406165813",
+          "supplierRetailCents": 6400,
+          "websiteCurrentCents": 6400,
+          "websiteRegularCents": 6400,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 72929,
+          "sku": "23817224778563166111",
+          "supplierRetailCents": 6400,
+          "websiteCurrentCents": 6400,
+          "websiteRegularCents": 6400,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 72930,
+          "sku": "22014845500663653670",
+          "supplierRetailCents": 6400,
+          "websiteCurrentCents": 6400,
+          "websiteRegularCents": 6400,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 72931,
+          "sku": "83708156163190303248",
+          "supplierRetailCents": 6400,
+          "websiteCurrentCents": 6400,
+          "websiteRegularCents": 6400,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c6e4b8e1b2aced006b32",
+      "destinationUrl": "https://shop.slessismore.org/product/33343519",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d07e6a59c478d10a5010",
+      "wooProductId": 348,
+      "title": "Sless Champion — Heavy Blend Full Zip Hooded Sweatshirt",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-unisex-heavy-blend-full-zip-hooded-sweatshirt/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "4167f2c0f973f896dd2dae8f9c6c0c87c54c8b4f88865c55eb92e483e72191de",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 31930,
+          "sku": "17459747880550909858",
+          "supplierRetailCents": 5700,
+          "websiteCurrentCents": 5700,
+          "websiteRegularCents": 5700,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 31940,
+          "sku": "20739957131469202526",
+          "supplierRetailCents": 5700,
+          "websiteCurrentCents": 5700,
+          "websiteRegularCents": 5700,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 31950,
+          "sku": "20850215577021865660",
+          "supplierRetailCents": 5700,
+          "websiteCurrentCents": 5700,
+          "websiteRegularCents": 5700,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 31960,
+          "sku": "19761618615075697657",
+          "supplierRetailCents": 5700,
+          "websiteCurrentCents": 5700,
+          "websiteRegularCents": 5700,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 31970,
+          "sku": "30617083667487140043",
+          "supplierRetailCents": 6200,
+          "websiteCurrentCents": 6200,
+          "websiteRegularCents": 6200,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 32791,
+          "sku": "16972775862872999011",
+          "supplierRetailCents": 6500,
+          "websiteCurrentCents": 6500,
+          "websiteRegularCents": 6500,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c6e6be6698df650020bc",
+      "destinationUrl": "https://shop.slessismore.org/product/33343518",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d06dbd34d756940c4e0a",
+      "wooProductId": 339,
+      "title": "Sless Ring Breaker — Sponge Fleece Pullover Hoodie",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-unisex-sponge-fleece-pullover-hoodie/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "b9f70d3598c0238ec47b4ca1e9a6512ca975cd9b6e8883e4fec41678178f8c31",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 39826,
+          "sku": "17553558894634277686",
+          "supplierRetailCents": 6900,
+          "websiteCurrentCents": 6900,
+          "websiteRegularCents": 6900,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 39844,
+          "sku": "60787618292588406186",
+          "supplierRetailCents": 6900,
+          "websiteCurrentCents": 6900,
+          "websiteRegularCents": 6900,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 39862,
+          "sku": "18441111061080190698",
+          "supplierRetailCents": 6900,
+          "websiteCurrentCents": 6900,
+          "websiteRegularCents": 6900,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 39880,
+          "sku": "46743112712873960441",
+          "supplierRetailCents": 6900,
+          "websiteCurrentCents": 6900,
+          "websiteRegularCents": 6900,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 39898,
+          "sku": "12222703180486334568",
+          "supplierRetailCents": 7500,
+          "websiteCurrentCents": 7500,
+          "websiteRegularCents": 7500,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 64451,
+          "sku": "23213804072735147438",
+          "supplierRetailCents": 6900,
+          "websiteCurrentCents": 6900,
+          "websiteRegularCents": 6900,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 71381,
+          "sku": "16573447643606860137",
+          "supplierRetailCents": 8100,
+          "websiteCurrentCents": 8100,
+          "websiteRegularCents": 8100,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c6e9b8e1b2aced006b3a",
+      "destinationUrl": "https://shop.slessismore.org/product/33343520",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d063d7ff457b4d0c7ca8",
+      "wooProductId": 330,
+      "title": "Sless After Dark — Heavy Blend Hooded Sweatshirt",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-after-dark-halloween-hoodie/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "267fabb415ec3d43d5397171eae8adcae955ae934a77b9948302aecb9989952e",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 32918,
+          "sku": "22588148455066012439",
+          "supplierRetailCents": 4300,
+          "websiteCurrentCents": 3440,
+          "websiteRegularCents": 4300,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 32919,
+          "sku": "19386524447810245893",
+          "supplierRetailCents": 4300,
+          "websiteCurrentCents": 3440,
+          "websiteRegularCents": 4300,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 32920,
+          "sku": "17095333868813686240",
+          "supplierRetailCents": 4300,
+          "websiteCurrentCents": 3440,
+          "websiteRegularCents": 4300,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 32921,
+          "sku": "31243812281044173533",
+          "supplierRetailCents": 4300,
+          "websiteCurrentCents": 3440,
+          "websiteRegularCents": 4300,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 32922,
+          "sku": "15957339834967358767",
+          "supplierRetailCents": 4700,
+          "websiteCurrentCents": 3760,
+          "websiteRegularCents": 4700,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 32923,
+          "sku": "31505391878947323231",
+          "supplierRetailCents": 4900,
+          "websiteCurrentCents": 3920,
+          "websiteRegularCents": 4900,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        }
+      ],
+      "specialReview": [
+        "WooCommerce-only pricing/discount does not automatically transfer; review expiry before publication"
+      ],
+      "destinationProductId": null,
+      "destinationUrl": null,
+      "publishedToPopup": false
+    },
+    {
+      "sourceProductId": "6ac5d05a014b7d9bf2098776",
+      "wooProductId": 323,
+      "title": "Be Thankful for Sless! — Garment-Dyed Sweatshirt",
+      "currentWebsiteUrl": "https://slessismore.org/product/more-gratitude-thanksgiving-garment-dyed-sweatshirt/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "f28980da0fc33da254bdf295c63b123c0c3b6af5a9f5274000df05a3f0b53e28",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 96919,
+          "sku": "69884035953288870253",
+          "supplierRetailCents": 7000,
+          "websiteCurrentCents": 5600,
+          "websiteRegularCents": 7000,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 96920,
+          "sku": "87105551475305239350",
+          "supplierRetailCents": 7000,
+          "websiteCurrentCents": 5600,
+          "websiteRegularCents": 7000,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 96921,
+          "sku": "11621955626847385810",
+          "supplierRetailCents": 7000,
+          "websiteCurrentCents": 5600,
+          "websiteRegularCents": 7000,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 96922,
+          "sku": "30611680172220627411",
+          "supplierRetailCents": 7000,
+          "websiteCurrentCents": 5600,
+          "websiteRegularCents": 7000,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 96923,
+          "sku": "27621648384031871911",
+          "supplierRetailCents": 8100,
+          "websiteCurrentCents": 6480,
+          "websiteRegularCents": 8100,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 102376,
+          "sku": "22341786881462473698",
+          "supplierRetailCents": 9300,
+          "websiteCurrentCents": 7440,
+          "websiteRegularCents": 9300,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        }
+      ],
+      "specialReview": [
+        "WooCommerce-only pricing/discount does not automatically transfer; review expiry before publication"
+      ],
+      "destinationProductId": null,
+      "destinationUrl": null,
+      "publishedToPopup": false
+    },
+    {
+      "sourceProductId": "6ac5d04e4c4e49c98f0f07b0",
+      "wooProductId": 314,
+      "title": "Sless Is Cheer — Heavy Blend Crewneck Sweatshirt",
+      "currentWebsiteUrl": "https://slessismore.org/product/more-cheer-christmas-crewneck/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "35c0684a2ce7c5a3b38c40a9f9714d0ea88029096826629871f48a45f068dbf4",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 25396,
+          "sku": "21631739780491023471",
+          "supplierRetailCents": 3600,
+          "websiteCurrentCents": 2880,
+          "websiteRegularCents": 3600,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 25427,
+          "sku": "29881160923444636316",
+          "supplierRetailCents": 3600,
+          "websiteCurrentCents": 2880,
+          "websiteRegularCents": 3600,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 25458,
+          "sku": "28441214233884241833",
+          "supplierRetailCents": 3600,
+          "websiteCurrentCents": 2880,
+          "websiteRegularCents": 3600,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 25489,
+          "sku": "28850216943547224754",
+          "supplierRetailCents": 3600,
+          "websiteCurrentCents": 2880,
+          "websiteRegularCents": 3600,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 25520,
+          "sku": "67877907253840389457",
+          "supplierRetailCents": 4100,
+          "websiteCurrentCents": 3280,
+          "websiteRegularCents": 4100,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 25551,
+          "sku": "14273774428823699971",
+          "supplierRetailCents": 4300,
+          "websiteCurrentCents": 3440,
+          "websiteRegularCents": 4300,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        }
+      ],
+      "specialReview": [
+        "WooCommerce-only pricing/discount does not automatically transfer; review expiry before publication"
+      ],
+      "destinationProductId": null,
+      "destinationUrl": null,
+      "publishedToPopup": false
+    },
+    {
+      "sourceProductId": "6ac5d0474c4e49c98f0f07ac",
+      "wooProductId": 305,
+      "title": "Sless Ring Breaker — Women's Ideal Racerback Tank",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-womens-ideal-racerback-tank/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "f722776e8c3eae667098d3b8e38e1811b95d892241fa63eda65e585c9f9b20a2",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 19287,
+          "sku": "25544078404279917892",
+          "supplierRetailCents": 2850,
+          "websiteCurrentCents": 2850,
+          "websiteRegularCents": 2850,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 19288,
+          "sku": "20667593257202665737",
+          "supplierRetailCents": 2850,
+          "websiteCurrentCents": 2850,
+          "websiteRegularCents": 2850,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 19289,
+          "sku": "93359181378105186509",
+          "supplierRetailCents": 2850,
+          "websiteCurrentCents": 2850,
+          "websiteRegularCents": 2850,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 19290,
+          "sku": "33436759970636830473",
+          "supplierRetailCents": 2850,
+          "websiteCurrentCents": 2850,
+          "websiteRegularCents": 2850,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 19291,
+          "sku": "99167940924584511182",
+          "supplierRetailCents": 2850,
+          "websiteCurrentCents": 2850,
+          "websiteRegularCents": 2850,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 22208,
+          "sku": "13504763671349948875",
+          "supplierRetailCents": 2850,
+          "websiteCurrentCents": 2850,
+          "websiteRegularCents": 2850,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c6f4e747d1235e0d029a",
+      "destinationUrl": "https://shop.slessismore.org/product/33343521",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d037014b7d9bf209876a",
+      "wooProductId": 298,
+      "title": "Sless Champion — Jersey Tank",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-unisex-jersey-tank/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "12426c1eefbc18c7bcc1a5be5bca9bfcfe5d4766a0bcc8ecbfcd430bf05e43bf",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 24639,
+          "sku": "27485825422477270824",
+          "supplierRetailCents": 2700,
+          "websiteCurrentCents": 2700,
+          "websiteRegularCents": 2700,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 24640,
+          "sku": "16653740101962819688",
+          "supplierRetailCents": 2700,
+          "websiteCurrentCents": 2700,
+          "websiteRegularCents": 2700,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 24641,
+          "sku": "68687318947842151016",
+          "supplierRetailCents": 2700,
+          "websiteCurrentCents": 2700,
+          "websiteRegularCents": 2700,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 24642,
+          "sku": "14029243001998389031",
+          "supplierRetailCents": 2700,
+          "websiteCurrentCents": 2700,
+          "websiteRegularCents": 2700,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 24643,
+          "sku": "81445837959006053651",
+          "supplierRetailCents": 2700,
+          "websiteCurrentCents": 2700,
+          "websiteRegularCents": 2700,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 24644,
+          "sku": "13647059200248067994",
+          "supplierRetailCents": 3200,
+          "websiteCurrentCents": 3200,
+          "websiteRegularCents": 3200,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c6f7d1de54a2f20cc93b",
+      "destinationUrl": "https://shop.slessismore.org/product/33343516",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d02ad1e3e7d865017da6",
+      "wooProductId": 293,
+      "title": "Sless Ring Breaker — 3/4 Sleeve Baseball Tee",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-unisex-34-sleeve-baseball-tee/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "48ea9626a64429271f717e48c1c5709ab369fd582496d0ca00702060d1c8a00f",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 33522,
+          "sku": "27248179934630444114",
+          "supplierRetailCents": 3600,
+          "websiteCurrentCents": 3600,
+          "websiteRegularCents": 3600,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 33523,
+          "sku": "19690604548385470930",
+          "supplierRetailCents": 3600,
+          "websiteCurrentCents": 3600,
+          "websiteRegularCents": 3600,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 33524,
+          "sku": "29369110881747548914",
+          "supplierRetailCents": 3600,
+          "websiteCurrentCents": 3600,
+          "websiteRegularCents": 3600,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 33525,
+          "sku": "19479758647711608227",
+          "supplierRetailCents": 3600,
+          "websiteCurrentCents": 3600,
+          "websiteRegularCents": 3600,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c6f949cb9f138f08d2f4",
+      "destinationUrl": "https://shop.slessismore.org/product/33343514",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d02080f7c61095062104",
+      "wooProductId": 283,
+      "title": "Sless Champion — Garment-dyed Long Sleeve T-Shirt",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-unisex-garment-dyed-long-sleeve-t-shirt/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "15f7bbe80243a5ab38db407b57ff7787145a731e700fadef05431c336f80dab3",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 73218,
+          "sku": "27336744550135260801",
+          "supplierRetailCents": 4100,
+          "websiteCurrentCents": 4100,
+          "websiteRegularCents": 4100,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 73220,
+          "sku": "33132109803686171598",
+          "supplierRetailCents": 4100,
+          "websiteCurrentCents": 4100,
+          "websiteRegularCents": 4100,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 73222,
+          "sku": "22124280734203410084",
+          "supplierRetailCents": 4100,
+          "websiteCurrentCents": 4100,
+          "websiteRegularCents": 4100,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 73224,
+          "sku": "11620400016372392207",
+          "supplierRetailCents": 4100,
+          "websiteCurrentCents": 4100,
+          "websiteRegularCents": 4100,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 73226,
+          "sku": "32899284430192496833",
+          "supplierRetailCents": 4500,
+          "websiteCurrentCents": 4500,
+          "websiteRegularCents": 4500,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 98893,
+          "sku": "33457172823407143279",
+          "supplierRetailCents": 5000,
+          "websiteCurrentCents": 5000,
+          "websiteRegularCents": 5000,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c6fcd2c7f3234908e07d",
+      "destinationUrl": "https://shop.slessismore.org/product/33343515",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d019ac3cff86ef0576ea",
+      "wooProductId": 276,
+      "title": "Sless Ring Breaker — Jersey Long Sleeve Tee",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-unisex-jersey-long-sleeve-tee/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "15bc04cb46d8f5a2a03b7f695ee6764621de58528faf4e1bf8ddc35da81d5188",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 24996,
+          "sku": "13991277765479427141",
+          "supplierRetailCents": 3400,
+          "websiteCurrentCents": 3400,
+          "websiteRegularCents": 3400,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 24997,
+          "sku": "37499747368939669060",
+          "supplierRetailCents": 3400,
+          "websiteCurrentCents": 3400,
+          "websiteRegularCents": 3400,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 24998,
+          "sku": "50300794451581323696",
+          "supplierRetailCents": 3400,
+          "websiteCurrentCents": 3400,
+          "websiteRegularCents": 3400,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 24999,
+          "sku": "22102837754640394899",
+          "supplierRetailCents": 3400,
+          "websiteCurrentCents": 3400,
+          "websiteRegularCents": 3400,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 25000,
+          "sku": "19118868760387684110",
+          "supplierRetailCents": 3900,
+          "websiteCurrentCents": 3900,
+          "websiteRegularCents": 3900,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c6fed1de54a2f20cc93e",
+      "destinationUrl": "https://shop.slessismore.org/product/33343513",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d0137c0874f8d40be1e0",
+      "wooProductId": 269,
+      "title": "Sless Champion — Jersey Short Sleeve V-Neck Tee",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-unisex-jersey-short-sleeve-v-neck-tee/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "831a48184d56c848cc3e369fc96c8faa76458c1dab79e8fd3b82371f9ff24e7b",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 23655,
+          "sku": "30425036690765956182",
+          "supplierRetailCents": 2800,
+          "websiteCurrentCents": 2800,
+          "websiteRegularCents": 2800,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 23694,
+          "sku": "51271193471373207526",
+          "supplierRetailCents": 2800,
+          "websiteCurrentCents": 2800,
+          "websiteRegularCents": 2800,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 23733,
+          "sku": "58080449656311777591",
+          "supplierRetailCents": 2800,
+          "websiteCurrentCents": 2800,
+          "websiteRegularCents": 2800,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 23772,
+          "sku": "19822804951573582140",
+          "supplierRetailCents": 2800,
+          "websiteCurrentCents": 2800,
+          "websiteRegularCents": 2800,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 23811,
+          "sku": "14299990794407467840",
+          "supplierRetailCents": 3200,
+          "websiteCurrentCents": 3200,
+          "websiteRegularCents": 3200,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c70113d9efc1490f1385",
+      "destinationUrl": "https://shop.slessismore.org/product/33343512",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5d00cac3cff86ef0576e2",
+      "wooProductId": 260,
+      "title": "Be Thankful for Sless! — Triblend Tee",
+      "currentWebsiteUrl": "https://slessismore.org/product/more-gratitude-thanksgiving-triblend-tee/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "32d9a657fbce1c80eb9c64f0403fcd3c9edcd6bf2d2b0d3b50942dd82a7004c7",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 40474,
+          "sku": "27060473657848603908",
+          "supplierRetailCents": 4800,
+          "websiteCurrentCents": 3840,
+          "websiteRegularCents": 4800,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 40567,
+          "sku": "25238283444049291074",
+          "supplierRetailCents": 4800,
+          "websiteCurrentCents": 3840,
+          "websiteRegularCents": 4800,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 40660,
+          "sku": "26536906324476191241",
+          "supplierRetailCents": 4800,
+          "websiteCurrentCents": 3840,
+          "websiteRegularCents": 4800,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 40753,
+          "sku": "41715835905773496874",
+          "supplierRetailCents": 4800,
+          "websiteCurrentCents": 3840,
+          "websiteRegularCents": 4800,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 40846,
+          "sku": "97164534948250945326",
+          "supplierRetailCents": 5600,
+          "websiteCurrentCents": 4480,
+          "websiteRegularCents": 5600,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        }
+      ],
+      "specialReview": [
+        "WooCommerce-only pricing/discount does not automatically transfer; review expiry before publication"
+      ],
+      "destinationProductId": null,
+      "destinationUrl": null,
+      "publishedToPopup": false
+    },
+    {
+      "sourceProductId": "6ac5d0007c0874f8d40be1d4",
+      "wooProductId": 251,
+      "title": "Sless Champion — Cotton Crew Tee",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-unisex-cotton-crew-tee/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "badada8cef5033a85e22510db69c6c3593072180aabe2f496ef1ad67fa97d58b",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 17391,
+          "sku": "10922413338048267412",
+          "supplierRetailCents": 1542,
+          "websiteCurrentCents": 1542,
+          "websiteRegularCents": 1542,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 17392,
+          "sku": "91238896334756746813",
+          "supplierRetailCents": 1542,
+          "websiteCurrentCents": 1542,
+          "websiteRegularCents": 1542,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 17393,
+          "sku": "10611902120296377816",
+          "supplierRetailCents": 1542,
+          "websiteCurrentCents": 1542,
+          "websiteRegularCents": 1542,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 17394,
+          "sku": "68950566902979751375",
+          "supplierRetailCents": 1542,
+          "websiteCurrentCents": 1542,
+          "websiteRegularCents": 1542,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 17395,
+          "sku": "15882255273520245934",
+          "supplierRetailCents": 1755,
+          "websiteCurrentCents": 1755,
+          "websiteRegularCents": 1755,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 17396,
+          "sku": "12418062989914338981",
+          "supplierRetailCents": 1942,
+          "websiteCurrentCents": 1942,
+          "websiteRegularCents": 1942,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c70613d9efc1490f1387",
+      "destinationUrl": "https://shop.slessismore.org/product/33343511",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5cff3d7ff457b4d0c7c5f",
+      "wooProductId": 244,
+      "title": "Sless Ring Breaker — Jersey Short Sleeve Tee",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-unisex-jersey-short-sleeve-tee/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "866b0a98706341ea0aa7587070f8a4a8ea9cc3395d7ea19f96910cf99390f741",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 18100,
+          "sku": "12207567219242205716",
+          "supplierRetailCents": 1273,
+          "websiteCurrentCents": 1273,
+          "websiteRegularCents": 1273,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 18101,
+          "sku": "34121785578129541910",
+          "supplierRetailCents": 1273,
+          "websiteCurrentCents": 1273,
+          "websiteRegularCents": 1273,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 18102,
+          "sku": "67610598636284008630",
+          "supplierRetailCents": 1273,
+          "websiteCurrentCents": 1273,
+          "websiteRegularCents": 1273,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 18103,
+          "sku": "10942834646472877691",
+          "supplierRetailCents": 1273,
+          "websiteCurrentCents": 1273,
+          "websiteRegularCents": 1273,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 18104,
+          "sku": "24607763399959803928",
+          "supplierRetailCents": 1544,
+          "websiteCurrentCents": 1544,
+          "websiteRegularCents": 1544,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 18105,
+          "sku": "25703945594005572844",
+          "supplierRetailCents": 1791,
+          "websiteCurrentCents": 1791,
+          "websiteRegularCents": 1791,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c709816e27163903afa6",
+      "destinationUrl": "https://shop.slessismore.org/product/33343517",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5cfec4c4e49c98f0f072b",
+      "wooProductId": 238,
+      "title": "Sless After Dark — Oversized Garment-Dyed T-Shirt",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-after-dark-halloween-oversized-tee/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "5224eba54226179868ca04da2b5cae613d7ab8698b780f1ec462e1fbe295cbac",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 125656,
+          "sku": "11264380612892208280",
+          "supplierRetailCents": 3600,
+          "websiteCurrentCents": 2880,
+          "websiteRegularCents": 3600,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        },
+        {
+          "sourceVariantId": 125659,
+          "sku": "16317919517581569742",
+          "supplierRetailCents": 4400,
+          "websiteCurrentCents": 3520,
+          "websiteRegularCents": 4400,
+          "websiteSaleEnd": "2026-10-26T03:59:59+00:00"
+        }
+      ],
+      "specialReview": [
+        "WooCommerce-only pricing/discount does not automatically transfer; review expiry before publication"
+      ],
+      "destinationProductId": null,
+      "destinationUrl": null,
+      "publishedToPopup": false
+    },
+    {
+      "sourceProductId": "6ac5cfe6679a412443086ec9",
+      "wooProductId": 230,
+      "title": "Sless Ring Breaker — Garment-Dyed T-shirt",
+      "currentWebsiteUrl": "https://slessismore.org/product/sless-is-more-unisex-garment-dyed-t-shirt/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "6077abc87ec42d79827bf6674ddcbc540804c15bbffd5ce696bfede63736c897",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 73196,
+          "sku": "79761670782036957315",
+          "supplierRetailCents": 2400,
+          "websiteCurrentCents": 2400,
+          "websiteRegularCents": 2400,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 73200,
+          "sku": "23817894039760659457",
+          "supplierRetailCents": 2400,
+          "websiteCurrentCents": 2400,
+          "websiteRegularCents": 2400,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 73204,
+          "sku": "20399235445572701427",
+          "supplierRetailCents": 2400,
+          "websiteCurrentCents": 2400,
+          "websiteRegularCents": 2400,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 73208,
+          "sku": "15293985665387220652",
+          "supplierRetailCents": 2400,
+          "websiteCurrentCents": 2400,
+          "websiteRegularCents": 2400,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 73212,
+          "sku": "75757776541534966701",
+          "supplierRetailCents": 2700,
+          "websiteCurrentCents": 2700,
+          "websiteRegularCents": 2700,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 79114,
+          "sku": "16640728908403189597",
+          "supplierRetailCents": 3000,
+          "websiteCurrentCents": 3000,
+          "websiteRegularCents": 3000,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [],
+      "destinationProductId": "6ad6c70f816e27163903afab",
+      "destinationUrl": "https://shop.slessismore.org/product/33343509",
+      "publishedToPopup": true
+    },
+    {
+      "sourceProductId": "6ac5cc05014b7d9bf2098516",
+      "wooProductId": 502,
+      "title": "BUILT DIFFERENT. PROVEN DAILY.",
+      "currentWebsiteUrl": "https://slessismore.org/product/built-different-proven-daily/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "ca05a8c0117d27e1e592d90c9b38878ea874fdd2954e6c73b86bba1ab616f658",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 38163,
+          "sku": "15598442049397984126",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2500,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 38177,
+          "sku": "33910407245507145918",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2500,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 38191,
+          "sku": "16474063266772401984",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2500,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 38205,
+          "sku": "51736570057339669464",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2500,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 38219,
+          "sku": "92995273054212143236",
+          "supplierRetailCents": 2800,
+          "websiteCurrentCents": 2800,
+          "websiteRegularCents": 2800,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 42120,
+          "sku": "22810495442910952985",
+          "supplierRetailCents": 3000,
+          "websiteCurrentCents": 3000,
+          "websiteRegularCents": 3000,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [
+        "US-only shipping rule must be reproduced or item withheld"
+      ],
+      "destinationProductId": null,
+      "destinationUrl": null,
+      "publishedToPopup": false
+    },
+    {
+      "sourceProductId": "6ac5cc03a6afd99ddd03f538",
+      "wooProductId": 493,
+      "title": "STAY UNDENIABLE",
+      "currentWebsiteUrl": "https://slessismore.org/product/stay-undeniable/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "b6bb69022cfd60bc142a3fb2da198a994963ca59286aaabdad127212f2d11d0e",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 38163,
+          "sku": "25679255767681588387",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2500,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 38177,
+          "sku": "28449833285173856833",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2500,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 38191,
+          "sku": "32405252358938574960",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2500,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 38205,
+          "sku": "43006935802535782549",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2500,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 38219,
+          "sku": "12698058292659244940",
+          "supplierRetailCents": 2800,
+          "websiteCurrentCents": 2800,
+          "websiteRegularCents": 2800,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 42120,
+          "sku": "21942828049535213993",
+          "supplierRetailCents": 3000,
+          "websiteCurrentCents": 3000,
+          "websiteRegularCents": 3000,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [
+        "US-only shipping rule must be reproduced or item withheld"
+      ],
+      "destinationProductId": null,
+      "destinationUrl": null,
+      "publishedToPopup": false
+    },
+    {
+      "sourceProductId": "6ac5cc01399aa3961002c5af",
+      "wooProductId": 485,
+      "title": "NO INTRODUCTION NEEDED",
+      "currentWebsiteUrl": "https://slessismore.org/product/no-introduction-needed/",
+      "sourceLocked": false,
+      "sourceArtworkAndVariantsSha256": "71e1539d0e92edb4dce418929f0dcfc9cae3c619392c374f3213887bf7fd74e0",
+      "enabledVariants": [
+        {
+          "sourceVariantId": 38163,
+          "sku": "16716862689921996657",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2500,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 38177,
+          "sku": "10944612758668298984",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2500,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 38191,
+          "sku": "12290160615202657793",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2500,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 38205,
+          "sku": "14912566418418260865",
+          "supplierRetailCents": 2500,
+          "websiteCurrentCents": 2500,
+          "websiteRegularCents": 2500,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 38219,
+          "sku": "30731496938985144248",
+          "supplierRetailCents": 2800,
+          "websiteCurrentCents": 2800,
+          "websiteRegularCents": 2800,
+          "websiteSaleEnd": null
+        },
+        {
+          "sourceVariantId": 42120,
+          "sku": "14188743641060046310",
+          "supplierRetailCents": 3000,
+          "websiteCurrentCents": 3000,
+          "websiteRegularCents": 3000,
+          "websiteSaleEnd": null
+        }
+      ],
+      "specialReview": [
+        "US-only shipping rule must be reproduced or item withheld"
+      ],
+      "destinationProductId": null,
+      "destinationUrl": null,
+      "publishedToPopup": false
+    }
+  ],
+  "excluded": [
+    {
+      "id": "6ad50b27d244ed568e02921f",
+      "title": "Sless After Dark — Larger Print PROOF — NOT PUBLISHED",
+      "reason": "Not a live, mapped physical product"
+    }
+  ],
+  "gates": [
+    "Owner creates an empty Pop-Up store in Printify and confirms its actual URL.",
+    "Owner completes native identity/bank verification without sharing those details in chat.",
+    "Copy approved live products as drafts; exclude unpublished proof. Do not alter source artwork.",
+    "Review variant mappings, print geometry, mockups, current discounts and shipping restrictions.",
+    "Match branding and publish header links back to the existing website.",
+    "Verify mobile navigation and a supported return path after checkout; no automatic redirect promised.",
+    "Obtain actual DNS records from Printify for the proposed shop subdomain; preserve root website/mail records.",
+    "Review checkout, tracking/consent, tax and return policies before owner-approved cutover.",
+    "Any real test payment or production submission needs separate explicit approval."
+  ],
+  "websiteChanged": false,
+  "dnsChanged": false,
+  "sourceProductsChanged": false,
+  "existingOrdersChanged": false,
+  "paymentsRetried": false,
+  "publicCutoverPerformed": false,
+  "mainSiteRouting": {
+    "enabled": true,
+    "mappedProducts": 46,
+    "checksPassed": 56,
+    "ordersAndSessionsUnchanged": true,
+    "contentPricesAndArtworkUnchanged": true,
+    "cachePurgeAvailable": true,
+    "pluginSha256": "de3ad268bd6f3a834728e7d1a32e3730e1e10368b2f2c6ec76501b3247420b11"
+  }
+}

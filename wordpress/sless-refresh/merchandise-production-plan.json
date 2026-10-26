@@ -1,0 +1,5860 @@
+{
+  "status": "providers_selected",
+  "products": [
+    {
+      "sku": "SLESS-004",
+      "category": "Apparel",
+      "blueprintId": 706,
+      "catalogTitle": "Unisex Garment-Dyed T-shirt",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Unisex Garment-Dyed T-shirt",
+      "provider": {
+        "id": 29,
+        "title": "Monster Digital",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 73196,
+          "title": "S / Black",
+          "options": {
+            "size": "S",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3461,
+              "height": 3955
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3461,
+              "height": 3955
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 73200,
+          "title": "M / Black",
+          "options": {
+            "size": "M",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3839,
+              "height": 4387
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3839,
+              "height": 4387
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 73204,
+          "title": "L / Black",
+          "options": {
+            "size": "L",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 73208,
+          "title": "XL / Black",
+          "options": {
+            "size": "XL",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 73212,
+          "title": "2XL / Black",
+          "options": {
+            "size": "2XL",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 79114,
+          "title": "3XL / Black",
+          "options": {
+            "size": "3XL",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        }
+      ],
+      "primaryVariantId": 73204,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dtg",
+          "width": 4200,
+          "height": 4800
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 4200,
+          "height": 4800,
+          "sha256": "0d3a70b9d8f8c2b31b1b487e541552824346f4bf4a41bdb603b22f03b3a1247f",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-004-front-0d3a70b9d8f8.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-004-front-0d3a70b9d8f8.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-005",
+      "category": "Apparel",
+      "blueprintId": 2051,
+      "catalogTitle": "Unisex Oversized Garment-Dyed T-Shirt",
+      "collection": "Halloween",
+      "listingTitle": "Sless After Dark — Halloween Oversized Tee",
+      "provider": {
+        "id": 99,
+        "title": "Printify Choice",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 125656,
+          "title": "L / Light Washed Denim",
+          "options": {
+            "size": "L",
+            "color": "Light Washed Denim"
+          },
+          "placeholders": [
+            {
+              "position": "left_sleeve",
+              "decoration_method": "dtg",
+              "width": 1050,
+              "height": 1050
+            },
+            {
+              "position": "right_sleeve",
+              "decoration_method": "dtg",
+              "width": 1050,
+              "height": 1050
+            },
+            {
+              "position": "neck_outer",
+              "decoration_method": "dtg",
+              "width": 750,
+              "height": 750
+            },
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3839,
+              "height": 4387
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 125659,
+          "title": "3XL / Light Washed Denim",
+          "options": {
+            "color": "Light Washed Denim",
+            "size": "3XL"
+          },
+          "placeholders": [
+            {
+              "position": "left_sleeve",
+              "decoration_method": "dtg",
+              "width": 1050,
+              "height": 1050
+            },
+            {
+              "position": "right_sleeve",
+              "decoration_method": "dtg",
+              "width": 1050,
+              "height": 1050
+            },
+            {
+              "position": "neck_outer",
+              "decoration_method": "dtg",
+              "width": 750,
+              "height": 750
+            },
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3839,
+              "height": 4387
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        }
+      ],
+      "primaryVariantId": 125656,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dtg",
+          "width": 4200,
+          "height": 4800
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 3839,
+          "height": 4387,
+          "sha256": "9ab390c972d4e41858ec35a488551b3eb7a030be4021590180de9e009e862fd9",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-005-front-9ab390c972d4.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-005-front-9ab390c972d4.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-006",
+      "category": "Apparel",
+      "blueprintId": 12,
+      "catalogTitle": "Unisex Jersey Short Sleeve Tee",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Unisex Jersey Short Sleeve Tee",
+      "provider": {
+        "id": 29,
+        "title": "Monster Digital",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 18100,
+          "title": "Black / S",
+          "options": {
+            "color": "Black",
+            "size": "S"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3319,
+              "height": 3761
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3319,
+              "height": 3761
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 18101,
+          "title": "Black / M",
+          "options": {
+            "color": "Black",
+            "size": "M"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3909,
+              "height": 4431
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3909,
+              "height": 4431
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 18102,
+          "title": "Black / L",
+          "options": {
+            "color": "Black",
+            "size": "L"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 18103,
+          "title": "Black / XL",
+          "options": {
+            "color": "Black",
+            "size": "XL"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 18104,
+          "title": "Black / 2XL",
+          "options": {
+            "color": "Black",
+            "size": "2XL"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 18105,
+          "title": "Black / 3XL",
+          "options": {
+            "color": "Black",
+            "size": "3XL"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        }
+      ],
+      "primaryVariantId": 18102,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dtg",
+          "width": 4500,
+          "height": 5100
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 4500,
+          "height": 5100,
+          "sha256": "807dda057464c4cea7e2237c758c42bac619699c628635e4046f0707f64a0162",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-006-front-807dda057464.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-006-front-807dda057464.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-007",
+      "category": "Apparel",
+      "blueprintId": 5,
+      "catalogTitle": "Unisex Cotton Crew Tee",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Unisex Cotton Crew Tee",
+      "provider": {
+        "id": 29,
+        "title": "Monster Digital",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 17391,
+          "title": "Heather Grey / S",
+          "options": {
+            "color": "Heather Grey",
+            "size": "S"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3319,
+              "height": 3761
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3319,
+              "height": 3761
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 17392,
+          "title": "Heather Grey / M",
+          "options": {
+            "color": "Heather Grey",
+            "size": "M"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3909,
+              "height": 4431
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3909,
+              "height": 4431
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 17393,
+          "title": "Heather Grey / L",
+          "options": {
+            "color": "Heather Grey",
+            "size": "L"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 17394,
+          "title": "Heather Grey / XL",
+          "options": {
+            "color": "Heather Grey",
+            "size": "XL"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 17395,
+          "title": "Heather Grey / 2XL",
+          "options": {
+            "color": "Heather Grey",
+            "size": "2XL"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 17396,
+          "title": "Heather Grey / 3XL",
+          "options": {
+            "color": "Heather Grey",
+            "size": "3XL"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        }
+      ],
+      "primaryVariantId": 17393,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dtg",
+          "width": 4500,
+          "height": 5100
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 4500,
+          "height": 5100,
+          "sha256": "c4bd9647a7452f8342d77044ae1868f6fffdf6beb115244ccd167f688b6f7b81",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-007-front-c4bd9647a745.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-007-front-c4bd9647a745.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-008",
+      "category": "Apparel",
+      "blueprintId": 184,
+      "catalogTitle": "Unisex Triblend Tee",
+      "collection": "Thanksgiving",
+      "listingTitle": "More Gratitude — Thanksgiving Triblend Tee",
+      "provider": {
+        "id": 61,
+        "title": "Dimona Tee",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 40474,
+          "title": "Black Heather / S",
+          "options": {
+            "color": "Black Heather",
+            "size": "S"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3319,
+              "height": 3761
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3319,
+              "height": 3761
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 40567,
+          "title": "Black Heather / M",
+          "options": {
+            "color": "Black Heather",
+            "size": "M"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3909,
+              "height": 4431
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3909,
+              "height": 4431
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 40660,
+          "title": "Black Heather / L",
+          "options": {
+            "color": "Black Heather",
+            "size": "L"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 40753,
+          "title": "Black Heather / XL",
+          "options": {
+            "color": "Black Heather",
+            "size": "XL"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 40846,
+          "title": "Black Heather / 2XL",
+          "options": {
+            "color": "Black Heather",
+            "size": "2XL"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        }
+      ],
+      "primaryVariantId": 40660,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dtg",
+          "width": 4500,
+          "height": 5100
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 4500,
+          "height": 5100,
+          "sha256": "3e0367587c23fd444872dcb15ed0ddef6dd15a5eb01235a62d80887249a55896",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-008-front-3e0367587c23.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-008-front-3e0367587c23.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-009",
+      "category": "Apparel",
+      "blueprintId": 48,
+      "catalogTitle": "Unisex Jersey Short Sleeve V-Neck Tee",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Unisex Jersey Short Sleeve V-Neck Tee",
+      "provider": {
+        "id": 29,
+        "title": "Monster Digital",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 23655,
+          "title": "S / Black",
+          "options": {
+            "size": "S",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3319,
+              "height": 3761
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3319,
+              "height": 3761
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 23694,
+          "title": "M / Black",
+          "options": {
+            "size": "M",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3909,
+              "height": 4431
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3909,
+              "height": 4431
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 23733,
+          "title": "L / Black",
+          "options": {
+            "size": "L",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 23772,
+          "title": "XL / Black",
+          "options": {
+            "size": "XL",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 23811,
+          "title": "2XL / Black",
+          "options": {
+            "size": "2XL",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        }
+      ],
+      "primaryVariantId": 23733,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dtg",
+          "width": 4500,
+          "height": 5100
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 4500,
+          "height": 5100,
+          "sha256": "6ef3105bca3e1371176ff2c8c4b0dfee0e48c77ad36f33cc2124b71c60a62919",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-009-front-6ef3105bca3e.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-009-front-6ef3105bca3e.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-010",
+      "category": "Apparel",
+      "blueprintId": 41,
+      "catalogTitle": "Unisex Jersey Long Sleeve Tee",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Unisex Jersey Long Sleeve Tee",
+      "provider": {
+        "id": 29,
+        "title": "Monster Digital",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 24996,
+          "title": "L / Black",
+          "options": {
+            "size": "L",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 24997,
+          "title": "M / Black",
+          "options": {
+            "size": "M",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3461,
+              "height": 3955
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3461,
+              "height": 3955
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 24998,
+          "title": "S / Black",
+          "options": {
+            "size": "S",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3213,
+              "height": 3672
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3213,
+              "height": 3672
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 24999,
+          "title": "XL / Black",
+          "options": {
+            "size": "XL",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 25000,
+          "title": "2XL / Black",
+          "options": {
+            "size": "2XL",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        }
+      ],
+      "primaryVariantId": 24996,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dtg",
+          "width": 4200,
+          "height": 4800
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 4200,
+          "height": 4800,
+          "sha256": "5eae6ffa29b4e03a993011f36ffd637cbfd82a61f1aad3232db85cf168fd305f",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-010-front-5eae6ffa29b4.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-010-front-5eae6ffa29b4.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-011",
+      "category": "Apparel",
+      "blueprintId": 710,
+      "catalogTitle": "Unisex Garment-dyed Long Sleeve T-Shirt",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Unisex Garment-dyed Long Sleeve T-Shirt",
+      "provider": {
+        "id": 39,
+        "title": "SwiftPOD",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 73218,
+          "title": "Black / S",
+          "options": {
+            "color": "Black",
+            "size": "S"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3461,
+              "height": 3955
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3461,
+              "height": 3955
+            },
+            {
+              "position": "left_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            },
+            {
+              "position": "right_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 73220,
+          "title": "Black / M",
+          "options": {
+            "color": "Black",
+            "size": "M"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3839,
+              "height": 4387
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3839,
+              "height": 4387
+            },
+            {
+              "position": "left_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            },
+            {
+              "position": "right_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 73222,
+          "title": "Black / L",
+          "options": {
+            "color": "Black",
+            "size": "L"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "left_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            },
+            {
+              "position": "right_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 73224,
+          "title": "Black / XL",
+          "options": {
+            "color": "Black",
+            "size": "XL"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "left_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            },
+            {
+              "position": "right_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 73226,
+          "title": "Black / 2XL",
+          "options": {
+            "color": "Black",
+            "size": "2XL"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "left_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            },
+            {
+              "position": "right_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 98893,
+          "title": "Black / 3XL",
+          "options": {
+            "color": "Black",
+            "size": "3XL"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "left_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            },
+            {
+              "position": "right_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        }
+      ],
+      "primaryVariantId": 73222,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dtg",
+          "width": 4200,
+          "height": 4800
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 4200,
+          "height": 4800,
+          "sha256": "094792abb3b17743be072f936e703bb676f1ebbf8025527ab60f1233c06e8d57",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-011-front-094792abb3b1.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-011-front-094792abb3b1.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-012",
+      "category": "Apparel",
+      "blueprintId": 79,
+      "catalogTitle": "Unisex 3\\4 Sleeve Baseball Tee",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Unisex 3\\4 Sleeve Baseball Tee",
+      "provider": {
+        "id": 6,
+        "title": "T Shirt and Sons",
+        "country": "GB"
+      },
+      "variants": [
+        {
+          "id": 33522,
+          "title": "White/True Royal / S",
+          "options": {
+            "color": "White/True Royal",
+            "size": "S"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 2419,
+              "height": 2761
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 2419,
+              "height": 2761
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 33523,
+          "title": "White/True Royal / M",
+          "options": {
+            "color": "White/True Royal",
+            "size": "M"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3009,
+              "height": 3436
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3009,
+              "height": 3436
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 33524,
+          "title": "White/True Royal / L",
+          "options": {
+            "color": "White/True Royal",
+            "size": "L"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3600,
+              "height": 4110
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3600,
+              "height": 4110
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 33525,
+          "title": "White/True Royal / XL",
+          "options": {
+            "color": "White/True Royal",
+            "size": "XL"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3600,
+              "height": 4110
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3600,
+              "height": 4110
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        }
+      ],
+      "primaryVariantId": 33524,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dtg",
+          "width": 3600,
+          "height": 4110
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 3600,
+          "height": 4110,
+          "sha256": "425bc4421509d5ec368730ebd6a722c2fdfb00758f9de95c9d019b856e4a7002",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-012-front-425bc4421509.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-012-front-425bc4421509.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-013",
+      "category": "Apparel",
+      "blueprintId": 39,
+      "catalogTitle": "Unisex Jersey Tank",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Unisex Jersey Tank",
+      "provider": {
+        "id": 29,
+        "title": "Monster Digital",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 24639,
+          "title": "L / Black",
+          "options": {
+            "size": "L",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3000,
+              "height": 3600
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3000,
+              "height": 3600
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 591,
+              "height": 591
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 24640,
+          "title": "M / Black",
+          "options": {
+            "size": "M",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 2729,
+              "height": 3275
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 2729,
+              "height": 3275
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 591,
+              "height": 591
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 24641,
+          "title": "S / Black",
+          "options": {
+            "size": "S",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 2458,
+              "height": 2950
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 2458,
+              "height": 2950
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 591,
+              "height": 591
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 24642,
+          "title": "XL / Black",
+          "options": {
+            "size": "XL",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3000,
+              "height": 3600
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3000,
+              "height": 3600
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 591,
+              "height": 591
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 24643,
+          "title": "XS / Black",
+          "options": {
+            "size": "XS",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 2193,
+              "height": 2631
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 2193,
+              "height": 2631
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 591,
+              "height": 591
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 24644,
+          "title": "2XL / Black",
+          "options": {
+            "size": "2XL",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3000,
+              "height": 3600
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3000,
+              "height": 3600
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 591,
+              "height": 591
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        }
+      ],
+      "primaryVariantId": 24639,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dtg",
+          "width": 3000,
+          "height": 3600
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 3000,
+          "height": 3600,
+          "sha256": "b9126688b3083d8f41afec59609c09c04c40b267dea8d6960ffea73e31de7d6c",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-013-front-b9126688b308.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-013-front-b9126688b308.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-014",
+      "category": "Apparel",
+      "blueprintId": 18,
+      "catalogTitle": "Women's Ideal Racerback Tank",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Women's Ideal Racerback Tank",
+      "provider": {
+        "id": 29,
+        "title": "Monster Digital",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 19287,
+          "title": "S / Solid Black",
+          "options": {
+            "size": "S",
+            "color": "Solid Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 2684,
+              "height": 4563
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 19288,
+          "title": "M / Solid Black",
+          "options": {
+            "size": "M",
+            "color": "Solid Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 2833,
+              "height": 4817
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 19289,
+          "title": "L / Solid Black",
+          "options": {
+            "size": "L",
+            "color": "Solid Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3000,
+              "height": 5100
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 19290,
+          "title": "XL / Solid Black",
+          "options": {
+            "size": "XL",
+            "color": "Solid Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3000,
+              "height": 5100
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 19291,
+          "title": "2XL / Solid Black",
+          "options": {
+            "size": "2XL",
+            "color": "Solid Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3000,
+              "height": 5100
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 22208,
+          "title": "XS / Solid Black",
+          "options": {
+            "size": "XS",
+            "color": "Solid Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 2523,
+              "height": 4289
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        }
+      ],
+      "primaryVariantId": 19289,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dtg",
+          "width": 3000,
+          "height": 5100
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 3000,
+          "height": 5100,
+          "sha256": "57423be66511b14ce8887c02a0edc92e172e0a1cd25c4ee5787fa7b284e56521",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-014-front-57423be66511.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-014-front-57423be66511.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-015",
+      "category": "Apparel",
+      "blueprintId": 49,
+      "catalogTitle": "Unisex Heavy Blend™ Crewneck Sweatshirt",
+      "collection": "Christmas",
+      "listingTitle": "More Cheer — Christmas Crewneck",
+      "provider": {
+        "id": 29,
+        "title": "Monster Digital",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 25396,
+          "title": "S / White",
+          "options": {
+            "size": "S",
+            "color": "White"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3319,
+              "height": 3761
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3319,
+              "height": 3761
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 25427,
+          "title": "M / White",
+          "options": {
+            "size": "M",
+            "color": "White"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3909,
+              "height": 4431
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3909,
+              "height": 4431
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 25458,
+          "title": "L / White",
+          "options": {
+            "size": "L",
+            "color": "White"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 25489,
+          "title": "XL / White",
+          "options": {
+            "size": "XL",
+            "color": "White"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 25520,
+          "title": "2XL / White",
+          "options": {
+            "size": "2XL",
+            "color": "White"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 25551,
+          "title": "3XL / White",
+          "options": {
+            "size": "3XL",
+            "color": "White"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 5100
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        }
+      ],
+      "primaryVariantId": 25458,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dtg",
+          "width": 4500,
+          "height": 5100
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 4500,
+          "height": 5100,
+          "sha256": "3d09ec5f9d835ef82e3da8bf4bbbbfa9987b973c63464450885b0c4ed4de62c8",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-015-front-3d09ec5f9d83.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-015-front-3d09ec5f9d83.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-016",
+      "category": "Apparel",
+      "blueprintId": 1296,
+      "catalogTitle": "Unisex Garment-Dyed Sweatshirt",
+      "collection": "Thanksgiving",
+      "listingTitle": "More Gratitude — Thanksgiving Garment-Dyed Sweatshirt",
+      "provider": {
+        "id": 29,
+        "title": "Monster Digital",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 96919,
+          "title": "White / S",
+          "options": {
+            "color": "White",
+            "size": "S"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3283,
+              "height": 3749
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3283,
+              "height": 3749
+            },
+            {
+              "position": "front_center_chest",
+              "decoration_method": "embroidery",
+              "width": 1200,
+              "height": 1200
+            },
+            {
+              "position": "front_left_chest",
+              "decoration_method": "embroidery",
+              "width": 1200,
+              "height": 1200
+            }
+          ],
+          "decoration_methods": [
+            "dtg",
+            "embroidery"
+          ]
+        },
+        {
+          "id": 96920,
+          "title": "White / M",
+          "options": {
+            "color": "White",
+            "size": "M"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3461,
+              "height": 3955
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3461,
+              "height": 3955
+            },
+            {
+              "position": "front_center_chest",
+              "decoration_method": "embroidery",
+              "width": 1200,
+              "height": 1200
+            },
+            {
+              "position": "front_left_chest",
+              "decoration_method": "embroidery",
+              "width": 1200,
+              "height": 1200
+            }
+          ],
+          "decoration_methods": [
+            "dtg",
+            "embroidery"
+          ]
+        },
+        {
+          "id": 96921,
+          "title": "White / L",
+          "options": {
+            "color": "White",
+            "size": "L"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "front_center_chest",
+              "decoration_method": "embroidery",
+              "width": 1200,
+              "height": 1200
+            },
+            {
+              "position": "front_left_chest",
+              "decoration_method": "embroidery",
+              "width": 1200,
+              "height": 1200
+            }
+          ],
+          "decoration_methods": [
+            "dtg",
+            "embroidery"
+          ]
+        },
+        {
+          "id": 96922,
+          "title": "White / XL",
+          "options": {
+            "color": "White",
+            "size": "XL"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "front_center_chest",
+              "decoration_method": "embroidery",
+              "width": 1200,
+              "height": 1200
+            },
+            {
+              "position": "front_left_chest",
+              "decoration_method": "embroidery",
+              "width": 1200,
+              "height": 1200
+            }
+          ],
+          "decoration_methods": [
+            "dtg",
+            "embroidery"
+          ]
+        },
+        {
+          "id": 96923,
+          "title": "White / 2XL",
+          "options": {
+            "color": "White",
+            "size": "2XL"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "front_center_chest",
+              "decoration_method": "embroidery",
+              "width": 1200,
+              "height": 1200
+            },
+            {
+              "position": "front_left_chest",
+              "decoration_method": "embroidery",
+              "width": 1200,
+              "height": 1200
+            }
+          ],
+          "decoration_methods": [
+            "dtg",
+            "embroidery"
+          ]
+        },
+        {
+          "id": 102376,
+          "title": "White / 3XL",
+          "options": {
+            "color": "White",
+            "size": "3XL"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "front_center_chest",
+              "decoration_method": "embroidery",
+              "width": 1200,
+              "height": 1200
+            },
+            {
+              "position": "front_left_chest",
+              "decoration_method": "embroidery",
+              "width": 1200,
+              "height": 1200
+            }
+          ],
+          "decoration_methods": [
+            "dtg",
+            "embroidery"
+          ]
+        }
+      ],
+      "primaryVariantId": 96921,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dtg",
+          "width": 4200,
+          "height": 4800
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 4200,
+          "height": 4800,
+          "sha256": "d2c5af3dce96599ceabf0a7590e9ffb4640a5ca4bee4498af2c9a82c072f28e9",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-016-front-d2c5af3dce96.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-016-front-d2c5af3dce96.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-017",
+      "category": "Apparel",
+      "blueprintId": 77,
+      "catalogTitle": "Unisex Heavy Blend™ Hooded Sweatshirt",
+      "collection": "Halloween",
+      "listingTitle": "Sless After Dark — Halloween Hoodie",
+      "provider": {
+        "id": 29,
+        "title": "Monster Digital",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 32918,
+          "title": "Black / S",
+          "options": {
+            "color": "Black",
+            "size": "S"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3709,
+              "height": 2472
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3461,
+              "height": 3955
+            },
+            {
+              "position": "left_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            },
+            {
+              "position": "right_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 32919,
+          "title": "Black / M",
+          "options": {
+            "color": "Black",
+            "size": "M"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4110,
+              "height": 2740
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3839,
+              "height": 4387
+            },
+            {
+              "position": "left_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            },
+            {
+              "position": "right_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 32920,
+          "title": "Black / L",
+          "options": {
+            "color": "Black",
+            "size": "L"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 3000
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "left_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            },
+            {
+              "position": "right_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 32921,
+          "title": "Black / XL",
+          "options": {
+            "color": "Black",
+            "size": "XL"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 3000
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "left_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            },
+            {
+              "position": "right_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 32922,
+          "title": "Black / 2XL",
+          "options": {
+            "color": "Black",
+            "size": "2XL"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 3000
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "left_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            },
+            {
+              "position": "right_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 32923,
+          "title": "Black / 3XL",
+          "options": {
+            "color": "Black",
+            "size": "3XL"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 3000
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            },
+            {
+              "position": "left_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            },
+            {
+              "position": "right_sleeve",
+              "decoration_method": "dtg",
+              "width": 1181,
+              "height": 4134
+            },
+            {
+              "position": "neck",
+              "decoration_method": "dtf",
+              "width": 750,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        }
+      ],
+      "primaryVariantId": 32920,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dtg",
+          "width": 4500,
+          "height": 3000
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 4500,
+          "height": 3000,
+          "sha256": "9b5f51ae0bec9b18582e5191d43d4435b06617108747ccdd5377fa9b00640d20",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-017-front-9b5f51ae0bec.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-017-front-9b5f51ae0bec.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-018",
+      "category": "Apparel",
+      "blueprintId": 175,
+      "catalogTitle": "Unisex Sponge Fleece Pullover Hoodie",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Unisex Sponge Fleece Pullover Hoodie",
+      "provider": {
+        "id": 74,
+        "title": "Ink Blot",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 39826,
+          "title": "Black / S",
+          "options": {
+            "color": "Black",
+            "size": "S"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3543,
+              "height": 2721
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3543,
+              "height": 4303
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 39844,
+          "title": "Black / M",
+          "options": {
+            "color": "Black",
+            "size": "M"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3780,
+              "height": 2902
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3780,
+              "height": 4589
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 39862,
+          "title": "Black / L",
+          "options": {
+            "color": "Black",
+            "size": "L"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 3225
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 5100
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 39880,
+          "title": "Black / XL",
+          "options": {
+            "color": "Black",
+            "size": "XL"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 3225
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 5100
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 39898,
+          "title": "Black / 2XL",
+          "options": {
+            "color": "Black",
+            "size": "2XL"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 3225
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 5100
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 64451,
+          "title": "Black / XS",
+          "options": {
+            "color": "Black",
+            "size": "XS"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3307,
+              "height": 2538
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3307,
+              "height": 4015
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 71381,
+          "title": "Black / 3XL",
+          "options": {
+            "color": "Black",
+            "size": "3XL"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 3225
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 5100
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        }
+      ],
+      "primaryVariantId": 39862,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dtg",
+          "width": 4200,
+          "height": 3225
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 4200,
+          "height": 3225,
+          "sha256": "ac4de8401d732574401a033179235b9be2ef4cc75e7ef645522e1bf1ed2a8eca",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-018-front-ac4de8401d73.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-018-front-ac4de8401d73.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-019",
+      "category": "Apparel",
+      "blueprintId": 66,
+      "catalogTitle": "Unisex Heavy Blend™ Full Zip Hooded Sweatshirt",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Unisex Heavy Blend™ Full Zip Hooded Sweatshirt",
+      "provider": {
+        "id": 29,
+        "title": "Monster Digital",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 31930,
+          "title": "S / Black",
+          "options": {
+            "size": "S",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3709,
+              "height": 2472
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3461,
+              "height": 3955
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 31940,
+          "title": "M / Black",
+          "options": {
+            "size": "M",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4110,
+              "height": 2740
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3839,
+              "height": 4387
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 31950,
+          "title": "L / Black",
+          "options": {
+            "size": "L",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 3000
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 31960,
+          "title": "XL / Black",
+          "options": {
+            "size": "XL",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 3000
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 31970,
+          "title": "2XL / Black",
+          "options": {
+            "size": "2XL",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 3000
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        },
+        {
+          "id": 32791,
+          "title": "3XL / Black",
+          "options": {
+            "size": "3XL",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 4500,
+              "height": 3000
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 4200,
+              "height": 4800
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        }
+      ],
+      "primaryVariantId": 31950,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dtg",
+          "width": 4500,
+          "height": 3000
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 4500,
+          "height": 3000,
+          "sha256": "9953cf1b7485f2e444d05d30fb909119d3f5ab60251c54a3d4af5a559e69049a",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-019-front-9953cf1b7485.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-019-front-9953cf1b7485.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-020",
+      "category": "Apparel",
+      "blueprintId": 591,
+      "catalogTitle": "Athletic Joggers (AOP)",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Athletic Joggers (AOP)",
+      "provider": {
+        "id": 83,
+        "title": "Subliminator",
+        "country": "NL"
+      },
+      "variants": [
+        {
+          "id": 72926,
+          "title": "S / Seam thread color automatically matched to design",
+          "options": {
+            "size": "S",
+            "color": "Seam thread color automatically matched to design"
+          },
+          "placeholders": [
+            {
+              "position": "right_leg",
+              "decoration_method": "aop",
+              "width": 8002,
+              "height": 8002
+            },
+            {
+              "position": "left_leg",
+              "decoration_method": "aop",
+              "width": 8002,
+              "height": 8002
+            },
+            {
+              "position": "pocket",
+              "decoration_method": "aop",
+              "width": 5002,
+              "height": 5002
+            },
+            {
+              "position": "waistband",
+              "decoration_method": "aop",
+              "width": 8002,
+              "height": 2002
+            }
+          ],
+          "decoration_methods": [
+            "aop"
+          ]
+        },
+        {
+          "id": 72927,
+          "title": "M / Seam thread color automatically matched to design",
+          "options": {
+            "size": "M",
+            "color": "Seam thread color automatically matched to design"
+          },
+          "placeholders": [
+            {
+              "position": "right_leg",
+              "decoration_method": "aop",
+              "width": 8002,
+              "height": 8002
+            },
+            {
+              "position": "left_leg",
+              "decoration_method": "aop",
+              "width": 8002,
+              "height": 8002
+            },
+            {
+              "position": "pocket",
+              "decoration_method": "aop",
+              "width": 5002,
+              "height": 5002
+            },
+            {
+              "position": "waistband",
+              "decoration_method": "aop",
+              "width": 8002,
+              "height": 2002
+            }
+          ],
+          "decoration_methods": [
+            "aop"
+          ]
+        },
+        {
+          "id": 72928,
+          "title": "L / Seam thread color automatically matched to design",
+          "options": {
+            "size": "L",
+            "color": "Seam thread color automatically matched to design"
+          },
+          "placeholders": [
+            {
+              "position": "right_leg",
+              "decoration_method": "aop",
+              "width": 8002,
+              "height": 8002
+            },
+            {
+              "position": "left_leg",
+              "decoration_method": "aop",
+              "width": 8002,
+              "height": 8002
+            },
+            {
+              "position": "pocket",
+              "decoration_method": "aop",
+              "width": 5002,
+              "height": 5002
+            },
+            {
+              "position": "waistband",
+              "decoration_method": "aop",
+              "width": 8002,
+              "height": 2002
+            }
+          ],
+          "decoration_methods": [
+            "aop"
+          ]
+        },
+        {
+          "id": 72929,
+          "title": "XL / Seam thread color automatically matched to design",
+          "options": {
+            "size": "XL",
+            "color": "Seam thread color automatically matched to design"
+          },
+          "placeholders": [
+            {
+              "position": "right_leg",
+              "decoration_method": "aop",
+              "width": 8002,
+              "height": 8002
+            },
+            {
+              "position": "left_leg",
+              "decoration_method": "aop",
+              "width": 8002,
+              "height": 8002
+            },
+            {
+              "position": "pocket",
+              "decoration_method": "aop",
+              "width": 5002,
+              "height": 5002
+            },
+            {
+              "position": "waistband",
+              "decoration_method": "aop",
+              "width": 8002,
+              "height": 2002
+            }
+          ],
+          "decoration_methods": [
+            "aop"
+          ]
+        },
+        {
+          "id": 72930,
+          "title": "2XL / Seam thread color automatically matched to design",
+          "options": {
+            "size": "2XL",
+            "color": "Seam thread color automatically matched to design"
+          },
+          "placeholders": [
+            {
+              "position": "right_leg",
+              "decoration_method": "aop",
+              "width": 8002,
+              "height": 8002
+            },
+            {
+              "position": "left_leg",
+              "decoration_method": "aop",
+              "width": 8002,
+              "height": 8002
+            },
+            {
+              "position": "pocket",
+              "decoration_method": "aop",
+              "width": 5002,
+              "height": 5002
+            },
+            {
+              "position": "waistband",
+              "decoration_method": "aop",
+              "width": 8002,
+              "height": 2002
+            }
+          ],
+          "decoration_methods": [
+            "aop"
+          ]
+        },
+        {
+          "id": 72931,
+          "title": "3XL / Seam thread color automatically matched to design",
+          "options": {
+            "size": "3XL",
+            "color": "Seam thread color automatically matched to design"
+          },
+          "placeholders": [
+            {
+              "position": "right_leg",
+              "decoration_method": "aop",
+              "width": 8002,
+              "height": 8002
+            },
+            {
+              "position": "left_leg",
+              "decoration_method": "aop",
+              "width": 8002,
+              "height": 8002
+            },
+            {
+              "position": "pocket",
+              "decoration_method": "aop",
+              "width": 5002,
+              "height": 5002
+            },
+            {
+              "position": "waistband",
+              "decoration_method": "aop",
+              "width": 8002,
+              "height": 2002
+            }
+          ],
+          "decoration_methods": [
+            "aop"
+          ]
+        }
+      ],
+      "primaryVariantId": 72928,
+      "positions": [
+        {
+          "position": "right_leg",
+          "decoration_method": "aop",
+          "width": 8002,
+          "height": 8002
+        },
+        {
+          "position": "left_leg",
+          "decoration_method": "aop",
+          "width": 8002,
+          "height": 8002
+        },
+        {
+          "position": "pocket",
+          "decoration_method": "aop",
+          "width": 5002,
+          "height": 5002
+        },
+        {
+          "position": "waistband",
+          "decoration_method": "aop",
+          "width": 8002,
+          "height": 2002
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "right_leg",
+          "width": 8002,
+          "height": 8002,
+          "sha256": "34b36d2eef802089dca0a1a971b6b4936ecafbbd98b0580aa0fda7eb231be969",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-020-right_leg-34b36d2eef80.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-020-right_leg-34b36d2eef80.png"
+        },
+        {
+          "position": "left_leg",
+          "width": 8002,
+          "height": 8002,
+          "sha256": "34b36d2eef802089dca0a1a971b6b4936ecafbbd98b0580aa0fda7eb231be969",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-020-left_leg-34b36d2eef80.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-020-left_leg-34b36d2eef80.png"
+        },
+        {
+          "position": "pocket",
+          "width": 5002,
+          "height": 5002,
+          "sha256": "794462f925d61d6c84b01237ca7f6ba7280628b729506e494fb02f32d6402371",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-020-pocket-794462f925d6.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-020-pocket-794462f925d6.png"
+        },
+        {
+          "position": "waistband",
+          "width": 8002,
+          "height": 2002,
+          "sha256": "7cf8086fb48d8ce0c2e8d5af259f7d583c6f34dc178f7ccedf7da0ecfd3ca9ba",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-020-waistband-7cf8086fb48d.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-020-waistband-7cf8086fb48d.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-021",
+      "category": "Apparel",
+      "blueprintId": 948,
+      "catalogTitle": "Basketball Shorts (AOP)",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Basketball Shorts (AOP)",
+      "provider": {
+        "id": 47,
+        "title": "Miami Sublimation",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 78572,
+          "title": "Seam thread color automatically matched to design / S",
+          "options": {
+            "color": "Seam thread color automatically matched to design",
+            "size": "S"
+          },
+          "placeholders": [
+            {
+              "position": "right_leg",
+              "decoration_method": "aop",
+              "width": 5445,
+              "height": 4195
+            },
+            {
+              "position": "left_leg",
+              "decoration_method": "aop",
+              "width": 5445,
+              "height": 4195
+            }
+          ],
+          "decoration_methods": [
+            "aop"
+          ]
+        },
+        {
+          "id": 78573,
+          "title": "Seam thread color automatically matched to design / M",
+          "options": {
+            "color": "Seam thread color automatically matched to design",
+            "size": "M"
+          },
+          "placeholders": [
+            {
+              "position": "right_leg",
+              "decoration_method": "aop",
+              "width": 5541,
+              "height": 4269
+            },
+            {
+              "position": "left_leg",
+              "decoration_method": "aop",
+              "width": 5536,
+              "height": 4266
+            }
+          ],
+          "decoration_methods": [
+            "aop"
+          ]
+        },
+        {
+          "id": 78574,
+          "title": "Seam thread color automatically matched to design / L",
+          "options": {
+            "color": "Seam thread color automatically matched to design",
+            "size": "L"
+          },
+          "placeholders": [
+            {
+              "position": "right_leg",
+              "decoration_method": "aop",
+              "width": 5632,
+              "height": 4340
+            },
+            {
+              "position": "left_leg",
+              "decoration_method": "aop",
+              "width": 5632,
+              "height": 4340
+            }
+          ],
+          "decoration_methods": [
+            "aop"
+          ]
+        },
+        {
+          "id": 78575,
+          "title": "Seam thread color automatically matched to design / XL",
+          "options": {
+            "color": "Seam thread color automatically matched to design",
+            "size": "XL"
+          },
+          "placeholders": [
+            {
+              "position": "right_leg",
+              "decoration_method": "aop",
+              "width": 5734,
+              "height": 4418
+            },
+            {
+              "position": "left_leg",
+              "decoration_method": "aop",
+              "width": 5734,
+              "height": 4418
+            }
+          ],
+          "decoration_methods": [
+            "aop"
+          ]
+        },
+        {
+          "id": 78576,
+          "title": "Seam thread color automatically matched to design / 2XL",
+          "options": {
+            "color": "Seam thread color automatically matched to design",
+            "size": "2XL"
+          },
+          "placeholders": [
+            {
+              "position": "right_leg",
+              "decoration_method": "aop",
+              "width": 5734,
+              "height": 4418
+            },
+            {
+              "position": "left_leg",
+              "decoration_method": "aop",
+              "width": 5734,
+              "height": 4418
+            }
+          ],
+          "decoration_methods": [
+            "aop"
+          ]
+        },
+        {
+          "id": 79955,
+          "title": "Seam thread color automatically matched to design / XS",
+          "options": {
+            "color": "Seam thread color automatically matched to design",
+            "size": "XS"
+          },
+          "placeholders": [
+            {
+              "position": "right_leg",
+              "decoration_method": "aop",
+              "width": 5328,
+              "height": 4105
+            },
+            {
+              "position": "left_leg",
+              "decoration_method": "aop",
+              "width": 5328,
+              "height": 4105
+            }
+          ],
+          "decoration_methods": [
+            "aop"
+          ]
+        }
+      ],
+      "primaryVariantId": 78574,
+      "positions": [
+        {
+          "position": "right_leg",
+          "decoration_method": "aop",
+          "width": 5632,
+          "height": 4340
+        },
+        {
+          "position": "left_leg",
+          "decoration_method": "aop",
+          "width": 5632,
+          "height": 4340
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "right_leg",
+          "width": 5632,
+          "height": 4340,
+          "sha256": "ab66597ccc8d2a9cde8da392096b739192179799419d8bfaa8271aa686b866d2",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-021-right_leg-ab66597ccc8d.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-021-right_leg-ab66597ccc8d.png"
+        },
+        {
+          "position": "left_leg",
+          "width": 5632,
+          "height": 4340,
+          "sha256": "ab66597ccc8d2a9cde8da392096b739192179799419d8bfaa8271aa686b866d2",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-021-left_leg-ab66597ccc8d.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-021-left_leg-ab66597ccc8d.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-022",
+      "category": "Headwear",
+      "blueprintId": 1108,
+      "catalogTitle": "Low Profile Baseball Cap",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Low Profile Baseball Cap",
+      "provider": {
+        "id": 41,
+        "title": "Duplium",
+        "country": "CA"
+      },
+      "variants": [
+        {
+          "id": 104278,
+          "title": "Black / One size",
+          "options": {
+            "color": "Black",
+            "size": "One size"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtf",
+              "width": 1275,
+              "height": 600
+            }
+          ],
+          "decoration_methods": [
+            "dtf"
+          ]
+        }
+      ],
+      "primaryVariantId": 104278,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dtf",
+          "width": 1275,
+          "height": 600
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 1275,
+          "height": 600,
+          "sha256": "30a916887e5704422d546b90e8a1c63a5318178a63d83ee6348aff68c4835d1c",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-022-front-30a916887e57.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-022-front-30a916887e57.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-023",
+      "category": "Headwear",
+      "blueprintId": 1128,
+      "catalogTitle": "Trucker Caps",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Trucker Caps",
+      "provider": {
+        "id": 41,
+        "title": "Duplium",
+        "country": "CA"
+      },
+      "variants": [
+        {
+          "id": 84650,
+          "title": "Black / One size",
+          "options": {
+            "color": "Black",
+            "size": "One size"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtf",
+              "width": 1650,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dtf"
+          ]
+        }
+      ],
+      "primaryVariantId": 84650,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dtf",
+          "width": 1650,
+          "height": 750
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 1650,
+          "height": 750,
+          "sha256": "efb3eda6067d194e0bcb7c780978312bbc25062c26e5aa6be4bed92a1933edc7",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-023-front-efb3eda6067d.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-023-front-efb3eda6067d.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-024",
+      "category": "Headwear",
+      "blueprintId": 1446,
+      "catalogTitle": "Snapback Trucker Cap",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Snapback Trucker Cap",
+      "provider": {
+        "id": 217,
+        "title": "Fulfill Engine",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 105362,
+          "title": "Black / One size",
+          "options": {
+            "color": "Black",
+            "size": "One size"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "embroidery",
+              "width": 1200,
+              "height": 675
+            }
+          ],
+          "decoration_methods": [
+            "embroidery"
+          ]
+        }
+      ],
+      "primaryVariantId": 105362,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "embroidery",
+          "width": 1200,
+          "height": 675
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 1200,
+          "height": 675,
+          "sha256": "aad639017a21e7d2f70e20c4aa9373cf87db9143b9ce6bda1a430d1ddb92dbd6",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-024-front-aad639017a21.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-024-front-aad639017a21.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-025",
+      "category": "Headwear",
+      "blueprintId": 1447,
+      "catalogTitle": "Classic Dad Cap",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Classic Dad Cap",
+      "provider": {
+        "id": 410,
+        "title": "Printful",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 105372,
+          "title": "Black / One size",
+          "options": {
+            "color": "Black",
+            "size": "One size"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "embroidery",
+              "width": 1200,
+              "height": 675
+            },
+            {
+              "position": "back_hat_embroidery",
+              "decoration_method": "embroidery",
+              "width": 600,
+              "height": 300
+            },
+            {
+              "position": "right_hat_embroidery",
+              "decoration_method": "embroidery",
+              "width": 600,
+              "height": 300
+            },
+            {
+              "position": "left_hat_embroidery",
+              "decoration_method": "embroidery",
+              "width": 600,
+              "height": 300
+            },
+            {
+              "position": "front_dtf",
+              "decoration_method": "dtf",
+              "width": 1500,
+              "height": 600
+            }
+          ],
+          "decoration_methods": [
+            "dtf",
+            "embroidery"
+          ]
+        }
+      ],
+      "primaryVariantId": 105372,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "embroidery",
+          "width": 1200,
+          "height": 675
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 1200,
+          "height": 675,
+          "sha256": "2b7f5b4dbbd8005b16cef93968fde20221a8e4c9958d074bf7bee1415c38fb7c",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-025-front-2b7f5b4dbbd8.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-025-front-2b7f5b4dbbd8.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-026",
+      "category": "Headwear",
+      "blueprintId": 1691,
+      "catalogTitle": "Classic Cuffed Beanie (Embroidery)",
+      "collection": "Christmas",
+      "listingTitle": "Sless Holiday Star — Christmas Embroidered Beanie",
+      "provider": {
+        "id": 410,
+        "title": "Printful",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 116417,
+          "title": "Black / One size",
+          "options": {
+            "color": "Black",
+            "size": "One size"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "embroidery",
+              "width": 1500,
+              "height": 525
+            }
+          ],
+          "decoration_methods": [
+            "embroidery"
+          ]
+        }
+      ],
+      "primaryVariantId": 116417,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "embroidery",
+          "width": 1500,
+          "height": 525
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 1500,
+          "height": 525,
+          "sha256": "4a6c1121dd36d8ad96dfd48497669162ee587cda9cf98740213567565251aef7",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-026-front-4a6c1121dd36.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-026-front-4a6c1121dd36.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-027",
+      "category": "Bags",
+      "blueprintId": 553,
+      "catalogTitle": "Cotton Tote Bag",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Cotton Tote Bag",
+      "provider": {
+        "id": 217,
+        "title": "Fulfill Engine",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 150646,
+          "title": "One size / Camel",
+          "options": {
+            "size": "One size",
+            "color": "Camel"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3000,
+              "height": 2400
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3000,
+              "height": 2400
+            },
+            {
+              "position": "front_dtf",
+              "decoration_method": "dtf",
+              "width": 3000,
+              "height": 2400
+            },
+            {
+              "position": "front_embroidery",
+              "decoration_method": "embroidery",
+              "width": 1800,
+              "height": 1800
+            },
+            {
+              "position": "back_dtf",
+              "decoration_method": "dtf",
+              "width": 3000,
+              "height": 2400
+            },
+            {
+              "position": "back_embroidery",
+              "decoration_method": "embroidery",
+              "width": 1800,
+              "height": 1800
+            }
+          ],
+          "decoration_methods": [
+            "dtf",
+            "dtg",
+            "embroidery"
+          ]
+        }
+      ],
+      "primaryVariantId": 150646,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dtg",
+          "width": 3000,
+          "height": 2400
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 3000,
+          "height": 2400,
+          "sha256": "06cd807d1c25182a956a9b961beb564b34d8afc3b10b4967264e0566ec122d53",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-027-front-06cd807d1c25.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-027-front-06cd807d1c25.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-028",
+      "category": "Bags",
+      "blueprintId": 609,
+      "catalogTitle": "Organic Canvas Tote Bag",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Organic Canvas Tote Bag",
+      "provider": {
+        "id": 74,
+        "title": "Ink Blot",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 71925,
+          "title": "One size / Black",
+          "options": {
+            "size": "One size",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "width": 3000,
+              "height": 2700
+            },
+            {
+              "position": "back",
+              "decoration_method": "dtg",
+              "width": 3000,
+              "height": 2700
+            }
+          ],
+          "decoration_methods": [
+            "dtg"
+          ]
+        }
+      ],
+      "primaryVariantId": 71925,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dtg",
+          "width": 3000,
+          "height": 2700
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 3000,
+          "height": 2700,
+          "sha256": "2ecbd5a091d42ae4bbba507c2c423c8fd4ec132ebfd85d613b11bc1cd5da21cb",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-028-front-2ecbd5a091d4.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-028-front-2ecbd5a091d4.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-029",
+      "category": "Bags",
+      "blueprintId": 507,
+      "catalogTitle": "Canvas Tote Bag, 5-Color Straps",
+      "collection": "Halloween",
+      "listingTitle": "Sless After Dark — Halloween Canvas Tote",
+      "provider": {
+        "id": 48,
+        "title": "Colorway",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 80825,
+          "title": "18\" × 18'' / Black",
+          "options": {
+            "size": "18\" × 18''",
+            "color": "Black"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 2852,
+              "height": 5551
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        }
+      ],
+      "primaryVariantId": 80825,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dye-sublimation",
+          "width": 2852,
+          "height": 5551
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 2852,
+          "height": 5551,
+          "sha256": "5c07bb84826754f4fb00ed2438aceea0b1779cfe84c1b869298aa4d102c05d6f",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-029-front-5c07bb848267.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-029-front-5c07bb848267.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-030",
+      "category": "Bags",
+      "blueprintId": 326,
+      "catalogTitle": "Weekender Bag",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Weekender Bag",
+      "provider": {
+        "id": 10,
+        "title": "MWW On Demand",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 44271,
+          "title": "24\" × 13\"",
+          "options": {
+            "size": "24\" × 13\""
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 3825,
+              "height": 4950
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        }
+      ],
+      "primaryVariantId": 44271,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dye-sublimation",
+          "width": 3825,
+          "height": 4950
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 3825,
+          "height": 4950,
+          "sha256": "1b3d6be749b1769bce2529f6fe3337e3f4a5613adff347358ead33fbc8566dc1",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-030-front-1b3d6be749b1.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-030-front-1b3d6be749b1.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-031",
+      "category": "Bags",
+      "blueprintId": 413,
+      "catalogTitle": "Backpack",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Backpack",
+      "provider": {
+        "id": 10,
+        "title": "MWW On Demand",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 61364,
+          "title": "One size",
+          "options": {
+            "size": "One size"
+          },
+          "placeholders": [
+            {
+              "position": "front_pocket",
+              "decoration_method": "dye-sublimation",
+              "width": 1815,
+              "height": 1254
+            },
+            {
+              "position": "front_pocket_flap",
+              "decoration_method": "dye-sublimation",
+              "width": 1787,
+              "height": 398
+            },
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 1925,
+              "height": 2796
+            },
+            {
+              "position": "top_part_to_back",
+              "decoration_method": "dye-sublimation",
+              "width": 3938,
+              "height": 544
+            },
+            {
+              "position": "top_part_to_front",
+              "decoration_method": "dye-sublimation",
+              "width": 3937,
+              "height": 351
+            },
+            {
+              "position": "bottom",
+              "decoration_method": "dye-sublimation",
+              "width": 4282,
+              "height": 919
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        }
+      ],
+      "primaryVariantId": 61364,
+      "positions": [
+        {
+          "position": "front_pocket",
+          "decoration_method": "dye-sublimation",
+          "width": 1815,
+          "height": 1254
+        },
+        {
+          "position": "front_pocket_flap",
+          "decoration_method": "dye-sublimation",
+          "width": 1787,
+          "height": 398
+        },
+        {
+          "position": "front",
+          "decoration_method": "dye-sublimation",
+          "width": 1925,
+          "height": 2796
+        },
+        {
+          "position": "top_part_to_back",
+          "decoration_method": "dye-sublimation",
+          "width": 3938,
+          "height": 544
+        },
+        {
+          "position": "top_part_to_front",
+          "decoration_method": "dye-sublimation",
+          "width": 3937,
+          "height": 351
+        },
+        {
+          "position": "bottom",
+          "decoration_method": "dye-sublimation",
+          "width": 4282,
+          "height": 919
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front_pocket",
+          "width": 1815,
+          "height": 1254,
+          "sha256": "47692cf9ca74c8714feb1ba764178343293744964952ea5b53a8238fb30ac1d2",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-031-front_pocket-47692cf9ca74.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-031-front_pocket-47692cf9ca74.png"
+        },
+        {
+          "position": "front_pocket_flap",
+          "width": 1787,
+          "height": 398,
+          "sha256": "c8b5d36d61dfba632a1dc34c7042f9a7f59ec12537206f11b4704c8c83cca316",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-031-front_pocket_flap-c8b5d36d61df.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-031-front_pocket_flap-c8b5d36d61df.png"
+        },
+        {
+          "position": "front",
+          "width": 1925,
+          "height": 2796,
+          "sha256": "223a0005019df5afa479caf8a309664df38bd0db0d16a43b4bd2c51e3b2066f1",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-031-front-223a0005019d.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-031-front-223a0005019d.png"
+        },
+        {
+          "position": "top_part_to_back",
+          "width": 3938,
+          "height": 544,
+          "sha256": "fc77cff7a0de3176bc7916d609eb935ef8f11135bfe2aa74ef4db28473e3ed01",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-031-top_part_to_back-fc77cff7a0de.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-031-top_part_to_back-fc77cff7a0de.png"
+        },
+        {
+          "position": "top_part_to_front",
+          "width": 3937,
+          "height": 351,
+          "sha256": "2038646bbe74fa12ffdc77841eed140a29f932e548c419f4b671f9aaa1a81df8",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-031-top_part_to_front-2038646bbe74.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-031-top_part_to_front-2038646bbe74.png"
+        },
+        {
+          "position": "bottom",
+          "width": 4282,
+          "height": 919,
+          "sha256": "71c811be745b428b7789c914dce6f8a6b0dc4a93007b4ae47d2bb2afcc17ce8d",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-031-bottom-71c811be745b.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-031-bottom-71c811be745b.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-032",
+      "category": "Drinkware",
+      "blueprintId": 68,
+      "catalogTitle": "Mug 11oz",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Mug 11oz",
+      "provider": {
+        "id": 1,
+        "title": "SPOKE Custom Products",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 33719,
+          "title": "11oz",
+          "options": {
+            "size": "11oz"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 2700,
+              "height": 1120
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        }
+      ],
+      "primaryVariantId": 33719,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dye-sublimation",
+          "width": 2700,
+          "height": 1120
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 2700,
+          "height": 1120,
+          "sha256": "12a96b1a4aad12e6c2d2adb9681933925a2384fa4cb91d8247ec49a357ef32ff",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-032-front-12a96b1a4aad.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-032-front-12a96b1a4aad.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-033",
+      "category": "Drinkware",
+      "blueprintId": 425,
+      "catalogTitle": "Mug 15oz",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Mug 15oz",
+      "provider": {
+        "id": 1,
+        "title": "SPOKE Custom Products",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 62014,
+          "title": "15oz",
+          "options": {
+            "size": "15oz"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 2790,
+              "height": 1219
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        }
+      ],
+      "primaryVariantId": 62014,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dye-sublimation",
+          "width": 2790,
+          "height": 1219
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 2790,
+          "height": 1219,
+          "sha256": "5ee6e6355588774830a3169d7895735f1608424b45493bb42186ed56c9ece7aa",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-033-front-5ee6e6355588.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-033-front-5ee6e6355588.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-034",
+      "category": "Drinkware",
+      "blueprintId": 479,
+      "catalogTitle": "Black Mug (11oz, 15oz)",
+      "collection": "Halloween",
+      "listingTitle": "Sless After Dark — Halloween Black Mug",
+      "provider": {
+        "id": 29,
+        "title": "Monster Digital",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 104470,
+          "title": "15oz",
+          "options": {
+            "size": "15oz"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 2448,
+              "height": 1266
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        }
+      ],
+      "primaryVariantId": 104470,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dye-sublimation",
+          "width": 2448,
+          "height": 1266
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 2448,
+          "height": 1266,
+          "sha256": "68ead169a030560091032388ee9865cb6d6a55077e3f92fbde204b400f81ce68",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-034-front-68ead169a030.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-034-front-68ead169a030.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-035",
+      "category": "Drinkware",
+      "blueprintId": 289,
+      "catalogTitle": "Latte Mug",
+      "collection": "Christmas",
+      "listingTitle": "More Cheer — Christmas Latte Mug",
+      "provider": {
+        "id": 1,
+        "title": "SPOKE Custom Products",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 43321,
+          "title": "12oz",
+          "options": {
+            "size": "12oz"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 1988,
+              "height": 1196
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        }
+      ],
+      "primaryVariantId": 43321,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dye-sublimation",
+          "width": 1988,
+          "height": 1196
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 1988,
+          "height": 1196,
+          "sha256": "8b75912d3c4df539fe9e002dc9b7b1709872e236c0b5d9bbb71c33b3a67e602c",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-035-front-8b75912d3c4d.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-035-front-8b75912d3c4d.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-036",
+      "category": "Drinkware",
+      "blueprintId": 483,
+      "catalogTitle": "Enamel Camping Mug",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Enamel Camping Mug",
+      "provider": {
+        "id": 28,
+        "title": "District Photo",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 70768,
+          "title": "12oz",
+          "options": {
+            "size": "12oz"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 2400,
+              "height": 750
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        }
+      ],
+      "primaryVariantId": 70768,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dye-sublimation",
+          "width": 2400,
+          "height": 750
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 2400,
+          "height": 750,
+          "sha256": "445d5a1ce641800167752343db5a0d63f3a169c8a7b7ed4d185ef95baf156e38",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-036-front-445d5a1ce641.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-036-front-445d5a1ce641.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-037",
+      "category": "Drinkware",
+      "blueprintId": 70,
+      "catalogTitle": "Stainless Steel Travel Mug",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Stainless Steel Travel Mug",
+      "provider": {
+        "id": 1,
+        "title": "SPOKE Custom Products",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 33765,
+          "title": "15oz",
+          "options": {
+            "size": "15oz"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 2376,
+              "height": 2024
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        }
+      ],
+      "primaryVariantId": 33765,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dye-sublimation",
+          "width": 2376,
+          "height": 2024
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 2376,
+          "height": 2024,
+          "sha256": "72d091d29db5f0b078cd1a077aa492a3ddb05452c1fc1e5feb2a40a3feded4ec",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-037-front-72d091d29db5.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-037-front-72d091d29db5.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-038",
+      "category": "Drinkware",
+      "blueprintId": 353,
+      "catalogTitle": "Tumbler 20oz",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Tumbler 20oz",
+      "provider": {
+        "id": 1,
+        "title": "SPOKE Custom Products",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 44519,
+          "title": "20oz",
+          "options": {
+            "size": "20oz"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 2795,
+              "height": 2100
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        }
+      ],
+      "primaryVariantId": 44519,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dye-sublimation",
+          "width": 2795,
+          "height": 2100
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 2795,
+          "height": 2100,
+          "sha256": "cb98e7aeedc949fc8182b1698f86ed68caead5d696f9954e67e6113a867cf282",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-038-front-cb98e7aeedc9.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-038-front-cb98e7aeedc9.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-039",
+      "category": "Drinkware",
+      "blueprintId": 572,
+      "catalogTitle": "Copper Vacuum Insulated Bottle, 22oz",
+      "collection": "Thanksgiving",
+      "listingTitle": "More Gratitude — Thanksgiving Insulated Bottle",
+      "provider": {
+        "id": 75,
+        "title": "SwagRabbit",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 71139,
+          "title": "White / 22oz",
+          "options": {
+            "color": "White",
+            "size": "22oz"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 2751,
+              "height": 1200
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        }
+      ],
+      "primaryVariantId": 71139,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dye-sublimation",
+          "width": 2751,
+          "height": 1200
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 2751,
+          "height": 1200,
+          "sha256": "ac23719756d79b78542a68d2e460d681d3d9a5f5704e7f9b03aa2e06b8fd0a2f",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-039-front-ac23719756d7.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-039-front-ac23719756d7.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-040",
+      "category": "Desk and tech",
+      "blueprintId": 400,
+      "catalogTitle": "Kiss-Cut Stickers",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Kiss-Cut Stickers",
+      "provider": {
+        "id": 1,
+        "title": "SPOKE Custom Products",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 45747,
+          "title": "2\" × 2\" / Transparent",
+          "options": {
+            "size": "2\" × 2\"",
+            "surface": "Transparent"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "uv",
+              "width": 559,
+              "height": 559
+            }
+          ],
+          "decoration_methods": [
+            "uv"
+          ]
+        }
+      ],
+      "primaryVariantId": 45747,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "uv",
+          "width": 559,
+          "height": 559
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 559,
+          "height": 559,
+          "sha256": "ad9bfeda0dda7c1644708a81fd03f2f67cc50590b094e85168841c1a991d716e",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-040-front-ad9bfeda0dda.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-040-front-ad9bfeda0dda.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-041",
+      "category": "Desk and tech",
+      "blueprintId": 476,
+      "catalogTitle": "Square Vinyl Stickers",
+      "collection": "Halloween",
+      "listingTitle": "Sless After Dark — Halloween Vinyl Sticker",
+      "provider": {
+        "id": 73,
+        "title": "Printed Simply",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 65211,
+          "title": "2\" × 2\"",
+          "options": {
+            "size": "2\" × 2\""
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "uv",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "decoration_methods": [
+            "uv"
+          ]
+        },
+        {
+          "id": 65212,
+          "title": "3.5\" × 3.5\"",
+          "options": {
+            "size": "3.5\" × 3.5\""
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "uv",
+              "width": 900,
+              "height": 900
+            }
+          ],
+          "decoration_methods": [
+            "uv"
+          ]
+        },
+        {
+          "id": 65213,
+          "title": "5\" × 5\"",
+          "options": {
+            "size": "5\" × 5\""
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "uv",
+              "width": 1500,
+              "height": 1500
+            }
+          ],
+          "decoration_methods": [
+            "uv"
+          ]
+        },
+        {
+          "id": 65214,
+          "title": "8\" × 8\"",
+          "options": {
+            "size": "8\" × 8\""
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "uv",
+              "width": 2400,
+              "height": 2400
+            }
+          ],
+          "decoration_methods": [
+            "uv"
+          ]
+        },
+        {
+          "id": 65210,
+          "title": "15\" × 15\"",
+          "options": {
+            "size": "15\" × 15\""
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "uv",
+              "width": 4500,
+              "height": 4500
+            }
+          ],
+          "decoration_methods": [
+            "uv"
+          ]
+        }
+      ],
+      "primaryVariantId": 65211,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "uv",
+          "width": 600,
+          "height": 600
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 4500,
+          "height": 4500,
+          "sha256": "746a201c024cc19ae4f9655b80e707cd066b7737918bc95338aaacd157885ecc",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-041-front-746a201c024c.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-041-front-746a201c024c.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-042",
+      "category": "Desk and tech",
+      "blueprintId": 74,
+      "catalogTitle": "Spiral Notebook - Ruled Line",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Spiral Notebook - Ruled Line",
+      "provider": {
+        "id": 1,
+        "title": "SPOKE Custom Products",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 34240,
+          "title": "One Size",
+          "options": {
+            "size": "One Size"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "digital-printing",
+              "width": 1810,
+              "height": 2534
+            }
+          ],
+          "decoration_methods": [
+            "digital-printing"
+          ]
+        }
+      ],
+      "primaryVariantId": 34240,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "digital-printing",
+          "width": 1810,
+          "height": 2534
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 1810,
+          "height": 2534,
+          "sha256": "b46658e795612895336f49fe3ce93aa0131941707314987fc89be4708809c17b",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-042-front-b46658e79561.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-042-front-b46658e79561.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-043",
+      "category": "Desk and tech",
+      "blueprintId": 485,
+      "catalogTitle": "Hardcover Journal Matte (Lined)",
+      "collection": "Thanksgiving",
+      "listingTitle": "More Gratitude — Thanksgiving Journal",
+      "provider": {
+        "id": 28,
+        "title": "District Photo",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 65223,
+          "title": "Journal",
+          "options": {
+            "size": "Journal"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "digital-printing",
+              "width": 4065,
+              "height": 2850
+            }
+          ],
+          "decoration_methods": [
+            "digital-printing"
+          ]
+        }
+      ],
+      "primaryVariantId": 65223,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "digital-printing",
+          "width": 4065,
+          "height": 2850
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 4065,
+          "height": 2850,
+          "sha256": "8f5d83088479959d4550308e1899a601645c9565192cf1df366558f582d250f6",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-043-front-8f5d83088479.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-043-front-8f5d83088479.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-044",
+      "category": "Desk and tech",
+      "blueprintId": 429,
+      "catalogTitle": "Laptop Sleeve",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Laptop Sleeve",
+      "provider": {
+        "id": 1,
+        "title": "SPOKE Custom Products",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 62037,
+          "title": "12\"",
+          "options": {
+            "size": "12\""
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 3600,
+              "height": 2700
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        }
+      ],
+      "primaryVariantId": 62037,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dye-sublimation",
+          "width": 3600,
+          "height": 2700
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 3600,
+          "height": 2700,
+          "sha256": "f6df7787f5bb0ac8f965e34258143c3c0ce07208cc88def3880010ca27d6d06b",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-044-front-f6df7787f5bb.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-044-front-f6df7787f5bb.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-045",
+      "category": "Desk and tech",
+      "blueprintId": 269,
+      "catalogTitle": "Tough Phone Cases",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Tough Phone Cases",
+      "provider": {
+        "id": 1,
+        "title": "SPOKE Custom Products",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 423468,
+          "title": "iPhone 18 Pro Max",
+          "options": {
+            "size": "iPhone 18 Pro Max"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 1251,
+              "height": 2218
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        },
+        {
+          "id": 423467,
+          "title": "iPhone 18 Pro",
+          "options": {
+            "size": "iPhone 18 Pro"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 1201,
+              "height": 2080
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        },
+        {
+          "id": 130117,
+          "title": "iPhone 17 Pro Max",
+          "options": {
+            "size": "iPhone 17 Pro Max"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 1251,
+              "height": 2218
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        },
+        {
+          "id": 130116,
+          "title": "iPhone 17 Pro",
+          "options": {
+            "size": "iPhone 17 Pro"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 1201,
+              "height": 2080
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        },
+        {
+          "id": 130115,
+          "title": "iPhone 17",
+          "options": {
+            "size": "iPhone 17"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 1190,
+              "height": 2085
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        },
+        {
+          "id": 112813,
+          "title": "iPhone 16 Pro Max",
+          "options": {
+            "size": "iPhone 16 Pro Max"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 1359,
+              "height": 2245
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        }
+      ],
+      "primaryVariantId": 423468,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dye-sublimation",
+          "width": 1251,
+          "height": 2218
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 1251,
+          "height": 2218,
+          "sha256": "3213651db480504c4721bf278057ddff027de3f2de2eef84b588d711764bd243",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-045-front-3213651db480.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-045-front-3213651db480.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-046",
+      "category": "Desk and tech",
+      "blueprintId": 268,
+      "catalogTitle": "Slim Phone Cases",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Slim Phone Cases",
+      "provider": {
+        "id": 1,
+        "title": "SPOKE Custom Products",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 130105,
+          "title": "iPhone 17 Pro Max",
+          "options": {
+            "size": "iPhone 17 Pro Max"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 1251,
+              "height": 2218
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        },
+        {
+          "id": 130104,
+          "title": "iPhone 17 Pro",
+          "options": {
+            "size": "iPhone 17 Pro"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 1201,
+              "height": 2080
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        },
+        {
+          "id": 130106,
+          "title": "iPhone 17 Air",
+          "options": {
+            "size": "iPhone 17 Air"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 1251,
+              "height": 2218
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        },
+        {
+          "id": 130103,
+          "title": "iPhone 17",
+          "options": {
+            "size": "iPhone 17"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 1190,
+              "height": 2085
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        },
+        {
+          "id": 112819,
+          "title": "iPhone 16 Pro Max",
+          "options": {
+            "size": "iPhone 16 Pro Max"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 1311,
+              "height": 2197
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        },
+        {
+          "id": 112817,
+          "title": "iPhone 16 Pro",
+          "options": {
+            "size": "iPhone 16 Pro"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 1211,
+              "height": 2049
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        }
+      ],
+      "primaryVariantId": 130105,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dye-sublimation",
+          "width": 1251,
+          "height": 2218
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 1251,
+          "height": 2218,
+          "sha256": "f1c7f83112c1670c3d99a3f9a2b4efc29924cef2f36727e133741f9e97d3d3a5",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-046-front-f1c7f83112c1.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-046-front-f1c7f83112c1.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-047",
+      "category": "Desk and tech",
+      "blueprintId": 488,
+      "catalogTitle": "Desk Mat",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Desk Mat",
+      "provider": {
+        "id": 1,
+        "title": "SPOKE Custom Products",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 65240,
+          "title": "12\" × 18\"",
+          "options": {
+            "size": "12\" × 18\""
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 5610,
+              "height": 3839
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        }
+      ],
+      "primaryVariantId": 65240,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dye-sublimation",
+          "width": 5610,
+          "height": 3839
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 5610,
+          "height": 3839,
+          "sha256": "2eb511fb91ec88df532076ca5edc65ff426efbb727b8a473d89416537b4b81f1",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-047-front-2eb511fb91ec.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-047-front-2eb511fb91ec.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-048",
+      "category": "Home",
+      "blueprintId": 238,
+      "catalogTitle": "Sherpa Fleece Blanket",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Sherpa Fleece Blanket",
+      "provider": {
+        "id": 10,
+        "title": "MWW On Demand",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 41656,
+          "title": "50\" × 60\"",
+          "options": {
+            "size": "50\" × 60\""
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 7875,
+              "height": 9375
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        }
+      ],
+      "primaryVariantId": 41656,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dye-sublimation",
+          "width": 7875,
+          "height": 9375
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 7875,
+          "height": 9375,
+          "sha256": "5c075c6649ae0a2859dbf7bf85d925826d4e8af5be43df22afb3f49cb330c71a",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-048-front-5c075c6649ae.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-048-front-5c075c6649ae.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-049",
+      "category": "Home",
+      "blueprintId": 522,
+      "catalogTitle": "Velveteen Plush Blanket",
+      "collection": "Christmas",
+      "listingTitle": "More Cheer — Christmas Plush Blanket",
+      "provider": {
+        "id": 1,
+        "title": "SPOKE Custom Products",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 68322,
+          "title": "30\" × 40\"",
+          "options": {
+            "size": "30\" × 40\""
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 4725,
+              "height": 6300
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        }
+      ],
+      "primaryVariantId": 68322,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dye-sublimation",
+          "width": 4725,
+          "height": 6300
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 4725,
+          "height": 6300,
+          "sha256": "e5fb8652ea28530733a8fbc3aea01d2bafcde18a9a26239c198d1a6d5dcfd986",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-049-front-e5fb8652ea28.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-049-front-e5fb8652ea28.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-050",
+      "category": "Home",
+      "blueprintId": 220,
+      "catalogTitle": "Spun Polyester Square Pillow",
+      "collection": "Christmas",
+      "listingTitle": "More Cheer — Christmas Throw Pillow",
+      "provider": {
+        "id": 10,
+        "title": "MWW On Demand",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 41527,
+          "title": "18\" × 18\"",
+          "options": {
+            "size": "18\" × 18\""
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 5850,
+              "height": 2925
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        }
+      ],
+      "primaryVariantId": 41527,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dye-sublimation",
+          "width": 5850,
+          "height": 2925
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 5850,
+          "height": 2925,
+          "sha256": "804dec8d66037cac9d3e7147f354fca7936fee069d5efeb389923d477685574b",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-050-front-804dec8d6603.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-050-front-804dec8d6603.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-051",
+      "category": "Home",
+      "blueprintId": 282,
+      "catalogTitle": "Matte Vertical Posters",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Matte Vertical Posters",
+      "provider": {
+        "id": 2,
+        "title": "Sensaria",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 101133,
+          "title": "18\" x 18\" / Matte",
+          "options": {
+            "size": "18\" x 18\"",
+            "paper": "Matte"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "digital-printing",
+              "width": 5400,
+              "height": 5400
+            }
+          ],
+          "decoration_methods": [
+            "digital-printing"
+          ]
+        }
+      ],
+      "primaryVariantId": 101133,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "digital-printing",
+          "width": 5400,
+          "height": 5400
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 5400,
+          "height": 5400,
+          "sha256": "c8e8537e18fc3b17dda77990426baed41a6ac8c8707c3f44259884e71ecf6d30",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-051-front-c8e8537e18fc.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-051-front-c8e8537e18fc.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-052",
+      "category": "Home",
+      "blueprintId": 937,
+      "catalogTitle": "Matte Canvas, Stretched, 0.75\" (Multi-Size)",
+      "collection": "Evergreen",
+      "listingTitle": "Sless Is More — Matte Canvas, 12 × 20 in",
+      "provider": {
+        "id": 39,
+        "title": "SwiftPOD",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 253230,
+          "title": "12\" x 20\" (Vertical) / 0.75''",
+          "options": {
+            "size": "12\" x 20\" (Vertical)",
+            "depth": "0.75''"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "digital-printing",
+              "width": 3600,
+              "height": 6000
+            }
+          ],
+          "decoration_methods": [
+            "digital-printing"
+          ]
+        }
+      ],
+      "primaryVariantId": 253230,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "digital-printing",
+          "width": 3600,
+          "height": 6000
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 3600,
+          "height": 6000,
+          "sha256": "083e04c1e1023e88c4c6776f1a12b307221fad61ed67fe270de49e40e0709b1f",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-052-front-083e04c1e102.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-052-front-083e04c1e102.png"
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-053",
+      "category": "Home",
+      "blueprintId": 480,
+      "catalogTitle": "Cork Back Coaster",
+      "collection": "Thanksgiving",
+      "listingTitle": "More Gratitude — Thanksgiving Coaster",
+      "provider": {
+        "id": 70,
+        "title": "Printed Mint",
+        "country": "US"
+      },
+      "variants": [
+        {
+          "id": 71689,
+          "title": "Square / 3.75\" × 3.75\" / Cork",
+          "options": {
+            "shape": "Square",
+            "size": "3.75\" × 3.75\"",
+            "material": "Cork"
+          },
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dye-sublimation",
+              "width": 1200,
+              "height": 1200
+            }
+          ],
+          "decoration_methods": [
+            "dye-sublimation"
+          ]
+        }
+      ],
+      "primaryVariantId": 71689,
+      "positions": [
+        {
+          "position": "front",
+          "decoration_method": "dye-sublimation",
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "artworkStatus": "rendered_pending_proof_review",
+      "artwork": [
+        {
+          "position": "front",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "8f8683fd6a6a2c04c9eccd08ad7ae237e67c0e33791ebb93c34eeac6cf5f65d6",
+          "svgPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-053-front-8f8683fd6a6a.svg",
+          "pngPath": "/home/runner/workspace/wordpress/sless-refresh/merchandise-artwork/SLESS-053-front-8f8683fd6a6a.png"
+        }
+      ]
+    }
+  ],
+  "failures": [],
+  "pricingPolicy": {
+    "status": "proposed_not_approved_for_publication",
+    "scope": "Fallback for products without a current verified consumer benchmark; benchmark-backed products use the dated retail benchmark and production/estimated-fee floor.",
+    "targetMargin": 0.4,
+    "paymentFeeAllowanceRate": 0.035,
+    "paymentFeeAllowanceCents": 50,
+    "shipping": "Separate customer charge, using verified Printify rates.",
+    "disclaimer": "Fee allowances are planning estimates, not verified Stripe fees. Taxes, destinations and actual margins need merchant review before publication."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-10-20T21:48:19.970Z",
+  "installerSha256": "d45c5e8133422e591a628eedd27d1710ae3f81b26eedc4b0c6b254abae2338cd",
+  "installerBytes": 3377906,
+  "archiveSha256": "985e766beace21188e78cc5c0386ba22b619ba92babd93568519bc6cfe30467e",
+  "outsidePublicWebroot": true,
+  "nativeDownloadMethod": "force",
+  "nativeApprovedDirectoryRegistered": true,
+  "products": [
+    {
+      "id": 214,
+      "status": "draft",
+      "downloadable": true,
+      "virtual": true,
+      "files": 1,
+      "limit": 5,
+      "expiryDays": 30,
+      "price": "39.00"
+    },
+    {
+      "id": 215,
+      "status": "draft",
+      "downloadable": true,
+      "virtual": true,
+      "files": 1,
+      "limit": 5,
+      "expiryDays": 30,
+      "price": "79.00"
+    }
+  ],
+  "paidFeatureActivationVerified": false,
+  "paidTiersPublished": false,
+  "orderCreated": false,
+  "paymentSubmitted": false,
+  "existingLiteDeliveryChanged": false
+}

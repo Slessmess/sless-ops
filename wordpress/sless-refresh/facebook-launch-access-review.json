@@ -1,0 +1,25 @@
+{
+  "reviewDate": "2026-10-21",
+  "pageId": "401634216613866",
+  "pageName": "Sless Taylor",
+  "pageIdentityVerified": true,
+  "permissionsGranted": ["pages_show_list", "pages_read_engagement", "pages_manage_posts"],
+  "pageTaskCreateContentGranted": true,
+  "credentialResolution": "Saved user credential resolves the authorized target Page credential at runtime; neither credential persisted.",
+  "scheduledPostsListingComplete": true,
+  "oldSaleScheduledPosts": [
+    {"creativeId": "I05", "postId": "401634216613866_1752316543561464", "publishAt": "2026-10-22T16:00:00Z"},
+    {"creativeId": "V02", "postId": "401634216613866_1752316620228123", "publishAt": "2026-10-22T22:00:00Z"},
+    {"creativeId": "I06", "postId": "401634216613866_1752316840228101", "publishAt": "2026-10-23T16:00:00Z"},
+    {"creativeId": "V03", "postId": "401634216613866_1752316903561428", "publishAt": "2026-10-23T22:00:00Z"},
+    {"creativeId": "I03", "postId": "401634216613866_1752317103561408", "publishAt": "2026-10-24T16:00:00Z"},
+    {"creativeId": "I07", "postId": "401634216613866_1752317146894737", "publishAt": "2026-10-24T22:00:00Z"},
+    {"creativeId": "I09", "postId": "401634216613866_1752317206894731", "publishAt": "2026-10-25T16:00:00Z"}
+  ],
+  "oldSalePostsReadBackAsPublished": ["I08", "I01", "V01", "I04", "I02"],
+  "anonymousPublicVisibilityVerified": false,
+  "externalWritesPerformed": false,
+  "ownerDecision": "Keep all seven existing schedules unchanged; hold the replacement campaign.",
+  "replacementCampaignHeld": true,
+  "nextAction": "No publication or schedule changes unless the owner gives new instructions."
+}

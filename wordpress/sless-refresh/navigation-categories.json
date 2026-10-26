@@ -1,0 +1,484 @@
+{
+  "products": [
+    {
+      "id": 680,
+      "name": "Sless After Dark — Halloween Canvas, 6 × 6 in",
+      "type": "canvas-wall-art",
+      "categories": [
+        "Canvas &amp; Wall Art",
+        "Halloween"
+      ]
+    },
+    {
+      "id": 660,
+      "name": "Sless After Dark — Halloween Tee",
+      "type": "t-shirts",
+      "categories": [
+        "Halloween",
+        "T-Shirts &amp; Tanks"
+      ]
+    },
+    {
+      "id": 502,
+      "name": "BUILT DIFFERENT. PROVEN DAILY.",
+      "type": "t-shirts",
+      "categories": [
+        "Sless Originals",
+        "T-Shirts &amp; Tanks"
+      ]
+    },
+    {
+      "id": 493,
+      "name": "STAY UNDENIABLE",
+      "type": "t-shirts",
+      "categories": [
+        "Sless Originals",
+        "T-Shirts &amp; Tanks"
+      ]
+    },
+    {
+      "id": 485,
+      "name": "NO INTRODUCTION NEEDED",
+      "type": "t-shirts",
+      "categories": [
+        "Sless Originals",
+        "T-Shirts &amp; Tanks"
+      ]
+    },
+    {
+      "id": 483,
+      "name": "More Gratitude — Thanksgiving Coaster",
+      "type": "home-living",
+      "categories": [
+        "Home &amp; Living",
+        "Thanksgiving"
+      ]
+    },
+    {
+      "id": 479,
+      "name": "Sless Is More — Matte Vertical Posters",
+      "type": "canvas-wall-art",
+      "categories": [
+        "Canvas &amp; Wall Art"
+      ]
+    },
+    {
+      "id": 475,
+      "name": "Sless Is More — Matte Canvas, 12 × 20 in",
+      "type": "canvas-wall-art",
+      "categories": [
+        "Canvas &amp; Wall Art"
+      ]
+    },
+    {
+      "id": 473,
+      "name": "More Cheer — Christmas Throw Pillow",
+      "type": "home-living",
+      "categories": [
+        "Christmas",
+        "Home &amp; Living"
+      ]
+    },
+    {
+      "id": 470,
+      "name": "More Cheer — Christmas Plush Blanket",
+      "type": "home-living",
+      "categories": [
+        "Christmas",
+        "Home &amp; Living"
+      ]
+    },
+    {
+      "id": 466,
+      "name": "Sless Is More — Sherpa Fleece Blanket",
+      "type": "home-living",
+      "categories": [
+        "Home &amp; Living"
+      ]
+    },
+    {
+      "id": 463,
+      "name": "Sless Is More — Desk Mat",
+      "type": "home-living",
+      "categories": [
+        "Home &amp; Living"
+      ]
+    },
+    {
+      "id": 454,
+      "name": "Sless Is More — Slim Phone Cases",
+      "type": "accessories",
+      "categories": [
+        "Tech Accessories"
+      ]
+    },
+    {
+      "id": 446,
+      "name": "Sless Is More — Tough Phone Cases",
+      "type": "accessories",
+      "categories": [
+        "Tech Accessories"
+      ]
+    },
+    {
+      "id": 441,
+      "name": "Sless Is More — Laptop Sleeve",
+      "type": "accessories",
+      "categories": [
+        "Tech Accessories"
+      ]
+    },
+    {
+      "id": 439,
+      "name": "More Gratitude — Thanksgiving Journal",
+      "type": "stickers-stationery",
+      "categories": [
+        "Stickers &amp; Stationery",
+        "Thanksgiving"
+      ]
+    },
+    {
+      "id": 434,
+      "name": "Sless Is More — Spiral Notebook - Ruled Line",
+      "type": "stickers-stationery",
+      "categories": [
+        "Stickers &amp; Stationery"
+      ]
+    },
+    {
+      "id": 427,
+      "name": "Sless After Dark — Halloween Vinyl Sticker",
+      "type": "stickers-stationery",
+      "categories": [
+        "Halloween",
+        "Stickers &amp; Stationery"
+      ]
+    },
+    {
+      "id": 425,
+      "name": "More Gratitude — Thanksgiving Insulated Bottle",
+      "type": "drinkware",
+      "categories": [
+        "Mugs &amp; Drinkware",
+        "Thanksgiving"
+      ]
+    },
+    {
+      "id": 422,
+      "name": "Sless Is More — Tumbler 20oz",
+      "type": "drinkware",
+      "categories": [
+        "Mugs &amp; Drinkware"
+      ]
+    },
+    {
+      "id": 418,
+      "name": "Sless Is More — Stainless Steel Travel Mug",
+      "type": "drinkware",
+      "categories": [
+        "Mugs &amp; Drinkware"
+      ]
+    },
+    {
+      "id": 415,
+      "name": "Sless Is More — Enamel Camping Mug",
+      "type": "drinkware",
+      "categories": [
+        "Mugs &amp; Drinkware"
+      ]
+    },
+    {
+      "id": 412,
+      "name": "More Cheer — Christmas Latte Mug",
+      "type": "drinkware",
+      "categories": [
+        "Christmas",
+        "Mugs &amp; Drinkware"
+      ]
+    },
+    {
+      "id": 408,
+      "name": "Sless After Dark — Halloween Black Mug",
+      "type": "drinkware",
+      "categories": [
+        "Halloween",
+        "Mugs &amp; Drinkware"
+      ]
+    },
+    {
+      "id": 405,
+      "name": "Sless Is More — Mug 15oz",
+      "type": "drinkware",
+      "categories": [
+        "Mugs &amp; Drinkware"
+      ]
+    },
+    {
+      "id": 403,
+      "name": "Sless Is More — Mug 11oz",
+      "type": "drinkware",
+      "categories": [
+        "Mugs &amp; Drinkware"
+      ]
+    },
+    {
+      "id": 401,
+      "name": "Sless Is More — Backpack",
+      "type": "bags",
+      "categories": [
+        "Bags &amp; Totes"
+      ]
+    },
+    {
+      "id": 397,
+      "name": "Sless Is More — Weekender Bag",
+      "type": "bags",
+      "categories": [
+        "Bags &amp; Totes"
+      ]
+    },
+    {
+      "id": 394,
+      "name": "Sless After Dark — Halloween Canvas Tote",
+      "type": "bags",
+      "categories": [
+        "Bags &amp; Totes",
+        "Halloween"
+      ]
+    },
+    {
+      "id": 392,
+      "name": "Sless Is More — Organic Canvas Tote Bag",
+      "type": "bags",
+      "categories": [
+        "Bags &amp; Totes"
+      ]
+    },
+    {
+      "id": 388,
+      "name": "Sless Is More — Cotton Tote Bag",
+      "type": "bags",
+      "categories": [
+        "Bags &amp; Totes"
+      ]
+    },
+    {
+      "id": 386,
+      "name": "Sless Holiday Star — Christmas Embroidered Beanie",
+      "type": "hats",
+      "categories": [
+        "Christmas",
+        "Hats &amp; Beanies"
+      ]
+    },
+    {
+      "id": 382,
+      "name": "Sless Is More — Classic Dad Cap",
+      "type": "hats",
+      "categories": [
+        "Hats &amp; Beanies"
+      ]
+    },
+    {
+      "id": 378,
+      "name": "Sless Is More — Snapback Trucker Cap",
+      "type": "hats",
+      "categories": [
+        "Hats &amp; Beanies"
+      ]
+    },
+    {
+      "id": 376,
+      "name": "Sless Is More — Trucker Caps",
+      "type": "hats",
+      "categories": [
+        "Hats &amp; Beanies"
+      ]
+    },
+    {
+      "id": 373,
+      "name": "Sless Is More — Low Profile Baseball Cap",
+      "type": "hats",
+      "categories": [
+        "Hats &amp; Beanies"
+      ]
+    },
+    {
+      "id": 364,
+      "name": "Sless Is More — Basketball Shorts (AOP)",
+      "type": "bottoms",
+      "categories": [
+        "Shorts &amp; Joggers"
+      ]
+    },
+    {
+      "id": 356,
+      "name": "Sless Is More — Athletic Joggers (AOP)",
+      "type": "bottoms",
+      "categories": [
+        "Shorts &amp; Joggers"
+      ]
+    },
+    {
+      "id": 348,
+      "name": "Sless Is More — Unisex Heavy Blend™ Full Zip Hooded Sweatshirt",
+      "type": "hoodies-sweatshirts",
+      "categories": [
+        "Hoodies &amp; Sweatshirts"
+      ]
+    },
+    {
+      "id": 339,
+      "name": "Sless Is More — Unisex Sponge Fleece Pullover Hoodie",
+      "type": "hoodies-sweatshirts",
+      "categories": [
+        "Hoodies &amp; Sweatshirts"
+      ]
+    },
+    {
+      "id": 330,
+      "name": "Sless After Dark — Halloween Hoodie",
+      "type": "hoodies-sweatshirts",
+      "categories": [
+        "Halloween",
+        "Hoodies &amp; Sweatshirts"
+      ]
+    },
+    {
+      "id": 323,
+      "name": "More Gratitude — Thanksgiving Garment-Dyed Sweatshirt",
+      "type": "hoodies-sweatshirts",
+      "categories": [
+        "Hoodies &amp; Sweatshirts",
+        "Thanksgiving"
+      ]
+    },
+    {
+      "id": 314,
+      "name": "More Cheer — Christmas Crewneck",
+      "type": "hoodies-sweatshirts",
+      "categories": [
+        "Christmas",
+        "Hoodies &amp; Sweatshirts"
+      ]
+    },
+    {
+      "id": 305,
+      "name": "Sless Is More — Women's Ideal Racerback Tank",
+      "type": "t-shirts",
+      "categories": [
+        "T-Shirts &amp; Tanks"
+      ]
+    },
+    {
+      "id": 298,
+      "name": "Sless Is More — Unisex Jersey Tank",
+      "type": "t-shirts",
+      "categories": [
+        "T-Shirts &amp; Tanks"
+      ]
+    },
+    {
+      "id": 293,
+      "name": "Sless Is More — Unisex 34 Sleeve Baseball Tee",
+      "type": "t-shirts",
+      "categories": [
+        "T-Shirts &amp; Tanks"
+      ]
+    },
+    {
+      "id": 283,
+      "name": "Sless Is More — Unisex Garment-dyed Long Sleeve T-Shirt",
+      "type": "t-shirts",
+      "categories": [
+        "T-Shirts &amp; Tanks"
+      ]
+    },
+    {
+      "id": 276,
+      "name": "Sless Is More — Unisex Jersey Long Sleeve Tee",
+      "type": "t-shirts",
+      "categories": [
+        "T-Shirts &amp; Tanks"
+      ]
+    },
+    {
+      "id": 269,
+      "name": "Sless Is More — Unisex Jersey Short Sleeve V-Neck Tee",
+      "type": "t-shirts",
+      "categories": [
+        "T-Shirts &amp; Tanks"
+      ]
+    },
+    {
+      "id": 260,
+      "name": "More Gratitude — Thanksgiving Triblend Tee",
+      "type": "t-shirts",
+      "categories": [
+        "T-Shirts &amp; Tanks",
+        "Thanksgiving"
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Sless Is More — Unisex Cotton Crew Tee",
+      "type": "t-shirts",
+      "categories": [
+        "T-Shirts &amp; Tanks"
+      ]
+    },
+    {
+      "id": 244,
+      "name": "Sless Is More — Unisex Jersey Short Sleeve Tee",
+      "type": "t-shirts",
+      "categories": [
+        "T-Shirts &amp; Tanks"
+      ]
+    },
+    {
+      "id": 238,
+      "name": "Sless After Dark — Halloween Oversized Tee",
+      "type": "t-shirts",
+      "categories": [
+        "Halloween",
+        "T-Shirts &amp; Tanks"
+      ]
+    },
+    {
+      "id": 230,
+      "name": "Sless Is More — Unisex Garment-Dyed T-shirt",
+      "type": "t-shirts",
+      "categories": [
+        "T-Shirts &amp; Tanks"
+      ]
+    },
+    {
+      "id": 225,
+      "name": "Sless Is More — Kiss-Cut Stickers",
+      "type": "stickers-stationery",
+      "categories": [
+        "Stickers &amp; Stationery"
+      ]
+    }
+  ],
+  "count": 55,
+  "categoryIds": {
+    "t-shirts": 31,
+    "hoodies-sweatshirts": 33,
+    "bottoms": 34,
+    "hats": 35,
+    "bags": 36,
+    "drinkware": 37,
+    "canvas-wall-art": 32,
+    "home-living": 38,
+    "accessories": 39,
+    "stickers-stationery": 40,
+    "halloween": 30,
+    "thanksgiving": 41,
+    "christmas": 42,
+    "sless-originals": 43
+  },
+  "artworkChanged": false,
+  "pricesChanged": false,
+  "ordersCreated": false
+}

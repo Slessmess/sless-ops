@@ -1,0 +1,156 @@
+{
+  "manifestSha256": "a35e376da45829ebd898ccf27f8cc72445a2242780ba92e754c447ce469f09dd",
+  "manifest": {
+    "account": "slessismoree",
+    "timezone": "America/New_York",
+    "maxPostsPerDay": 2,
+    "minimumHoursBetweenPosts": 6,
+    "paidSpendAuthorized": false,
+    "posts": [
+      {
+        "id": "I08",
+        "kind": "image",
+        "publishAt": "2026-10-19T13:30:00-04:00",
+        "expiresAt": "2026-10-25T23:59:59-04:00",
+        "notBefore": null,
+        "assetSha256": "74d4220389c2246c32adaaf632712f36566ed69ee6965d73bb6e724d927d6017",
+        "captionsSha256": "8e6493e5ef6199e4beea308279da0c11dea5ef49b0e5645239046e5c61fb9039",
+        "instagram": "Spooky. Thankful. Merry. All 20% off.\n\nSeven holiday tops across Halloween, Thanksgiving and Christmas — tees from $20. The offer covers these seven tops only, not the whole store.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop the holiday sale through the link in bio.\n\n#SlessIsMore #HolidayStyle #ThreeHolidaysOneSale",
+        "facebook": "Spooky. Thankful. Merry. All 20% off.\n\nSeven holiday tops across Halloween, Thanksgiving and Christmas — tees from $20. The offer covers these seven tops only, not the whole store.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop this sale: https://slessismore.org/?utm_source=facebook&utm_medium=organic_social&utm_campaign=holiday_tops_oct2026&utm_content=i08",
+        "assetObject": "assets/I08-74d4220389c2246c32adaaf632712f36566ed69ee6965d73bb6e724d927d6017.jpg"
+      },
+      {
+        "id": "I01",
+        "kind": "image",
+        "publishAt": "2026-10-20T12:00:00-04:00",
+        "expiresAt": "2026-10-25T23:59:59-04:00",
+        "notBefore": null,
+        "assetSha256": "906d15c70db93f8e43746edc361eb2974329030915867aafcfbedf08568e7782",
+        "captionsSha256": "3fa22f1c45a2116c0d2780b2da67d6b90e2055302826b8b9652720563a2a6963",
+        "instagram": "Trick or tee? This one's a $20 treat.\n\nThe Sless After Dark Halloween tee is 20% off — now from $20. Haunt the party in main-event style.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop the holiday sale through the link in bio.\n\n#SlessIsMore #HalloweenStyle #TrickOrTee",
+        "facebook": "Trick or tee? This one's a $20 treat.\n\nThe Sless After Dark Halloween tee is 20% off — now from $20. Haunt the party in main-event style.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop this design: https://slessismore.org/product/sless-after-dark-halloween-tee/?utm_source=facebook&utm_medium=organic_social&utm_campaign=holiday_tops_oct2026&utm_content=i01",
+        "assetObject": "assets/I01-906d15c70db93f8e43746edc361eb2974329030915867aafcfbedf08568e7782.jpg"
+      },
+      {
+        "id": "V01",
+        "kind": "video",
+        "publishAt": "2026-10-20T18:00:00-04:00",
+        "expiresAt": "2026-10-25T23:59:59-04:00",
+        "notBefore": null,
+        "assetSha256": "ff80d098957abf609ee63a6b8d2ab75a95903c2d9891614e6730b0b675ab7a95",
+        "captionsSha256": "76aff58164f117d093e52e0964f8f7dfd4788a22da509000579393bbd41e78be",
+        "instagram": "Trick or tee? Treat yourself to 20% off.\n\nSless After Dark is here: tee from $20, oversized tee from $28.80, hoodie from $34.40.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop the holiday sale through the link in bio.\n\n#SlessIsMore #HalloweenStyle #TrickOrTee",
+        "facebook": "Trick or tee? Treat yourself to 20% off.\n\nSless After Dark is here: tee from $20, oversized tee from $28.80, hoodie from $34.40.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop this design: https://slessismore.org/product/sless-after-dark-halloween-tee/?utm_source=facebook&utm_medium=organic_social&utm_campaign=holiday_tops_oct2026&utm_content=v01",
+        "assetObject": "assets/V01-ff80d098957abf609ee63a6b8d2ab75a95903c2d9891614e6730b0b675ab7a95.mp4"
+      },
+      {
+        "id": "I04",
+        "kind": "image",
+        "publishAt": "2026-10-21T12:00:00-04:00",
+        "expiresAt": "2026-10-25T23:59:59-04:00",
+        "notBefore": null,
+        "assetSha256": "9e16f15a4909686ae5a684b3505bce63e055ec5750f15e1470c05211b33d28c2",
+        "captionsSha256": "54debbfd330bf1f69981a10a7a63a720967ce58e45629b055a3f7a263421bd8d",
+        "instagram": "Seconds? Always. 20% off? Also yes.\n\nShow up to the table thankful. The Be Thankful for Sless! triblend tee is now from $38.40, down from $48.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop the holiday sale through the link in bio.\n\n#SlessIsMore #ThanksgivingStyle #PassTheSavings",
+        "facebook": "Seconds? Always. 20% off? Also yes.\n\nShow up to the table thankful. The Be Thankful for Sless! triblend tee is now from $38.40, down from $48.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop this design: https://slessismore.org/product/more-gratitude-thanksgiving-triblend-tee/?utm_source=facebook&utm_medium=organic_social&utm_campaign=holiday_tops_oct2026&utm_content=i04",
+        "assetObject": "assets/I04-9e16f15a4909686ae5a684b3505bce63e055ec5750f15e1470c05211b33d28c2.jpg"
+      },
+      {
+        "id": "I02",
+        "kind": "image",
+        "publishAt": "2026-10-21T18:00:00-04:00",
+        "expiresAt": "2026-10-25T23:59:59-04:00",
+        "notBefore": null,
+        "assetSha256": "ebb72a0419ef9b5adf45b315504eeb2270bcf09846e39b54504847c894dd6414",
+        "captionsSha256": "5a17133b641598d533cfe5e16a605315cf938d3b4db33f538c4ebeef572a727b",
+        "instagram": "Hood up. Lights out. Spooky season starts now.\n\nThe Sless After Dark heavy-blend hoodie is now from $34.40 — 20% off for Halloween.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop the holiday sale through the link in bio.\n\n#SlessIsMore #HalloweenStyle #HoodieSeason",
+        "facebook": "Hood up. Lights out. Spooky season starts now.\n\nThe Sless After Dark heavy-blend hoodie is now from $34.40 — 20% off for Halloween.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop this design: https://slessismore.org/product/sless-after-dark-halloween-hoodie/?utm_source=facebook&utm_medium=organic_social&utm_campaign=holiday_tops_oct2026&utm_content=i02",
+        "assetObject": "assets/I02-ebb72a0419ef9b5adf45b315504eeb2270bcf09846e39b54504847c894dd6414.jpg"
+      },
+      {
+        "id": "I05",
+        "kind": "image",
+        "publishAt": "2026-10-22T12:00:00-04:00",
+        "expiresAt": "2026-10-25T23:59:59-04:00",
+        "notBefore": null,
+        "assetSha256": "30f8a470f172e7cf13114c05554bcf42844e11301a79c4387bd33cfa109cd394",
+        "captionsSha256": "9f1c715fada816cad50d903a24155763a2ed0eed3162dda4bac28386533d8c62",
+        "instagram": "The coziest thank-you you'll ever wear.\n\nBe Thankful for Sless! garment-dyed sweatshirt — now from $56, down from $70. Pass the savings, not the stuffing.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop the holiday sale through the link in bio.\n\n#SlessIsMore #ThanksgivingStyle #SweatshirtSeason",
+        "facebook": "The coziest thank-you you'll ever wear.\n\nBe Thankful for Sless! garment-dyed sweatshirt — now from $56, down from $70. Pass the savings, not the stuffing.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop this design: https://slessismore.org/product/more-gratitude-thanksgiving-garment-dyed-sweatshirt/?utm_source=facebook&utm_medium=organic_social&utm_campaign=holiday_tops_oct2026&utm_content=i05",
+        "assetObject": "assets/I05-30f8a470f172e7cf13114c05554bcf42844e11301a79c4387bd33cfa109cd394.jpg"
+      },
+      {
+        "id": "V02",
+        "kind": "video",
+        "publishAt": "2026-10-22T18:00:00-04:00",
+        "expiresAt": "2026-10-25T23:59:59-04:00",
+        "notBefore": null,
+        "assetSha256": "3549cee82f5dc63c1b498cf0e6bc92fde7dff506c59635b9d7300b6607b88abb",
+        "captionsSha256": "e093454a3debb384599fa4d74fba566e50687cc4e0ed84e970182467efab0828",
+        "instagram": "Be thankful. Be Sless. Pass the savings.\n\nThanksgiving style, served hot: triblend tee from $38.40 and garment-dyed sweatshirt from $56 — 20% off.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop the holiday sale through the link in bio.\n\n#SlessIsMore #ThanksgivingStyle #PassTheSavings",
+        "facebook": "Be thankful. Be Sless. Pass the savings.\n\nThanksgiving style, served hot: triblend tee from $38.40 and garment-dyed sweatshirt from $56 — 20% off.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop this design: https://slessismore.org/product/more-gratitude-thanksgiving-triblend-tee/?utm_source=facebook&utm_medium=organic_social&utm_campaign=holiday_tops_oct2026&utm_content=v02",
+        "assetObject": "assets/V02-3549cee82f5dc63c1b498cf0e6bc92fde7dff506c59635b9d7300b6607b88abb.mp4"
+      },
+      {
+        "id": "I06",
+        "kind": "image",
+        "publishAt": "2026-10-23T12:00:00-04:00",
+        "expiresAt": "2026-10-25T23:59:59-04:00",
+        "notBefore": null,
+        "assetSha256": "90c494cfbe8880a096f96a514583817f2d6b7623f6f8d1b81bb60a84ae7ffc66",
+        "captionsSha256": "d07239eb4ae5190458a5722eee008955b1c7c206263cf7194546dc1fe22b8653",
+        "instagram": "Sleigh the season for $20.\n\nThe Sless Is Cheer Christmas tee is 20% off — now from $20. Deck yourself before you deck the halls.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop the holiday sale through the link in bio.\n\n#SlessIsMore #ChristmasStyle #SleighTheSeason",
+        "facebook": "Sleigh the season for $20.\n\nThe Sless Is Cheer Christmas tee is 20% off — now from $20. Deck yourself before you deck the halls.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop this design: https://slessismore.org/product/sless-is-cheer-christmas-tee/?utm_source=facebook&utm_medium=organic_social&utm_campaign=holiday_tops_oct2026&utm_content=i06",
+        "assetObject": "assets/I06-90c494cfbe8880a096f96a514583817f2d6b7623f6f8d1b81bb60a84ae7ffc66.jpg"
+      },
+      {
+        "id": "V03",
+        "kind": "video",
+        "publishAt": "2026-10-23T18:00:00-04:00",
+        "expiresAt": "2026-10-25T23:59:59-04:00",
+        "notBefore": null,
+        "assetSha256": "dc7a4ff5ace202bbd296d0ce78effc085ab4f15a6e3fc0a0818fd3a1dd9fac3b",
+        "captionsSha256": "5c54cafeca63c2d862510287dbd4a3247f23d80c3fdac96d49eb4c11d7075347",
+        "instagram": "Sleigh the season. Unwrap 20% off.\n\nSless Is Cheer is 20% off: Christmas tee from $20 and heavy-blend crewneck from $28.80.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop the holiday sale through the link in bio.\n\n#SlessIsMore #ChristmasStyle #SleighTheSeason",
+        "facebook": "Sleigh the season. Unwrap 20% off.\n\nSless Is Cheer is 20% off: Christmas tee from $20 and heavy-blend crewneck from $28.80.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop this design: https://slessismore.org/product/sless-is-cheer-christmas-tee/?utm_source=facebook&utm_medium=organic_social&utm_campaign=holiday_tops_oct2026&utm_content=v03",
+        "assetObject": "assets/V03-dc7a4ff5ace202bbd296d0ce78effc085ab4f15a6e3fc0a0818fd3a1dd9fac3b.mp4"
+      },
+      {
+        "id": "I03",
+        "kind": "image",
+        "publishAt": "2026-10-24T12:00:00-04:00",
+        "expiresAt": "2026-10-25T23:59:59-04:00",
+        "notBefore": null,
+        "assetSha256": "1bf9b2d3c8664b85f98a85dca3f53989a518588e1901b35b994c65a687d8a11b",
+        "captionsSha256": "d3df0cc3837baac0dce6d1160c7c80c0819cf1f17094d232c260b95e38e7ee20",
+        "instagram": "Big fit. Bigger fright.\n\nGo oversized after dark: the garment-dyed Sless After Dark tee is now from $28.80, 20% off.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop the holiday sale through the link in bio.\n\n#SlessIsMore #OversizedTee #HalloweenStyle",
+        "facebook": "Big fit. Bigger fright.\n\nGo oversized after dark: the garment-dyed Sless After Dark tee is now from $28.80, 20% off.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop this design: https://slessismore.org/product/sless-after-dark-halloween-oversized-tee/?utm_source=facebook&utm_medium=organic_social&utm_campaign=holiday_tops_oct2026&utm_content=i03",
+        "assetObject": "assets/I03-1bf9b2d3c8664b85f98a85dca3f53989a518588e1901b35b994c65a687d8a11b.jpg"
+      },
+      {
+        "id": "I07",
+        "kind": "image",
+        "publishAt": "2026-10-24T18:00:00-04:00",
+        "expiresAt": "2026-10-25T23:59:59-04:00",
+        "notBefore": null,
+        "assetSha256": "fe939b4bc65ca4ca61816f9f342ee7e50e9c140b021f8069b5830ba4a069243a",
+        "captionsSha256": "8105e5a4649ed322bb8edcf5e194068cfb5f39f0e5fa374a515a3007b076cd63",
+        "instagram": "Crewneck cheer, unwrapped early.\n\nThe Sless Is Cheer heavy-blend crewneck is now from $28.80 — wrapped in 20% off.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop the holiday sale through the link in bio.\n\n#SlessIsMore #ChristmasStyle #CrewneckSeason",
+        "facebook": "Crewneck cheer, unwrapped early.\n\nThe Sless Is Cheer heavy-blend crewneck is now from $28.80 — wrapped in 20% off.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop this design: https://slessismore.org/product/more-cheer-christmas-crewneck/?utm_source=facebook&utm_medium=organic_social&utm_campaign=holiday_tops_oct2026&utm_content=i07",
+        "assetObject": "assets/I07-fe939b4bc65ca4ca61816f9f342ee7e50e9c140b021f8069b5830ba4a069243a.jpg"
+      },
+      {
+        "id": "I09",
+        "kind": "image",
+        "publishAt": "2026-10-25T12:00:00-04:00",
+        "expiresAt": "2026-10-25T23:59:59-04:00",
+        "notBefore": "2026-10-25",
+        "assetSha256": "ce1e69e7d529a0e337386fe2fed6c7833104d3f9e696d2042019d17bb21d2ca6",
+        "captionsSha256": "56789405404d0702216fbab65c514078fb2f537fae8d24e8c07fa3cd18e7eb5b",
+        "instagram": "Last day! 20% off ends at midnight.\n\nToday only — October 25 — the holiday-tops sale ends at 11:59 p.m. Eastern. Grab your Sless holiday design before the clock strikes.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop the holiday sale through the link in bio.\n\n#SlessIsMore #LastChance #HolidayStyle",
+        "facebook": "Last day! 20% off ends at midnight.\n\nToday only — October 25 — the holiday-tops sale ends at 11:59 p.m. Eastern. Grab your Sless holiday design before the clock strikes.\n\nSale ends October 25, 2026 at 11:59 p.m. Eastern. No code needed. Prices vary by size. Shipping and tax additional. Made to order; holiday arrival is not guaranteed.\n\nShop this sale: https://slessismore.org/?utm_source=facebook&utm_medium=organic_social&utm_campaign=holiday_tops_oct2026&utm_content=i09",
+        "assetObject": "assets/I09-ce1e69e7d529a0e337386fe2fed6c7833104d3f9e696d2042019d17bb21d2ca6.jpg"
+      }
+    ]
+  }
+}

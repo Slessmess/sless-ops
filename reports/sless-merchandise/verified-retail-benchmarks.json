@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-10-07",
+  "method": {
+    "unit": "One currently available consumer-facing item, not a wholesale, blank-garment, or print-provider cost.",
+    "target": "Benchmark price less $2.00, except where the verified production and estimated payment-fee floor is higher.",
+    "shipping": "Shipping is separate. When a comparator includes free shipping, subtract the verified first-item US Printify rate from the competitor's delivered-price target.",
+    "fees": "The 3.5% + $0.50 allowance is a conservative planning estimate, not the verified Stripe fee.",
+    "unmatched": "If a current, sufficiently similar single-item retail offer was not verified, keep the existing proposal rather than infer a competitor price."
+  },
+  "pricingPolicy": {
+    "status": "proposed_not_approved_for_publication",
+    "undercutCents": 200,
+    "minimumGrossProfitCents": 1,
+    "paymentFeeAllowanceRateBps": 350,
+    "paymentFeeAllowanceCents": 50,
+    "shipping": "Separate customer charge using the verified Printify catalog rate; WooCommerce checkout shipping is not yet end-to-end verified.",
+    "disclaimer": "The cost floor includes only recorded Printify production cost and estimated payment fees. It does not verify Stripe fees, taxes, refunds, chargebacks, or other operating costs."
+  },
+  "benchmarks": {
+    "SLESS-006": {
+      "retailPriceCents": 1438,
+      "shippingMode": "included",
+      "competitorShippingCents": 0,
+      "product": "One Gildan 5000 printed tee",
+      "source": "https://aipromodesign.com/price-comparison",
+      "proof": "Current comparison page lists one Gildan 5000 tee at $14.38, free shipping, and no minimums.",
+      "similarity": "Single short-sleeve printed crew-neck tee; comparator is the named Gildan 5000."
+    },
+    "SLESS-007": {
+      "retailPriceCents": 1438,
+      "shippingMode": "included",
+      "competitorShippingCents": 0,
+      "product": "One Gildan 5000 printed tee",
+      "source": "https://aipromodesign.com/price-comparison",
+      "proof": "Current comparison page lists one Gildan 5000 tee at $14.38, free shipping, and no minimums.",
+      "similarity": "Closest verified printed cotton crew-neck tee; the exact garment brand/model differs."
+    },
+    "SLESS-014": {
+      "retailPriceCents": 3050,
+      "shippingMode": "unknown",
+      "product": "Ladies Racerback Tank",
+      "source": "https://poppsee.com/product/womens-custom-tank-tops",
+      "proof": "Current product page offers the printed tank at $30.50 with an Add to cart control and XS–4XL sizing.",
+      "similarity": "Same women's racerback shape; comparator's material/color options may differ. Shipping was not stated on the product page."
+    },
+    "SLESS-027": {
+      "retailPriceCents": 1400,
+      "shippingMode": "unknown",
+      "product": "Personalized Simple Canvas Tote Bag",
+      "source": "https://www.canvastry.com/products/personalized-simple-canvas-tote-bag",
+      "proof": "Current product page lists $14, offers full-color art upload, and allows customization before Add to cart.",
+      "similarity": "Single printed cotton/canvas tote; material, dimensions, and print area are not identical."
+    },
+    "SLESS-030": {
+      "retailPriceCents": 3495,
+      "shippingMode": "unknown",
+      "product": "Everything Is Going To Be Alright Weekender Bag, 24×13 in",
+      "source": "https://www.soulofthenewmachine.com/products/weekender-bag",
+      "proof": "Current page lists $34.95, marks the item In-Stock, and provides Add To Cart for the 24×13 in size.",
+      "similarity": "Same weekender-bag size; shipping was not stated on the product page."
+    },
+    "SLESS-032": {
+      "retailPriceCents": 996,
+      "shippingMode": "unknown",
+      "product": "Same Day 11 oz Ceramic Mug",
+      "source": "https://www.walmart.com/ip/11-oz-Ceramic-Mug-In-Store/7712070501",
+      "proof": "Current Walmart listing shows $9.96 and a Personalize option for a single 11 oz mug.",
+      "similarity": "Same size and ceramic category; delivery cost depends on the buyer's location and method."
+    },
+    "SLESS-033": {
+      "retailPriceCents": 988,
+      "shippingMode": "unknown",
+      "product": "Same Day 15 oz Ceramic Mug",
+      "source": "https://www.walmart.com/ip/15-oz-Ceramic-Mug-In-Store/7729606403",
+      "proof": "Current Walmart listing shows a $9.88 rollback price (regularly $12.96) and a Personalize option for one 15 oz mug.",
+      "similarity": "Same size and ceramic category; the dated rollback may change. Delivery cost depends on the buyer's location and method."
+    },
+    "SLESS-034": {
+      "retailPriceCents": 1295,
+      "shippingMode": "separate",
+      "product": "Jszuss Colored Mug, 15 oz option",
+      "source": "https://jszuss.store/products/jszuss-colored-mug",
+      "proof": "Current product page lists a $12.95 sale price, has a 15 oz selection and Add to Cart; free shipping starts at $60.",
+      "similarity": "A printed 15 oz colored ceramic mug; the page offers color choices, including black."
+    },
+    "SLESS-035": {
+      "retailPriceCents": 1295,
+      "shippingMode": "separate",
+      "product": "Jszuss Latte Mug, 12 oz",
+      "source": "https://jszuss.store/products/jszuss-latte-mug",
+      "proof": "Current page lists $12.95 for the 12 oz art mug with Add to Cart; free shipping starts at $60.",
+      "similarity": "Same 12 oz latte-mug category; shipping applies below the stated threshold."
+    },
+    "SLESS-042": {
+      "retailPriceCents": 740,
+      "shippingMode": "separate",
+      "product": "Be Free Notebook, 6×8 in",
+      "source": "https://www.anewkreations.com/products/notebooks",
+      "proof": "Current product page lists $7.40, a 6×8 in option, and Add to Cart; shipping is calculated at checkout.",
+      "similarity": "Single artist-designed spiral notebook; Printify's listed variant does not expose dimensions in its title."
+    },
+    "SLESS-047": {
+      "retailPriceCents": 2379,
+      "shippingMode": "separate",
+      "product": "Custom Mousepad (12×18 in)",
+      "source": "https://www.lovedeskmats.com/collections/custom-desk-mats-desk-pads/products/custom-mousepad-12x18",
+      "proof": "Current product page lists $23.79 (regularly $27.99), permits an image upload and Add to Cart, and offers free shipping only over $35.",
+      "similarity": "Exact 12×18 in size and custom printed surface; this sale page showed roughly two days remaining when checked."
+    },
+    "SLESS-049": {
+      "retailPriceCents": 3749,
+      "shippingMode": "unknown",
+      "product": "Sweet Baby Personalized Plush Fleece Blanket, 30×40 in",
+      "source": "https://www.personalizationmall.com/Sweet-Baby-Personalized-30x40-Plush-Fleece-Blanket-i112808.item?productid=40912",
+      "proof": "Current product page lists $37.49 (regularly $49.99), says price includes personalization, and shows a 30×40 in size.",
+      "similarity": "Same 30×40 in plush blanket size; a personalized-photo product rather than a ready-made art design."
+    },
+    "SLESS-051": {
+      "retailPriceCents": 1500,
+      "shippingMode": "separate",
+      "competitorShippingCents": 890,
+      "product": "Custom 20×20 in Photo Poster",
+      "source": "https://www.canvasdiscount.com/wall-decor/custom-poster-prints.jsf",
+      "proof": "Current price table lists a single 20×20 in poster for $15. Nationwide shipping is listed at $8.90.",
+      "similarity": "Closest square size found to this 18×18 in poster; comparator is 2 in larger in each dimension."
+    },
+    "SLESS-053": {
+      "retailPriceCents": 1094,
+      "shippingMode": "unknown",
+      "product": "Single 4 in Square Ceramic Coaster",
+      "source": "https://finerworks.com/products/Coasters",
+      "proof": "Current product choices list one square ceramic coaster at $10.94.",
+      "similarity": "Same single printed coaster use; comparator is ceramic and 4 in rather than cork and 3.75 in."
+    }
+  },
+  "excludedEvidence": [
+    {
+      "source": "https://transferkingdom.com/products/custom-comfort-colors-1717-adult-t-shirt",
+      "reason": "Current page describes a blank garment and wholesale pricing; not finished consumer retail."
+    },
+    {
+      "source": "https://www.swago.com/products/23808",
+      "reason": "Twelve-piece minimum; excluded."
+    },
+    {
+      "source": "https://www.steprepeat.com/product/custom-printed-pillows",
+      "reason": "One-unit price is an estimate request with a proof/formal quote before payment, not a confirmed consumer checkout price."
+    },
+    {
+      "source": "https://biggerthanbasketball.co/collections/joggers",
+      "reason": "Product listings were sold out when checked."
+    },
+    {
+      "source": "https://wolf-stuff.com/products/black-wolf-backpack",
+      "reason": "Product was sold out when checked."
+    },
+    {
+      "source": "https://www.ascreationsllc.org/shop/p/oversized-tie-dye-t-shirt",
+      "reason": "The site account had expired."
+    }
+  ],
+  "unbenchmarkedRule": "All plan SKUs absent from benchmarks retain their current unpublished cost-plus proposal. Absence of a benchmark is not evidence that no cheaper competitor exists."
+}

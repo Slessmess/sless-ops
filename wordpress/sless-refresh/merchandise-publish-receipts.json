@@ -1,0 +1,494 @@
+{
+  "shopId": 29231820,
+  "publicLaunchPerformed": false,
+  "ordersCreated": false,
+  "products": {
+    "SLESS-040": {
+      "id": "6ac5d2a955eec60e6a057b4e",
+      "requestedAt": "2026-10-18T14:14:20.874Z",
+      "status": "native_channel_linked",
+      "comingSoonObservedBeforeSync": true,
+      "externalId": "225",
+      "handle": "https://slessismore.org/product/sless-is-more-kiss-cut-stickers/",
+      "verifiedAt": "2026-10-18T14:28:04.504Z"
+    },
+    "SLESS-004": {
+      "id": "6ac5cfe6679a412443086ec9",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:20:42.048Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "230",
+      "handle": "https://slessismore.org/product/sless-is-more-unisex-garment-dyed-t-shirt/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-005": {
+      "id": "6ac5cfec4c4e49c98f0f072b",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:20:44.385Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "238",
+      "handle": "https://slessismore.org/product/sless-after-dark-halloween-oversized-tee/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-006": {
+      "id": "6ac5cff3d7ff457b4d0c7c5f",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:20:45.735Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "244",
+      "handle": "https://slessismore.org/product/sless-is-more-unisex-jersey-short-sleeve-tee/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-007": {
+      "id": "6ac5d0007c0874f8d40be1d4",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:20:48.821Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "251",
+      "handle": "https://slessismore.org/product/sless-is-more-unisex-cotton-crew-tee/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-008": {
+      "id": "6ac5d00cac3cff86ef0576e2",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:20:50.412Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "260",
+      "handle": "https://slessismore.org/product/more-gratitude-thanksgiving-triblend-tee/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-009": {
+      "id": "6ac5d0137c0874f8d40be1e0",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:20:51.491Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "269",
+      "handle": "https://slessismore.org/product/sless-is-more-unisex-jersey-short-sleeve-v-neck-tee/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-010": {
+      "id": "6ac5d019ac3cff86ef0576ea",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:20:52.672Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "276",
+      "handle": "https://slessismore.org/product/sless-is-more-unisex-jersey-long-sleeve-tee/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-011": {
+      "id": "6ac5d02080f7c61095062104",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:20:54.158Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "283",
+      "handle": "https://slessismore.org/product/sless-is-more-unisex-garment-dyed-long-sleeve-t-shirt/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-012": {
+      "id": "6ac5d02ad1e3e7d865017da6",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:20:55.866Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "293",
+      "handle": "https://slessismore.org/product/sless-is-more-unisex-34-sleeve-baseball-tee/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-013": {
+      "id": "6ac5d037014b7d9bf209876a",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:20:57.054Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "298",
+      "handle": "https://slessismore.org/product/sless-is-more-unisex-jersey-tank/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-014": {
+      "id": "6ac5d0474c4e49c98f0f07ac",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:20:58.161Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "305",
+      "handle": "https://slessismore.org/product/sless-is-more-womens-ideal-racerback-tank/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-015": {
+      "id": "6ac5d04e4c4e49c98f0f07b0",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:20:59.281Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "314",
+      "handle": "https://slessismore.org/product/more-cheer-christmas-crewneck/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-016": {
+      "id": "6ac5d05a014b7d9bf2098776",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:01.050Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "323",
+      "handle": "https://slessismore.org/product/more-gratitude-thanksgiving-garment-dyed-sweatshirt/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-017": {
+      "id": "6ac5d063d7ff457b4d0c7ca8",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:02.758Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "330",
+      "handle": "https://slessismore.org/product/sless-after-dark-halloween-hoodie/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-018": {
+      "id": "6ac5d06dbd34d756940c4e0a",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:05.498Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "339",
+      "handle": "https://slessismore.org/product/sless-is-more-unisex-sponge-fleece-pullover-hoodie/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-019": {
+      "id": "6ac5d07e6a59c478d10a5010",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:06.861Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "348",
+      "handle": "https://slessismore.org/product/sless-is-more-unisex-heavy-blend-full-zip-hooded-sweatshirt/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-020": {
+      "id": "6ac5d0965e26a6128202278f",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:07.926Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "356",
+      "handle": "https://slessismore.org/product/sless-is-more-athletic-joggers-aop/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-021": {
+      "id": "6ac5d0a001e006db230b0e0a",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:08.843Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "364",
+      "handle": "https://slessismore.org/product/sless-is-more-basketball-shorts-aop/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-022": {
+      "id": "6ac5d0ab80f7c61095062149",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:09.748Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "373",
+      "handle": "https://slessismore.org/product/sless-is-more-low-profile-baseball-cap/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-023": {
+      "id": "6ac5d0b7ac3cff86ef057731",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:10.719Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "376",
+      "handle": "https://slessismore.org/product/sless-is-more-trucker-caps/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-024": {
+      "id": "6ac5d0bcd7ff457b4d0c7ccb",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:11.701Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "378",
+      "handle": "https://slessismore.org/product/sless-is-more-snapback-trucker-cap/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-025": {
+      "id": "6ac5d0c3679a412443086f1d",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:12.819Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "382",
+      "handle": "https://slessismore.org/product/sless-is-more-classic-dad-cap/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-026": {
+      "id": "6ac5d0c8ac3cff86ef05773d",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:13.887Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "386",
+      "handle": "https://slessismore.org/product/sless-holiday-star-christmas-embroidered-beanie/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-027": {
+      "id": "6ac5d0ce841732a55b0c449b",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:14.919Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "388",
+      "handle": "https://slessismore.org/product/sless-is-more-cotton-tote-bag/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-028": {
+      "id": "6ac5d0d34c4e49c98f0f07f7",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:15.904Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "392",
+      "handle": "https://slessismore.org/product/sless-is-more-organic-canvas-tote-bag/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-029": {
+      "id": "6ac5d0d94c4e49c98f0f07fc",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:16.876Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "394",
+      "handle": "https://slessismore.org/product/sless-after-dark-halloween-canvas-tote/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-030": {
+      "id": "6ac5d0defeeac1bd9403d2f8",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:17.874Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "397",
+      "handle": "https://slessismore.org/product/sless-is-more-weekender-bag/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-031": {
+      "id": "6ac5d0eb5e26a612820227b8",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:18.826Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "401",
+      "handle": "https://slessismore.org/product/sless-is-more-backpack/",
+      "verifiedAt": "2026-10-18T14:28:04.505Z"
+    },
+    "SLESS-032": {
+      "id": "6ac5d285841732a55b0c4630",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:19.765Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "403",
+      "handle": "https://slessismore.org/product/sless-is-more-mug-11oz/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    },
+    "SLESS-033": {
+      "id": "6ac5d2895e26a61282022933",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:20.693Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "405",
+      "handle": "https://slessismore.org/product/sless-is-more-mug-15oz/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    },
+    "SLESS-034": {
+      "id": "6ac5d28ed8513ff05a086581",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:21.702Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "408",
+      "handle": "https://slessismore.org/product/sless-after-dark-halloween-black-mug/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    },
+    "SLESS-035": {
+      "id": "6ac5d293d7ff457b4d0c7e17",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:22.608Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "412",
+      "handle": "https://slessismore.org/product/more-cheer-christmas-latte-mug/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    },
+    "SLESS-036": {
+      "id": "6ac5d297724aee2017046779",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:23.618Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "415",
+      "handle": "https://slessismore.org/product/sless-is-more-enamel-camping-mug/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    },
+    "SLESS-037": {
+      "id": "6ac5d29cbd34d756940c4f92",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:24.481Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "418",
+      "handle": "https://slessismore.org/product/sless-is-more-stainless-steel-travel-mug/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    },
+    "SLESS-038": {
+      "id": "6ac5d2a05e26a61282022947",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:25.447Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "422",
+      "handle": "https://slessismore.org/product/sless-is-more-tumbler-20oz/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    },
+    "SLESS-039": {
+      "id": "6ac5d2a5ac3cff86ef057884",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:26.596Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "425",
+      "handle": "https://slessismore.org/product/more-gratitude-thanksgiving-insulated-bottle/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    },
+    "SLESS-041": {
+      "id": "6ac5d2af5e26a61282022953",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:27.956Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "427",
+      "handle": "https://slessismore.org/product/sless-after-dark-halloween-vinyl-sticker/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    },
+    "SLESS-042": {
+      "id": "6ac5d2b45e26a61282022957",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:29.108Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "434",
+      "handle": "https://slessismore.org/product/sless-is-more-spiral-notebook-ruled-line/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    },
+    "SLESS-043": {
+      "id": "6ac5d2ba5e26a6128202295c",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:30.116Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "439",
+      "handle": "https://slessismore.org/product/more-gratitude-thanksgiving-journal/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    },
+    "SLESS-044": {
+      "id": "6ac5d2be7226b35d210a8c5b",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:31.115Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "441",
+      "handle": "https://slessismore.org/product/sless-is-more-laptop-sleeve/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    },
+    "SLESS-045": {
+      "id": "6ac5d2c4eb881c661602cbc3",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:32.140Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "446",
+      "handle": "https://slessismore.org/product/sless-is-more-tough-phone-cases/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    },
+    "SLESS-046": {
+      "id": "6ac5d2cf55eec60e6a057b70",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:33.139Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "454",
+      "handle": "https://slessismore.org/product/sless-is-more-slim-phone-cases/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    },
+    "SLESS-047": {
+      "id": "6ac5d2d475161e32c107f48e",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:34.303Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "463",
+      "handle": "https://slessismore.org/product/sless-is-more-desk-mat/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    },
+    "SLESS-048": {
+      "id": "6ac5d2dcd8513ff05a0865a3",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:35.260Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "466",
+      "handle": "https://slessismore.org/product/sless-is-more-sherpa-fleece-blanket/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    },
+    "SLESS-049": {
+      "id": "6ac5d2e355eec60e6a057b7d",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:36.276Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "470",
+      "handle": "https://slessismore.org/product/more-cheer-christmas-plush-blanket/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    },
+    "SLESS-050": {
+      "id": "6ac5d2e801e006db230b0f76",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:37.291Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "473",
+      "handle": "https://slessismore.org/product/more-cheer-christmas-throw-pillow/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    },
+    "SLESS-051": {
+      "id": "6ac5d2edfeeac1bd9403d4aa",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:38.328Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "479",
+      "handle": "https://slessismore.org/product/sless-is-more-matte-vertical-posters/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    },
+    "SLESS-052": {
+      "id": "6ac5d2f275161e32c107f499",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:39.277Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "475",
+      "handle": "https://slessismore.org/product/sless-is-more-matte-canvas-12-x-20-in/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    },
+    "SLESS-053": {
+      "id": "6ac5d2f8eb881c661602cbed",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:40.556Z",
+      "coreUsOnlyRequiredBeforeLaunch": false,
+      "externalId": "483",
+      "handle": "https://slessismore.org/product/more-gratitude-thanksgiving-coaster/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    },
+    "CORE-1": {
+      "id": "6ac5cc01399aa3961002c5af",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:41.655Z",
+      "coreUsOnlyRequiredBeforeLaunch": true,
+      "externalId": "485",
+      "handle": "https://slessismore.org/product/no-introduction-needed/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    },
+    "CORE-2": {
+      "id": "6ac5cc03a6afd99ddd03f538",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:42.839Z",
+      "coreUsOnlyRequiredBeforeLaunch": true,
+      "externalId": "493",
+      "handle": "https://slessismore.org/product/stay-undeniable/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    },
+    "CORE-3": {
+      "id": "6ac5cc05014b7d9bf2098516",
+      "status": "native_channel_linked",
+      "requestedAt": "2026-10-18T14:21:43.973Z",
+      "coreUsOnlyRequiredBeforeLaunch": true,
+      "externalId": "502",
+      "handle": "https://slessismore.org/product/built-different-proven-daily/",
+      "verifiedAt": "2026-10-18T14:28:04.506Z"
+    }
+  },
+  "summary": {
+    "checkedAt": "2026-10-18T14:28:04.506Z",
+    "targetCount": 53,
+    "linked": 53,
+    "pending": 0,
+    "failed": 0,
+    "publicLaunchPerformed": false,
+    "checkoutVerified": false,
+    "ordersCreated": false
+  }
+}

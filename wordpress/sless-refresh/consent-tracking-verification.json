@@ -1,0 +1,209 @@
+{
+  "checkedAt": "2026-10-19T16:36:49.551Z",
+  "preflight": {
+    "checks": {
+      "analytics": {
+        "blockedInCorrectCategory": true,
+        "scriptCount": 2
+      },
+      "ads": {
+        "blockedInCorrectCategory": true,
+        "scriptCount": 3
+      },
+      "meta": {
+        "blockedInCorrectCategory": true,
+        "scriptCount": 2
+      }
+    },
+    "siteKitWhitelistRemoved": true,
+    "metaServerSideDisabled": true,
+    "metaAdvancedMatchingDisabled": true,
+    "privacyPublished": true
+  },
+  "safe": true,
+  "checks": [
+    {
+      "url": "https://slessismore.org/",
+      "httpStatus": 200,
+      "cookieBannerPresent": true,
+      "trackingScripts": [
+        {
+          "attributes": " type=\"text/plain\" data-category=\"statistics\" data-service=\"sless-google-analytics\" id=\"google_gtagjs-js\" data-cmplz-src=\"https://www.googletagmanager.com/gtag/js?id=GT-5DDBFXJL\" async",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"statistics\" data-service=\"sless-google-analytics\" id=\"google_gtagjs-js-after\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"facebook\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"facebook\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"sless-google-ads\" async data-cmplz-src=\"https://www.googletagmanager.com/gtag/js?id=AW-971817202\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"sless-google-ads\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"sless-google-ads\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"statistics\" data-service=\"sless-google-analytics\" id=\"googlesitekit-events-provider-woocommerce-js-before\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"statistics\" data-service=\"sless-google-analytics\" id=\"googlesitekit-events-provider-woocommerce-js\" data-cmplz-src=\"https://slessismore.org/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-woocommerce-86c5a3ff303665006998.js\" defer",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"facebook\" id=\"facebook-for-woocommerce-inline-js-after\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"sless-google-ads\" id=\"gla-gtag-events-js-extra\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"sless-google-ads\" id=\"gla-gtag-events-js\" data-cmplz-src=\"https://slessismore.org/wp-content/plugins/google-listings-and-ads/js/build/gtag-events.js?ver=6972d3af2e3be67de9f1\"",
+          "blocked": true
+        }
+      ],
+      "unblockedTrackingScripts": [],
+      "optionalResponseCookies": [],
+      "capiHelperEnqueued": false
+    },
+    {
+      "url": "https://slessismore.org/product/sless-after-dark-halloween-tee/",
+      "httpStatus": 200,
+      "cookieBannerPresent": true,
+      "trackingScripts": [
+        {
+          "attributes": " type=\"text/plain\" data-category=\"statistics\" data-service=\"sless-google-analytics\" id=\"google_gtagjs-js\" data-cmplz-src=\"https://www.googletagmanager.com/gtag/js?id=GT-5DDBFXJL\" async",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"statistics\" data-service=\"sless-google-analytics\" id=\"google_gtagjs-js-after\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"facebook\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"facebook\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"sless-google-ads\" async data-cmplz-src=\"https://www.googletagmanager.com/gtag/js?id=AW-971817202\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"sless-google-ads\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"sless-google-ads\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"sless-google-ads\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"statistics\" data-service=\"sless-google-analytics\" id=\"googlesitekit-events-provider-woocommerce-js-before\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"statistics\" data-service=\"sless-google-analytics\" id=\"googlesitekit-events-provider-woocommerce-js\" data-cmplz-src=\"https://slessismore.org/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-woocommerce-86c5a3ff303665006998.js\" defer",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"facebook\" id=\"facebook-for-woocommerce-inline-js-after\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"sless-google-ads\" id=\"gla-gtag-events-js-extra\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"sless-google-ads\" id=\"gla-gtag-events-js\" data-cmplz-src=\"https://slessismore.org/wp-content/plugins/google-listings-and-ads/js/build/gtag-events.js?ver=6972d3af2e3be67de9f1\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"statistics\" data-service=\"sless-google-analytics\" id=\"sless-ga4-store-events\"",
+          "blocked": true
+        }
+      ],
+      "unblockedTrackingScripts": [],
+      "optionalResponseCookies": [],
+      "capiHelperEnqueued": false
+    },
+    {
+      "url": "https://slessismore.org/privacy-policy/",
+      "httpStatus": 200,
+      "cookieBannerPresent": true,
+      "trackingScripts": [
+        {
+          "attributes": " type=\"text/plain\" data-category=\"statistics\" data-service=\"sless-google-analytics\" id=\"google_gtagjs-js\" data-cmplz-src=\"https://www.googletagmanager.com/gtag/js?id=GT-5DDBFXJL\" async",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"statistics\" data-service=\"sless-google-analytics\" id=\"google_gtagjs-js-after\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"facebook\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"facebook\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"sless-google-ads\" async data-cmplz-src=\"https://www.googletagmanager.com/gtag/js?id=AW-971817202\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"sless-google-ads\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"sless-google-ads\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"statistics\" data-service=\"sless-google-analytics\" id=\"googlesitekit-events-provider-woocommerce-js-before\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"statistics\" data-service=\"sless-google-analytics\" id=\"googlesitekit-events-provider-woocommerce-js\" data-cmplz-src=\"https://slessismore.org/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-woocommerce-86c5a3ff303665006998.js\" defer",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"facebook\" id=\"facebook-for-woocommerce-inline-js-after\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"sless-google-ads\" id=\"gla-gtag-events-js-extra\"",
+          "blocked": true
+        },
+        {
+          "attributes": " type=\"text/plain\" data-category=\"marketing\" data-service=\"sless-google-ads\" id=\"gla-gtag-events-js\" data-cmplz-src=\"https://slessismore.org/wp-content/plugins/google-listings-and-ads/js/build/gtag-events.js?ver=6972d3af2e3be67de9f1\"",
+          "blocked": true
+        }
+      ],
+      "unblockedTrackingScripts": [],
+      "optionalResponseCookies": [],
+      "capiHelperEnqueued": false
+    }
+  ],
+  "trackingHold": false
+}

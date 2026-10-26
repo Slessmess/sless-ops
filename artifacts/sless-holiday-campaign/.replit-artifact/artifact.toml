@@ -1,0 +1,29 @@
+kind = "video"
+videoAspectRatio = "9:16"
+previewPath = "/sless-holiday-campaign/"
+title = "Sless Holiday Sale — Social Campaign"
+description = "Vertical holiday-sale marketing videos and campaign creative for Sless Is More, using the approved Halloween, Thanksgiving and Christmas merchandise and current 20% sale."
+version = "1.0.0"
+id = "artifacts/sless-holiday-campaign"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/sless-holiday-campaign/" ]
+localPort = 20367
+
+[services.development]
+run = "pnpm --filter @workspace/sless-holiday-campaign run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/sless-holiday-campaign", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/sless-holiday-campaign/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "20367"
+BASE_PATH = "/sless-holiday-campaign/"

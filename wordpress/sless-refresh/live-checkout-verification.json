@@ -1,0 +1,29 @@
+{
+  "verifiedOn": "2026-10-18",
+  "storeUrl": "https://slessismore.org/shop/",
+  "publicShopVisible": true,
+  "publishedProductCount": 53,
+  "productPurchaseControlsVerified": true,
+  "checkoutPath": "/checkout-2/",
+  "stripeIframeReportsLiveMode": true,
+  "sampleCart": {
+    "product": "Sless Is More — Kiss-Cut Stickers",
+    "size": "2 × 2 inches",
+    "type": "Transparent",
+    "quantity": 1,
+    "subtotalUsd": 4,
+    "standardShippingUsd": 5.19,
+    "totalUsd": 9.19
+  },
+  "anonymousCartCleared": true,
+  "customerOrCardDataEntered": false,
+  "checkoutSubmitted": false,
+  "ordersOrChargesCreated": false,
+  "actualPayoutVerified": false,
+  "productionFulfillmentVerified": false,
+  "taxConfigurationVerified": false,
+  "nonblockingBrowserIssues": [
+    "Mixed-content Elementor font stylesheet requests",
+    "CSP inline-style and hCaptcha TrustedHTML errors"
+  ]
+}

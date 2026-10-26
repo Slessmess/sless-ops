@@ -1,0 +1,865 @@
+{
+  "sourceShopId": 29231820,
+  "destinationShopId": 29392858,
+  "products": {
+    "6ad4ff607e86416ffc097c36": {
+      "productId": "6ad6c11b04f48b1ecc03e4f2",
+      "title": "Sless After Dark — Halloween Canvas, 6 × 6 in",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:17:15.765Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343713",
+      "externalProductId": "33343713"
+    },
+    "6ad538ebd244ed568e02b814": {
+      "productId": "6ad6c12abe6698df65001c7b",
+      "title": "Sless Is Cheer — Christmas Tee",
+      "verified": true,
+      "public": false,
+      "specialReview": [
+        "WooCommerce-only pricing/discount does not automatically transfer; review expiry before publication"
+      ],
+      "copiedAt": "2026-10-20T01:17:31.286Z",
+      "enabledVariants": 18,
+      "nativePublishingStatus": "Unpublished"
+    },
+    "6ad4ff59e2ff8ddc0b0e6627": {
+      "productId": "6ad6c12f003392ba2b0bcfb8",
+      "title": "Sless After Dark — Halloween Tee",
+      "verified": true,
+      "public": false,
+      "specialReview": [
+        "WooCommerce-only pricing/discount does not automatically transfer; review expiry before publication"
+      ],
+      "copiedAt": "2026-10-20T01:17:36.624Z",
+      "enabledVariants": 18,
+      "nativePublishingStatus": "Unpublished"
+    },
+    "6ac5d2f8eb881c661602cbed": {
+      "productId": "6ad6c133be6698df65001c86",
+      "title": "Be Thankful for Sless! — Cork Back Coaster",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:17:39.774Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343711",
+      "externalProductId": "33343711"
+    },
+    "6ac5d2f275161e32c107f499": {
+      "productId": "6ad6c135d1de54a2f20cc464",
+      "title": "Sless Ring Breaker — Matte Canvas, 12 × 20 in",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:17:42.279Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343704",
+      "externalProductId": "33343704"
+    },
+    "6ac5d2edfeeac1bd9403d4aa": {
+      "productId": "6ad6c138d2c7f3234908dc8b",
+      "title": "Sless Champion — Matte Vertical Posters",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:17:44.845Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343701",
+      "externalProductId": "33343701"
+    },
+    "6ac5d2e801e006db230b0f76": {
+      "productId": "6ad6c13bbe6698df65001c92",
+      "title": "Sless Is Cheer — Spun Polyester Square Pillow",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:17:47.746Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343699",
+      "externalProductId": "33343699"
+    },
+    "6ac5d2e355eec60e6a057b7d": {
+      "productId": "6ad6c13dd1de54a2f20cc46d",
+      "title": "Sless Is Cheer — Velveteen Plush Blanket",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:17:50.233Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343696",
+      "externalProductId": "33343696"
+    },
+    "6ac5d2dcd8513ff05a0865a3": {
+      "productId": "6ad6c140d2c7f3234908dc9a",
+      "title": "Sless Ring Breaker — Sherpa Fleece Blanket",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:17:52.600Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343691",
+      "externalProductId": "33343691"
+    },
+    "6ac5d2d475161e32c107f48e": {
+      "productId": "6ad6c142b8e1b2aced006766",
+      "title": "Sless Champion — Desk Mat",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:17:55.017Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343689",
+      "externalProductId": "33343689"
+    },
+    "6ac5d2cf55eec60e6a057b70": {
+      "productId": "6ad6c144003392ba2b0bcfcf",
+      "title": "Sless Ring Breaker — Slim Phone Cases",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:17:57.636Z",
+      "enabledVariants": 6,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343697",
+      "externalProductId": "33343697"
+    },
+    "6ac5d2c4eb881c661602cbc3": {
+      "productId": "6ad6c183b8e1b2aced00678c",
+      "title": "Sless Champion — Tough Phone Cases",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:19:00.645Z",
+      "enabledVariants": 6,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343688",
+      "externalProductId": "33343688"
+    },
+    "6ac5d2be7226b35d210a8c5b": {
+      "productId": "6ad6c187c439a7627f05ec4e",
+      "title": "Sless Ring Breaker — Laptop Sleeve",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:19:04.389Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343685",
+      "externalProductId": "33343685"
+    },
+    "6ac5d2b45e26a61282022957": {
+      "productId": "6ad6c1fed1de54a2f20cc512",
+      "title": "Sless Ring Breaker — Spiral Notebook - Ruled Line",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:21:03.287Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343684",
+      "externalProductId": "33343684"
+    },
+    "6ac5d2af5e26a61282022953": {
+      "productId": "6ad6c200d1de54a2f20cc515",
+      "title": "Sless After Dark — Square Vinyl Stickers",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:21:05.530Z",
+      "enabledVariants": 5,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343683",
+      "externalProductId": "33343683"
+    },
+    "6ac5d2a955eec60e6a057b4e": {
+      "productId": "6ad6c20304f48b1ecc03e5cd",
+      "title": "Sless Ring Breaker — Kiss-Cut Stickers",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:21:07.834Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343682",
+      "externalProductId": "33343682"
+    },
+    "6ac5d2a5ac3cff86ef057884": {
+      "productId": "6ad6c20504f48b1ecc03e5d0",
+      "title": "Be Thankful for Sless! — Copper Vacuum Insulated Bottle, 22oz",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:21:10.310Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343680",
+      "externalProductId": "33343680"
+    },
+    "6ac5d2a05e26a61282022947": {
+      "productId": "6ad6c2082b511f922206418e",
+      "title": "Sless Ring Breaker — Tumbler 20oz",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:21:12.657Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343679",
+      "externalProductId": "33343679"
+    },
+    "6ac5d29cbd34d756940c4f92": {
+      "productId": "6ad6c20a003392ba2b0bd061",
+      "title": "Sless Champion — Stainless Steel Travel Mug",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:21:15.076Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343678",
+      "externalProductId": "33343678"
+    },
+    "6ac5d297724aee2017046779": {
+      "productId": "6ad6c20c13d9efc1490f1005",
+      "title": "Sless Ring Breaker — Enamel Camping Mug",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:21:17.368Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343677",
+      "externalProductId": "33343677"
+    },
+    "6ac5d293d7ff457b4d0c7e17": {
+      "productId": "6ad6c20fd1de54a2f20cc51e",
+      "title": "Sless Is Cheer — Latte Mug",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:21:19.575Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343681",
+      "externalProductId": "33343681"
+    },
+    "6ac5d28ed8513ff05a086581": {
+      "productId": "6ad6c21113d9efc1490f1009",
+      "title": "Sless After Dark — Black Mug (11oz, 15oz)",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:21:22.169Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343676",
+      "externalProductId": "33343676"
+    },
+    "6ac5d2895e26a61282022933": {
+      "productId": "6ad6c214816e27163903ac61",
+      "title": "Sless Champion — Mug 15oz",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:21:24.646Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343674",
+      "externalProductId": "33343674"
+    },
+    "6ac5d285841732a55b0c4630": {
+      "productId": "6ad6c216d2c7f3234908dd2d",
+      "title": "Sless Ring Breaker — Mug 11oz",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:21:26.770Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343669",
+      "externalProductId": "33343669"
+    },
+    "6ac5d0defeeac1bd9403d2f8": {
+      "productId": "6ad6c26c78e220919c07f170",
+      "title": "Sless Ring Breaker — Weekender Bag",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:22:52.638Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343531",
+      "externalProductId": "33343531"
+    },
+    "6ac5d0d94c4e49c98f0f07fc": {
+      "productId": "6ad6c26e78e220919c07f177",
+      "title": "Sless After Dark — Canvas Tote Bag, 5-Color Straps",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:22:54.945Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343534",
+      "externalProductId": "33343534"
+    },
+    "6ac5d0d34c4e49c98f0f07f7": {
+      "productId": "6ad6c270d1de54a2f20cc5a9",
+      "title": "Sless Ring Breaker — Organic Canvas Tote Bag",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:22:57.388Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343533",
+      "externalProductId": "33343533"
+    },
+    "6ac5d0ce841732a55b0c449b": {
+      "productId": "6ad6c273d1de54a2f20cc5ae",
+      "title": "Sless Champion — Cotton Tote Bag",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:22:59.816Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343530",
+      "externalProductId": "33343530"
+    },
+    "6ac5d0c8ac3cff86ef05773d": {
+      "productId": "6ad6c27678e220919c07f17d",
+      "title": "Sless Holiday Lightning Mascot — Classic Cuffed Beanie (Embroidery)",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:23:02.640Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343524",
+      "externalProductId": "33343524"
+    },
+    "6ac5d0c3679a412443086f1d": {
+      "productId": "6ad6c27878e220919c07f183",
+      "title": "Sless Lightning Mascot — Classic Dad Cap",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:23:05.396Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343527",
+      "externalProductId": "33343527"
+    },
+    "6ac5d0bcd7ff457b4d0c7ccb": {
+      "productId": "6ad6c27b003392ba2b0bd0a8",
+      "title": "Sless Lightning Mascot — Snapback Trucker Cap",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:23:07.863Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343526",
+      "externalProductId": "33343526"
+    },
+    "6ac5d0b7ac3cff86ef057731": {
+      "productId": "6ad6c27dd2c7f3234908dd8f",
+      "title": "Sless Lightning Mascot — Trucker Caps",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:23:10.244Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343525",
+      "externalProductId": "33343525"
+    },
+    "6ac5d0ab80f7c61095062149": {
+      "productId": "6ad6c27f816e27163903acae",
+      "title": "Sless Lightning Mascot — Low Profile Baseball Cap",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:23:12.513Z",
+      "enabledVariants": 1,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343522",
+      "externalProductId": "33343522"
+    },
+    "6ac5d0a001e006db230b0e0a": {
+      "productId": "6ad6c282003392ba2b0bd0ae",
+      "title": "Sless Champion — Basketball Shorts (AOP)",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:23:14.830Z",
+      "enabledVariants": 6,
+      "placementVerification": {
+        "method": "Original supplier variant template dimensions, exact asset/layer/configuration checks",
+        "tolerancePixels": 0.05,
+        "maximumObservedErrorPixels": 0.03475554346739018,
+        "evidence": [
+          {
+            "variant": 78572,
+            "position": "left_leg",
+            "xErrorPixels": 0,
+            "yErrorPixels": 0.03475554346739018
+          },
+          {
+            "variant": 78572,
+            "position": "right_leg",
+            "xErrorPixels": 0,
+            "yErrorPixels": 0.012762544535431242
+          },
+          {
+            "variant": 78573,
+            "position": "left_leg",
+            "xErrorPixels": 0,
+            "yErrorPixels": 0.0010068888925159891
+          },
+          {
+            "variant": 78573,
+            "position": "right_leg",
+            "xErrorPixels": 0,
+            "yErrorPixels": 0.0025913874158433603
+          },
+          {
+            "variant": 78574,
+            "position": "left_leg",
+            "xErrorPixels": 0,
+            "yErrorPixels": 0
+          },
+          {
+            "variant": 78574,
+            "position": "right_leg",
+            "xErrorPixels": 0,
+            "yErrorPixels": 0
+          },
+          {
+            "variant": 78575,
+            "position": "left_leg",
+            "xErrorPixels": 0,
+            "yErrorPixels": 0.011148390181769718
+          },
+          {
+            "variant": 78575,
+            "position": "right_leg",
+            "xErrorPixels": 6.366018823200648e-13,
+            "yErrorPixels": 0.005235130995566384
+          },
+          {
+            "variant": 78576,
+            "position": "left_leg",
+            "xErrorPixels": 0,
+            "yErrorPixels": 0.011148390181769718
+          },
+          {
+            "variant": 78576,
+            "position": "right_leg",
+            "xErrorPixels": 6.366018823200648e-13,
+            "yErrorPixels": 0.005235130995566384
+          },
+          {
+            "variant": 79955,
+            "position": "left_leg",
+            "xErrorPixels": 0,
+            "yErrorPixels": 0.0323875031113835
+          },
+          {
+            "variant": 79955,
+            "position": "right_leg",
+            "xErrorPixels": 0,
+            "yErrorPixels": 0.010866395473418389
+          }
+        ]
+      },
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343523",
+      "externalProductId": "33343523"
+    },
+    "6ac5d0965e26a6128202278f": {
+      "productId": "6ad6c6e4b8e1b2aced006b32",
+      "title": "Sless Ring Breaker — Athletic Joggers (AOP)",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:41:56.792Z",
+      "enabledVariants": 6,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343519",
+      "externalProductId": "33343519"
+    },
+    "6ac5d07e6a59c478d10a5010": {
+      "productId": "6ad6c6e6be6698df650020bc",
+      "title": "Sless Champion — Heavy Blend Full Zip Hooded Sweatshirt",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:41:59.364Z",
+      "enabledVariants": 6,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343518",
+      "externalProductId": "33343518"
+    },
+    "6ac5d06dbd34d756940c4e0a": {
+      "productId": "6ad6c6e9b8e1b2aced006b3a",
+      "title": "Sless Ring Breaker — Sponge Fleece Pullover Hoodie",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:42:02.200Z",
+      "enabledVariants": 7,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343520",
+      "externalProductId": "33343520"
+    },
+    "6ac5d063d7ff457b4d0c7ca8": {
+      "productId": "6ad6c6ec816e27163903af96",
+      "title": "Sless After Dark — Heavy Blend Hooded Sweatshirt",
+      "verified": true,
+      "public": false,
+      "specialReview": [
+        "WooCommerce-only pricing/discount does not automatically transfer; review expiry before publication"
+      ],
+      "copiedAt": "2026-10-20T01:42:05.217Z",
+      "enabledVariants": 6,
+      "nativePublishingStatus": "Unpublished"
+    },
+    "6ac5d05a014b7d9bf2098776": {
+      "productId": "6ad6c6efbe6698df650020c1",
+      "title": "Be Thankful for Sless! — Garment-Dyed Sweatshirt",
+      "verified": true,
+      "public": false,
+      "specialReview": [
+        "WooCommerce-only pricing/discount does not automatically transfer; review expiry before publication"
+      ],
+      "copiedAt": "2026-10-20T01:42:07.830Z",
+      "enabledVariants": 6,
+      "nativePublishingStatus": "Unpublished"
+    },
+    "6ac5d04e4c4e49c98f0f07b0": {
+      "productId": "6ad6c6f2e747d1235e0d0297",
+      "title": "Sless Is Cheer — Heavy Blend Crewneck Sweatshirt",
+      "verified": true,
+      "public": false,
+      "specialReview": [
+        "WooCommerce-only pricing/discount does not automatically transfer; review expiry before publication"
+      ],
+      "copiedAt": "2026-10-20T01:42:11.000Z",
+      "enabledVariants": 6,
+      "nativePublishingStatus": "Unpublished"
+    },
+    "6ac5d0474c4e49c98f0f07ac": {
+      "productId": "6ad6c6f4e747d1235e0d029a",
+      "title": "Sless Ring Breaker — Women's Ideal Racerback Tank",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:42:13.666Z",
+      "enabledVariants": 6,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343521",
+      "externalProductId": "33343521"
+    },
+    "6ac5d037014b7d9bf209876a": {
+      "productId": "6ad6c6f7d1de54a2f20cc93b",
+      "title": "Sless Champion — Jersey Tank",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:42:16.074Z",
+      "enabledVariants": 6,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343516",
+      "externalProductId": "33343516"
+    },
+    "6ac5d02ad1e3e7d865017da6": {
+      "productId": "6ad6c6f949cb9f138f08d2f4",
+      "title": "Sless Ring Breaker — 3\\4 Sleeve Baseball Tee",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:42:18.537Z",
+      "enabledVariants": 4,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343514",
+      "externalProductId": "33343514"
+    },
+    "6ac5d02080f7c61095062104": {
+      "productId": "6ad6c6fcd2c7f3234908e07d",
+      "title": "Sless Champion — Garment-dyed Long Sleeve T-Shirt",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:42:21.060Z",
+      "enabledVariants": 6,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343515",
+      "externalProductId": "33343515"
+    },
+    "6ac5d019ac3cff86ef0576ea": {
+      "productId": "6ad6c6fed1de54a2f20cc93e",
+      "title": "Sless Ring Breaker — Jersey Long Sleeve Tee",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:42:23.560Z",
+      "enabledVariants": 5,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343513",
+      "externalProductId": "33343513"
+    },
+    "6ac5d0137c0874f8d40be1e0": {
+      "productId": "6ad6c70113d9efc1490f1385",
+      "title": "Sless Champion — Jersey Short Sleeve V-Neck Tee",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:42:26.050Z",
+      "enabledVariants": 5,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343512",
+      "externalProductId": "33343512"
+    },
+    "6ac5d00cac3cff86ef0576e2": {
+      "productId": "6ad6c70378e220919c07f4cc",
+      "title": "Be Thankful for Sless! — Triblend Tee",
+      "verified": true,
+      "public": false,
+      "specialReview": [
+        "WooCommerce-only pricing/discount does not automatically transfer; review expiry before publication"
+      ],
+      "copiedAt": "2026-10-20T01:42:28.547Z",
+      "enabledVariants": 5,
+      "nativePublishingStatus": "Unpublished"
+    },
+    "6ac5d0007c0874f8d40be1d4": {
+      "productId": "6ad6c70613d9efc1490f1387",
+      "title": "Sless Champion — Cotton Crew Tee",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:42:30.939Z",
+      "enabledVariants": 6,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343511",
+      "externalProductId": "33343511"
+    },
+    "6ac5cff3d7ff457b4d0c7c5f": {
+      "productId": "6ad6c709816e27163903afa6",
+      "title": "Sless Ring Breaker — Jersey Short Sleeve Tee",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:42:34.301Z",
+      "enabledVariants": 6,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343517",
+      "externalProductId": "33343517"
+    },
+    "6ac5cfec4c4e49c98f0f072b": {
+      "productId": "6ad6c70cd2c7f3234908e085",
+      "title": "Sless After Dark — Oversized Garment-Dyed T-Shirt",
+      "verified": true,
+      "public": false,
+      "specialReview": [
+        "WooCommerce-only pricing/discount does not automatically transfer; review expiry before publication"
+      ],
+      "copiedAt": "2026-10-20T01:42:37.199Z",
+      "enabledVariants": 2,
+      "nativePublishingStatus": "Unpublished"
+    },
+    "6ac5cfe6679a412443086ec9": {
+      "productId": "6ad6c70f816e27163903afab",
+      "title": "Sless Ring Breaker — Garment-Dyed T-shirt",
+      "verified": true,
+      "public": true,
+      "specialReview": [],
+      "copiedAt": "2026-10-20T01:42:40.034Z",
+      "enabledVariants": 6,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "destinationUrl": "https://shop.slessismore.org/product/33343509",
+      "externalProductId": "33343509"
+    },
+    "6ac5cc05014b7d9bf2098516": {
+      "productId": "6ad6c712c439a7627f05f05f",
+      "title": "BUILT DIFFERENT. PROVEN DAILY.",
+      "verified": true,
+      "public": false,
+      "specialReview": [
+        "US-only shipping rule must be reproduced or item withheld"
+      ],
+      "copiedAt": "2026-10-20T01:42:43.145Z",
+      "enabledVariants": 6,
+      "nativePublishingStatus": "Unpublished"
+    },
+    "6ac5cc03a6afd99ddd03f538": {
+      "productId": "6ad6c715c439a7627f05f062",
+      "title": "STAY UNDENIABLE",
+      "verified": true,
+      "public": false,
+      "specialReview": [
+        "US-only shipping rule must be reproduced or item withheld"
+      ],
+      "copiedAt": "2026-10-20T01:42:46.606Z",
+      "enabledVariants": 6,
+      "nativePublishingStatus": "Unpublished"
+    },
+    "6ac5cc01399aa3961002c5af": {
+      "productId": "6ad6c718816e27163903afbc",
+      "title": "NO INTRODUCTION NEEDED",
+      "verified": true,
+      "public": false,
+      "specialReview": [
+        "US-only shipping rule must be reproduced or item withheld"
+      ],
+      "copiedAt": "2026-10-20T01:42:49.672Z",
+      "enabledVariants": 6,
+      "nativePublishingStatus": "Unpublished"
+    },
+    "6ac5d2ba5e26a6128202295c": {
+      "productId": "6ad6d4b978cf7cbdf706eda4",
+      "title": "Be Thankful for Sless! — Hardcover Journal Matte (Lined)",
+      "verified": true,
+      "public": true,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "copyMethod": "Native single-product Copy to destination",
+      "specialReview": [],
+      "enabledVariants": 1,
+      "verification": "Exact source/destination title, description, provider, blueprint, enabled variants, retail prices and normalized artwork geometry match. Public storefront does not list the item.",
+      "destinationUrl": "https://shop.slessismore.org/product/33343510",
+      "externalProductId": "33343510"
+    },
+    "6ac5d0eb5e26a612820227b8": {
+      "productId": "6ad6d99408eeb0b7850cae7a",
+      "title": "Sless Champion — Backpack",
+      "verified": true,
+      "public": true,
+      "nativePublishingStatus": "Published",
+      "apiVisible": true,
+      "copyMethod": "Native single-product Copy to destination; reconciled by fresh paginated API read and native product listing",
+      "specialReview": [],
+      "enabledVariants": 1,
+      "verification": "Exact canonical source/destination title, description, blueprint, provider, enabled variants, retail prices and artwork match. Original MWW On Demand provider 10 and blueprint 413 preserved.",
+      "destinationUrl": "https://shop.slessismore.org/product/33343508",
+      "externalProductId": "33343508"
+    }
+  },
+  "published": true,
+  "publicationIntent": {
+    "scope": "Only the 46 verified entries with empty specialReview; all ten held entries excluded",
+    "method": "Native destination bulk Publish; native selection limit 24",
+    "state": "all_46_publication_and_visibility_reconciled",
+    "visibilityReview": "API-created drafts remain Hidden after publication; use native Show on Printify Pop-Up for approved mapped products only. Reconcile channel mappings before any retry.",
+    "sellerVerificationConfirmed": true,
+    "ownerApprovalConfirmed": true,
+    "routingMustRemainDisabledUntilReturnChecksPass": true
+  },
+  "nativeCopyIntents": {
+    "6ac5d2ba5e26a6128202295c": {
+      "title": "Be Thankful for Sless! — Hardcover Journal Matte (Lined)",
+      "destinationShopId": 29392858,
+      "state": "native_copy_created_verified_unpublished",
+      "destinationProductId": "6ad6d4b978cf7cbdf706eda4",
+      "note": "Copy only this source item to the approved destination. Reconcile native queue and destination before any retry."
+    },
+    "6ac5d0eb5e26a612820227b8": {
+      "title": "Sless Champion — Backpack",
+      "destinationShopId": 29392858,
+      "state": "native_copy_created_verified_unpublished",
+      "destinationProductId": "6ad6d99408eeb0b7850cae7a",
+      "note": "Fresh API pagination and refreshed native listing confirm creation and Unpublished status; no retry or supplier substitution was performed."
+    }
+  },
+  "pausedForReview": false,
+  "pauseReason": null,
+  "updatedAt": "2026-10-20T21:21:01.581Z",
+  "rejectedCreate": {
+    "outcome": "explicit_http_400_validation_rejection",
+    "reason": "Source journal print_details exposes separator_type but omits required separator_color; do not guess",
+    "sourceProductId": "6ac5d2ba5e26a6128202295c",
+    "title": "Be Thankful for Sless! — Hardcover Journal Matte (Lined)",
+    "requestedAt": "2026-10-20T01:19:05.595Z"
+  },
+  "blockedProducts": {},
+  "rejectedProviderCreate": {
+    "outcome": "explicit_http_400_rejection",
+    "reason": "Decorator 10 not available for this blueprint 413; no supplier substitution authorized",
+    "sourceProductId": "6ac5d0eb5e26a612820227b8",
+    "title": "Sless Champion — Backpack",
+    "requestedAt": "2026-10-20T01:21:28.023Z"
+  },
+  "partialPublication": true,
+  "publishedCount": 46,
+  "heldCount": 10,
+  "publicationVerification": {
+    "reviewedAt": "2026-10-20T17:20:30.106Z",
+    "published": 46,
+    "held": 10,
+    "enabledVariants": 122,
+    "mockups": 191,
+    "heldProductsMapped": 0,
+    "heldProductsVisible": 0,
+    "pendingLocks": 0,
+    "supplierPricesPreserved": true,
+    "nativeIndividualDetailsPreserved": true,
+    "noOrderOrPaymentSubmitted": true
+  }
+}

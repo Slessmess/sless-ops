@@ -1,0 +1,24 @@
+{
+  "checkedAt": "2026-10-19T14:33:48.017Z",
+  "siteKitActive": true,
+  "metaPluginActive": false,
+  "trackingHold": true,
+  "analyticsTagPlacement": false,
+  "setupPageVerifiedInInstalledCode": false,
+  "googleSetupUrl": "https://slessismore.org/wp-admin/admin.php?page=googlesitekit-splash",
+  "storefrontChecks": [
+    {
+      "url": "https://slessismore.org/",
+      "httpStatus": 200,
+      "googleTrackingReference": true,
+      "metaPixelReference": false
+    },
+    {
+      "url": "https://slessismore.org/product/sless-after-dark-halloween-tee/",
+      "httpStatus": 200,
+      "googleTrackingReference": true,
+      "metaPixelReference": false
+    }
+  ],
+  "accountAuthorizationStillRequired": true
+}

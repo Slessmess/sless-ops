@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /assets
+Disallow: /calendar
+Disallow: /content
+Disallow: /dashboard
+Disallow: /links
+Disallow: /plans
+Disallow: /restaurant
+Disallow: /sign-in
+Disallow: /sign-up
+Disallow: /api

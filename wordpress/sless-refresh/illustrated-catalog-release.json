@@ -1,0 +1,1399 @@
+{
+  "checkedAt": "2026-10-18T23:07:21.545Z",
+  "shop": 29231820,
+  "websiteVerified": true,
+  "existingPricesAndVariantsPreserved": true,
+  "protectedOriginalsAndHalloweenUnchanged": true,
+  "ordersCreated": false,
+  "productionApproved": false,
+  "nativePublicationAcknowledgementsPending": 0,
+  "products": [
+    {
+      "sku": "SLESS-004",
+      "providerId": "6ac5cfe6679a412443086ec9",
+      "websiteId": 230,
+      "title": "Sless Ring Breaker — Garment-Dyed T-shirt",
+      "description": "<p>Sless Taylor bursts out of purple ring-rope energy, with an expressive comic-book pose and the Sless Is More signature.</p><p>Choose from the garment colors and sizes currently offered in the selector. The garment model and fit remain the ones listed for this product.</p><p>The illustrated graphic is printed on the front with a shaped perimeter, not a solid rectangular panel.</p><p>Product: Garment-Dyed T-shirt.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Apparel",
+      "url": "https://slessismore.org/product/sless-is-more-unisex-garment-dyed-t-shirt/",
+      "supplierImageIds": [
+        "6ad54fca5335cfd73a36cd8d"
+      ],
+      "variants": 6,
+      "websiteImageCount": 1,
+      "nativePublicationConfirmed": true,
+      "printSizing": "large-front",
+      "physicalFrontWidths": [
+        {
+          "id": 73196,
+          "title": "S / Black",
+          "widthInches": 10.5,
+          "templateWidth": 3461,
+          "templateHeight": 3955
+        },
+        {
+          "id": 73200,
+          "title": "M / Black",
+          "widthInches": 10.5,
+          "templateWidth": 3839,
+          "templateHeight": 4387
+        },
+        {
+          "id": 73204,
+          "title": "L / Black",
+          "widthInches": 10.5,
+          "templateWidth": 4200,
+          "templateHeight": 4800
+        },
+        {
+          "id": 73208,
+          "title": "XL / Black",
+          "widthInches": 10.5,
+          "templateWidth": 4200,
+          "templateHeight": 4800
+        },
+        {
+          "id": 73212,
+          "title": "2XL / Black",
+          "widthInches": 10.5,
+          "templateWidth": 4200,
+          "templateHeight": 4800
+        },
+        {
+          "id": 79114,
+          "title": "3XL / Black",
+          "widthInches": 10.5,
+          "templateWidth": 4200,
+          "templateHeight": 4800
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-005",
+      "providerId": "6ac5cfec4c4e49c98f0f072b",
+      "websiteId": 238,
+      "title": "Sless After Dark — Oversized Garment-Dyed T-Shirt",
+      "description": "<p>Sless Taylor crouches above a haunted Halloween scene with a pumpkin lantern, orange moon and purple clouds.</p><p>Choose from the garment colors and sizes currently offered in the selector. The garment model and fit remain the ones listed for this product.</p><p>The illustrated graphic is printed on the front with a shaped perimeter, not a solid rectangular panel.</p><p>Product: Oversized Garment-Dyed T-Shirt.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Halloween",
+      "category": "Apparel",
+      "url": "https://slessismore.org/product/sless-after-dark-halloween-oversized-tee/",
+      "supplierImageIds": [
+        "6ad54fd089b1cc012b13fb61"
+      ],
+      "variants": 2,
+      "websiteImageCount": 1,
+      "nativePublicationConfirmed": true,
+      "printSizing": "large-front",
+      "physicalFrontWidths": [
+        {
+          "id": 125656,
+          "title": "L / Light Washed Denim",
+          "widthInches": 10.5,
+          "templateWidth": 4200,
+          "templateHeight": 4800
+        },
+        {
+          "id": 125659,
+          "title": "3XL / Light Washed Denim",
+          "widthInches": 10.5,
+          "templateWidth": 4200,
+          "templateHeight": 4800
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-006",
+      "providerId": "6ac5cff3d7ff457b4d0c7c5f",
+      "websiteId": 244,
+      "title": "Sless Ring Breaker — Jersey Short Sleeve Tee",
+      "description": "<p>Sless Taylor bursts out of purple ring-rope energy, with an expressive comic-book pose and the Sless Is More signature.</p><p>Choose from the garment colors and sizes currently offered in the selector. The garment model and fit remain the ones listed for this product.</p><p>The illustrated graphic is printed on the front with a shaped perimeter, not a solid rectangular panel.</p><p>Product: Jersey Short Sleeve Tee.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Apparel",
+      "url": "https://slessismore.org/product/sless-is-more-unisex-jersey-short-sleeve-tee/",
+      "supplierImageIds": [
+        "6ad54fca5335cfd73a36cd8d"
+      ],
+      "variants": 6,
+      "websiteImageCount": 1,
+      "nativePublicationConfirmed": true,
+      "printSizing": "large-front",
+      "physicalFrontWidths": [
+        {
+          "id": 18100,
+          "title": "Black / S",
+          "widthInches": 10.18,
+          "templateWidth": 3319,
+          "templateHeight": 3761
+        },
+        {
+          "id": 18101,
+          "title": "Black / M",
+          "widthInches": 10.5,
+          "templateWidth": 3909,
+          "templateHeight": 4431
+        },
+        {
+          "id": 18102,
+          "title": "Black / L",
+          "widthInches": 10.5,
+          "templateWidth": 4500,
+          "templateHeight": 5100
+        },
+        {
+          "id": 18103,
+          "title": "Black / XL",
+          "widthInches": 10.5,
+          "templateWidth": 4500,
+          "templateHeight": 5100
+        },
+        {
+          "id": 18104,
+          "title": "Black / 2XL",
+          "widthInches": 10.5,
+          "templateWidth": 4500,
+          "templateHeight": 5100
+        },
+        {
+          "id": 18105,
+          "title": "Black / 3XL",
+          "widthInches": 10.5,
+          "templateWidth": 4500,
+          "templateHeight": 5100
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-007",
+      "providerId": "6ac5d0007c0874f8d40be1d4",
+      "websiteId": 251,
+      "title": "Sless Champion — Cotton Crew Tee",
+      "description": "<p>Sless Taylor takes center stage with a gold championship belt, purple-and-black gear and bold lightning artwork.</p><p>Choose from the garment colors and sizes currently offered in the selector. The garment model and fit remain the ones listed for this product.</p><p>The illustrated graphic is printed on the front with a shaped perimeter, not a solid rectangular panel.</p><p>Product: Cotton Crew Tee.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Apparel",
+      "url": "https://slessismore.org/product/sless-is-more-unisex-cotton-crew-tee/",
+      "supplierImageIds": [
+        "6ad54fd9cee80d2c0fc47c85"
+      ],
+      "variants": 6,
+      "websiteImageCount": 1,
+      "nativePublicationConfirmed": true,
+      "printSizing": "large-front",
+      "physicalFrontWidths": [
+        {
+          "id": 17391,
+          "title": "Heather Grey / S",
+          "widthInches": 9.88,
+          "templateWidth": 3319,
+          "templateHeight": 3761
+        },
+        {
+          "id": 17392,
+          "title": "Heather Grey / M",
+          "widthInches": 10.5,
+          "templateWidth": 3909,
+          "templateHeight": 4431
+        },
+        {
+          "id": 17393,
+          "title": "Heather Grey / L",
+          "widthInches": 10.5,
+          "templateWidth": 4500,
+          "templateHeight": 5100
+        },
+        {
+          "id": 17394,
+          "title": "Heather Grey / XL",
+          "widthInches": 10.5,
+          "templateWidth": 4500,
+          "templateHeight": 5100
+        },
+        {
+          "id": 17395,
+          "title": "Heather Grey / 2XL",
+          "widthInches": 10.5,
+          "templateWidth": 4500,
+          "templateHeight": 5100
+        },
+        {
+          "id": 17396,
+          "title": "Heather Grey / 3XL",
+          "widthInches": 10.5,
+          "templateWidth": 4500,
+          "templateHeight": 5100
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-008",
+      "providerId": "6ac5d00cac3cff86ef0576e2",
+      "websiteId": 260,
+      "title": "Be Thankful for Sless! — Triblend Tee",
+      "description": "<p>Sless serves up a championship pie in a purple apron, framed by autumn leaves and the words “Be Thankful for Sless!”</p><p>Choose from the garment colors and sizes currently offered in the selector. The garment model and fit remain the ones listed for this product.</p><p>The illustrated graphic is printed on the front with a shaped perimeter, not a solid rectangular panel.</p><p>Product: Triblend Tee.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Thanksgiving",
+      "category": "Apparel",
+      "url": "https://slessismore.org/product/more-gratitude-thanksgiving-triblend-tee/",
+      "supplierImageIds": [
+        "6ad54f9965cae9ea3cce0e9d"
+      ],
+      "variants": 5,
+      "websiteImageCount": 1,
+      "nativePublicationConfirmed": true,
+      "printSizing": "large-front",
+      "physicalFrontWidths": [
+        {
+          "id": 40474,
+          "title": "Black Heather / S",
+          "widthInches": 9.57,
+          "templateWidth": 3319,
+          "templateHeight": 3761
+        },
+        {
+          "id": 40567,
+          "title": "Black Heather / M",
+          "widthInches": 10.5,
+          "templateWidth": 3909,
+          "templateHeight": 4431
+        },
+        {
+          "id": 40660,
+          "title": "Black Heather / L",
+          "widthInches": 10.5,
+          "templateWidth": 4500,
+          "templateHeight": 5100
+        },
+        {
+          "id": 40753,
+          "title": "Black Heather / XL",
+          "widthInches": 10.5,
+          "templateWidth": 4500,
+          "templateHeight": 5100
+        },
+        {
+          "id": 40846,
+          "title": "Black Heather / 2XL",
+          "widthInches": 10.5,
+          "templateWidth": 4500,
+          "templateHeight": 5100
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-009",
+      "providerId": "6ac5d0137c0874f8d40be1e0",
+      "websiteId": 269,
+      "title": "Sless Champion — Jersey Short Sleeve V-Neck Tee",
+      "description": "<p>Sless Taylor takes center stage with a gold championship belt, purple-and-black gear and bold lightning artwork.</p><p>Choose from the garment colors and sizes currently offered in the selector. The garment model and fit remain the ones listed for this product.</p><p>The illustrated graphic is printed on the front with a shaped perimeter, not a solid rectangular panel.</p><p>Product: Jersey Short Sleeve V-Neck Tee.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Apparel",
+      "url": "https://slessismore.org/product/sless-is-more-unisex-jersey-short-sleeve-v-neck-tee/",
+      "supplierImageIds": [
+        "6ad54fd9cee80d2c0fc47c85"
+      ],
+      "variants": 5,
+      "websiteImageCount": 1,
+      "nativePublicationConfirmed": true,
+      "printSizing": "large-front",
+      "physicalFrontWidths": [
+        {
+          "id": 23655,
+          "title": "S / Black",
+          "widthInches": 9.88,
+          "templateWidth": 3319,
+          "templateHeight": 3761
+        },
+        {
+          "id": 23694,
+          "title": "M / Black",
+          "widthInches": 10.5,
+          "templateWidth": 3909,
+          "templateHeight": 4431
+        },
+        {
+          "id": 23733,
+          "title": "L / Black",
+          "widthInches": 10.5,
+          "templateWidth": 4500,
+          "templateHeight": 5100
+        },
+        {
+          "id": 23772,
+          "title": "XL / Black",
+          "widthInches": 10.5,
+          "templateWidth": 4500,
+          "templateHeight": 5100
+        },
+        {
+          "id": 23811,
+          "title": "2XL / Black",
+          "widthInches": 10.5,
+          "templateWidth": 4500,
+          "templateHeight": 5100
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-010",
+      "providerId": "6ac5d019ac3cff86ef0576ea",
+      "websiteId": 276,
+      "title": "Sless Ring Breaker — Jersey Long Sleeve Tee",
+      "description": "<p>Sless Taylor bursts out of purple ring-rope energy, with an expressive comic-book pose and the Sless Is More signature.</p><p>Choose from the garment colors and sizes currently offered in the selector. The garment model and fit remain the ones listed for this product.</p><p>The illustrated graphic is printed on the front with a shaped perimeter, not a solid rectangular panel.</p><p>Product: Jersey Long Sleeve Tee.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Apparel",
+      "url": "https://slessismore.org/product/sless-is-more-unisex-jersey-long-sleeve-tee/",
+      "supplierImageIds": [
+        "6ad54fca5335cfd73a36cd8d"
+      ],
+      "variants": 5,
+      "websiteImageCount": 1,
+      "nativePublicationConfirmed": true,
+      "printSizing": "large-front",
+      "physicalFrontWidths": [
+        {
+          "id": 24996,
+          "title": "L / Black",
+          "widthInches": 10.5,
+          "templateWidth": 4200,
+          "templateHeight": 4800
+        },
+        {
+          "id": 24997,
+          "title": "M / Black",
+          "widthInches": 10.5,
+          "templateWidth": 3461,
+          "templateHeight": 3955
+        },
+        {
+          "id": 24998,
+          "title": "S / Black",
+          "widthInches": 9.85,
+          "templateWidth": 3213,
+          "templateHeight": 3672
+        },
+        {
+          "id": 24999,
+          "title": "XL / Black",
+          "widthInches": 10.5,
+          "templateWidth": 4200,
+          "templateHeight": 4800
+        },
+        {
+          "id": 25000,
+          "title": "2XL / Black",
+          "widthInches": 10.5,
+          "templateWidth": 4200,
+          "templateHeight": 4800
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-011",
+      "providerId": "6ac5d02080f7c61095062104",
+      "websiteId": 283,
+      "title": "Sless Champion — Garment-dyed Long Sleeve T-Shirt",
+      "description": "<p>Sless Taylor takes center stage with a gold championship belt, purple-and-black gear and bold lightning artwork.</p><p>Choose from the garment colors and sizes currently offered in the selector. The garment model and fit remain the ones listed for this product.</p><p>The illustrated graphic is printed on the front with a shaped perimeter, not a solid rectangular panel.</p><p>Product: Garment-dyed Long Sleeve T-Shirt.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Apparel",
+      "url": "https://slessismore.org/product/sless-is-more-unisex-garment-dyed-long-sleeve-t-shirt/",
+      "supplierImageIds": [
+        "6ad54fd9cee80d2c0fc47c85"
+      ],
+      "variants": 6,
+      "websiteImageCount": 1,
+      "nativePublicationConfirmed": true,
+      "printSizing": "large-front",
+      "physicalFrontWidths": [
+        {
+          "id": 73218,
+          "title": "Black / S",
+          "widthInches": 10.44,
+          "templateWidth": 3461,
+          "templateHeight": 3955
+        },
+        {
+          "id": 73220,
+          "title": "Black / M",
+          "widthInches": 10.5,
+          "templateWidth": 3839,
+          "templateHeight": 4387
+        },
+        {
+          "id": 73222,
+          "title": "Black / L",
+          "widthInches": 10.5,
+          "templateWidth": 4200,
+          "templateHeight": 4800
+        },
+        {
+          "id": 73224,
+          "title": "Black / XL",
+          "widthInches": 10.5,
+          "templateWidth": 4200,
+          "templateHeight": 4800
+        },
+        {
+          "id": 73226,
+          "title": "Black / 2XL",
+          "widthInches": 10.5,
+          "templateWidth": 4200,
+          "templateHeight": 4800
+        },
+        {
+          "id": 98893,
+          "title": "Black / 3XL",
+          "widthInches": 10.5,
+          "templateWidth": 4200,
+          "templateHeight": 4800
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-012",
+      "providerId": "6ac5d02ad1e3e7d865017da6",
+      "websiteId": 293,
+      "title": "Sless Ring Breaker — 3/4 Sleeve Baseball Tee",
+      "description": "<p>Sless Taylor bursts out of purple ring-rope energy, with an expressive comic-book pose and the Sless Is More signature.</p><p>Choose from the garment colors and sizes currently offered in the selector. The garment model and fit remain the ones listed for this product.</p><p>The illustrated graphic is printed on the front with a shaped perimeter, not a solid rectangular panel.</p><p>Product: 3/4 Sleeve Baseball Tee.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Apparel",
+      "url": "https://slessismore.org/product/sless-is-more-unisex-34-sleeve-baseball-tee/",
+      "supplierImageIds": [
+        "6ad54fca5335cfd73a36cd8d"
+      ],
+      "variants": 4,
+      "websiteImageCount": 1,
+      "nativePublicationConfirmed": true,
+      "printSizing": "large-front",
+      "physicalFrontWidths": [
+        {
+          "id": 33522,
+          "title": "White/True Royal / S",
+          "widthInches": 7.25,
+          "templateWidth": 2419,
+          "templateHeight": 2761
+        },
+        {
+          "id": 33523,
+          "title": "White/True Royal / M",
+          "widthInches": 9.23,
+          "templateWidth": 3009,
+          "templateHeight": 3436
+        },
+        {
+          "id": 33524,
+          "title": "White/True Royal / L",
+          "widthInches": 10.5,
+          "templateWidth": 3600,
+          "templateHeight": 4110
+        },
+        {
+          "id": 33525,
+          "title": "White/True Royal / XL",
+          "widthInches": 10.5,
+          "templateWidth": 3600,
+          "templateHeight": 4110
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-013",
+      "providerId": "6ac5d037014b7d9bf209876a",
+      "websiteId": 298,
+      "title": "Sless Champion — Jersey Tank",
+      "description": "<p>Sless Taylor takes center stage with a gold championship belt, purple-and-black gear and bold lightning artwork.</p><p>Choose from the garment colors and sizes currently offered in the selector. The garment model and fit remain the ones listed for this product.</p><p>The illustrated graphic is printed on the front with a shaped perimeter, not a solid rectangular panel.</p><p>Product: Jersey Tank.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Apparel",
+      "url": "https://slessismore.org/product/sless-is-more-unisex-jersey-tank/",
+      "supplierImageIds": [
+        "6ad54fd9cee80d2c0fc47c85"
+      ],
+      "variants": 6,
+      "websiteImageCount": 1,
+      "nativePublicationConfirmed": true,
+      "printSizing": "large-front",
+      "physicalFrontWidths": [
+        {
+          "id": 24639,
+          "title": "L / Black",
+          "widthInches": 9.2,
+          "templateWidth": 3000,
+          "templateHeight": 3600
+        },
+        {
+          "id": 24640,
+          "title": "M / Black",
+          "widthInches": 8.37,
+          "templateWidth": 2729,
+          "templateHeight": 3275
+        },
+        {
+          "id": 24641,
+          "title": "S / Black",
+          "widthInches": 7.54,
+          "templateWidth": 2458,
+          "templateHeight": 2950
+        },
+        {
+          "id": 24642,
+          "title": "XL / Black",
+          "widthInches": 9.2,
+          "templateWidth": 3000,
+          "templateHeight": 3600
+        },
+        {
+          "id": 24643,
+          "title": "XS / Black",
+          "widthInches": 6.61,
+          "templateWidth": 2193,
+          "templateHeight": 2631
+        },
+        {
+          "id": 24644,
+          "title": "2XL / Black",
+          "widthInches": 9.2,
+          "templateWidth": 3000,
+          "templateHeight": 3600
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-014",
+      "providerId": "6ac5d0474c4e49c98f0f07ac",
+      "websiteId": 305,
+      "title": "Sless Ring Breaker — Women's Ideal Racerback Tank",
+      "description": "<p>Sless Taylor bursts out of purple ring-rope energy, with an expressive comic-book pose and the Sless Is More signature.</p><p>Choose from the garment colors and sizes currently offered in the selector. The garment model and fit remain the ones listed for this product.</p><p>The illustrated graphic is printed on the front with a shaped perimeter, not a solid rectangular panel.</p><p>Product: Women&#x27;s Ideal Racerback Tank.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Apparel",
+      "url": "https://slessismore.org/product/sless-is-more-womens-ideal-racerback-tank/",
+      "supplierImageIds": [
+        "6ad54fca5335cfd73a36cd8d"
+      ],
+      "variants": 6,
+      "websiteImageCount": 1,
+      "nativePublicationConfirmed": true,
+      "printSizing": "large-front",
+      "physicalFrontWidths": [
+        {
+          "id": 19287,
+          "title": "S / Solid Black",
+          "widthInches": 8.23,
+          "templateWidth": 2684,
+          "templateHeight": 4563
+        },
+        {
+          "id": 19288,
+          "title": "M / Solid Black",
+          "widthInches": 8.69,
+          "templateWidth": 2833,
+          "templateHeight": 4817
+        },
+        {
+          "id": 19289,
+          "title": "L / Solid Black",
+          "widthInches": 9.2,
+          "templateWidth": 3000,
+          "templateHeight": 5100
+        },
+        {
+          "id": 19290,
+          "title": "XL / Solid Black",
+          "widthInches": 9.2,
+          "templateWidth": 3000,
+          "templateHeight": 5100
+        },
+        {
+          "id": 19291,
+          "title": "2XL / Solid Black",
+          "widthInches": 9.2,
+          "templateWidth": 3000,
+          "templateHeight": 5100
+        },
+        {
+          "id": 22208,
+          "title": "XS / Solid Black",
+          "widthInches": 7.74,
+          "templateWidth": 2523,
+          "templateHeight": 4289
+        }
+      ]
+    },
+    {
+      "sku": "SLESS-015",
+      "providerId": "6ac5d04e4c4e49c98f0f07b0",
+      "websiteId": 314,
+      "title": "Sless Is Cheer — Heavy Blend Crewneck Sweatshirt",
+      "description": "<p>Sless breaks through festive gift wrap in a Santa hat and purple-and-black wrestling gear, with a raised gift, candy-cane prop and slim upper-arm bands.</p><p>Choose from the garment colors and sizes currently offered in the selector. The garment model and fit remain the ones listed for this product.</p><p>The illustrated graphic is printed on the front with a shaped perimeter, not a solid rectangular panel.</p><p>Product: Heavy Blend Crewneck Sweatshirt.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Christmas",
+      "category": "Apparel",
+      "url": "https://slessismore.org/product/more-cheer-christmas-crewneck/",
+      "supplierImageIds": [
+        "6ad539693726b003cbd37e90"
+      ],
+      "variants": 6,
+      "websiteImageCount": 1,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-016",
+      "providerId": "6ac5d05a014b7d9bf2098776",
+      "websiteId": 323,
+      "title": "Be Thankful for Sless! — Garment-Dyed Sweatshirt",
+      "description": "<p>Sless serves up a championship pie in a purple apron, framed by autumn leaves and the words “Be Thankful for Sless!”</p><p>Choose from the garment colors and sizes currently offered in the selector. The garment model and fit remain the ones listed for this product.</p><p>The illustrated graphic is printed on the front with a shaped perimeter, not a solid rectangular panel.</p><p>Product: Garment-Dyed Sweatshirt.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Thanksgiving",
+      "category": "Apparel",
+      "url": "https://slessismore.org/product/more-gratitude-thanksgiving-garment-dyed-sweatshirt/",
+      "supplierImageIds": [
+        "6ad5396e2d1692d851470c36"
+      ],
+      "variants": 6,
+      "websiteImageCount": 1,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-017",
+      "providerId": "6ac5d063d7ff457b4d0c7ca8",
+      "websiteId": 330,
+      "title": "Sless After Dark — Heavy Blend Hooded Sweatshirt",
+      "description": "<p>Sless Taylor crouches above a haunted Halloween scene with a pumpkin lantern, orange moon and purple clouds.</p><p>Choose from the garment colors and sizes currently offered in the selector. The garment model and fit remain the ones listed for this product.</p><p>The illustrated graphic is printed on the front with a shaped perimeter, not a solid rectangular panel.</p><p>Product: Heavy Blend Hooded Sweatshirt.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Halloween",
+      "category": "Apparel",
+      "url": "https://slessismore.org/product/sless-after-dark-halloween-hoodie/",
+      "supplierImageIds": [
+        "6ad5397285c562c8cc537b4c"
+      ],
+      "variants": 6,
+      "websiteImageCount": 1,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-018",
+      "providerId": "6ac5d06dbd34d756940c4e0a",
+      "websiteId": 339,
+      "title": "Sless Ring Breaker — Sponge Fleece Pullover Hoodie",
+      "description": "<p>Sless Taylor bursts out of purple ring-rope energy, with an expressive comic-book pose and the Sless Is More signature.</p><p>Choose from the garment colors and sizes currently offered in the selector. The garment model and fit remain the ones listed for this product.</p><p>The illustrated graphic is printed on the front with a shaped perimeter, not a solid rectangular panel.</p><p>Product: Sponge Fleece Pullover Hoodie.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Apparel",
+      "url": "https://slessismore.org/product/sless-is-more-unisex-sponge-fleece-pullover-hoodie/",
+      "supplierImageIds": [
+        "6ad539768feb98fe2a27bd39"
+      ],
+      "variants": 7,
+      "websiteImageCount": 1,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-019",
+      "providerId": "6ac5d07e6a59c478d10a5010",
+      "websiteId": 348,
+      "title": "Sless Champion — Heavy Blend Full Zip Hooded Sweatshirt",
+      "description": "<p>Sless Taylor takes center stage with a gold championship belt, purple-and-black gear and bold lightning artwork.</p><p>Choose from the garment colors and sizes currently offered in the selector. The garment model and fit remain the ones listed for this product.</p><p>Two separated illustrated placements keep the design clear of the center zipper.</p><p>Product: Heavy Blend Full Zip Hooded Sweatshirt.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Apparel",
+      "url": "https://slessismore.org/product/sless-is-more-unisex-heavy-blend-full-zip-hooded-sweatshirt/",
+      "supplierImageIds": [
+        "6ad5397aa6fafe8ed739f48b"
+      ],
+      "variants": 6,
+      "websiteImageCount": 1,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-020",
+      "providerId": "6ac5d0965e26a6128202278f",
+      "websiteId": 356,
+      "title": "Sless Ring Breaker — Athletic Joggers (AOP)",
+      "description": "<p>Sless Taylor bursts out of purple ring-rope energy, with an expressive comic-book pose and the Sless Is More signature.</p><p>Choose from the garment colors and sizes currently offered in the selector. The garment model and fit remain the ones listed for this product.</p><p>An all-over lightning-and-mascot repeat is arranged across the selected print panels.</p><p>Product: Athletic Joggers (AOP).</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Apparel",
+      "url": "https://slessismore.org/product/sless-is-more-athletic-joggers-aop/",
+      "supplierImageIds": [
+        "6ad5397d3ce2da10233a1d49",
+        "6ad5397d3ce2da10233a1d49",
+        "6ad5397f873533b755bf2f1f",
+        "6ad539813c111052ac231ed3"
+      ],
+      "variants": 6,
+      "websiteImageCount": 1,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-021",
+      "providerId": "6ac5d0a001e006db230b0e0a",
+      "websiteId": 364,
+      "title": "Sless Champion — Basketball Shorts (AOP)",
+      "description": "<p>Sless Taylor takes center stage with a gold championship belt, purple-and-black gear and bold lightning artwork.</p><p>Choose from the garment colors and sizes currently offered in the selector. The garment model and fit remain the ones listed for this product.</p><p>An all-over lightning-and-mascot repeat is arranged across the selected print panels.</p><p>Product: Basketball Shorts (AOP).</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Apparel",
+      "url": "https://slessismore.org/product/sless-is-more-basketball-shorts-aop/",
+      "supplierImageIds": [
+        "6ad53984af39f121a956cc7f",
+        "6ad53984af39f121a956cc7f"
+      ],
+      "variants": 6,
+      "websiteImageCount": 1,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-022",
+      "providerId": "6ac5d0ab80f7c61095062149",
+      "websiteId": 373,
+      "title": "Sless Lightning Mascot — Low Profile Baseball Cap",
+      "description": "<p>The Sless Taylor mascot becomes a compact purple-and-gold lightning-shield emblem, replacing the old stacked text.</p><p>A small-format character badge brings Sless to the front of this cap or beanie. The selected product’s original decoration method is retained.</p><p>A simplified mascot shield is centered in the available front decoration area.</p><p>Product: Low Profile Baseball Cap.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Headwear",
+      "url": "https://slessismore.org/product/sless-is-more-low-profile-baseball-cap/",
+      "supplierImageIds": [
+        "6ad53986ad25064ce0a800e0"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-023",
+      "providerId": "6ac5d0b7ac3cff86ef057731",
+      "websiteId": 376,
+      "title": "Sless Lightning Mascot — Trucker Caps",
+      "description": "<p>The Sless Taylor mascot becomes a compact purple-and-gold lightning-shield emblem, replacing the old stacked text.</p><p>A small-format character badge brings Sless to the front of this cap or beanie. The selected product’s original decoration method is retained.</p><p>A simplified mascot shield is centered in the available front decoration area.</p><p>Product: Trucker Caps.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Headwear",
+      "url": "https://slessismore.org/product/sless-is-more-trucker-caps/",
+      "supplierImageIds": [
+        "6ad53989873533b755bf2f20"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-024",
+      "providerId": "6ac5d0bcd7ff457b4d0c7ccb",
+      "websiteId": 378,
+      "title": "Sless Lightning Mascot — Snapback Trucker Cap",
+      "description": "<p>The Sless Taylor mascot becomes a compact purple-and-gold lightning-shield emblem, replacing the old stacked text.</p><p>A small-format character badge brings Sless to the front of this cap or beanie. The selected product’s original decoration method is retained.</p><p>A simplified mascot shield is centered in the available front decoration area.</p><p>Product: Snapback Trucker Cap.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Headwear",
+      "url": "https://slessismore.org/product/sless-is-more-snapback-trucker-cap/",
+      "supplierImageIds": [
+        "6ad5398b590058026de2d315"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-025",
+      "providerId": "6ac5d0c3679a412443086f1d",
+      "websiteId": 382,
+      "title": "Sless Lightning Mascot — Classic Dad Cap",
+      "description": "<p>The Sless Taylor mascot becomes a compact purple-and-gold lightning-shield emblem, replacing the old stacked text.</p><p>A small-format character badge brings Sless to the front of this cap or beanie. The selected product’s original decoration method is retained.</p><p>A simplified mascot shield is centered in the available front decoration area.</p><p>Product: Classic Dad Cap.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Headwear",
+      "url": "https://slessismore.org/product/sless-is-more-classic-dad-cap/",
+      "supplierImageIds": [
+        "6ad5398b590058026de2d315"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-026",
+      "providerId": "6ac5d0c8ac3cff86ef05773d",
+      "websiteId": 386,
+      "title": "Sless Holiday Lightning Mascot — Classic Cuffed Beanie (Embroidery)",
+      "description": "<p>The Sless Taylor mascot becomes a compact purple-and-gold lightning-shield emblem, replacing the old stacked text.</p><p>A small-format character badge brings Sless to the front of this cap or beanie. The selected product’s original decoration method is retained.</p><p>A simplified mascot shield is centered in the available front decoration area.</p><p>Product: Classic Cuffed Beanie (Embroidery).</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Christmas",
+      "category": "Headwear",
+      "url": "https://slessismore.org/product/sless-holiday-star-christmas-embroidered-beanie/",
+      "supplierImageIds": [
+        "6ad5398f6be01393aad510e4"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-027",
+      "providerId": "6ac5d0ce841732a55b0c449b",
+      "websiteId": 388,
+      "title": "Sless Champion — Cotton Tote Bag",
+      "description": "<p>Sless Taylor takes center stage with a gold championship belt, purple-and-black gear and bold lightning artwork.</p><p>Take the Sless artwork beyond the shirt rack: a character-led bag for the everyday carry or your next event trip.</p><p>A character illustration sits within a coordinated lightning-pattern composition.</p><p>Product: Cotton Tote Bag.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Bags",
+      "url": "https://slessismore.org/product/sless-is-more-cotton-tote-bag/",
+      "supplierImageIds": [
+        "6ad5399279e821f1d1013e7a"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-028",
+      "providerId": "6ac5d0d34c4e49c98f0f07f7",
+      "websiteId": 392,
+      "title": "Sless Ring Breaker — Organic Canvas Tote Bag",
+      "description": "<p>Sless Taylor bursts out of purple ring-rope energy, with an expressive comic-book pose and the Sless Is More signature.</p><p>Take the Sless artwork beyond the shirt rack: a character-led bag for the everyday carry or your next event trip.</p><p>A character illustration sits within a coordinated lightning-pattern composition.</p><p>Product: Organic Canvas Tote Bag.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Bags",
+      "url": "https://slessismore.org/product/sless-is-more-organic-canvas-tote-bag/",
+      "supplierImageIds": [
+        "6ad539961b6548d21dabc287"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-029",
+      "providerId": "6ac5d0d94c4e49c98f0f07fc",
+      "websiteId": 394,
+      "title": "Sless After Dark — Canvas Tote Bag, 5-Color Straps",
+      "description": "<p>Sless Taylor crouches above a haunted Halloween scene with a pumpkin lantern, orange moon and purple clouds.</p><p>Take the Sless artwork beyond the shirt rack: a character-led bag for the everyday carry or your next event trip.</p><p>A character illustration sits within a coordinated lightning-pattern composition.</p><p>Product: Canvas Tote Bag, 5-Color Straps.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Halloween",
+      "category": "Bags",
+      "url": "https://slessismore.org/product/sless-after-dark-halloween-canvas-tote/",
+      "supplierImageIds": [
+        "6ad5399ad81b77084ea0d836"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-030",
+      "providerId": "6ac5d0defeeac1bd9403d2f8",
+      "websiteId": 397,
+      "title": "Sless Ring Breaker — Weekender Bag",
+      "description": "<p>Sless Taylor bursts out of purple ring-rope energy, with an expressive comic-book pose and the Sless Is More signature.</p><p>Take the Sless artwork beyond the shirt rack: a character-led bag for the everyday carry or your next event trip.</p><p>A character illustration sits within a coordinated lightning-pattern composition.</p><p>Product: Weekender Bag.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Bags",
+      "url": "https://slessismore.org/product/sless-is-more-weekender-bag/",
+      "supplierImageIds": [
+        "6ad5399e1a8c6a157120ee93"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-031",
+      "providerId": "6ac5d0eb5e26a612820227b8",
+      "websiteId": 401,
+      "title": "Sless Champion — Backpack",
+      "description": "<p>Sless Taylor takes center stage with a gold championship belt, purple-and-black gear and bold lightning artwork.</p><p>Take the Sless artwork beyond the shirt rack: a character-led bag for the everyday carry or your next event trip.</p><p>An all-over lightning-and-mascot repeat is arranged across the selected print panels.</p><p>Product: Backpack.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Bags",
+      "url": "https://slessismore.org/product/sless-is-more-backpack/",
+      "supplierImageIds": [
+        "6ad539a07188ac88df358082",
+        "6ad539a1bf8bf6a4dd83ac0e",
+        "6ad539a2a6e30fa42783c9c2",
+        "6ad539a3a6e30fa42783c9c3",
+        "6ad539a33b65f6016bb30243",
+        "6ad539a428c06b3872e50063"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-032",
+      "providerId": "6ac5d285841732a55b0c4630",
+      "websiteId": 403,
+      "title": "Sless Ring Breaker — Mug 11oz",
+      "description": "<p>Sless Taylor bursts out of purple ring-rope energy, with an expressive comic-book pose and the Sless Is More signature.</p><p>Bring some Sless personality to your next drink, with illustrated artwork instead of the old text-only treatment. Capacity and available options are shown in the selector.</p><p>The main illustration is centered on a coordinated wrap, with small mascot accents at the sides.</p><p>Product: Mug 11oz.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Drinkware",
+      "url": "https://slessismore.org/product/sless-is-more-mug-11oz/",
+      "supplierImageIds": [
+        "6ad53a95a4f62a09266b40ae"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-033",
+      "providerId": "6ac5d2895e26a61282022933",
+      "websiteId": 405,
+      "title": "Sless Champion — Mug 15oz",
+      "description": "<p>Sless Taylor takes center stage with a gold championship belt, purple-and-black gear and bold lightning artwork.</p><p>Bring some Sless personality to your next drink, with illustrated artwork instead of the old text-only treatment. Capacity and available options are shown in the selector.</p><p>The main illustration is centered on a coordinated wrap, with small mascot accents at the sides.</p><p>Product: Mug 15oz.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Drinkware",
+      "url": "https://slessismore.org/product/sless-is-more-mug-15oz/",
+      "supplierImageIds": [
+        "6ad53a983c111052ac231edf"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-034",
+      "providerId": "6ac5d28ed8513ff05a086581",
+      "websiteId": 408,
+      "title": "Sless After Dark — Black Mug (11oz, 15oz)",
+      "description": "<p>Sless Taylor crouches above a haunted Halloween scene with a pumpkin lantern, orange moon and purple clouds.</p><p>Bring some Sless personality to your next drink, with illustrated artwork instead of the old text-only treatment. Capacity and available options are shown in the selector.</p><p>The main illustration is centered on a coordinated wrap, with small mascot accents at the sides.</p><p>Product: Black Mug (11oz, 15oz).</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Halloween",
+      "category": "Drinkware",
+      "url": "https://slessismore.org/product/sless-after-dark-halloween-black-mug/",
+      "supplierImageIds": [
+        "6ad53a9b75a77a4da2af1737"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-035",
+      "providerId": "6ac5d293d7ff457b4d0c7e17",
+      "websiteId": 412,
+      "title": "Sless Is Cheer — Latte Mug",
+      "description": "<p>Sless breaks through festive gift wrap in a Santa hat and purple-and-black wrestling gear, with a raised gift, candy-cane prop and slim upper-arm bands.</p><p>Bring some Sless personality to your next drink, with illustrated artwork instead of the old text-only treatment. Capacity and available options are shown in the selector.</p><p>A character illustration sits within a coordinated lightning-pattern composition.</p><p>Product: Latte Mug.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Christmas",
+      "category": "Drinkware",
+      "url": "https://slessismore.org/product/more-cheer-christmas-latte-mug/",
+      "supplierImageIds": [
+        "6ad539b03b65f6016bb30244"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-036",
+      "providerId": "6ac5d297724aee2017046779",
+      "websiteId": 415,
+      "title": "Sless Ring Breaker — Enamel Camping Mug",
+      "description": "<p>Sless Taylor bursts out of purple ring-rope energy, with an expressive comic-book pose and the Sless Is More signature.</p><p>Bring some Sless personality to your next drink, with illustrated artwork instead of the old text-only treatment. Capacity and available options are shown in the selector.</p><p>The main illustration is centered on a coordinated wrap, with small mascot accents at the sides.</p><p>Product: Enamel Camping Mug.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Drinkware",
+      "url": "https://slessismore.org/product/sless-is-more-enamel-camping-mug/",
+      "supplierImageIds": [
+        "6ad53a9f50f17d24525042fe"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-037",
+      "providerId": "6ac5d29cbd34d756940c4f92",
+      "websiteId": 418,
+      "title": "Sless Champion — Stainless Steel Travel Mug",
+      "description": "<p>Sless Taylor takes center stage with a gold championship belt, purple-and-black gear and bold lightning artwork.</p><p>Bring some Sless personality to your next drink, with illustrated artwork instead of the old text-only treatment. Capacity and available options are shown in the selector.</p><p>A character illustration sits within a coordinated lightning-pattern composition.</p><p>Product: Stainless Steel Travel Mug.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Drinkware",
+      "url": "https://slessismore.org/product/sless-is-more-stainless-steel-travel-mug/",
+      "supplierImageIds": [
+        "6ad539b5a6fafe8ed739f48f"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-038",
+      "providerId": "6ac5d2a05e26a61282022947",
+      "websiteId": 422,
+      "title": "Sless Ring Breaker — Tumbler 20oz",
+      "description": "<p>Sless Taylor bursts out of purple ring-rope energy, with an expressive comic-book pose and the Sless Is More signature.</p><p>Bring some Sless personality to your next drink, with illustrated artwork instead of the old text-only treatment. Capacity and available options are shown in the selector.</p><p>A character illustration sits within a coordinated lightning-pattern composition.</p><p>Product: Tumbler 20oz.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Drinkware",
+      "url": "https://slessismore.org/product/sless-is-more-tumbler-20oz/",
+      "supplierImageIds": [
+        "6ad539baa5a853c468ed3ad1"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-039",
+      "providerId": "6ac5d2a5ac3cff86ef057884",
+      "websiteId": 425,
+      "title": "Be Thankful for Sless! — Copper Vacuum Insulated Bottle, 22oz",
+      "description": "<p>Sless serves up a championship pie in a purple apron, framed by autumn leaves and the words “Be Thankful for Sless!”</p><p>Bring some Sless personality to your next drink, with illustrated artwork instead of the old text-only treatment. Capacity and available options are shown in the selector.</p><p>The main illustration is centered on a coordinated wrap, with small mascot accents at the sides.</p><p>Product: Copper Vacuum Insulated Bottle, 22oz.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Thanksgiving",
+      "category": "Drinkware",
+      "url": "https://slessismore.org/product/more-gratitude-thanksgiving-insulated-bottle/",
+      "supplierImageIds": [
+        "6ad53aa2389cde10790adaac"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-040",
+      "providerId": "6ac5d2a955eec60e6a057b4e",
+      "websiteId": 225,
+      "title": "Sless Ring Breaker — Kiss-Cut Stickers",
+      "description": "<p>Sless Taylor bursts out of purple ring-rope energy, with an expressive comic-book pose and the Sless Is More signature.</p><p>Put a little Sless energy into your everyday setup with a bold character-led design. Select the exact device, size or format offered for this item.</p><p>A character illustration sits within a coordinated lightning-pattern composition.</p><p>Product: Kiss-Cut Stickers.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Desk and tech",
+      "url": "https://slessismore.org/product/sless-is-more-kiss-cut-stickers/",
+      "supplierImageIds": [
+        "6ad539c06dc6fb4426518f32"
+      ],
+      "variants": 1,
+      "websiteImageCount": 3,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-041",
+      "providerId": "6ac5d2af5e26a61282022953",
+      "websiteId": 427,
+      "title": "Sless After Dark — Square Vinyl Stickers",
+      "description": "<p>Sless Taylor crouches above a haunted Halloween scene with a pumpkin lantern, orange moon and purple clouds.</p><p>Put a little Sless energy into your everyday setup with a bold character-led design. Select the exact device, size or format offered for this item.</p><p>A character illustration sits within a coordinated lightning-pattern composition.</p><p>Product: Square Vinyl Stickers.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Halloween",
+      "category": "Desk and tech",
+      "url": "https://slessismore.org/product/sless-after-dark-halloween-vinyl-sticker/",
+      "supplierImageIds": [
+        "6ad539c27188ac88df358084"
+      ],
+      "variants": 5,
+      "websiteImageCount": 10,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-042",
+      "providerId": "6ac5d2b45e26a61282022957",
+      "websiteId": 434,
+      "title": "Sless Ring Breaker — Spiral Notebook - Ruled Line",
+      "description": "<p>Sless Taylor bursts out of purple ring-rope energy, with an expressive comic-book pose and the Sless Is More signature.</p><p>Put a little Sless energy into your everyday setup with a bold character-led design. Select the exact device, size or format offered for this item.</p><p>A character illustration sits within a coordinated lightning-pattern composition.</p><p>Product: Spiral Notebook - Ruled Line.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Desk and tech",
+      "url": "https://slessismore.org/product/sless-is-more-spiral-notebook-ruled-line/",
+      "supplierImageIds": [
+        "6ad539c6a6e30fa42783ca02"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-043",
+      "providerId": "6ac5d2ba5e26a6128202295c",
+      "websiteId": 439,
+      "title": "Be Thankful for Sless! — Hardcover Journal Matte (Lined)",
+      "description": "<p>Sless serves up a championship pie in a purple apron, framed by autumn leaves and the words “Be Thankful for Sless!”</p><p>Put a little Sless energy into your everyday setup with a bold character-led design. Select the exact device, size or format offered for this item.</p><p>The illustration is repeated across the wrap so it can be seen from either side.</p><p>Product: Hardcover Journal Matte (Lined).</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Thanksgiving",
+      "category": "Desk and tech",
+      "url": "https://slessismore.org/product/more-gratitude-thanksgiving-journal/",
+      "supplierImageIds": [
+        "6ad539c9cdf57aa08f6917be"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-044",
+      "providerId": "6ac5d2be7226b35d210a8c5b",
+      "websiteId": 441,
+      "title": "Sless Ring Breaker — Laptop Sleeve",
+      "description": "<p>Sless Taylor bursts out of purple ring-rope energy, with an expressive comic-book pose and the Sless Is More signature.</p><p>Put a little Sless energy into your everyday setup with a bold character-led design. Select the exact device, size or format offered for this item.</p><p>A character illustration sits within a coordinated lightning-pattern composition.</p><p>Product: Laptop Sleeve.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Desk and tech",
+      "url": "https://slessismore.org/product/sless-is-more-laptop-sleeve/",
+      "supplierImageIds": [
+        "6ad539cd75a77a4da2af171b"
+      ],
+      "variants": 1,
+      "websiteImageCount": 3,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-045",
+      "providerId": "6ac5d2c4eb881c661602cbc3",
+      "websiteId": 446,
+      "title": "Sless Champion — Tough Phone Cases",
+      "description": "<p>Sless Taylor takes center stage with a gold championship belt, purple-and-black gear and bold lightning artwork.</p><p>Put a little Sless energy into your everyday setup with a bold character-led design. Select the exact device, size or format offered for this item.</p><p>The character and lettering sit below the camera area, with a coordinated pattern extending around the case.</p><p>Product: Tough Phone Cases.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Desk and tech",
+      "url": "https://slessismore.org/product/sless-is-more-tough-phone-cases/",
+      "supplierImageIds": [
+        "6ad53aa53fb24d5b9ea27f77"
+      ],
+      "variants": 6,
+      "websiteImageCount": 8,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-046",
+      "providerId": "6ac5d2cf55eec60e6a057b70",
+      "websiteId": 454,
+      "title": "Sless Ring Breaker — Slim Phone Cases",
+      "description": "<p>Sless Taylor bursts out of purple ring-rope energy, with an expressive comic-book pose and the Sless Is More signature.</p><p>Put a little Sless energy into your everyday setup with a bold character-led design. Select the exact device, size or format offered for this item.</p><p>The character and lettering sit below the camera area, with a coordinated pattern extending around the case.</p><p>Product: Slim Phone Cases.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Desk and tech",
+      "url": "https://slessismore.org/product/sless-is-more-slim-phone-cases/",
+      "supplierImageIds": [
+        "6ad53aa8d81b77084ea0d845"
+      ],
+      "variants": 6,
+      "websiteImageCount": 10,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-047",
+      "providerId": "6ac5d2d475161e32c107f48e",
+      "websiteId": 463,
+      "title": "Sless Champion — Desk Mat",
+      "description": "<p>Sless Taylor takes center stage with a gold championship belt, purple-and-black gear and bold lightning artwork.</p><p>Put a little Sless energy into your everyday setup with a bold character-led design. Select the exact device, size or format offered for this item.</p><p>A character illustration sits within a coordinated lightning-pattern composition.</p><p>Product: Desk Mat.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Desk and tech",
+      "url": "https://slessismore.org/product/sless-is-more-desk-mat/",
+      "supplierImageIds": [
+        "6ad539daaf39f121a956cc86"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-048",
+      "providerId": "6ac5d2dcd8513ff05a0865a3",
+      "websiteId": 466,
+      "title": "Sless Ring Breaker — Sherpa Fleece Blanket",
+      "description": "<p>Sless Taylor bursts out of purple ring-rope energy, with an expressive comic-book pose and the Sless Is More signature.</p><p>Give your space a Sless accent with a character illustration and a coordinated palette. Check the offered dimensions before ordering.</p><p>A character illustration sits within a coordinated lightning-pattern composition.</p><p>Product: Sherpa Fleece Blanket.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Home",
+      "url": "https://slessismore.org/product/sless-is-more-sherpa-fleece-blanket/",
+      "supplierImageIds": [
+        "6ad539dd6dc6fb4426518f33"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-049",
+      "providerId": "6ac5d2e355eec60e6a057b7d",
+      "websiteId": 470,
+      "title": "Sless Is Cheer — Velveteen Plush Blanket",
+      "description": "<p>Sless breaks through festive gift wrap in a Santa hat and purple-and-black wrestling gear, with a raised gift, candy-cane prop and slim upper-arm bands.</p><p>Give your space a Sless accent with a character illustration and a coordinated palette. Check the offered dimensions before ordering.</p><p>A character illustration sits within a coordinated lightning-pattern composition.</p><p>Product: Velveteen Plush Blanket.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Christmas",
+      "category": "Home",
+      "url": "https://slessismore.org/product/more-cheer-christmas-plush-blanket/",
+      "supplierImageIds": [
+        "6ad539e0242371da5e6189e4"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-050",
+      "providerId": "6ac5d2e801e006db230b0f76",
+      "websiteId": 473,
+      "title": "Sless Is Cheer — Spun Polyester Square Pillow",
+      "description": "<p>Sless breaks through festive gift wrap in a Santa hat and purple-and-black wrestling gear, with a raised gift, candy-cane prop and slim upper-arm bands.</p><p>Give your space a Sless accent with a character illustration and a coordinated palette. Check the offered dimensions before ordering.</p><p>The illustration is repeated across the wrap so it can be seen from either side.</p><p>Product: Spun Polyester Square Pillow.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Christmas",
+      "category": "Home",
+      "url": "https://slessismore.org/product/more-cheer-christmas-throw-pillow/",
+      "supplierImageIds": [
+        "6ad539e4bcb7735fb019a597"
+      ],
+      "variants": 1,
+      "websiteImageCount": 3,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-051",
+      "providerId": "6ac5d2edfeeac1bd9403d4aa",
+      "websiteId": 479,
+      "title": "Sless Champion — Matte Vertical Posters",
+      "description": "<p>Sless Taylor takes center stage with a gold championship belt, purple-and-black gear and bold lightning artwork.</p><p>Give your space a Sless accent with a character illustration and a coordinated palette. Check the offered dimensions before ordering.</p><p>A character illustration sits within a coordinated lightning-pattern composition.</p><p>Product: Matte Vertical Posters.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Home",
+      "url": "https://slessismore.org/product/sless-is-more-matte-vertical-posters/",
+      "supplierImageIds": [
+        "6ad539e83726b003cbd37e96"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-052",
+      "providerId": "6ac5d2f275161e32c107f499",
+      "websiteId": 475,
+      "title": "Sless Ring Breaker — Matte Canvas, 12 × 20 in",
+      "description": "<p>Sless Taylor bursts out of purple ring-rope energy, with an expressive comic-book pose and the Sless Is More signature.</p><p>Give your space a Sless accent with a character illustration and a coordinated palette. Check the offered dimensions before ordering.</p><p>A character illustration sits within a coordinated lightning-pattern composition.</p><p>Product: Matte Canvas, 12 × 20 in.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Evergreen",
+      "category": "Home",
+      "url": "https://slessismore.org/product/sless-is-more-matte-canvas-12-x-20-in/",
+      "supplierImageIds": [
+        "6ad539eca40ab92a40bf1dcd"
+      ],
+      "variants": 1,
+      "websiteImageCount": 4,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-053",
+      "providerId": "6ac5d2f8eb881c661602cbed",
+      "websiteId": 483,
+      "title": "Be Thankful for Sless! — Cork Back Coaster",
+      "description": "<p>Sless serves up a championship pie in a purple apron, framed by autumn leaves and the words “Be Thankful for Sless!”</p><p>Give your space a Sless accent with a character illustration and a coordinated palette. Check the offered dimensions before ordering.</p><p>A character illustration sits within a coordinated lightning-pattern composition.</p><p>Product: Cork Back Coaster.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Holiday arrival dates are not guaranteed.</p>",
+      "collection": "Thanksgiving",
+      "category": "Home",
+      "url": "https://slessismore.org/product/more-gratitude-thanksgiving-coaster/",
+      "supplierImageIds": [
+        "6ad539ee65f623f4372143b7"
+      ],
+      "variants": 1,
+      "websiteImageCount": 3,
+      "nativePublicationConfirmed": true
+    },
+    {
+      "sku": "SLESS-CHRISTMAS-TEE",
+      "providerId": "6ad538ebd244ed568e02b814",
+      "websiteId": 735,
+      "title": "Sless Is Cheer — Christmas Tee",
+      "description": "<p>Sless Taylor brings the cheer: a Santa hat, gift-wrap breakout, candy-cane prop and purple-and-black wrestling gear with slim upper-arm bands.</p><p>The approved Sless Is Cheer illustration is printed on the front of a Gildan 5000 heavy cotton tee. Choose Forest Green, Red or Black in adult unisex sizes S–3XL.</p><p>Made to order. Shipping and applicable tax are calculated at checkout for supported destinations. Christmas arrival is not guaranteed.</p>",
+      "collection": "Christmas",
+      "category": "Apparel",
+      "url": "https://slessismore.org/product/sless-is-cheer-christmas-tee/",
+      "supplierImageIds": [
+        "6ad54feaad25064ce0a803e5"
+      ],
+      "variants": 18,
+      "websiteImageCount": 3,
+      "nativePublicationConfirmed": true,
+      "printSizing": "large-front",
+      "physicalFrontWidths": [
+        {
+          "id": 12125,
+          "title": "Black / M",
+          "widthInches": 10.5,
+          "templateWidth": 3591,
+          "templateHeight": 4472
+        },
+        {
+          "id": 12142,
+          "title": "Forest Green / L",
+          "widthInches": 10.5,
+          "templateWidth": 3951,
+          "templateHeight": 4919
+        },
+        {
+          "id": 12025,
+          "title": "Red / XL",
+          "widthInches": 10.5,
+          "templateWidth": 3951,
+          "templateHeight": 4919
+        },
+        {
+          "id": 12143,
+          "title": "Forest Green / M",
+          "widthInches": 10.5,
+          "templateWidth": 3591,
+          "templateHeight": 4472
+        },
+        {
+          "id": 12126,
+          "title": "Black / S",
+          "widthInches": 9.75,
+          "templateWidth": 3232,
+          "templateHeight": 4024
+        },
+        {
+          "id": 12023,
+          "title": "Red / M",
+          "widthInches": 10.5,
+          "templateWidth": 3591,
+          "templateHeight": 4472
+        },
+        {
+          "id": 12024,
+          "title": "Red / S",
+          "widthInches": 9.75,
+          "templateWidth": 3232,
+          "templateHeight": 4024
+        },
+        {
+          "id": 12022,
+          "title": "Red / L",
+          "widthInches": 10.5,
+          "templateWidth": 3951,
+          "templateHeight": 4919
+        },
+        {
+          "id": 12145,
+          "title": "Forest Green / XL",
+          "widthInches": 10.5,
+          "templateWidth": 3951,
+          "templateHeight": 4919
+        },
+        {
+          "id": 12124,
+          "title": "Black / L",
+          "widthInches": 10.5,
+          "templateWidth": 3951,
+          "templateHeight": 4919
+        },
+        {
+          "id": 12127,
+          "title": "Black / XL",
+          "widthInches": 10.5,
+          "templateWidth": 3951,
+          "templateHeight": 4919
+        },
+        {
+          "id": 12144,
+          "title": "Forest Green / S",
+          "widthInches": 9.75,
+          "templateWidth": 3232,
+          "templateHeight": 4024
+        },
+        {
+          "id": 12128,
+          "title": "Black / 2XL",
+          "widthInches": 10.5,
+          "templateWidth": 3951,
+          "templateHeight": 4919
+        },
+        {
+          "id": 12146,
+          "title": "Forest Green / 2XL",
+          "widthInches": 10.5,
+          "templateWidth": 3951,
+          "templateHeight": 4919
+        },
+        {
+          "id": 12026,
+          "title": "Red / 2XL",
+          "widthInches": 10.5,
+          "templateWidth": 3951,
+          "templateHeight": 4919
+        },
+        {
+          "id": 12027,
+          "title": "Red / 3XL",
+          "widthInches": 10.5,
+          "templateWidth": 3951,
+          "templateHeight": 4919
+        },
+        {
+          "id": 12129,
+          "title": "Black / 3XL",
+          "widthInches": 10.5,
+          "templateWidth": 3951,
+          "templateHeight": 4919
+        },
+        {
+          "id": 12147,
+          "title": "Forest Green / 3XL",
+          "widthInches": 10.5,
+          "templateWidth": 3951,
+          "templateHeight": 4919
+        }
+      ]
+    }
+  ],
+  "nativePublicationConfirmed": true
+}

@@ -1,0 +1,302 @@
+{
+  "authorization": "Owner approved the 10.5-inch proof and update of all three colors.",
+  "shopId": 29231820,
+  "productId": "6ad4ff59e2ff8ddc0b0e6627",
+  "imageId": "6ad50b1f42c3dee4e8b474e9",
+  "ordersCreated": false,
+  "canvasChanged": false,
+  "priceChanges": false,
+  "artworkVerified": true,
+  "variantsVerified": [
+    {
+      "id": 12018,
+      "title": "Purple / S",
+      "price": 2500
+    },
+    {
+      "id": 12125,
+      "title": "Black / M",
+      "price": 2500
+    },
+    {
+      "id": 12016,
+      "title": "Purple / L",
+      "price": 2500
+    },
+    {
+      "id": 12010,
+      "title": "Orange / L",
+      "price": 2500
+    },
+    {
+      "id": 12019,
+      "title": "Purple / XL",
+      "price": 2500
+    },
+    {
+      "id": 12126,
+      "title": "Black / S",
+      "price": 2500
+    },
+    {
+      "id": 12013,
+      "title": "Orange / XL",
+      "price": 2500
+    },
+    {
+      "id": 12012,
+      "title": "Orange / S",
+      "price": 2500
+    },
+    {
+      "id": 12124,
+      "title": "Black / L",
+      "price": 2500
+    },
+    {
+      "id": 12127,
+      "title": "Black / XL",
+      "price": 2500
+    },
+    {
+      "id": 12017,
+      "title": "Purple / M",
+      "price": 2500
+    },
+    {
+      "id": 12011,
+      "title": "Orange / M",
+      "price": 2500
+    },
+    {
+      "id": 12014,
+      "title": "Orange / 2XL",
+      "price": 2800
+    },
+    {
+      "id": 12020,
+      "title": "Purple / 2XL",
+      "price": 2800
+    },
+    {
+      "id": 12128,
+      "title": "Black / 2XL",
+      "price": 2800
+    },
+    {
+      "id": 12021,
+      "title": "Purple / 3XL",
+      "price": 3000
+    },
+    {
+      "id": 12129,
+      "title": "Black / 3XL",
+      "price": 3000
+    },
+    {
+      "id": 12015,
+      "title": "Orange / 3XL",
+      "price": 3000
+    }
+  ],
+  "artworkUpdatedAt": "2026-10-18T18:32:06.814Z",
+  "nativePublishRequested": true,
+  "nativePublishRequestedAt": "2026-10-18T18:32:08.644Z",
+  "wordpress": {
+    "verified": true,
+    "frontImages": {
+      "Purple": 698,
+      "Black": 699,
+      "Orange": 700
+    },
+    "variations": [
+      {
+        "id": 661,
+        "price": "25",
+        "sku": "57219374410082304943",
+        "attributes": {
+          "attribute_clothing-sizes": "M",
+          "attribute_gildan-colors": "Purple"
+        },
+        "image": 698
+      },
+      {
+        "id": 662,
+        "price": "25",
+        "sku": "23787156820325807069",
+        "attributes": {
+          "attribute_clothing-sizes": "S",
+          "attribute_gildan-colors": "Purple"
+        },
+        "image": 698
+      },
+      {
+        "id": 663,
+        "price": "25",
+        "sku": "13043694626241804297",
+        "attributes": {
+          "attribute_clothing-sizes": "M",
+          "attribute_gildan-colors": "Black"
+        },
+        "image": 699
+      },
+      {
+        "id": 664,
+        "price": "25",
+        "sku": "31101564715633109583",
+        "attributes": {
+          "attribute_clothing-sizes": "L",
+          "attribute_gildan-colors": "Purple"
+        },
+        "image": 698
+      },
+      {
+        "id": 665,
+        "price": "25",
+        "sku": "17828289165533407799",
+        "attributes": {
+          "attribute_clothing-sizes": "L",
+          "attribute_gildan-colors": "Orange"
+        },
+        "image": 700
+      },
+      {
+        "id": 666,
+        "price": "25",
+        "sku": "27675164935282954778",
+        "attributes": {
+          "attribute_clothing-sizes": "XL",
+          "attribute_gildan-colors": "Purple"
+        },
+        "image": 698
+      },
+      {
+        "id": 667,
+        "price": "25",
+        "sku": "32715285300203381957",
+        "attributes": {
+          "attribute_clothing-sizes": "S",
+          "attribute_gildan-colors": "Black"
+        },
+        "image": 699
+      },
+      {
+        "id": 668,
+        "price": "25",
+        "sku": "19373767620524694914",
+        "attributes": {
+          "attribute_clothing-sizes": "XL",
+          "attribute_gildan-colors": "Orange"
+        },
+        "image": 700
+      },
+      {
+        "id": 669,
+        "price": "25",
+        "sku": "11570074820350549773",
+        "attributes": {
+          "attribute_clothing-sizes": "S",
+          "attribute_gildan-colors": "Orange"
+        },
+        "image": 700
+      },
+      {
+        "id": 670,
+        "price": "25",
+        "sku": "62662569584707775492",
+        "attributes": {
+          "attribute_clothing-sizes": "L",
+          "attribute_gildan-colors": "Black"
+        },
+        "image": 699
+      },
+      {
+        "id": 671,
+        "price": "25",
+        "sku": "17220245638854570162",
+        "attributes": {
+          "attribute_clothing-sizes": "XL",
+          "attribute_gildan-colors": "Black"
+        },
+        "image": 699
+      },
+      {
+        "id": 672,
+        "price": "25",
+        "sku": "30826142991004260775",
+        "attributes": {
+          "attribute_clothing-sizes": "M",
+          "attribute_gildan-colors": "Orange"
+        },
+        "image": 700
+      },
+      {
+        "id": 673,
+        "price": "28",
+        "sku": "69485981382074594533",
+        "attributes": {
+          "attribute_clothing-sizes": "2XL",
+          "attribute_gildan-colors": "Orange"
+        },
+        "image": 700
+      },
+      {
+        "id": 674,
+        "price": "28",
+        "sku": "57793198016635886338",
+        "attributes": {
+          "attribute_clothing-sizes": "2XL",
+          "attribute_gildan-colors": "Purple"
+        },
+        "image": 698
+      },
+      {
+        "id": 675,
+        "price": "28",
+        "sku": "29203567270790372106",
+        "attributes": {
+          "attribute_clothing-sizes": "2XL",
+          "attribute_gildan-colors": "Black"
+        },
+        "image": 699
+      },
+      {
+        "id": 676,
+        "price": "30",
+        "sku": "17057162134294738209",
+        "attributes": {
+          "attribute_clothing-sizes": "3XL",
+          "attribute_gildan-colors": "Purple"
+        },
+        "image": 698
+      },
+      {
+        "id": 677,
+        "price": "30",
+        "sku": "11778946892361652149",
+        "attributes": {
+          "attribute_clothing-sizes": "3XL",
+          "attribute_gildan-colors": "Black"
+        },
+        "image": 699
+      },
+      {
+        "id": 678,
+        "price": "30",
+        "sku": "38735140922015049681",
+        "attributes": {
+          "attribute_clothing-sizes": "3XL",
+          "attribute_gildan-colors": "Orange"
+        },
+        "image": 700
+      }
+    ],
+    "url": "https://slessismore.org/product/sless-after-dark-halloween-tee/",
+    "canvasUnchanged": true,
+    "homepageUnchanged": true,
+    "description": "<p>Sless Taylor perches above the ring in this original Sless After Dark Halloween illustration: a white cape, pumpkin lantern, orange moon, haunted houses and purple clouds.</p><p>The shaped artwork has a transparent outer edge—not a square background panel. Choose Purple, Orange or Black in adult unisex sizes S–3XL. Printed on the front of a Gildan 5000 heavy cotton tee, with a classic fit and crew neckline.</p><p>Approximate artwork width: 10.5 inches. Made to order. Shipping is calculated at checkout for supported destinations. No guaranteed Halloween arrival date.</p>",
+    "ordersCreated": false
+  },
+  "photosUpdated": true,
+  "photoReconciliation": "Read-only verification: all 18 mappings, prices and SKUs correct; Woo featured image ID returned as numeric string."
+}

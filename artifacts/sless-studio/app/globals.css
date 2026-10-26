@@ -1,0 +1,315 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+@import "../styles/quanta/index.css";
+@import "../styles/theme.css";
+@import "../styles/studio/prompt-box.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --font-heading: var(--hf-type-family-grotesk);
+  --font-sans: var(--hf-type-family-secondary);
+  --font-mono: var(--hf-type-family-mono);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --color-foreground: var(--foreground);
+  --color-background: var(--background);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+  /* Sless Studio surface steps (docs/ui-inventory.md §2.1): page → panel → card → raised → hover. */
+  --color-page: #11100d;
+  --color-panel: var(--hf-color-background-primary);
+  --color-surface: var(--hf-color-background-secondary);
+  --color-raised: var(--hf-color-cool-250);
+  --color-hover: var(--hf-color-cool-200);
+  --color-brand: var(--hf-color-brand-primary);
+  /* Ink on yellow, cream for inputs and "paper" cards (slessismore.org). */
+  --color-ink: #11100d;
+  --color-cream: #f3f0e8;
+  --color-paper: #f6f3eb;
+  /* Tailwind's white becomes the site's cream, so text-white / white/5 stay warm. */
+  --color-white: #f6f3eb;
+  --color-hot: #ff7a1a;
+  /* Deeper orange behind cream text (≥ 4.5:1). */
+  --color-hot-strong: #b84300;
+  --color-hairline: #2d2a24;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-page text-foreground;
+  }
+  html {
+    @apply font-sans;
+  }
+}
+
+/* Studio primitives that plain utilities cannot express. */
+@layer components {
+  /* Display type: Anton, uppercase, tight leading — the slessismore.org headline. */
+  .font-display {
+    font-family: var(--font-heading);
+    font-weight: 400;
+    letter-spacing: 0.005em;
+    line-height: 0.95;
+    text-transform: uppercase;
+  }
+  /* Wide, heavy, letter-spaced label face: nav, buttons, eyebrows. */
+  .font-label {
+    font-family: var(--sless-font-label);
+    font-weight: 800;
+    font-stretch: 112%;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+  /* Small yellow kicker above a headline ("SLESS IS MORE", "NEW · HALLOWEEN"). */
+  .eyebrow {
+    font-family: var(--sless-font-label);
+    font-weight: 800;
+    font-stretch: 112%;
+    font-size: 0.8125rem;
+    line-height: 1.25rem;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--color-brand);
+  }
+  /* The yellow CTA: flat, square, ink label in the wide face. Squared even when
+   * a call site asks for a pill — square buttons are a brand rule. */
+  .btn-keycap {
+    white-space: nowrap;
+    background-color: var(--color-brand);
+    color: var(--color-ink);
+    border-radius: 0 !important;
+    font-family: var(--sless-font-label);
+    font-weight: 800 !important;
+    font-stretch: 112%;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    transition:
+      background-color 160ms cubic-bezier(0.4, 0, 0.2, 1),
+      box-shadow 160ms cubic-bezier(0.4, 0, 0.2, 1),
+      transform 80ms ease-out;
+  }
+  .btn-keycap:hover:not(:disabled) {
+    background-color: #ffe14d;
+    box-shadow: 4px 4px 0 var(--color-paper);
+    transform: translate(-2px, -2px);
+  }
+  .btn-keycap:active:not(:disabled) {
+    box-shadow: 0 0 0 transparent;
+    transform: translate(0, 0);
+  }
+  .btn-keycap:disabled {
+    opacity: 0.55;
+    cursor: not-allowed;
+  }
+  /* Orange variant for the "Best value" plan (After Dark palette). */
+  .btn-hot {
+    background-color: var(--color-hot-strong);
+    color: var(--color-paper);
+  }
+  .btn-hot:hover:not(:disabled) {
+    background-color: #d65200;
+  }
+  .btn-keycap-generate {
+    background-image: none;
+  }
+  .btn-keycap-white {
+    background-color: var(--color-paper);
+    color: var(--color-ink);
+    border-radius: 0 !important;
+    font-family: var(--sless-font-label);
+    font-weight: 800 !important;
+    font-stretch: 112%;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+  /* Outlined secondary ("SHOP HALLOWEEN"): hairline cream border, square. */
+  .btn-outline {
+    white-space: nowrap;
+    border: 1px solid rgba(246, 243, 235, 0.45);
+    border-radius: 0 !important;
+    color: var(--color-paper);
+    font-family: var(--sless-font-label);
+    font-weight: 800 !important;
+    font-stretch: 112%;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    transition:
+      border-color 160ms ease,
+      background-color 160ms ease;
+  }
+  .btn-outline:hover {
+    border-color: var(--color-paper);
+    background-color: rgba(246, 243, 235, 0.06);
+  }
+  /* Text link with a yellow arrow ("ALL MERCH →"). */
+  .link-arrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-family: var(--sless-font-label);
+    font-weight: 800;
+    font-stretch: 112%;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--color-paper);
+  }
+  .link-arrow svg {
+    color: var(--color-brand);
+    transition: transform 160ms ease;
+  }
+  .link-arrow:hover svg {
+    transform: translateX(3px);
+  }
+  /* Yellow number tag on paper cards ("01", "02"). */
+  .tag-number {
+    background-color: var(--color-brand);
+    color: var(--color-ink);
+    font-family: var(--font-heading);
+    line-height: 1;
+    padding: 0.25rem 0.5rem;
+  }
+  /* Hard offset block behind a card; turns yellow on hover/focus. */
+  .card-offset {
+    box-shadow: 10px 10px 0 #2a2414;
+    transition:
+      box-shadow 180ms ease,
+      transform 180ms ease;
+  }
+  .card-offset:hover,
+  .card-offset:focus-visible {
+    box-shadow: 10px 10px 0 var(--color-brand);
+    transform: translate(-2px, -2px);
+  }
+  /* The faint diagonal pinstripe behind slessismore.org hero bands. */
+  .bg-stripes {
+    background-image: repeating-linear-gradient(
+      135deg,
+      rgba(246, 243, 235, 0.028) 0 1px,
+      transparent 1px 26px
+    );
+  }
+  .glass {
+    background-color: rgba(27, 26, 22, 0.92);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(246, 243, 235, 0.06);
+  }
+  .fade-bottom {
+    mask-image: linear-gradient(to bottom, #000 70%, transparent 100%);
+    -webkit-mask-image: linear-gradient(to bottom, #000 70%, transparent 100%);
+  }
+  .scrollbar-none {
+    scrollbar-width: none;
+  }
+  .scrollbar-none::-webkit-scrollbar {
+    display: none;
+  }
+  .shimmer {
+    background: linear-gradient(
+      100deg,
+      rgba(246, 243, 235, 0.02) 20%,
+      rgba(246, 243, 235, 0.07) 40%,
+      rgba(246, 243, 235, 0.02) 60%
+    );
+    background-size: 200% 100%;
+    animation: sless-shimmer 1.6s linear infinite;
+  }
+  .studio-glow {
+    background-image: radial-gradient(
+      120% 100% at 50% 0%,
+      var(--hf-color-transparent-lime-40) 0%,
+      var(--hf-color-transparent-lime-15) 45%,
+      transparent 82%
+    );
+    animation: studio-pulse 2600ms ease-in-out infinite;
+  }
+  .studio-tile {
+    position: absolute;
+    overflow: hidden;
+    border-radius: var(--radius);
+    background-color: var(--card);
+    content-visibility: auto;
+  }
+}
+
+@keyframes studio-pulse {
+  0%,
+  100% {
+    opacity: 0.22;
+  }
+  50% {
+    opacity: 0.6;
+  }
+}
+
+@keyframes sless-shimmer {
+  from {
+    background-position: 200% 0;
+  }
+  to {
+    background-position: -200% 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .studio-glow {
+    animation: none;
+    opacity: 0.7;
+  }
+  .shimmer {
+    animation: none;
+  }
+  .btn-keycap:hover:not(:disabled),
+  .card-offset:hover {
+    transform: none;
+  }
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-brand);
+  outline-offset: 2px;
+}

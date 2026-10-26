@@ -1,0 +1,78 @@
+# See https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
+
+# compiled output
+dist
+tmp
+out-tsc
+*.tsbuildinfo
+.expo
+.expo-shared
+
+# dependencies
+node_modules
+.git/
+.venv/
+site-packages/
+build/
+*.lock
+package-lock.json
+/sless-ops-dump.txt
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+
+# System Files
+.DS_Store
+Thumbs.db
+
+.cursor/rules/nx-rules.mdc
+.github/instructions/nx.instructions.md
+
+# Replit
+.cache/
+.local/
+
+# Private operations task data (never commit live task payloads)
+/artifacts/api-server/tasks.json
+/artifacts/api-server/tasks.json.*.tmp
+*.backup
+
+# Generated merchandise design studies and canvas copies
+/attached_assets/generated_images/
+/.canvas/assets/merch-refresh-*
+/generated-artifacts/
+.pythonlibs/
+__pycache__/
+*.pyc
+
+# Imported Next.js Studio runtime, build and test output
+/artifacts/sless-studio/.next/
+/artifacts/sless-studio/.next-build/
+/artifacts/sless-studio/.data/
+/artifacts/sless-studio/.env*
+!/artifacts/sless-studio/.env.example
+/artifacts/sless-studio/playwright-report/
+/artifacts/sless-studio/test-results/

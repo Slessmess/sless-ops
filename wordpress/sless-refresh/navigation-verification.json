@@ -1,0 +1,228 @@
+{
+  "requests": [
+    {
+      "url": "https://slessismore.org/",
+      "status": 200,
+      "headerCount": 1,
+      "featureCount": 1,
+      "searchControls": false,
+      "noResults": false,
+      "productTitles": [],
+      "categoryLinkCount": 0,
+      "containsLegacyMenu": false
+    },
+    {
+      "url": "https://slessismore.org/shop/",
+      "status": 200,
+      "headerCount": 1,
+      "featureCount": 0,
+      "searchControls": true,
+      "noResults": false,
+      "productTitles": [
+        "Sless After Dark — Halloween Tee",
+        "Sless After Dark — Halloween Canvas, 6 × 6 in",
+        "BUILT DIFFERENT. PROVEN DAILY.",
+        "More Cheer — Christmas Crewneck",
+        "More Cheer — Christmas Latte Mug",
+        "More Cheer — Christmas Plush Blanket",
+        "More Cheer — Christmas Throw Pillow",
+        "More Gratitude — Thanksgiving Coaster",
+        "More Gratitude — Thanksgiving Garment-Dyed Sweatshirt",
+        "More Gratitude — Thanksgiving Insulated Bottle",
+        "More Gratitude — Thanksgiving Journal",
+        "More Gratitude — Thanksgiving Triblend Tee",
+        "NO INTRODUCTION NEEDED",
+        "Sless After Dark — Halloween Black Mug",
+        "Sless After Dark — Halloween Canvas Tote",
+        "Sless After Dark — Halloween Hoodie"
+      ],
+      "categoryLinkCount": 17,
+      "containsLegacyMenu": false
+    },
+    {
+      "url": "https://slessismore.org/product-category/halloween/",
+      "status": 200,
+      "headerCount": 1,
+      "featureCount": 0,
+      "searchControls": true,
+      "noResults": false,
+      "productTitles": [
+        "Sless After Dark — Halloween Tee",
+        "Sless After Dark — Halloween Canvas, 6 × 6 in",
+        "Sless After Dark — Halloween Black Mug",
+        "Sless After Dark — Halloween Canvas Tote",
+        "Sless After Dark — Halloween Hoodie",
+        "Sless After Dark — Halloween Oversized Tee",
+        "Sless After Dark — Halloween Vinyl Sticker"
+      ],
+      "categoryLinkCount": 17,
+      "containsLegacyMenu": false
+    },
+    {
+      "url": "https://slessismore.org/?s=phone+case&post_type=product",
+      "status": 200,
+      "headerCount": 1,
+      "featureCount": 0,
+      "searchControls": true,
+      "noResults": false,
+      "productTitles": [
+        "Sless Is More — Slim Phone Cases",
+        "Sless Is More — Tough Phone Cases"
+      ],
+      "categoryLinkCount": 17,
+      "containsLegacyMenu": false
+    },
+    {
+      "url": "https://slessismore.org/?s=not-a-real-sless-item-xyz&post_type=product",
+      "status": 200,
+      "headerCount": 1,
+      "featureCount": 0,
+      "searchControls": true,
+      "noResults": true,
+      "productTitles": [],
+      "categoryLinkCount": 17,
+      "containsLegacyMenu": false
+    },
+    {
+      "url": "https://slessismore.org/store/",
+      "status": 200,
+      "headerCount": 1,
+      "featureCount": 0,
+      "searchControls": true,
+      "noResults": false,
+      "productTitles": [
+        "Sless After Dark — Halloween Tee",
+        "Sless After Dark — Halloween Canvas, 6 × 6 in",
+        "BUILT DIFFERENT. PROVEN DAILY.",
+        "More Cheer — Christmas Crewneck",
+        "More Cheer — Christmas Latte Mug",
+        "More Cheer — Christmas Plush Blanket",
+        "More Cheer — Christmas Throw Pillow",
+        "More Gratitude — Thanksgiving Coaster",
+        "More Gratitude — Thanksgiving Garment-Dyed Sweatshirt",
+        "More Gratitude — Thanksgiving Insulated Bottle",
+        "More Gratitude — Thanksgiving Journal",
+        "More Gratitude — Thanksgiving Triblend Tee",
+        "NO INTRODUCTION NEEDED",
+        "Sless After Dark — Halloween Black Mug",
+        "Sless After Dark — Halloween Canvas Tote",
+        "Sless After Dark — Halloween Hoodie"
+      ],
+      "categoryLinkCount": 17,
+      "containsLegacyMenu": false
+    },
+    {
+      "url": "https://slessismore.org/cart/",
+      "status": 200,
+      "headerCount": 1,
+      "featureCount": 0,
+      "searchControls": false,
+      "noResults": false,
+      "productTitles": [],
+      "categoryLinkCount": 0,
+      "containsLegacyMenu": false
+    }
+  ],
+  "uncategorizedProducts": 0,
+  "categories": [
+    {
+      "name": "T-Shirts &amp; Tanks",
+      "slug": "t-shirts",
+      "url": "https://slessismore.org/product-category/t-shirts/",
+      "count": 15,
+      "group": "type"
+    },
+    {
+      "name": "Hoodies &amp; Sweatshirts",
+      "slug": "hoodies-sweatshirts",
+      "url": "https://slessismore.org/product-category/hoodies-sweatshirts/",
+      "count": 5,
+      "group": "type"
+    },
+    {
+      "name": "Shorts &amp; Joggers",
+      "slug": "bottoms",
+      "url": "https://slessismore.org/product-category/bottoms/",
+      "count": 2,
+      "group": "type"
+    },
+    {
+      "name": "Hats &amp; Beanies",
+      "slug": "hats",
+      "url": "https://slessismore.org/product-category/hats/",
+      "count": 5,
+      "group": "type"
+    },
+    {
+      "name": "Bags &amp; Totes",
+      "slug": "bags",
+      "url": "https://slessismore.org/product-category/bags/",
+      "count": 5,
+      "group": "type"
+    },
+    {
+      "name": "Mugs &amp; Drinkware",
+      "slug": "drinkware",
+      "url": "https://slessismore.org/product-category/drinkware/",
+      "count": 8,
+      "group": "type"
+    },
+    {
+      "name": "Canvas &amp; Wall Art",
+      "slug": "canvas-wall-art",
+      "url": "https://slessismore.org/product-category/canvas-wall-art/",
+      "count": 3,
+      "group": "type"
+    },
+    {
+      "name": "Home &amp; Living",
+      "slug": "home-living",
+      "url": "https://slessismore.org/product-category/home-living/",
+      "count": 5,
+      "group": "type"
+    },
+    {
+      "name": "Tech Accessories",
+      "slug": "accessories",
+      "url": "https://slessismore.org/product-category/accessories/",
+      "count": 3,
+      "group": "type"
+    },
+    {
+      "name": "Stickers &amp; Stationery",
+      "slug": "stickers-stationery",
+      "url": "https://slessismore.org/product-category/stickers-stationery/",
+      "count": 4,
+      "group": "type"
+    },
+    {
+      "name": "Halloween",
+      "slug": "halloween",
+      "url": "https://slessismore.org/product-category/halloween/",
+      "count": 7,
+      "group": "collection"
+    },
+    {
+      "name": "Thanksgiving",
+      "slug": "thanksgiving",
+      "url": "https://slessismore.org/product-category/thanksgiving/",
+      "count": 5,
+      "group": "collection"
+    },
+    {
+      "name": "Christmas",
+      "slug": "christmas",
+      "url": "https://slessismore.org/product-category/christmas/",
+      "count": 5,
+      "group": "collection"
+    },
+    {
+      "name": "Sless Originals",
+      "slug": "sless-originals",
+      "url": "https://slessismore.org/product-category/sless-originals/",
+      "count": 3,
+      "group": "collection"
+    }
+  ],
+  "productCount": 55
+}

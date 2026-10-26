@@ -1,0 +1,147 @@
+{
+  "checkedAt": "2026-10-19T17:18:30.748Z",
+  "batch": "qa-20261019-170415",
+  "publicStripeMode": "no",
+  "orders": [
+    {
+      "id": 1069,
+      "flow": 2,
+      "status": "processing",
+      "paid": true,
+      "total": 42.59,
+      "shipping": 11.59,
+      "tax": 0,
+      "currency": "USD",
+      "items": [
+        {
+          "productId": 680,
+          "variationId": 681,
+          "quantity": 1,
+          "lineTotal": 31,
+          "supplierMetadataPresent": false
+        }
+      ],
+      "stripe": {
+        "httpStatus": 200,
+        "livemode": false,
+        "succeeded": true,
+        "amountMinor": 4259,
+        "currency": "usd",
+        "matchesOrder": true,
+        "verified": true
+      },
+      "doNotFulfill": true,
+      "fulfillmentWebhookSuppressed": true,
+      "emailTransportStatus": {
+        "0": "",
+        "new_order": "smtp_accepted",
+        "customer_processing_order": "smtp_accepted"
+      },
+      "conversionMarkerKeys": [
+        "_meta_purchase_tracked_server",
+        "_gla_tracked",
+        "_googlesitekit_ga_purchase_event_tracked",
+        "_meta_purchase_tracked_browser"
+      ],
+      "metaBrowserPurchaseMarked": true
+    },
+    {
+      "id": 1068,
+      "flow": 1,
+      "status": "processing",
+      "paid": true,
+      "total": 25.35,
+      "shipping": 5.35,
+      "tax": 0,
+      "currency": "USD",
+      "items": [
+        {
+          "productId": 660,
+          "variationId": 670,
+          "quantity": 1,
+          "lineTotal": 20,
+          "supplierMetadataPresent": false
+        }
+      ],
+      "stripe": {
+        "httpStatus": 200,
+        "livemode": false,
+        "succeeded": true,
+        "amountMinor": 2535,
+        "currency": "usd",
+        "matchesOrder": true,
+        "verified": true
+      },
+      "doNotFulfill": true,
+      "fulfillmentWebhookSuppressed": true,
+      "emailTransportStatus": {
+        "0": "",
+        "new_order": "smtp_accepted",
+        "customer_processing_order": "smtp_accepted"
+      },
+      "conversionMarkerKeys": [
+        "_meta_purchase_tracked_server",
+        "_gla_tracked",
+        "_googlesitekit_ga_purchase_event_tracked",
+        "_meta_purchase_tracked_browser"
+      ],
+      "metaBrowserPurchaseMarked": true
+    }
+  ],
+  "liveFundsTransferred": false,
+  "twoPaidSandboxOrders": true,
+  "completedEndToEndTests": 2,
+  "requestedEndToEndTests": 2,
+  "browserVerification": {
+    "order1068": {
+      "ga4Purchase": true,
+      "metaPurchase": true,
+      "googleAdsPurchase": true,
+      "transactionId": "1068",
+      "value": 25.35,
+      "currency": "USD"
+    },
+    "order1069": {
+      "ga4Events": [
+        "view_item",
+        "add_to_cart",
+        "begin_checkout",
+        "purchase"
+      ],
+      "metaEvents": [
+        "ViewContent",
+        "AddToCart",
+        "InitiateCheckout",
+        "Purchase"
+      ],
+      "googleAdsPurchase": true,
+      "transactionId": "1069",
+      "value": 42.59,
+      "currency": "USD"
+    },
+    "noPurchaseEventsOnReceiptReload": true,
+    "adsEndpointObservation": "Matching requests observed on conversion, viewthroughconversion and 1p-conversion endpoint families; the primary conversion included the order ID. No repeat purchase-label request on reload. Endpoint fan-out is not itself proof of multiple counted conversions.",
+    "mobileConsentPreferencesReopenVerified": true
+  },
+  "cleanup": {
+    "testAccessDisabled": true,
+    "publicStripeLive": true,
+    "fulfillmentExclusionRetained": true,
+    "mobileManageConsent": "show-everywhere",
+    "closedQaOrders": [
+      {
+        "id": 1069,
+        "status": "cancelled"
+      },
+      {
+        "id": 1068,
+        "status": "cancelled"
+      }
+    ]
+  },
+  "limits": [
+    "SMTP acceptance is not proof of inbox delivery.",
+    "Sandbox payments do not verify real payouts or physical production/shipment.",
+    "Live ad-click attribution requires actual eligible ad traffic."
+  ]
+}

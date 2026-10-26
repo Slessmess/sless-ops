@@ -1,0 +1,36 @@
+{
+  "name": "@workspace/replit-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for interacting with Replit workspaces",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "replit-mcp-server": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts"
+  },
+  "keywords": [
+    "mcp",
+    "replit",
+    "ai",
+    "model-context-protocol"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "node-fetch": "^3.3.2",
+    "zod": "catalog:"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "tsx": "^4.6.2",
+    "typescript": "^5.3.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "prepared": true,
+  "automaticSchedulingActive": false,
+  "activationRequired": "Replit Scheduled publishing",
+  "runCommand": "node scripts/src/merchandise/run-instagram-schedule.mjs --execute",
+  "buildCommand": "pnpm run instagram:scheduler:build",
+  "preflightCommand": "pnpm run instagram:scheduler:check",
+  "deploymentType": "scheduled",
+  "publishingGuide": "docs/instagram-scheduler-publishing.md",
+  "cron": "*/5 * * * *",
+  "timezone": "America/New_York",
+  "jobTimeoutMinutes": 5,
+  "account": "slessismoree",
+  "approvedAssetsVerified": 12,
+  "privateMediaStorage": "App Storage",
+  "journalStorage": "App Storage",
+  "credentialsRemainInSecrets": true,
+  "paidSpend": 0
+}

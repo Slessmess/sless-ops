@@ -1,0 +1,652 @@
+{
+  "checkedAt": "2026-10-18T14:27:31.946Z",
+  "shopId": 29231820,
+  "changes": [
+    {
+      "sku": "SLESS-005",
+      "applied": false,
+      "alreadyPublished": true
+    },
+    {
+      "sku": "SLESS-041",
+      "applied": false,
+      "alreadyPublished": true
+    }
+  ],
+  "items": [
+    {
+      "sku": "SLESS-004",
+      "id": "6ac5cfe6679a412443086ec9",
+      "title": "Sless Is More — Unisex Garment-Dyed T-shirt",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 6,
+      "pricesCents": [
+        2400,
+        2700,
+        3000
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-005",
+      "id": "6ac5cfec4c4e49c98f0f072b",
+      "title": "Sless After Dark — Halloween Oversized Tee",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 2,
+      "pricesCents": [
+        3600,
+        4400
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-006",
+      "id": "6ac5cff3d7ff457b4d0c7c5f",
+      "title": "Sless Is More — Unisex Jersey Short Sleeve Tee",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 6,
+      "pricesCents": [
+        1273,
+        1544,
+        1791
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-007",
+      "id": "6ac5d0007c0874f8d40be1d4",
+      "title": "Sless Is More — Unisex Cotton Crew Tee",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 6,
+      "pricesCents": [
+        1542,
+        1755,
+        1942
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-008",
+      "id": "6ac5d00cac3cff86ef0576e2",
+      "title": "More Gratitude — Thanksgiving Triblend Tee",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 5,
+      "pricesCents": [
+        4800,
+        5600
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-009",
+      "id": "6ac5d0137c0874f8d40be1e0",
+      "title": "Sless Is More — Unisex Jersey Short Sleeve V-Neck Tee",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 5,
+      "pricesCents": [
+        2800,
+        3200
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-010",
+      "id": "6ac5d019ac3cff86ef0576ea",
+      "title": "Sless Is More — Unisex Jersey Long Sleeve Tee",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 5,
+      "pricesCents": [
+        3400,
+        3900
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-011",
+      "id": "6ac5d02080f7c61095062104",
+      "title": "Sless Is More — Unisex Garment-dyed Long Sleeve T-Shirt",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 6,
+      "pricesCents": [
+        4100,
+        4500,
+        5000
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-012",
+      "id": "6ac5d02ad1e3e7d865017da6",
+      "title": "Sless Is More — Unisex 3\\4 Sleeve Baseball Tee",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 4,
+      "pricesCents": [
+        3600
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-013",
+      "id": "6ac5d037014b7d9bf209876a",
+      "title": "Sless Is More — Unisex Jersey Tank",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 6,
+      "pricesCents": [
+        2700,
+        3200
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-014",
+      "id": "6ac5d0474c4e49c98f0f07ac",
+      "title": "Sless Is More — Women's Ideal Racerback Tank",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 6,
+      "pricesCents": [
+        2850
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-015",
+      "id": "6ac5d04e4c4e49c98f0f07b0",
+      "title": "More Cheer — Christmas Crewneck",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 6,
+      "pricesCents": [
+        3600,
+        4100,
+        4300
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-016",
+      "id": "6ac5d05a014b7d9bf2098776",
+      "title": "More Gratitude — Thanksgiving Garment-Dyed Sweatshirt",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 6,
+      "pricesCents": [
+        7000,
+        8100,
+        9300
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-017",
+      "id": "6ac5d063d7ff457b4d0c7ca8",
+      "title": "Sless After Dark — Halloween Hoodie",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 6,
+      "pricesCents": [
+        4300,
+        4700,
+        4900
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-018",
+      "id": "6ac5d06dbd34d756940c4e0a",
+      "title": "Sless Is More — Unisex Sponge Fleece Pullover Hoodie",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 7,
+      "pricesCents": [
+        6900,
+        7500,
+        8100
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-019",
+      "id": "6ac5d07e6a59c478d10a5010",
+      "title": "Sless Is More — Unisex Heavy Blend™ Full Zip Hooded Sweatshirt",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 6,
+      "pricesCents": [
+        5700,
+        6200,
+        6500
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-020",
+      "id": "6ac5d0965e26a6128202278f",
+      "title": "Sless Is More — Athletic Joggers (AOP)",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 6,
+      "pricesCents": [
+        6400
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-021",
+      "id": "6ac5d0a001e006db230b0e0a",
+      "title": "Sless Is More — Basketball Shorts (AOP)",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 6,
+      "pricesCents": [
+        5200,
+        5800
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-022",
+      "id": "6ac5d0ab80f7c61095062149",
+      "title": "Sless Is More — Low Profile Baseball Cap",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        3300
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-023",
+      "id": "6ac5d0b7ac3cff86ef057731",
+      "title": "Sless Is More — Trucker Caps",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        2800
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-024",
+      "id": "6ac5d0bcd7ff457b4d0c7ccb",
+      "title": "Sless Is More — Snapback Trucker Cap",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        3500
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-025",
+      "id": "6ac5d0c3679a412443086f1d",
+      "title": "Sless Is More — Classic Dad Cap",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        3900
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-026",
+      "id": "6ac5d0c8ac3cff86ef05773d",
+      "title": "Sless Holiday Star — Christmas Embroidered Beanie",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        2800
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-027",
+      "id": "6ac5d0ce841732a55b0c449b",
+      "title": "Sless Is More — Cotton Tote Bag",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        2171
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-028",
+      "id": "6ac5d0d34c4e49c98f0f07f7",
+      "title": "Sless Is More — Organic Canvas Tote Bag",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        4000
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-029",
+      "id": "6ac5d0d94c4e49c98f0f07fc",
+      "title": "Sless After Dark — Halloween Canvas Tote",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        3900
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-030",
+      "id": "6ac5d0defeeac1bd9403d2f8",
+      "title": "Sless Is More — Weekender Bag",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        3331
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-031",
+      "id": "6ac5d0eb5e26a612820227b8",
+      "title": "Sless Is More — Backpack",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        7800
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-032",
+      "id": "6ac5d285841732a55b0c4630",
+      "title": "Sless Is More — Mug 11oz",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        796
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-033",
+      "id": "6ac5d2895e26a61282022933",
+      "title": "Sless Is More — Mug 15oz",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        947
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-034",
+      "id": "6ac5d28ed8513ff05a086581",
+      "title": "Sless After Dark — Halloween Black Mug",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        1142
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-035",
+      "id": "6ac5d293d7ff457b4d0c7e17",
+      "title": "More Cheer — Christmas Latte Mug",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        1095
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-036",
+      "id": "6ac5d297724aee2017046779",
+      "title": "Sless Is More — Enamel Camping Mug",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        2200
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-037",
+      "id": "6ac5d29cbd34d756940c4f92",
+      "title": "Sless Is More — Stainless Steel Travel Mug",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        4200
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-038",
+      "id": "6ac5d2a05e26a61282022947",
+      "title": "Sless Is More — Tumbler 20oz",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        4600
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-039",
+      "id": "6ac5d2a5ac3cff86ef057884",
+      "title": "More Gratitude — Thanksgiving Insulated Bottle",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        4800
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-040",
+      "id": "6ac5d2a955eec60e6a057b4e",
+      "title": "Sless Is More — Kiss-Cut Stickers",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        400
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-041",
+      "id": "6ac5d2af5e26a61282022953",
+      "title": "Sless After Dark — Halloween Vinyl Sticker",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 5,
+      "pricesCents": [
+        3200,
+        600,
+        800,
+        1000,
+        1500
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-042",
+      "id": "6ac5d2b45e26a61282022957",
+      "title": "Sless Is More — Spiral Notebook - Ruled Line",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        912
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-043",
+      "id": "6ac5d2ba5e26a6128202295c",
+      "title": "More Gratitude — Thanksgiving Journal",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        2000
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-044",
+      "id": "6ac5d2be7226b35d210a8c5b",
+      "title": "Sless Is More — Laptop Sleeve",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        3400
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-045",
+      "id": "6ac5d2c4eb881c661602cbc3",
+      "title": "Sless Is More — Tough Phone Cases",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 6,
+      "pricesCents": [
+        2100
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-046",
+      "id": "6ac5d2cf55eec60e6a057b70",
+      "title": "Sless Is More — Slim Phone Cases",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 6,
+      "pricesCents": [
+        1900
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-047",
+      "id": "6ac5d2d475161e32c107f48e",
+      "title": "Sless Is More — Desk Mat",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        2179
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-048",
+      "id": "6ac5d2dcd8513ff05a0865a3",
+      "title": "Sless Is More — Sherpa Fleece Blanket",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        6200
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-049",
+      "id": "6ac5d2e355eec60e6a057b7d",
+      "title": "More Cheer — Christmas Plush Blanket",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        3549
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-050",
+      "id": "6ac5d2e801e006db230b0f76",
+      "title": "More Cheer — Christmas Throw Pillow",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        3700
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-051",
+      "id": "6ac5d2edfeeac1bd9403d4aa",
+      "title": "Sless Is More — Matte Vertical Posters",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        1421
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-052",
+      "id": "6ac5d2f275161e32c107f499",
+      "title": "Sless Is More — Matte Canvas, 12 × 20 in",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        4100
+      ],
+      "websitePublished": true
+    },
+    {
+      "sku": "SLESS-053",
+      "id": "6ac5d2f8eb881c661602cbed",
+      "title": "More Gratitude — Thanksgiving Coaster",
+      "catalogReady": true,
+      "reasons": [],
+      "enabledVariants": 1,
+      "pricesCents": [
+        894
+      ],
+      "websitePublished": true
+    }
+  ],
+  "catalogReady": 50,
+  "held": 0,
+  "websitePublished": 50,
+  "checkoutVerified": false,
+  "publicationPerformed": false,
+  "ordersCreated": false
+}

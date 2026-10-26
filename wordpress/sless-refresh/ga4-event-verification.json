@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-10-19T16:36:52.572Z",
+  "ga4RealtimeEventCounts": {
+    "page_view": 2,
+    "add_to_cart": 1,
+    "view_item": 1
+  },
+  "realtimeRead": true,
+  "googleAdsLinks": [
+    {
+      "name": "properties/559540969/googleAdsLinks/16160295612",
+      "customerId": "9802841961",
+      "adsPersonalizationEnabled": true
+    }
+  ]
+}

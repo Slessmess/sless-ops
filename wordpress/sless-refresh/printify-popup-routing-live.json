@@ -1,0 +1,19 @@
+{
+  "enabled": true,
+  "mappedProducts": 46,
+  "checksPassed": 56,
+  "ordersAndSessionsUnchanged": true,
+  "contentPricesAndArtworkUnchanged": true,
+  "cachePurgeAvailable": true,
+  "pluginSha256": "de3ad268bd6f3a834728e7d1a32e3730e1e10368b2f2c6ec76501b3247420b11",
+  "approval": {
+    "acceptedAt": "2026-10-20T21:21:01.581Z",
+    "ownerAcceptedUnpaidOnly": true,
+    "scope": "Switch main-site merchandise links to the approved 46-product shop",
+    "actualPaymentVerified": false,
+    "completedOrderReturnVerified": false,
+    "finalShippingAndTaxVerified": false,
+    "noTransactionAuthorized": true
+  },
+  "enabledAt": "2026-10-20T21:21:01.581Z"
+}

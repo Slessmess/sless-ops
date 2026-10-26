@@ -1,0 +1,692 @@
+{
+  "shopId": 29231820,
+  "images": {
+    "94458f5918565b65e800bfbd322bf063f7a9e7fd46ba87fff1c02c17407e78cf": {
+      "id": "6ad4ff4cd3f6981abf04635a",
+      "width": 3951,
+      "height": 4919
+    },
+    "b952ad78dcea747c51fc2b0fc15daeeac932c65b4d288af46fa4fee133a186a8": {
+      "id": "6ad4ff515c833231f7a548ea",
+      "width": 3591,
+      "height": 4472
+    },
+    "43a366e9871bc7a850b4d03d7b83b246559b73adbc7d9da92c837820669f8a39": {
+      "id": "6ad4ff576a1ba4b78502675c",
+      "width": 3232,
+      "height": 4024
+    },
+    "31df160450f02f14315e0db652b4cc45e2969fe216a5d5c3dc0bd53964daeb39": {
+      "id": "6ad4ff5e65462fecd3b5a401",
+      "width": 1800,
+      "height": 1800
+    }
+  },
+  "products": {
+    "shirt": {
+      "id": "6ad4ff59e2ff8ddc0b0e6627",
+      "title": "Sless After Dark — Halloween Tee",
+      "state": "native_channel_linked",
+      "blueprint": 6,
+      "provider": 99,
+      "source": "attached_assets/generated_images/merch-refresh-halloween-shirt-transparent.png",
+      "sourcePixels": 1024,
+      "sourceEffectivePpi": 151.7037037037037,
+      "variantIds": [
+        12010,
+        12011,
+        12012,
+        12013,
+        12014,
+        12015,
+        12016,
+        12017,
+        12018,
+        12019,
+        12020,
+        12021,
+        12124,
+        12125,
+        12126,
+        12127,
+        12128,
+        12129
+      ],
+      "areas": [
+        {
+          "variant_ids": [
+            12010,
+            12013,
+            12014,
+            12015,
+            12016,
+            12019,
+            12020,
+            12021,
+            12124,
+            12127,
+            12128,
+            12129
+          ],
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "images": [
+                {
+                  "id": "6ad4ff4cd3f6981abf04635a",
+                  "x": 0.5,
+                  "y": 0.5,
+                  "scale": 1,
+                  "angle": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "variant_ids": [
+            12011,
+            12017,
+            12125
+          ],
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "images": [
+                {
+                  "id": "6ad4ff515c833231f7a548ea",
+                  "x": 0.5,
+                  "y": 0.5,
+                  "scale": 1,
+                  "angle": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "variant_ids": [
+            12012,
+            12018,
+            12126
+          ],
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "dtg",
+              "images": [
+                {
+                  "id": "6ad4ff576a1ba4b78502675c",
+                  "x": 0.5,
+                  "y": 0.5,
+                  "scale": 1,
+                  "angle": 0
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-10-18T17:18:18.756Z",
+      "shipping": [
+        {
+          "countries": [
+            "US"
+          ],
+          "firstItem": {
+            "cost": 399,
+            "currency": "USD"
+          },
+          "additionalItems": {
+            "cost": 209,
+            "currency": "USD"
+          },
+          "variantIds": [
+            12010,
+            12011,
+            12012,
+            12013,
+            12014,
+            12015,
+            12016,
+            12017,
+            12018,
+            12019,
+            12020,
+            12021,
+            12124,
+            12125,
+            12126,
+            12127,
+            12128,
+            12129
+          ]
+        },
+        {
+          "countries": [
+            "CA"
+          ],
+          "firstItem": {
+            "cost": 969,
+            "currency": "USD"
+          },
+          "additionalItems": {
+            "cost": 439,
+            "currency": "USD"
+          },
+          "variantIds": [
+            12010,
+            12011,
+            12012,
+            12013,
+            12014,
+            12015,
+            12016,
+            12017,
+            12018,
+            12019,
+            12020,
+            12021,
+            12124,
+            12125,
+            12126,
+            12127,
+            12128,
+            12129
+          ]
+        },
+        {
+          "countries": [
+            "US"
+          ],
+          "firstItem": {
+            "cost": 495,
+            "currency": "USD"
+          },
+          "additionalItems": {
+            "cost": 240,
+            "currency": "USD"
+          },
+          "variantIds": [
+            12010,
+            12011,
+            12012,
+            12013,
+            12014,
+            12015,
+            12016,
+            12017,
+            12018,
+            12019,
+            12020,
+            12021,
+            12124,
+            12125,
+            12126,
+            12127,
+            12128,
+            12129
+          ]
+        },
+        {
+          "countries": [
+            "AU"
+          ],
+          "firstItem": {
+            "cost": 1299,
+            "currency": "USD"
+          },
+          "additionalItems": {
+            "cost": 499,
+            "currency": "USD"
+          },
+          "variantIds": [
+            12010,
+            12011,
+            12012,
+            12013,
+            12014,
+            12015,
+            12016,
+            12017,
+            12018,
+            12019,
+            12020,
+            12021,
+            12124,
+            12125,
+            12126,
+            12127,
+            12128,
+            12129
+          ]
+        },
+        {
+          "countries": [
+            "REST_OF_THE_WORLD"
+          ],
+          "firstItem": {
+            "cost": 1039,
+            "currency": "USD"
+          },
+          "additionalItems": {
+            "cost": 400,
+            "currency": "USD"
+          },
+          "variantIds": [
+            12010,
+            12011,
+            12012,
+            12013,
+            12014,
+            12015,
+            12016,
+            12017,
+            12018,
+            12019,
+            12020,
+            12021,
+            12124,
+            12125,
+            12126,
+            12127,
+            12128,
+            12129
+          ]
+        },
+        {
+          "countries": [
+            "US"
+          ],
+          "firstItem": {
+            "cost": 799,
+            "currency": "USD"
+          },
+          "additionalItems": {
+            "cost": 240,
+            "currency": "USD"
+          },
+          "variantIds": [
+            12124,
+            12125,
+            12126,
+            12127,
+            12128,
+            12129
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 12018,
+          "title": "Purple / S",
+          "cost": 968,
+          "price": 2500,
+          "available": true
+        },
+        {
+          "id": 12125,
+          "title": "Black / M",
+          "cost": 968,
+          "price": 2500,
+          "available": true
+        },
+        {
+          "id": 12016,
+          "title": "Purple / L",
+          "cost": 968,
+          "price": 2500,
+          "available": true
+        },
+        {
+          "id": 12010,
+          "title": "Orange / L",
+          "cost": 968,
+          "price": 2500,
+          "available": true
+        },
+        {
+          "id": 12019,
+          "title": "Purple / XL",
+          "cost": 968,
+          "price": 2500,
+          "available": true
+        },
+        {
+          "id": 12126,
+          "title": "Black / S",
+          "cost": 968,
+          "price": 2500,
+          "available": true
+        },
+        {
+          "id": 12013,
+          "title": "Orange / XL",
+          "cost": 968,
+          "price": 2500,
+          "available": true
+        },
+        {
+          "id": 12012,
+          "title": "Orange / S",
+          "cost": 968,
+          "price": 2500,
+          "available": true
+        },
+        {
+          "id": 12124,
+          "title": "Black / L",
+          "cost": 968,
+          "price": 2500,
+          "available": true
+        },
+        {
+          "id": 12127,
+          "title": "Black / XL",
+          "cost": 968,
+          "price": 2500,
+          "available": true
+        },
+        {
+          "id": 12017,
+          "title": "Purple / M",
+          "cost": 968,
+          "price": 2500,
+          "available": true
+        },
+        {
+          "id": 12011,
+          "title": "Orange / M",
+          "cost": 968,
+          "price": 2500,
+          "available": true
+        },
+        {
+          "id": 12014,
+          "title": "Orange / 2XL",
+          "cost": 1177,
+          "price": 2800,
+          "available": true
+        },
+        {
+          "id": 12020,
+          "title": "Purple / 2XL",
+          "cost": 1177,
+          "price": 2800,
+          "available": true
+        },
+        {
+          "id": 12128,
+          "title": "Black / 2XL",
+          "cost": 1177,
+          "price": 2800,
+          "available": true
+        },
+        {
+          "id": 12021,
+          "title": "Purple / 3XL",
+          "cost": 1291,
+          "price": 3000,
+          "available": true
+        },
+        {
+          "id": 12129,
+          "title": "Black / 3XL",
+          "cost": 1291,
+          "price": 3000,
+          "available": true
+        },
+        {
+          "id": 12015,
+          "title": "Orange / 3XL",
+          "cost": 1291,
+          "price": 3000,
+          "available": true
+        }
+      ],
+      "requestedAt": "2026-10-18T17:20:17.006Z",
+      "external": {
+        "id": "660",
+        "handle": "https://slessismore.org/product/sless-after-dark-halloween-tee/",
+        "type": 3
+      },
+      "linkedAt": "2026-10-18T17:20:52.055Z"
+    },
+    "canvas": {
+      "id": "6ad4ff607e86416ffc097c36",
+      "title": "Sless After Dark — Halloween Canvas, 6 × 6 in",
+      "state": "waiting_for_native_channel",
+      "blueprint": 937,
+      "provider": 105,
+      "source": "attached_assets/generated_images/merch-refresh-halloween-canvas-original.png",
+      "sourcePixels": 1024,
+      "sourceEffectivePpi": 170.66666666666666,
+      "variantIds": [
+        102202
+      ],
+      "areas": [
+        {
+          "variant_ids": [
+            102202
+          ],
+          "placeholders": [
+            {
+              "position": "front",
+              "decoration_method": "digital-printing",
+              "images": [
+                {
+                  "id": "6ad4ff5e65462fecd3b5a401",
+                  "x": 0.5,
+                  "y": 0.5,
+                  "scale": 1,
+                  "angle": 0
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-10-18T17:18:25.102Z",
+      "shipping": [
+        {
+          "countries": [
+            "US"
+          ],
+          "firstItem": {
+            "cost": 749,
+            "currency": "USD"
+          },
+          "additionalItems": {
+            "cost": 329,
+            "currency": "USD"
+          },
+          "variantIds": [
+            102202
+          ]
+        },
+        {
+          "countries": [
+            "AL",
+            "BE",
+            "BA",
+            "RO",
+            "JE",
+            "AD",
+            "AX",
+            "GR",
+            "AT",
+            "BG",
+            "MD",
+            "UA",
+            "CY",
+            "CZ",
+            "GI",
+            "IT",
+            "SK",
+            "BV",
+            "HR",
+            "GL",
+            "LU",
+            "RE",
+            "SI",
+            "ES",
+            "AM",
+            "BY",
+            "IM",
+            "MK",
+            "PT",
+            "GG",
+            "VA",
+            "ME",
+            "PL",
+            "FR",
+            "MC",
+            "GP",
+            "MT",
+            "NL",
+            "RS",
+            "XK",
+            "SM",
+            "TR",
+            "DE",
+            "GE",
+            "IE",
+            "FO",
+            "HU"
+          ],
+          "firstItem": {
+            "cost": 739,
+            "currency": "USD"
+          },
+          "additionalItems": {
+            "cost": 339,
+            "currency": "USD"
+          },
+          "variantIds": [
+            102202
+          ]
+        },
+        {
+          "countries": [
+            "NO",
+            "LT",
+            "SE",
+            "CH",
+            "FI",
+            "IS",
+            "DK",
+            "LI",
+            "EE",
+            "LV"
+          ],
+          "firstItem": {
+            "cost": 1869,
+            "currency": "USD"
+          },
+          "additionalItems": {
+            "cost": 339,
+            "currency": "USD"
+          },
+          "variantIds": [
+            102202
+          ]
+        },
+        {
+          "countries": [
+            "US"
+          ],
+          "firstItem": {
+            "cost": 1119,
+            "currency": "USD"
+          },
+          "additionalItems": {
+            "cost": 339,
+            "currency": "USD"
+          },
+          "variantIds": [
+            102202
+          ]
+        },
+        {
+          "countries": [
+            "CA"
+          ],
+          "firstItem": {
+            "cost": 1489,
+            "currency": "USD"
+          },
+          "additionalItems": {
+            "cost": 339,
+            "currency": "USD"
+          },
+          "variantIds": [
+            102202
+          ]
+        },
+        {
+          "countries": [
+            "GB"
+          ],
+          "firstItem": {
+            "cost": 779,
+            "currency": "USD"
+          },
+          "additionalItems": {
+            "cost": 349,
+            "currency": "USD"
+          },
+          "variantIds": [
+            102202
+          ]
+        },
+        {
+          "countries": [
+            "AU"
+          ],
+          "firstItem": {
+            "cost": 1739,
+            "currency": "USD"
+          },
+          "additionalItems": {
+            "cost": 389,
+            "currency": "USD"
+          },
+          "variantIds": [
+            102202
+          ]
+        },
+        {
+          "countries": [
+            "REST_OF_THE_WORLD"
+          ],
+          "firstItem": {
+            "cost": 16479,
+            "currency": "USD"
+          },
+          "additionalItems": {
+            "cost": 349,
+            "currency": "USD"
+          },
+          "variantIds": [
+            102202
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 102202,
+          "title": "6\" x 6\" / 0.75''",
+          "cost": 1663,
+          "price": 3100,
+          "available": true
+        }
+      ],
+      "requestedAt": "2026-10-18T17:20:19.641Z"
+    }
+  },
+  "authorization": "Owner requested finish it up and get it on the site for sale.",
+  "ordersCreated": false,
+  "productionApproved": false
+}

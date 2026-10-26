@@ -1,0 +1,12 @@
+{
+  "verifiedAt": "2026-10-08T14:28:26.453Z",
+  "connectedStripeEnvironment": "test",
+  "sourceAccountVerified": true,
+  "wooTestMode": true,
+  "wooTestPublishableKeyConfigured": true,
+  "wooTestSecretKeyConfigured": true,
+  "wooTestWebhookConfigured": true,
+  "liveCredentialSettingsUnchanged": true,
+  "transactionTestRun": false,
+  "realFundsTransferred": false
+}

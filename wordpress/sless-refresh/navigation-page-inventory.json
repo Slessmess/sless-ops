@@ -1,0 +1,100 @@
+{
+  "pages": [
+    {
+      "id": 211,
+      "title": "My account",
+      "url": "https://slessismore.org/my-account/",
+      "template": ""
+    },
+    {
+      "id": 210,
+      "title": "Checkout",
+      "url": "https://slessismore.org/checkout-2/",
+      "template": ""
+    },
+    {
+      "id": 209,
+      "title": "Cart",
+      "url": "https://slessismore.org/cart/",
+      "template": ""
+    },
+    {
+      "id": 208,
+      "title": "Shop",
+      "url": "https://slessismore.org/shop/",
+      "template": ""
+    },
+    {
+      "id": 155,
+      "title": "Fall Brawl Winners",
+      "url": "https://slessismore.org/winners/",
+      "template": "elementor_canvas"
+    },
+    {
+      "id": 154,
+      "title": "Checkout",
+      "url": "https://slessismore.org/checkout/",
+      "template": "elementor_canvas"
+    },
+    {
+      "id": 153,
+      "title": "Download SlessBox",
+      "url": "https://slessismore.org/download/",
+      "template": "elementor_canvas"
+    },
+    {
+      "id": 152,
+      "title": "Thank You",
+      "url": "https://slessismore.org/thank-you/",
+      "template": "elementor_canvas"
+    },
+    {
+      "id": 151,
+      "title": "Fall Brawl 2025",
+      "url": "https://slessismore.org/giveaway/",
+      "template": "elementor_canvas"
+    },
+    {
+      "id": 150,
+      "title": "Sless Store",
+      "url": "https://slessismore.org/store/",
+      "template": "elementor_canvas"
+    },
+    {
+      "id": 149,
+      "title": "AI (SlessBox)",
+      "url": "https://slessismore.org/ai/",
+      "template": "elementor_canvas"
+    },
+    {
+      "id": 148,
+      "title": "Wrestling",
+      "url": "https://slessismore.org/wrestling/",
+      "template": "elementor_canvas"
+    },
+    {
+      "id": 147,
+      "title": "Home",
+      "url": "https://slessismore.org/",
+      "template": "elementor_canvas"
+    }
+  ],
+  "header": "[{\"id\":\"603f0b4a\",\"elType\":\"container\",\"settings\":{\"structure\":\"30\",\"min_height\":{\"unit\":\"px\",\"size\":\"80\",\"sizes\":[]},\"content_position\":\"middle\",\"background_background\":\"classic\",\"background_color\":\"#0B0B0B\",\"background_color_stop\":{\"unit\":\"%\",\"size\":\"99\",\"sizes\":[]},\"background_color_b\":\"rgba(255, 255, 255, 0.2)\",\"background_color_b_stop\":{\"unit\":\"%\",\"size\":\"99\",\"sizes\":[]},\"background_motion_fx_opacity_effect\":\"yes\",\"background_motion_fx_opacity_range\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":\"0\",\"end\":\"6\"}},\"background_motion_fx_range\":\"page\",\"padding_tablet\":{\"unit\":\"%\",\"top\":\"0\",\"right\":\"3\",\"bottom\":\"0\",\"left\":\"3\",\"isLinked\":\"\"},\"padding_mobile\":{\"unit\":\"%\",\"top\":\"\",\"right\":\"\",\"bottom\":\"\",\"left\":\"\",\"isLinked\":\"1\"},\"sticky\":\"top\",\"_title\":\"Header\",\"z_index\":\"99\",\"boxed_width\":{\"unit\":\"px\",\"size\":\"1600\",\"sizes\":[]},\"flex_direction\":\"row\",\"flex_align_items\":\"center\",\"flex_gap\":{\"size\":5,\"unit\":\"%\",\"column\":\"5\",\"row\":\"5\",\"isLinked\":true},\"flex_justify_content\":\"space-between\",\"flex_gap_tablet\":{\"unit\":\"%\",\"size\":2,\"sizes\":[],\"column\":\"2\",\"row\":\"2\",\"isLinked\":true},\"flex_gap_mobile\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":[],\"column\":\"\",\"row\":\"\",\"isLinked\":true},\"padding\":{\"unit\":\"%\",\"top\":\"0\",\"right\":\"4\",\"bottom\":\"0\",\"left\":\"4\",\"isLinked\":false}},\"elements\":[{\"id\":\"1f53f822\",\"elType\":\"widget\",\"settings\":{\"image\":{\"id\":15,\"url\":\"http:\\/\\/slessismore.org\\/wp-content\\/uploads\\/2024\\/10\\/trainwithsless-01-1.png\",\"alt\":\"\",\"source\":\"library\",\"size\":\"\"},\"image_size\":\"full\",\"align\":\"left\",\"link_to\":\"custom\",\"width\":{\"unit\":\"%\",\"size\":100,\"sizes\":[]},\"__dynamic__\":{\"link\":\"[elementor-tag id=\\\"2f2c772\\\" name=\\\"site-url\\\" settings=\\\"%7B%7D\\\"]\"},\"width_tablet\":{\"unit\":\"px\",\"size\":150,\"sizes\":[]},\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"-10\",\"left\":\"10\",\"isLinked\":false},\"height\":{\"unit\":\"px\",\"size\":167,\"sizes\":[]},\"object-fit\":\"contain\",\"width_mobile\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"space\":{\"unit\":\"%\",\"size\":100,\"sizes\":[]},\"_margin\":{\"unit\":\"px\",\"top\":\"-22\",\"right\":\"-16\",\"bottom\":\"-16\",\"left\":\"-16\",\"isLinked\":false}},\"elements\":[],\"widgetType\":\"image\"},{\"id\":\"6a5910da\",\"elType\":\"widget\",\"settings\":{\"view\":\"inline\",\"icon_list\":[{\"text\":\"Sless Talk\",\"selected_icon\":{\"value\":\"\",\"library\":\"\"},\"_id\":\"d42ef9a\"},{\"text\":\"Matches\",\"selected_icon\":{\"value\":\"\",\"library\":\"\"},\"_id\":\"6d51e72\",\"link\":{\"url\":\"https:\\/\\/slessismore.org\\/matches\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"__dynamic__\":[]},{\"text\":\"Fitness\",\"selected_icon\":{\"value\":\"\",\"library\":\"\"},\"_id\":\"f5dd02b\"},{\"text\":\"Supplements\",\"selected_icon\":{\"value\":\"\",\"library\":\"\"},\"_id\":\"122166b\"},{\"text\":\"Shop\",\"selected_icon\":{\"value\":\"\",\"library\":\"\"},\"_id\":\"e817301\"}],\"space_between\":{\"unit\":\"px\",\"size\":35,\"sizes\":[]},\"space_between_tablet\":{\"unit\":\"px\",\"size\":20,\"sizes\":[]},\"icon_align\":\"center\",\"text_color\":\"#FFFFFF\",\"text_color_hover\":\"#CB3522\",\"icon_typography_typography\":\"custom\",\"icon_typography_font_family\":\"Nanum Gothic\",\"icon_typography_font_size\":{\"unit\":\"px\",\"size\":16,\"sizes\":[]},\"icon_typography_font_weight\":\"300\",\"icon_typography_text_transform\":\"uppercase\",\"icon_typography_letter_spacing\":{\"unit\":\"px\",\"size\":-0.0299999999999999988897769753748434595763683319091796875,\"sizes\":[]},\"hide_mobile\":\"hidden-mobile\",\"_margin\":{\"unit\":\"%\",\"top\":\"\",\"right\":\"\",\"bottom\":\"\",\"left\":\"\",\"isLinked\":true},\"_margin_tablet\":{\"unit\":\"%\",\"top\":\"\",\"right\":\"\",\"bottom\":\"\",\"left\":\"\",\"isLinked\":true},\"_margin_mobile\":{\"unit\":\"%\",\"top\":\"\",\"right\":\"\",\"bottom\":\"\",\"left\":\"\",\"isLinked\":true},\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"120\",\"isLinked\":false},\"_padding_tablet\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":true},\"_element_custom_width\":{\"unit\":\"%\",\"size\":22,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"icon-list\"},{\"id\":\"1d786513\",\"elType\":\"container\",\"settings\":{\"_column_size\":\"33\",\"align\":\"flex-end\",\"width_tablet\":{\"size\":\"35\",\"unit\":\"%\"},\"width_mobile\":{\"size\":\"50\",\"unit\":\"%\"},\"content_width\":\"full\",\"width\":{\"unit\":\"px\",\"size\":270,\"sizes\":[]},\"flex_direction\":\"row\",\"flex_justify_content\":\"flex-end\",\"flex_gap\":{\"unit\":\"px\",\"size\":25,\"sizes\":[],\"column\":\"25\",\"row\":\"25\",\"isLinked\":true},\"padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"10\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[{\"id\":\"41a7465f\",\"elType\":\"widget\",\"settings\":{\"text\":\"Donate\",\"typography_typography\":\"custom\",\"typography_text_transform\":\"uppercase\",\"background_color\":\"#CB3522\",\"hover_color\":\"#CB3522\",\"button_background_hover_color\":\"#FFFFFF\",\"_element_width\":\"auto\",\"hide_mobile\":\"hidden-mobile\",\"typography_font_family\":\"Nanum Gothic\",\"typography_font_size\":{\"unit\":\"px\",\"size\":\"14\",\"sizes\":[]},\"typography_line_height\":{\"unit\":\"px\",\"size\":\"16\",\"sizes\":[]},\"typography_letter_spacing\":{\"unit\":\"px\",\"size\":\"0.19\",\"sizes\":[]},\"button_text_color\":\"#FFFFFF\",\"border_border\":\"solid\",\"border_width\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"1\",\"left\":\"0\",\"isLinked\":\"\"},\"border_color\":\"#CB3522\",\"border_radius\":{\"unit\":\"px\",\"top\":\"6\",\"right\":\"6\",\"bottom\":\"6\",\"left\":\"6\",\"isLinked\":\"1\"},\"text_padding\":{\"unit\":\"px\",\"top\":\"14.5\",\"right\":\"36\",\"bottom\":\"14.5\",\"left\":\"36\",\"isLinked\":\"\"}},\"elements\":[],\"widgetType\":\"button\"},{\"id\":\"6e8f3b97\",\"elType\":\"widget\",\"settings\":{\"selected_icon\":{\"value\":\"fas fa-sign-in-alt\",\"library\":\"fa-solid\"},\"primary_color\":\"#FFFFFF\",\"hover_primary_color\":\"#CB3522\",\"size\":{\"unit\":\"px\",\"size\":\"32\",\"sizes\":[]},\"_margin\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"-8\",\"left\":\"0\",\"isLinked\":\"\"},\"_element_width\":\"auto\",\"__dynamic__\":{\"link\":\"[elementor-tag id=\\\"f1eaeb0\\\" name=\\\"popup\\\" settings=\\\"%7B%22action%22%3A%22toggle%22%2C%22popup%22%3A%2262%22%7D\\\"]\"},\"hover_animation\":\"skew\",\"_margin_tablet\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"-8\",\"left\":\"0\",\"isLinked\":\"\"},\"_flex_align_self\":\"center\"},\"elements\":[],\"widgetType\":\"icon\"}],\"isInner\":true}],\"isInner\":false}]",
+  "plugins": [
+    "sg-ai-studio/sg-ai-studio.php",
+    "code-snippets/code-snippets.php",
+    "download-manager/download-manager.php",
+    "elementor/elementor.php",
+    "elementor-pro/elementor-pro.php",
+    "password-protect-page/wp-protect-password.php",
+    "printify-for-woocommerce/printify.php",
+    "sg-security/sg-security.php",
+    "wordpress-starter/siteground-wizard.php",
+    "sless-core-us-only-shipping/sless-core-us-only-shipping.php",
+    "sg-cachepress/sg-cachepress.php",
+    "woocommerce/woocommerce.php",
+    "woocommerce-gateway-stripe/woocommerce-gateway-stripe.php",
+    "woocommerce-services/woocommerce-services.php",
+    "insert-headers-and-footers/ihaf.php"
+  ]
+}

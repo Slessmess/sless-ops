@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/sless-studio/"
+title = "Sless Studio"
+description = "The owner's imported Next.js image, video and audio studio. Isolated development preview; paid services inactive."
+version = "1.0.0"
+id = "artifacts/sless-studio"
+router = "path"
+
+[[services]]
+name = "web"
+paths = ["/sless-studio/"]
+localPort = 24278
+
+[services.development]
+run = "pnpm --filter @workspace/sless-studio run dev"
+
+[services.production]
+
+[services.production.build]
+args = ["pnpm", "--filter", "@workspace/sless-studio", "run", "build"]
+
+[services.production.run]
+args = ["pnpm", "--filter", "@workspace/sless-studio", "run", "start"]
+
+[services.production.health.startup]
+path = "/sless-studio/api/health"
+
+[services.env]
+PORT = "24278"
+BASE_PATH = "/sless-studio/"
+NEXT_PUBLIC_BASE_PATH = "/sless-studio"

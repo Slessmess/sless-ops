@@ -1,0 +1,51 @@
+{
+  "approvedAt": "2026-10-21T15:49:03.071Z",
+  "evidence": "Owner explicitly selected Approve all three after reviewing the launch pack",
+  "approvedFor": [
+    "Instagram organic",
+    "Sless Taylor Facebook Page organic"
+  ],
+  "minimumHoursBetweenPosts": 18,
+  "publishAfterAccessVerifiedAndSchedulesReviewed": true,
+  "existingSaleScheduleChangesAuthorized": false,
+  "publicationHeldByOwner": true,
+  "holdReason": "Owner chose to keep the seven existing Facebook schedules and hold the replacement campaign.",
+  "paidSpendAuthorized": false,
+  "storiesRequireNativeClickableLinkSticker": true,
+  "trackingFixesDeferredNotVerified": true,
+  "posts": [
+    {
+      "id": "L01",
+      "productUrl": "https://shop.slessismore.org/product/33343713",
+      "assetSha256": {
+        "L01-feed.jpg": "fb890386707c789a178cdcb090a7e603847210c5d99153cf98b73df164ec8c76",
+        "L01-story.jpg": "40520429c4901167814fc4747e78df7146698582dde89e38779db644c7b1f927"
+      },
+      "facebookCaptionSha256": "ab8657c635821acca619991cfdbb3990884800339ac29d755c29597523028ee5",
+      "instagramCaptionSha256": "4f5ecae9b8b6ddc7ff5dd991babad09e56775f9c2f5c92de51b3b1dce5be46e3",
+      "storyLink": "https://shop.slessismore.org/product/33343713?utm_source=instagram&utm_medium=organic_social&utm_campaign=live_shop_launch&utm_content=l01_story"
+    },
+    {
+      "id": "L02",
+      "productUrl": "https://shop.slessismore.org/product/33343711",
+      "assetSha256": {
+        "L02-feed.jpg": "d5b10fca212f96139dc8712ff9e8a469e89cf3efa5952ba5d4b4495fddeb8b68",
+        "L02-story.jpg": "fad3d88afb728526a5923f1eb65f10f2c56ebcbaf29b03526bc6163f551c5211"
+      },
+      "facebookCaptionSha256": "dd49ea53955ccbf88f8f34ec0d725bb382f1e370a43887448dfdb2deaabea8ad",
+      "instagramCaptionSha256": "9987a03f0c944fc6bb3eec0b16f7da6b08eba0c2c9d90de7312a7108b51cf423",
+      "storyLink": "https://shop.slessismore.org/product/33343711?utm_source=instagram&utm_medium=organic_social&utm_campaign=live_shop_launch&utm_content=l02_story"
+    },
+    {
+      "id": "L03",
+      "productUrl": "https://shop.slessismore.org/product/33343699",
+      "assetSha256": {
+        "L03-feed.jpg": "185d5fba392388bc0a18c34300bd8e54d30d9f8139fbb19192ef5144aeaac263",
+        "L03-story.jpg": "c57e6d9b6071e655f359b5362d6586c2b35283395089e6672c6649f0bf55182f"
+      },
+      "facebookCaptionSha256": "1fd00ae57baca9bc3d29235b3c3a158cc1ed35c737725fb6aa32671991d1e738",
+      "instagramCaptionSha256": "ba0f294e517a7f5be1cae34c134acd7b6c5ad24c2e9635ca7393c39293b5cb60",
+      "storyLink": "https://shop.slessismore.org/product/33343699?utm_source=instagram&utm_medium=organic_social&utm_campaign=live_shop_launch&utm_content=l03_story"
+    }
+  ]
+}

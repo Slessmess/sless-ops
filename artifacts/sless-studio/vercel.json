@@ -1,0 +1,12 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "crons": [
+    { "path": "/api/cron/reconcile", "schedule": "* * * * *" },
+    { "path": "/api/cron/tools", "schedule": "* * * * *" }
+  ],
+  "functions": {
+    "app/api/cron/reconcile/route.ts": { "maxDuration": 60 },
+    "app/api/cron/tools/route.ts": { "maxDuration": 800 },
+    "app/api/webhooks/higgsfield/route.ts": { "maxDuration": 120 }
+  }
+}

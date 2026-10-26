@@ -1,0 +1,74 @@
+{
+  "stripeTestMode": true,
+  "signup": {
+    "audience": "Sless Brand",
+    "doubleOptIn": true,
+    "url": "https://eepurl.com/sdOGhlNGy9"
+  },
+  "installer": {
+    "filename": "Local-AI-Setup_0.1.4_x64-setup_1791200773622.exe",
+    "ownerConfirmed": true,
+    "existingProtectedPackageObserved": true,
+    "protectedPackageId": 203,
+    "uploadRequired": false,
+    "contentHashVerified": false,
+    "wooOrderDeliveryConnected": false
+  },
+  "products": [
+    {
+      "id": 214,
+      "name": "SlessBox Pro",
+      "status": "draft",
+      "price": "39.00",
+      "downloadable": false,
+      "proposedFeaturesAwaitingAppActivation": true,
+      "downloadCount": 0,
+      "editUrl": "https://slessismore.org/wp-admin/post.php?post=214&action=edit"
+    },
+    {
+      "id": 215,
+      "name": "SlessBox Studio",
+      "status": "draft",
+      "price": "79.00",
+      "downloadable": false,
+      "proposedFeaturesAwaitingAppActivation": true,
+      "downloadCount": 0,
+      "editUrl": "https://slessismore.org/wp-admin/post.php?post=215&action=edit"
+    }
+  ],
+  "pages": [
+    {
+      "id": 216,
+      "name": "ai",
+      "status": "draft",
+      "editUrl": "https://slessismore.org/wp-admin/post.php?post=216&action=edit"
+    },
+    {
+      "id": 217,
+      "name": "checkout",
+      "status": "draft",
+      "editUrl": "https://slessismore.org/wp-admin/post.php?post=217&action=edit"
+    },
+    {
+      "id": 218,
+      "name": "download",
+      "status": "draft",
+      "editUrl": "https://slessismore.org/wp-admin/post.php?post=218&action=edit"
+    },
+    {
+      "id": 219,
+      "name": "thank-you",
+      "status": "draft",
+      "editUrl": "https://slessismore.org/wp-admin/post.php?post=219&action=edit"
+    }
+  ],
+  "originalsUnchanged": true,
+  "limitations": [
+    "No products or pages published; no orders or contacts created.",
+    "An existing WordPress Download Manager installer package is present; do not request a duplicate upload.",
+    "Native password-protected owner verification is not yet connected to WooCommerce paid-order permissions.",
+    "Hosted signup is connected, but confirmed-email-to-Lite-download delivery is not configured.",
+    "No automated license issuance or tier feature-unlocking has been configured."
+  ],
+  "verifiedAt": "2026-10-08T22:24:08.251Z"
+}

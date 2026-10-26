@@ -1,0 +1,169 @@
+{
+  "site": "https://slessismore.org/",
+  "checkedOn": "2026-10-19",
+  "trackingReady": true,
+  "publicationOnHold": false,
+  "creativeApprovalRequired": true,
+  "creativeApprovalGranted": true,
+  "checkoutEndToEndTests": {
+    "requested": 2,
+    "completed": 2,
+    "status": "passed with genuine Stripe sandbox payments; test orders closed",
+    "sandboxCredentialsVerified": true,
+    "testWebhookEnabled": true,
+    "publicLiveCheckoutUnchanged": true,
+    "temporaryQaAccessRemoved": true,
+    "qaOrdersCreated": 2,
+    "qaOrderIds": [
+      1068,
+      1069
+    ],
+    "qaOrdersCancelledAfterVerification": true,
+    "productionFulfillmentSuppressed": true,
+    "ownerAndBuyerEmailSmtpAcceptanceVerified": true,
+    "details": "commerce-e2e-verification.json"
+  },
+  "instagramBioStoreLinkConfirmedByOwner": true,
+  "publicPageChecks": [
+    {
+      "url": "https://slessismore.org/",
+      "httpStatus": 200,
+      "metaPixelReference": true,
+      "googleTagReference": true,
+      "consentBannerReference": true,
+      "optionalScriptsBlockedBeforeConsent": true,
+      "optionalResponseCookies": []
+    },
+    {
+      "url": "https://slessismore.org/product/sless-after-dark-halloween-tee/",
+      "httpStatus": 200,
+      "metaPixelReference": true,
+      "googleTagReference": true,
+      "consentBannerReference": true,
+      "optionalScriptsBlockedBeforeConsent": true,
+      "optionalResponseCookies": []
+    }
+  ],
+  "privacyPolicyUrlConfigured": true,
+  "privacyPolicyPublished": true,
+  "privacyPolicyUrl": "https://slessismore.org/privacy-policy/",
+  "publicTrackingIdsFound": [
+    "GT-5DDBFXJL",
+    "G-RZLZGN6CRQ",
+    "AW-971817202",
+    "910105715704651"
+  ],
+  "trackingSnippetsFound": [
+    "Native Site Kit GA4",
+    "Native Google for WooCommerce Ads",
+    "Native Meta browser pixel"
+  ],
+  "trackingPluginsFound": [
+    {
+      "name": "Site Kit by Google",
+      "active": true,
+      "accountConnected": true
+    },
+    {
+      "name": "Meta for WooCommerce",
+      "active": true,
+      "accountConnected": true
+    },
+    {
+      "name": "Google for WooCommerce",
+      "active": true,
+      "accountConnected": true
+    }
+  ],
+  "connectionToolsPreparedOnly": false,
+  "savedConfigurationContainsTrackingIds": true,
+  "mailchimpConnectedStoreCount": 0,
+  "privateGoogleAndMetaAccountAssetsInspected": true,
+  "nextBlocker": "Facebook has 1 launch published and 11 posts natively scheduled; owner confirmed app published; anonymous visibility not independently verified. Instagram's remaining eleven posts are not automatically scheduled. No paid spend authorized; Stories require a native clickable link sticker.",
+  "googleAdsLinked": true,
+  "googleAdsPersonalizationEnabled": true,
+  "existingGa4AudiencesVerified": [
+    "All Users",
+    "Purchasers",
+    "New visitors",
+    "Returning visitors"
+  ],
+  "consentVerification": {
+    "initialOptionalCookieSuppression": "browser verified",
+    "statisticsOnlyMarketingSeparation": "browser verified",
+    "cartPreservedAfterWithdrawal": "browser verified",
+    "realWooCommerceCheckoutPath": "/checkout-2/",
+    "consentUpdateBeforeTagRelease": "fixed after browser findings; unit verified",
+    "denyClickRevokesBeforePixelClickListener": "fixed after browser findings; unit verified",
+    "metaAutomaticButtonClassification": "disabled",
+    "metaCapiAttributionHelper": "disabled",
+    "mobilePreferencesReopenAfterDeny": "browser verified; native display set to show-everywhere",
+    "latestPublicPageStatus": "HTTP 200; no unblocked optional tags or optional response cookies"
+  },
+  "eventVerification": {
+    "ga4ReportingApiReceived": [
+      "page_view",
+      "view_item",
+      "add_to_cart"
+    ],
+    "ga4Checkout": "provider request verified in completed mobile checkout",
+    "ga4BrowserReceived": [
+      "view_item",
+      "add_to_cart",
+      "begin_checkout",
+      "purchase"
+    ],
+    "googleAds": "Purchase label, value, currency and primary-request order IDs verified for both orders. Three Google endpoint families observed; no new matching request on receipt reload. Live ad-click attribution not exercised.",
+    "meta": "ViewContent/AddToCart/InitiateCheckout/Purchase requests verified; purchase event ID and totals verified; no Purchase repeat on receipt reload",
+    "purchaseConversionVerified": true,
+    "realOrderPlaced": false,
+    "genuineWooCommerceSandboxOrdersCreated": 2,
+    "realFundsTransferred": false,
+    "metaServerSideEventsEnabled": false,
+    "enhancedMatchingEnabled": false,
+    "verificationDetails": "commerce-e2e-verification.json, ga4-event-verification.json and consent-tracking-verification.json"
+  },
+  "requiredSetup": [
+    "Cookie consent controls and appropriate privacy disclosures",
+    "Consent-respecting product-view, add-to-cart, checkout and purchase events",
+    "Purchase values, currency and transaction deduplication",
+    "Google Ads/GA4 account linking and remarketing audience configuration",
+    "Tagged clickable Story destination link",
+    "Event verification before publication"
+  ],
+  "accountIdentifiers": {
+    "metaPixelId": "910105715704651",
+    "metaCatalogId": "1111828728494235",
+    "ga4MeasurementId": "G-RZLZGN6CRQ",
+    "googleAdsAccountId": "9802841961",
+    "googleMerchantId": "5876721373",
+    "googleAdsConversionId": "AW-971817202",
+    "googleAdsPurchaseConversionLabel": "WspvCJzGvKIdEPKBs88D"
+  },
+  "storyLink": {
+    "required": true,
+    "destination": "https://slessismore.org/?utm_source=instagram&utm_medium=organic_social&utm_campaign=holiday_tops_oct2026&utm_content=story_launch",
+    "instagramPublishingApiSupportsLinkStickers": false,
+    "needsNativeLinkStickerStep": true
+  },
+  "productionTrackingChangesMade": true,
+  "visitorTrackingActivated": true,
+  "trackingActivationMode": "explicit opt-in only",
+  "metaCatalogSyncHeld": true,
+  "postsPublished": true,
+  "adSpendAuthorized": false,
+  "creativeApprovalRecord": "holiday-campaign-approval.json",
+  "publishedPostCount": 1,
+  "publicationMode": "Approved organic posts only; enforced staggered timing",
+  "automaticSchedulingActive": false,
+  "facebookCampaign": {
+    "pageId": "401634216613866",
+    "scheduler": "Facebook native",
+    "automaticSchedulingActive": true,
+    "published": 1,
+    "scheduled": 11,
+    "publicVisibilityVerified": false,
+    "appLiveModeNeedsConfirmation": false,
+    "appLiveModeConfirmedByOwner": true
+  }
+}

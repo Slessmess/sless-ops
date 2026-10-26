@@ -1,0 +1,20 @@
+startCommand:
+  type: stdio
+  configSchema:
+    type: object
+    required:
+      - replitToken
+    properties:
+      replitToken:
+        type: string
+        description: Your Replit connect.sid token for authentication. Get this from your browser cookies when logged into Replit.
+  commandFunction: |-
+    (config) => ({
+      command: 'node',
+      args: ['./dist/index.js'],
+      env: {
+        REPLIT_TOKEN: config.replitToken
+      }
+    })
+  exampleConfig:
+    replitToken: "your-connect-sid-token-here"

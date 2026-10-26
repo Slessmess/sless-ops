@@ -1,0 +1,1261 @@
+{
+  "higgsfield-ai/soul/v2/standard": {
+    "per": "output",
+    "usd": 0.004,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "1:1": 1,
+        "9:16": 1,
+        "16:9": 1,
+        "4:3": 1,
+        "3:4": 1,
+        "2:3": 1,
+        "3:2": 1
+      },
+      "resolution": {
+        "720p": 1,
+        "1080p": 1.5
+      },
+      "enhance_prompt": {
+        "false": 1,
+        "true": 1
+      }
+    }
+  },
+  "higgsfield-ai/soul/cinema": {
+    "per": "output",
+    "usd": 0.004,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "1:1": 1,
+        "9:16": 1,
+        "16:9": 1,
+        "4:3": 1,
+        "3:4": 1,
+        "2:3": 1,
+        "3:2": 1
+      },
+      "resolution": {
+        "720p": 1,
+        "1080p": 1.5
+      },
+      "enhance_prompt": {
+        "false": 1,
+        "true": 1
+      }
+    }
+  },
+  "higgsfield-ai/soul/standard": {
+    "per": "output",
+    "usd": 0.094,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "4:3": 1,
+        "9:16": 1,
+        "16:9": 1,
+        "3:4": 1,
+        "1:1": 1,
+        "2:3": 1,
+        "3:2": 1
+      },
+      "resolution": {
+        "720p": 1,
+        "1080p": 2
+      },
+      "enhance_prompt": {
+        "false": 1,
+        "true": 1
+      }
+    }
+  },
+  "marketing-studio/image": {
+    "per": "request",
+    "usd": 0.439,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "auto": 1,
+        "1:1": 1,
+        "3:2": 0.5262,
+        "2:3": 0.5262,
+        "4:3": 0.7426,
+        "3:4": 0.7426,
+        "16:9": 0.56264,
+        "9:16": 0.56264,
+        "21:9": 0.36674
+      },
+      "resolution": {
+        "2k": 1,
+        "1k": 0.50569,
+        "4k": 1.64465
+      },
+      "quality": {
+        "high": 1,
+        "low": 0.05239,
+        "medium": 0.26879
+      }
+    }
+  },
+  "xai/grok-imagine-image-2.0": {
+    "per": "request",
+    "usd": 0.06,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "auto": 1,
+        "1:1": 1,
+        "1:2": 1,
+        "2:1": 1,
+        "3:2": 1,
+        "2:3": 1,
+        "4:3": 1,
+        "3:4": 1,
+        "16:9": 1,
+        "9:16": 1
+      },
+      "resolution": {
+        "1k": 1,
+        "2k": 1.33333
+      },
+      "quality": {
+        "medium": 1,
+        "low": 0.66667
+      }
+    }
+  },
+  "recraft/v4.1/text-to-image": {
+    "per": "request",
+    "usd": 0.035,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "1:1": 1,
+        "2:1": 1,
+        "1:2": 1,
+        "3:2": 1,
+        "2:3": 1,
+        "4:3": 1,
+        "3:4": 1,
+        "5:4": 1,
+        "4:5": 1,
+        "6:10": 1,
+        "14:10": 1,
+        "10:14": 1,
+        "16:9": 1,
+        "9:16": 1
+      },
+      "output_format": {
+        "jpg": 1,
+        "png": 1,
+        "webp": 1
+      }
+    }
+  },
+  "recraft/v4.1/utility/text-to-image": {
+    "per": "request",
+    "usd": 0.035,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "1:1": 1,
+        "2:1": 1,
+        "1:2": 1,
+        "3:2": 1,
+        "2:3": 1,
+        "4:3": 1,
+        "3:4": 1,
+        "5:4": 1,
+        "4:5": 1,
+        "6:10": 1,
+        "14:10": 1,
+        "10:14": 1,
+        "16:9": 1,
+        "9:16": 1
+      },
+      "output_format": {
+        "jpg": 1,
+        "png": 1,
+        "webp": 1
+      }
+    }
+  },
+  "recraft/v4.1/pro/text-to-image": {
+    "per": "request",
+    "usd": 0.21,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "1:1": 1,
+        "2:1": 1,
+        "1:2": 1,
+        "3:2": 1,
+        "2:3": 1,
+        "4:3": 1,
+        "3:4": 1,
+        "5:4": 1,
+        "4:5": 1,
+        "6:10": 1,
+        "14:10": 1,
+        "10:14": 1,
+        "16:9": 1,
+        "9:16": 1
+      },
+      "output_format": {
+        "jpg": 1,
+        "png": 1,
+        "webp": 1
+      }
+    }
+  },
+  "recraft/v4.1/utility/pro/text-to-image": {
+    "per": "request",
+    "usd": 0.21,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "1:1": 1,
+        "2:1": 1,
+        "1:2": 1,
+        "3:2": 1,
+        "2:3": 1,
+        "4:3": 1,
+        "3:4": 1,
+        "5:4": 1,
+        "4:5": 1,
+        "6:10": 1,
+        "14:10": 1,
+        "10:14": 1,
+        "16:9": 1,
+        "9:16": 1
+      },
+      "output_format": {
+        "jpg": 1,
+        "png": 1,
+        "webp": 1
+      }
+    }
+  },
+  "alibaba/qwen-image-3/text-to-image": {
+    "per": "request",
+    "usd": 0.04,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "1:1": 1,
+        "2:3": 1,
+        "3:2": 1,
+        "3:4": 1,
+        "4:3": 1,
+        "7:9": 1,
+        "9:7": 1,
+        "9:16": 1,
+        "16:9": 1,
+        "21:9": 1
+      },
+      "resolution": {
+        "1k": 1,
+        "2k": 1.875
+      },
+      "enable_thinking": {
+        "true": 1,
+        "false": 1
+      }
+    }
+  },
+  "alibaba/qwen-image-3/edit": {
+    "per": "request",
+    "usd": 0.04,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "1:1": 1,
+        "2:3": 1,
+        "3:2": 1,
+        "3:4": 1,
+        "4:3": 1,
+        "7:9": 1,
+        "9:7": 1,
+        "9:16": 1,
+        "16:9": 1,
+        "21:9": 1
+      },
+      "resolution": {
+        "1k": 1,
+        "2k": 1.875
+      },
+      "enable_thinking": {
+        "true": 1,
+        "false": 1
+      }
+    }
+  },
+  "ideogram/v4.0": {
+    "per": "request",
+    "usd": 0.06,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "1:1": 1,
+        "1:2": 1,
+        "2:1": 1,
+        "2:3": 1,
+        "3:2": 1,
+        "4:5": 1,
+        "5:4": 1,
+        "9:16": 1,
+        "16:9": 1,
+        "5:8": 1,
+        "8:5": 1,
+        "3:4": 1,
+        "4:3": 1,
+        "9:22": 1,
+        "22:9": 1,
+        "9:23": 1,
+        "23:9": 1,
+        "3:8": 1,
+        "8:3": 1,
+        "5:12": 1,
+        "12:5": 1,
+        "1:3": 1,
+        "3:1": 1
+      },
+      "rendering_speed": {
+        "DEFAULT": 1,
+        "TURBO": 0.5,
+        "QUALITY": 1.66667
+      }
+    }
+  },
+  "z-image/turbo": {
+    "per": "request",
+    "usd": 0.015,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "1:1": 1,
+        "2:3": 1,
+        "3:2": 1,
+        "3:4": 1,
+        "4:3": 1,
+        "7:9": 1,
+        "9:7": 1,
+        "9:16": 1,
+        "16:9": 1,
+        "21:9": 1
+      },
+      "resolution": {
+        "1k": 1,
+        "2k": 1
+      },
+      "prompt_extend": {
+        "false": 1,
+        "true": 2
+      }
+    }
+  },
+  "kling-video/v3.0/std/text-to-video": {
+    "per": "second",
+    "usd": 0.126,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "16:9": 1,
+        "9:16": 1,
+        "1:1": 1
+      },
+      "sound": {
+        "on": 1,
+        "off": 0.66667
+      },
+      "multi_shots": {
+        "false": 1,
+        "true": 1
+      }
+    }
+  },
+  "kling-video/v3.0/std/image-to-video": {
+    "per": "second",
+    "usd": 0.126,
+    "source": "estimate",
+    "factors": {
+      "sound": {
+        "on": 1,
+        "off": 0.66667
+      },
+      "multi_shots": {
+        "false": 1,
+        "true": 1
+      }
+    }
+  },
+  "kling-video/v3.0/pro/text-to-video": {
+    "per": "second",
+    "usd": 0.168,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "16:9": 1,
+        "9:16": 1,
+        "1:1": 1
+      },
+      "sound": {
+        "on": 1,
+        "off": 0.66667
+      },
+      "multi_shots": {
+        "false": 1,
+        "true": 1
+      }
+    }
+  },
+  "kling-video/v3.0/pro/image-to-video": {
+    "per": "second",
+    "usd": 0.168,
+    "source": "estimate",
+    "factors": {
+      "sound": {
+        "on": 1,
+        "off": 0.66667
+      },
+      "multi_shots": {
+        "false": 1,
+        "true": 1
+      }
+    }
+  },
+  "kling-video/v3.0/4k/text-to-video": {
+    "per": "second",
+    "usd": 0.42,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "16:9": 1,
+        "9:16": 1,
+        "1:1": 1
+      },
+      "sound": {
+        "on": 1,
+        "off": 1
+      },
+      "multi_shots": {
+        "false": 1,
+        "true": 1
+      }
+    }
+  },
+  "kling-video/v3.0/4k/image-to-video": {
+    "per": "second",
+    "usd": 0.42,
+    "source": "estimate",
+    "factors": {
+      "sound": {
+        "on": 1,
+        "off": 1
+      },
+      "multi_shots": {
+        "false": 1,
+        "true": 1
+      }
+    }
+  },
+  "kling-video/v3.0-turbo/text-to-video": {
+    "per": "second",
+    "usd": 0.112,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "16:9": 1,
+        "9:16": 1,
+        "1:1": 1
+      },
+      "resolution": {
+        "720p": 1,
+        "1080p": 1.25
+      }
+    }
+  },
+  "kling-video/v3.0-turbo/image-to-video": {
+    "per": "second",
+    "usd": 0.112,
+    "source": "estimate",
+    "factors": {
+      "resolution": {
+        "720p": 1,
+        "1080p": 1.25
+      }
+    }
+  },
+  "alibaba/wan-3.0-prime/text-to-video": {
+    "per": "second",
+    "usd": 0.28,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "adaptive": 1,
+        "16:9": 1,
+        "4:3": 1,
+        "1:1": 1,
+        "3:4": 1,
+        "9:16": 1
+      },
+      "resolution": {
+        "1080p": 1,
+        "480p": 0.24286,
+        "720p": 0.5
+      },
+      "generate_audio": {
+        "true": 1,
+        "false": 1
+      },
+      "enable_thinking": {
+        "false": 1,
+        "true": 1
+      }
+    }
+  },
+  "alibaba/wan-3.0-prime/image-to-video": {
+    "per": "second",
+    "usd": 0.28,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "adaptive": 1,
+        "16:9": 1,
+        "4:3": 1,
+        "1:1": 1,
+        "3:4": 1,
+        "9:16": 1
+      },
+      "resolution": {
+        "1080p": 1,
+        "480p": 0.24286,
+        "720p": 0.5
+      },
+      "generate_audio": {
+        "true": 1,
+        "false": 1
+      },
+      "enable_thinking": {
+        "false": 1,
+        "true": 1
+      }
+    }
+  },
+  "alibaba/wan-3.0-prime/reference-to-video": {
+    "per": "second",
+    "usd": 0.28,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "adaptive": 1,
+        "16:9": 1,
+        "4:3": 1,
+        "1:1": 1,
+        "3:4": 1,
+        "9:16": 1
+      },
+      "resolution": {
+        "1080p": 1,
+        "480p": 0.24286,
+        "720p": 0.5
+      },
+      "generate_audio": {
+        "true": 1,
+        "false": 1
+      },
+      "enable_thinking": {
+        "false": 1,
+        "true": 1
+      }
+    }
+  },
+  "kling-video/o3/image-reference": {
+    "per": "second",
+    "usd": 0.112,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "16:9": 1,
+        "9:16": 1,
+        "1:1": 1
+      },
+      "mode": {
+        "pro": 1,
+        "std": 0.75,
+        "4k": 2.5
+      },
+      "sound": {
+        "off": 1,
+        "on": 1.25
+      }
+    }
+  },
+  "kling-video/o3/first-last-frame": {
+    "per": "second",
+    "usd": 0.112,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "16:9": 1,
+        "9:16": 1,
+        "1:1": 1
+      },
+      "mode": {
+        "pro": 1,
+        "std": 0.75,
+        "4k": 2.5
+      },
+      "sound": {
+        "off": 1,
+        "on": 1.25
+      }
+    }
+  },
+  "kling-video/o3/video-reference": {
+    "per": "second",
+    "usd": 0.168,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "16:9": 1,
+        "9:16": 1,
+        "1:1": 1
+      },
+      "mode": {
+        "pro": 1,
+        "std": 0.75
+      }
+    }
+  },
+  "kling-video/omni/image-reference": {
+    "per": "second",
+    "usd": 0.112,
+    "source": "estimate",
+    "factors": {
+      "duration": {
+        "5": 1,
+        "10": 1
+      },
+      "aspect_ratio": {
+        "16:9": 1,
+        "9:16": 1,
+        "1:1": 1
+      },
+      "mode": {
+        "pro": 1,
+        "std": 0.75
+      }
+    }
+  },
+  "kling-video/omni/first-last-frame": {
+    "per": "second",
+    "usd": 0.112,
+    "source": "estimate",
+    "factors": {
+      "duration": {
+        "5": 1,
+        "10": 1
+      },
+      "aspect_ratio": {
+        "16:9": 1,
+        "9:16": 1,
+        "1:1": 1
+      },
+      "mode": {
+        "pro": 1,
+        "std": 0.75
+      }
+    }
+  },
+  "kling-video/omni/video-reference": {
+    "per": "second",
+    "usd": 0.168,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "16:9": 1,
+        "9:16": 1,
+        "1:1": 1
+      },
+      "mode": {
+        "pro": 1,
+        "std": 0.75
+      }
+    }
+  },
+  "kling-video/v2.6/pro/text-to-video": {
+    "per": "second",
+    "usd": 0.14,
+    "source": "estimate",
+    "factors": {
+      "duration": {
+        "5": 1,
+        "10": 1
+      },
+      "aspect_ratio": {
+        "16:9": 1,
+        "9:16": 1,
+        "1:1": 1
+      },
+      "sound": {
+        "on": 1,
+        "off": 0.5
+      }
+    }
+  },
+  "kling-video/v2.6/pro/image-to-video": {
+    "per": "second",
+    "usd": 0.14,
+    "source": "estimate",
+    "factors": {
+      "duration": {
+        "5": 1,
+        "10": 1
+      },
+      "aspect_ratio": {
+        "16:9": 1,
+        "9:16": 1,
+        "1:1": 1
+      },
+      "sound": {
+        "on": 1,
+        "off": 0.5
+      }
+    }
+  },
+  "kling-video/v2.5-turbo/pro/text-to-video": {
+    "per": "second",
+    "usd": 0.07,
+    "source": "estimate",
+    "factors": {
+      "duration": {
+        "5": 1,
+        "10": 1
+      }
+    }
+  },
+  "kling-video/v2.5-turbo/pro/image-to-video": {
+    "per": "second",
+    "usd": 0.07,
+    "source": "estimate",
+    "factors": {
+      "duration": {
+        "5": 1,
+        "10": 1
+      }
+    }
+  },
+  "kling-video/v2.5-turbo/standard/image-to-video": {
+    "per": "second",
+    "usd": 0.042,
+    "source": "estimate",
+    "factors": {
+      "duration": {
+        "5": 1,
+        "10": 1
+      }
+    }
+  },
+  "minimax/h3/text-to-video": {
+    "per": "second",
+    "usd": 0.13,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "auto": 1,
+        "adaptive": 1,
+        "21:9": 1,
+        "16:9": 1,
+        "4:3": 1,
+        "1:1": 1,
+        "3:4": 1,
+        "9:16": 1
+      }
+    }
+  },
+  "minimax/h3/image-to-video": {
+    "per": "second",
+    "usd": 0.13,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "auto": 1,
+        "adaptive": 1,
+        "21:9": 1,
+        "16:9": 1,
+        "4:3": 1,
+        "1:1": 1,
+        "3:4": 1,
+        "9:16": 1
+      }
+    }
+  },
+  "minimax/hailuo-2.3/standard/text-to-video": {
+    "per": "second",
+    "usd": 0.04667,
+    "source": "estimate",
+    "factors": {
+      "duration": {
+        "6": 1,
+        "10": 1.2
+      },
+      "prompt_optimizer": {
+        "true": 1,
+        "false": 1
+      }
+    }
+  },
+  "minimax/hailuo-2.3/standard/image-to-video": {
+    "per": "second",
+    "usd": 0.04667,
+    "source": "estimate",
+    "factors": {
+      "duration": {
+        "6": 1,
+        "10": 1.2
+      },
+      "prompt_optimizer": {
+        "true": 1,
+        "false": 1
+      }
+    }
+  },
+  "alibaba/happy-horse/v1.1/text-to-video": {
+    "per": "second",
+    "usd": 0.18,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "16:9": 1,
+        "9:16": 1,
+        "1:1": 1,
+        "4:3": 1,
+        "3:4": 1
+      },
+      "resolution": {
+        "1080p": 1,
+        "720p": 0.77778
+      }
+    }
+  },
+  "alibaba/happy-horse/v1.1/image-to-video": {
+    "per": "second",
+    "usd": 0.18,
+    "source": "estimate",
+    "factors": {
+      "resolution": {
+        "1080p": 1,
+        "720p": 0.77778
+      }
+    }
+  },
+  "alibaba/happy-horse/v1.1/reference-to-video": {
+    "per": "second",
+    "usd": 0.18,
+    "source": "estimate",
+    "factors": {
+      "resolution": {
+        "1080p": 1,
+        "720p": 0.77778
+      }
+    }
+  },
+  "alibaba/happy-horse/text-to-video": {
+    "per": "second",
+    "usd": 0.14,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "16:9": 1,
+        "9:16": 1,
+        "1:1": 1,
+        "4:3": 1,
+        "3:4": 1
+      },
+      "resolution": {
+        "720p": 1,
+        "1080p": 2
+      }
+    }
+  },
+  "alibaba/happy-horse/image-to-video": {
+    "per": "second",
+    "usd": 0.14,
+    "source": "estimate",
+    "factors": {
+      "resolution": {
+        "720p": 1,
+        "1080p": 2
+      }
+    }
+  },
+  "alibaba/happy-horse/reference-to-video": {
+    "per": "second",
+    "usd": 0.14,
+    "source": "estimate",
+    "factors": {
+      "resolution": {
+        "720p": 1,
+        "1080p": 2
+      }
+    }
+  },
+  "lightricks/ltx-2.5/text-to-video/fast": {
+    "per": "second",
+    "usd": 0.09,
+    "source": "estimate",
+    "factors": {
+      "duration": {
+        "6": 1,
+        "8": 1,
+        "10": 1
+      },
+      "aspect_ratio": {
+        "16:9": 1,
+        "9:16": 1
+      },
+      "resolution": {
+        "720p": 1,
+        "1080p": 1.44444,
+        "2k": 2.11111,
+        "4k": 3.33333
+      },
+      "fps": {
+        "24": 1,
+        "25": 1,
+        "48": 1,
+        "50": 1
+      },
+      "generate_audio": {
+        "true": 1,
+        "false": 1
+      },
+      "camera_movement": {
+        "undefined": 1,
+        "dolly_in": 1,
+        "dolly_out": 1,
+        "dolly_left": 1,
+        "dolly_right": 1,
+        "jib_up": 1,
+        "jib_down": 1,
+        "static": 1,
+        "focus_shift": 1
+      }
+    }
+  },
+  "lightricks/ltx-2.5/image-to-video/fast": {
+    "per": "second",
+    "usd": 0.09,
+    "source": "estimate",
+    "factors": {
+      "duration": {
+        "6": 1,
+        "8": 1,
+        "10": 1
+      },
+      "aspect_ratio": {
+        "16:9": 1,
+        "9:16": 1
+      },
+      "resolution": {
+        "720p": 1,
+        "1080p": 1.44444,
+        "2k": 2.11111,
+        "4k": 3.33333
+      },
+      "fps": {
+        "24": 1,
+        "25": 1,
+        "48": 1,
+        "50": 1
+      },
+      "generate_audio": {
+        "true": 1,
+        "false": 1
+      },
+      "camera_movement": {
+        "undefined": 1,
+        "dolly_in": 1,
+        "dolly_out": 1,
+        "dolly_left": 1,
+        "dolly_right": 1,
+        "jib_up": 1,
+        "jib_down": 1,
+        "static": 1,
+        "focus_shift": 1
+      }
+    }
+  },
+  "lightricks/ltx-2.5/text-to-video/pro": {
+    "per": "second",
+    "usd": 0.12,
+    "source": "estimate",
+    "factors": {
+      "duration": {
+        "6": 1,
+        "8": 1,
+        "10": 1
+      },
+      "aspect_ratio": {
+        "16:9": 1,
+        "9:16": 1
+      },
+      "resolution": {
+        "720p": 1,
+        "1080p": 1.41667
+      },
+      "fps": {
+        "24": 1,
+        "25": 1,
+        "50": 1
+      },
+      "generate_audio": {
+        "true": 1,
+        "false": 1
+      },
+      "camera_movement": {
+        "undefined": 1,
+        "dolly_in": 1,
+        "dolly_out": 1,
+        "dolly_left": 1,
+        "dolly_right": 1,
+        "jib_up": 1,
+        "jib_down": 1,
+        "static": 1,
+        "focus_shift": 1
+      }
+    }
+  },
+  "lightricks/ltx-2.5/image-to-video/pro": {
+    "per": "second",
+    "usd": 0.12,
+    "source": "estimate",
+    "factors": {
+      "duration": {
+        "6": 1,
+        "8": 1,
+        "10": 1
+      },
+      "aspect_ratio": {
+        "16:9": 1,
+        "9:16": 1
+      },
+      "resolution": {
+        "720p": 1,
+        "1080p": 1.41667
+      },
+      "fps": {
+        "24": 1,
+        "25": 1,
+        "50": 1
+      },
+      "generate_audio": {
+        "true": 1,
+        "false": 1
+      },
+      "camera_movement": {
+        "undefined": 1,
+        "dolly_in": 1,
+        "dolly_out": 1,
+        "dolly_left": 1,
+        "dolly_right": 1,
+        "jib_up": 1,
+        "jib_down": 1,
+        "static": 1,
+        "focus_shift": 1
+      }
+    }
+  },
+  "pixverse/v6/text-to-video": {
+    "per": "second",
+    "usd": 0.051,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "16:9": 1,
+        "4:3": 1,
+        "1:1": 1,
+        "3:4": 1,
+        "9:16": 1
+      },
+      "resolution": {
+        "720p": 1,
+        "360p": 0.58431,
+        "540p": 0.75294,
+        "1080p": 1.91765
+      },
+      "generate_audio": {
+        "true": 1,
+        "false": 0.75294
+      }
+    }
+  },
+  "pixverse/v6/image-to-video": {
+    "per": "second",
+    "usd": 0.051,
+    "source": "estimate",
+    "factors": {
+      "resolution": {
+        "720p": 1,
+        "360p": 0.58431,
+        "540p": 0.75294,
+        "1080p": 1.91765
+      },
+      "generate_audio": {
+        "true": 1,
+        "false": 0.75294
+      }
+    }
+  },
+  "wan/v2.7/text-to-video": {
+    "per": "second",
+    "usd": 0.1,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "16:9": 1,
+        "9:16": 1,
+        "1:1": 1,
+        "4:3": 1,
+        "3:4": 1
+      },
+      "resolution": {
+        "720p": 1,
+        "1080p": 1.5
+      },
+      "prompt_extend": {
+        "false": 1,
+        "true": 1
+      }
+    }
+  },
+  "wan/v2.7/image-to-video": {
+    "per": "second",
+    "usd": 0.1,
+    "source": "estimate",
+    "factors": {
+      "resolution": {
+        "720p": 1,
+        "1080p": 1.5
+      },
+      "prompt_extend": {
+        "false": 1,
+        "true": 1
+      }
+    }
+  },
+  "wan/v2.7/reference-to-video": {
+    "per": "second",
+    "usd": 0.1,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "16:9": 1,
+        "9:16": 1
+      },
+      "resolution": {
+        "720p": 1,
+        "1080p": 1.5
+      },
+      "prompt_extend": {
+        "false": 1,
+        "true": 1
+      }
+    }
+  },
+  "wan/v2.6/text-to-video": {
+    "per": "second",
+    "usd": 0.1,
+    "source": "estimate",
+    "factors": {
+      "duration": {
+        "5": 1,
+        "10": 1,
+        "15": 1
+      },
+      "resolution": {
+        "720p": 1,
+        "1080p": 1.5
+      },
+      "multi_shots": {
+        "false": 1,
+        "true": 1
+      },
+      "prompt_extend": {
+        "false": 1,
+        "true": 1
+      }
+    }
+  },
+  "wan/v2.6/image-to-video": {
+    "per": "second",
+    "usd": 0.1,
+    "source": "estimate",
+    "factors": {
+      "duration": {
+        "5": 1,
+        "10": 1,
+        "15": 1
+      },
+      "resolution": {
+        "720p": 1,
+        "1080p": 1.5
+      },
+      "multi_shots": {
+        "false": 1,
+        "true": 1
+      },
+      "prompt_extend": {
+        "false": 1,
+        "true": 1
+      }
+    }
+  },
+  "wan/v2.6/reference-to-video": {
+    "per": "second",
+    "usd": 0.1,
+    "source": "estimate",
+    "factors": {
+      "duration": {
+        "5": 1,
+        "10": 1
+      },
+      "aspect_ratio": {
+        "16:9": 1,
+        "9:16": 1,
+        "1:1": 1,
+        "4:3": 1,
+        "3:4": 1
+      },
+      "resolution": {
+        "720p": 1,
+        "1080p": 1.5
+      }
+    }
+  },
+  "xai/grok-imagine-video/v1.5/reference-to-video": {
+    "per": "second",
+    "usd": 0.08,
+    "source": "estimate",
+    "factors": {
+      "aspect_ratio": {
+        "auto": 1,
+        "1:1": 1,
+        "16:9": 1,
+        "9:16": 1,
+        "4:3": 1,
+        "3:4": 1,
+        "3:2": 1,
+        "2:3": 1
+      },
+      "resolution": {
+        "480p": 1,
+        "720p": 1.75,
+        "1080p": 3.125
+      }
+    }
+  }
+}

@@ -1,0 +1,823 @@
+openapi: 3.1.0
+info:
+  # Do not change the title, if the title changes, the import paths will be broken
+  title: Api
+  version: 0.1.0
+  description: API specification
+servers:
+  - url: /api
+    description: Base API path
+tags:
+  - name: health
+    description: Health operations
+  - name: operations
+    description: Administrator-only operations task queue
+paths:
+  /media/plans:
+    get:
+      operationId: getMediaPlans
+      tags: [media]
+      responses:
+        "200":
+          description: Approved packages and launch availability
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/MediaPlans" }
+  /media/dashboard:
+    get:
+      operationId: getMediaDashboard
+      tags: [media]
+      security: [{ clerkSession: [] }]
+      responses:
+        "200":
+          description: Current restaurant workspace
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/MediaDashboard" }
+        "401": { $ref: "#/components/responses/Unauthorized" }
+  /media/restaurant:
+    put:
+      operationId: saveMediaRestaurant
+      tags: [media]
+      security: [{ clerkSession: [] }]
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/RestaurantInput" }
+      responses:
+        "200":
+          description: Saved profile
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/Restaurant" }
+        "400": { $ref: "#/components/responses/InvalidInput" }
+        "401": { $ref: "#/components/responses/Unauthorized" }
+  /media/assets:
+    get:
+      operationId: listMediaAssets
+      tags: [media]
+      security: [{ clerkSession: [] }]
+      responses:
+        "200":
+          description: Uploaded photos and menus
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/MediaAsset" }
+  /media/uploads:
+    post:
+      operationId: requestMediaUpload
+      tags: [media]
+      security: [{ clerkSession: [] }]
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/MediaUploadInput" }
+      responses:
+        "200":
+          description: Private direct upload destination
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/MediaUpload" }
+        "400": { $ref: "#/components/responses/InvalidInput" }
+  /media/uploads/{assetId}/complete:
+    post:
+      operationId: completeMediaUpload
+      tags: [media]
+      security: [{ clerkSession: [] }]
+      parameters:
+        - { name: assetId, in: path, required: true, schema: { type: string } }
+      responses:
+        "200":
+          description: Verified saved upload
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/MediaAsset" }
+        "400": { $ref: "#/components/responses/InvalidInput" }
+        "404": { $ref: "#/components/responses/NotFound" }
+  /media/assets/{assetId}:
+    get:
+      operationId: downloadMediaAsset
+      tags: [media]
+      security: [{ clerkSession: [] }]
+      parameters:
+        - { name: assetId, in: path, required: true, schema: { type: string } }
+      responses:
+        "200":
+          description: Private asset bytes
+          content:
+            application/octet-stream:
+              schema: { type: string, format: binary }
+    delete:
+      operationId: deleteMediaAsset
+      tags: [media]
+      security: [{ clerkSession: [] }]
+      parameters:
+        - { name: assetId, in: path, required: true, schema: { type: string } }
+      responses:
+        "204": { description: Deleted }
+        "409": { $ref: "#/components/responses/Conflict" }
+  /media/content:
+    get:
+      operationId: listMediaContent
+      tags: [media]
+      security: [{ clerkSession: [] }]
+      responses:
+        "200":
+          description: Restaurant content library
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/MediaContent" }
+    post:
+      operationId: createMediaContent
+      tags: [media]
+      security: [{ clerkSession: [] }]
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/MediaContentInput" }
+      responses:
+        "201":
+          description: Saved draft or generated content
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/MediaContent" }
+        "400": { $ref: "#/components/responses/InvalidInput" }
+        "409": { $ref: "#/components/responses/Conflict" }
+        "429":
+          description: Preview or monthly production limit reached
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/OpsError" }
+  /media/content/{contentId}:
+    patch:
+      operationId: updateMediaContent
+      tags: [media]
+      security: [{ clerkSession: [] }]
+      parameters:
+        - { name: contentId, in: path, required: true, schema: { type: string } }
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/MediaContentUpdate" }
+      responses:
+        "200":
+          description: Edited content, approval, revision request or calendar date
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/MediaContent" }
+        "400": { $ref: "#/components/responses/InvalidInput" }
+        "404": { $ref: "#/components/responses/NotFound" }
+    delete:
+      operationId: deleteMediaContent
+      tags: [media]
+      security: [{ clerkSession: [] }]
+      parameters:
+        - { name: contentId, in: path, required: true, schema: { type: string } }
+      responses:
+        "204": { description: Deleted draft }
+  /media/content/{contentId}/render:
+    post:
+      operationId: renderMediaContent
+      tags: [media]
+      security: [{ clerkSession: [] }]
+      parameters:
+        - { name: contentId, in: path, required: true, schema: { type: string } }
+      responses:
+        "200":
+          description: Photo-based social graphic or silent 15-second vertical MP4
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/MediaContent" }
+        "409": { $ref: "#/components/responses/Conflict" }
+  /media/content/{contentId}/download:
+    get:
+      operationId: downloadMediaContent
+      tags: [media]
+      security: [{ clerkSession: [] }]
+      parameters:
+        - { name: contentId, in: path, required: true, schema: { type: string } }
+      responses:
+        "200":
+          description: Generated PNG or MP4; draft captions are downloadable as text
+          content:
+            application/octet-stream:
+              schema: { type: string, format: binary }
+  /media/links:
+    get:
+      operationId: listMediaLinks
+      tags: [media]
+      security: [{ clerkSession: [] }]
+      responses:
+        "200":
+          description: Measured referral clicks, not sales or conversions
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/MediaLink" }
+    post:
+      operationId: createMediaLink
+      tags: [media]
+      security: [{ clerkSession: [] }]
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/MediaLinkInput" }
+      responses:
+        "201":
+          description: Tracking link
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/MediaLink" }
+  /media/go/{slug}:
+    get:
+      operationId: followMediaLink
+      tags: [media]
+      parameters:
+        - { name: slug, in: path, required: true, schema: { type: string } }
+      responses:
+        "302": { description: Count click and redirect to approved HTTPS destination }
+  /media/managed-request:
+    post:
+      operationId: requestMediaManagedService
+      tags: [media]
+      security: [{ clerkSession: [] }]
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/ManagedBriefInput" }
+      responses:
+        "200":
+          description: Brief saved for the owner; no charge or automatic service activation
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/MediaDashboard" }
+  /media/checkout:
+    post:
+      operationId: createMediaCheckout
+      tags: [media]
+      security: [{ clerkSession: [] }]
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/MediaCheckoutInput" }
+      responses:
+        "503":
+          description: Billing deliberately inactive until owner launch approval and cost verification
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/OpsError" }
+  /media/admin/clients:
+    get:
+      operationId: listMediaClients
+      tags: [media]
+      security: [{ clerkSession: [] }]
+      responses:
+        "200":
+          description: Owner-only restaurant workspaces and managed requests
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/MediaClient" }
+        "403": { $ref: "#/components/responses/Forbidden" }
+  /media/admin/clients/{clientId}/content:
+    get:
+      operationId: listMediaClientContent
+      tags: [media]
+      security: [{ clerkSession: [] }]
+      parameters:
+        - { name: clientId, in: path, required: true, schema: { type: string } }
+      responses:
+        "200":
+          description: Owner view of selected restaurant content
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/MediaContent" }
+    post:
+      operationId: createMediaClientContent
+      tags: [media]
+      security: [{ clerkSession: [] }]
+      parameters:
+        - { name: clientId, in: path, required: true, schema: { type: string } }
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/MediaContentInput" }
+      responses:
+        "201":
+          description: Owner-created content for restaurant approval
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/MediaContent" }
+  /media/admin/clients/{clientId}/assets:
+    get:
+      operationId: listMediaClientAssets
+      tags: [media]
+      security: [{ clerkSession: [] }]
+      parameters:
+        - { name: clientId, in: path, required: true, schema: { type: string } }
+      responses:
+        "200":
+          description: Owner-only view of client photos and menus
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/MediaAsset" }
+  /:
+    get:
+      operationId: getOpsDashboard
+      tags: [operations]
+      summary: Flask dashboard route, now returning task JSON
+      security: [{ clerkSession: [] }]
+      responses:
+        "200":
+          description: Tasks
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/OpsTask" }
+        "401": { $ref: "#/components/responses/Unauthorized" }
+        "403": { $ref: "#/components/responses/Forbidden" }
+  /healthz:
+    get:
+      operationId: healthCheck
+      tags: [health]
+      summary: Health check
+      description: Returns server health status
+      responses:
+        "200":
+          description: Healthy
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/HealthStatus"
+  /tasks:
+    post:
+      operationId: createOpsTask
+      tags: [operations]
+      summary: Queue an operation for later administrator approval
+      security: [{ clerkSession: [] }]
+      parameters:
+        - in: header
+          name: Idempotency-Key
+          required: true
+          schema: { type: string, format: uuid }
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/CreateOpsTask" }
+      responses:
+        "201":
+          description: Pending task saved without executing any provider operation
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/OpsTask" }
+        "200":
+          description: Identical request already saved
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/OpsTask" }
+        "400":
+          description: Invalid task payload
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/OpsError" }
+        "409":
+          description: Idempotency key used with different input
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/OpsError" }
+        "401": { $ref: "#/components/responses/Unauthorized" }
+        "403": { $ref: "#/components/responses/Forbidden" }
+    get:
+      operationId: listOpsTasks
+      tags: [operations]
+      summary: List persisted operations tasks
+      security: [{ clerkSession: [] }]
+      responses:
+        "200":
+          description: Tasks
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/OpsTask"
+        "401": { $ref: "#/components/responses/Unauthorized" }
+        "403": { $ref: "#/components/responses/Forbidden" }
+  /tasks/processing-report:
+    get:
+      operationId: getProcessingReport
+      tags: [operations]
+      summary: Read-only processing-claim monitoring report
+      description: Flags stalled and unknown-age processing tasks for provider inspection. Never resets or retries tasks.
+      security: [{ clerkSession: [] }]
+      responses:
+        "200":
+          description: Snapshot using the configured stalled-task threshold
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/ProcessingReport" }
+        "401": { $ref: "#/components/responses/Unauthorized" }
+        "403": { $ref: "#/components/responses/Forbidden" }
+        "503":
+          description: Invalid monitoring threshold configuration
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/OpsError" }
+  /approve/{taskId}:
+    post:
+      operationId: approveOpsTask
+      tags: [operations]
+      summary: Execute a pending task once and persist its result
+      security: [{ clerkSession: [] }]
+      parameters:
+        - $ref: "#/components/parameters/TaskId"
+      responses:
+        "200":
+          description: Task with completed or failed status
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/OpsTask"
+        "400": { $ref: "#/components/responses/InvalidInput" }
+        "401": { $ref: "#/components/responses/Unauthorized" }
+        "403": { $ref: "#/components/responses/Forbidden" }
+        "404": { $ref: "#/components/responses/NotFound" }
+        "409": { $ref: "#/components/responses/Conflict" }
+        "503":
+          description: Required provider configuration is missing
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/OpsError" }
+  /change/{taskId}:
+    post:
+      operationId: requestTaskChanges
+      tags: [operations]
+      summary: Mark a task as change_requested and save feedback
+      security: [{ clerkSession: [] }]
+      parameters:
+        - $ref: "#/components/parameters/TaskId"
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/TaskFeedbackInput"
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: "#/components/schemas/TaskFeedbackInput"
+      responses:
+        "200":
+          description: Updated task
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/OpsTask" }
+        "400": { $ref: "#/components/responses/InvalidInput" }
+        "401": { $ref: "#/components/responses/Unauthorized" }
+        "403": { $ref: "#/components/responses/Forbidden" }
+        "404": { $ref: "#/components/responses/NotFound" }
+        "409": { $ref: "#/components/responses/Conflict" }
+components:
+  securitySchemes:
+    clerkSession:
+      type: apiKey
+      in: cookie
+      name: __session
+      description: Clerk session for a user in SLESS_OPS_ADMIN_USER_IDS
+  parameters:
+    TaskId:
+      name: taskId
+      in: path
+      required: true
+      schema: { type: string, minLength: 1 }
+  responses:
+    Unauthorized:
+      description: Sign-in required
+      content:
+        application/json:
+          schema: { $ref: "#/components/schemas/OpsError" }
+    Forbidden:
+      description: Account is not an allowed operations administrator
+      content:
+        application/json:
+          schema: { $ref: "#/components/schemas/OpsError" }
+    InvalidInput:
+      description: Invalid task payload or feedback
+      content:
+        application/json:
+          schema: { $ref: "#/components/schemas/OpsError" }
+    NotFound:
+      description: Task not found
+      content:
+        application/json:
+          schema: { $ref: "#/components/schemas/OpsError" }
+    Conflict:
+      description: Task state does not permit this action
+      content:
+        application/json:
+          schema: { $ref: "#/components/schemas/OpsError" }
+  schemas:
+    MediaPlan:
+      type: object
+      required: [id, name, price, videos, posts, description]
+      properties:
+        id: { type: string, enum: [self_service, managed] }
+        name: { type: string }
+        price: { type: integer }
+        videos: { type: integer }
+        posts: { type: integer }
+        description: { type: string }
+    MediaPlans:
+      type: object
+      required: [plans, billingActive, automaticPublishing, generationAvailable, launchNote]
+      properties:
+        plans: { type: array, items: { $ref: "#/components/schemas/MediaPlan" } }
+        billingActive: { type: boolean }
+        automaticPublishing: { type: boolean }
+        generationAvailable: { type: boolean }
+        launchNote: { type: string }
+    RestaurantInput:
+      type: object
+      required: [name, cuisine, location, tone, description, menu, website]
+      properties:
+        name: { type: string, minLength: 1, maxLength: 100 }
+        cuisine: { type: string, maxLength: 100 }
+        location: { type: string, maxLength: 200 }
+        tone: { type: string, maxLength: 200 }
+        description: { type: string, maxLength: 2000 }
+        menu: { type: string, maxLength: 10000 }
+        website: { type: string, maxLength: 500 }
+    Restaurant:
+      allOf:
+        - { $ref: "#/components/schemas/RestaurantInput" }
+        - type: object
+          required: [id, createdAt, updatedAt]
+          properties:
+            id: { type: string }
+            createdAt: { type: string }
+            updatedAt: { type: string }
+    MediaAsset:
+      type: object
+      required: [id, name, size, contentType, kind, url, createdAt]
+      properties:
+        id: { type: string }
+        name: { type: string }
+        size: { type: integer }
+        contentType: { type: string }
+        kind: { type: string, enum: [photo, menu] }
+        url: { type: string }
+        createdAt: { type: string }
+    MediaUploadInput:
+      type: object
+      required: [name, size, contentType, kind]
+      properties:
+        name: { type: string, minLength: 1, maxLength: 200 }
+        size: { type: integer, minimum: 1, maximum: 10485760 }
+        contentType: { type: string, enum: [image/jpeg, image/png, image/webp, application/pdf] }
+        kind: { type: string, enum: [photo, menu] }
+    MediaUpload:
+      type: object
+      required: [assetId, uploadURL]
+      properties:
+        assetId: { type: string }
+        uploadURL: { type: string }
+    MediaContentInput:
+      type: object
+      required: [kind, platform, title, caption, prompt, generate]
+      properties:
+        kind: { type: string, enum: [post, video] }
+        platform: { type: string, enum: [instagram, facebook, tiktok] }
+        title: { type: string, minLength: 1, maxLength: 100 }
+        caption: { type: string, maxLength: 4000 }
+        prompt: { type: string, maxLength: 2000 }
+        generate: { type: boolean }
+        assetId: { type: [string, "null"] }
+        scheduledDate: { type: [string, "null"], pattern: "^\\d{4}-\\d{2}-\\d{2}$" }
+    MediaContentUpdate:
+      type: object
+      properties:
+        title: { type: string, minLength: 1, maxLength: 100 }
+        caption: { type: string, maxLength: 4000 }
+        platform: { type: string, enum: [instagram, facebook, tiktok] }
+        status: { type: string, enum: [draft, needs_approval, approved, changes_requested] }
+        scheduledDate: { type: [string, "null"], pattern: "^\\d{4}-\\d{2}-\\d{2}$" }
+        feedback: { type: string, maxLength: 2000 }
+    MediaContent:
+      type: object
+      required: [id, restaurantId, kind, platform, title, caption, status, assetId, scheduledDate, feedback, downloadUrl, previewUrl, error, createdAt]
+      properties:
+        id: { type: string }
+        restaurantId: { type: string }
+        kind: { type: string, enum: [post, video] }
+        platform: { type: string, enum: [instagram, facebook, tiktok] }
+        title: { type: string }
+        caption: { type: string }
+        status: { type: string, enum: [draft, generating, needs_approval, approved, changes_requested, failed] }
+        assetId: { type: [string, "null"] }
+        scheduledDate: { type: [string, "null"] }
+        feedback: { type: string }
+        downloadUrl: { type: string }
+        previewUrl: { type: [string, "null"] }
+        error: { type: [string, "null"] }
+        createdAt: { type: string }
+    MediaLinkInput:
+      type: object
+      required: [label, destination, platform]
+      properties:
+        label: { type: string, minLength: 1, maxLength: 100 }
+        destination: { type: string, format: uri, maxLength: 1000 }
+        platform: { type: string, enum: [instagram, facebook, tiktok] }
+    MediaLink:
+      allOf:
+        - { $ref: "#/components/schemas/MediaLinkInput" }
+        - type: object
+          required: [id, slug, url, clicks, createdAt]
+          properties:
+            id: { type: string }
+            slug: { type: string }
+            url: { type: string }
+            clicks: { type: integer }
+            createdAt: { type: string }
+    ManagedBriefInput:
+      type: object
+      required: [brief]
+      properties:
+        brief: { type: string, minLength: 10, maxLength: 4000 }
+    MediaCheckoutInput:
+      type: object
+      required: [plan]
+      properties:
+        plan: { type: string, enum: [self_service, managed] }
+    MediaUsage:
+      type: object
+      required: [videos, posts, videoLimit, postLimit, preview]
+      properties:
+        videos: { type: integer }
+        posts: { type: integer }
+        videoLimit: { type: integer }
+        postLimit: { type: integer }
+        preview: { type: boolean }
+    MediaActivity:
+      type: object
+      required: [id, message, createdAt]
+      properties:
+        id: { type: string }
+        message: { type: string }
+        createdAt: { type: string }
+    MediaDashboard:
+      type: object
+      required: [restaurant, contentCount, pendingApprovals, scheduledCount, linkClicks, usage, isAdmin, plan, managedBrief, billingActive, recentActivity]
+      properties:
+        restaurant:
+          oneOf:
+            - { $ref: "#/components/schemas/Restaurant" }
+            - { type: "null" }
+        contentCount: { type: integer }
+        pendingApprovals: { type: integer }
+        scheduledCount: { type: integer }
+        linkClicks: { type: integer }
+        usage: { $ref: "#/components/schemas/MediaUsage" }
+        isAdmin: { type: boolean }
+        plan: { type: string, enum: [preview, managed_requested] }
+        managedBrief: { type: string }
+        billingActive: { type: boolean }
+        recentActivity: { type: array, items: { $ref: "#/components/schemas/MediaActivity" } }
+    MediaClient:
+      type: object
+      required: [id, restaurant, managedBrief, requestedAt, pendingApprovals, contentCount]
+      properties:
+        id: { type: string }
+        restaurant: { $ref: "#/components/schemas/Restaurant" }
+        managedBrief: { type: string }
+        requestedAt: { type: [string, "null"] }
+        pendingApprovals: { type: integer }
+        contentCount: { type: integer }
+    ProcessingReport:
+      type: object
+      required: [checkedAt, thresholdSeconds, activeCount, stalledCount, unknownStartCount, inspectionRequired, warning, tasks]
+      properties:
+        checkedAt: { type: string, format: date-time }
+        thresholdSeconds: { type: integer, minimum: 1, maximum: 31536000 }
+        activeCount: { type: integer, minimum: 0 }
+        stalledCount: { type: integer, minimum: 0 }
+        unknownStartCount: { type: integer, minimum: 0 }
+        inspectionRequired: { type: boolean }
+        warning: { type: string }
+        tasks:
+          type: array
+          items: { $ref: "#/components/schemas/ProcessingClaim" }
+    ProcessingClaim:
+      type: object
+      required: [id, type, provider, startedAt, ageSeconds, classification, inspectionRequired]
+      properties:
+        id: { type: string }
+        type:
+          type: string
+          enum: [wp_page, wp_post, wp_update, stripe_link, stripe_product]
+        provider: { type: string, enum: [WordPress, Stripe] }
+        startedAt: { type: [string, "null"], format: date-time }
+        ageSeconds: { type: [number, "null"], minimum: 0 }
+        classification: { type: string, enum: [active, stalled, unknown_start] }
+        inspectionRequired: { type: boolean }
+    OpsError:
+      type: object
+      required: [error]
+      properties:
+        error: { type: string }
+    TaskFeedbackInput:
+      type: object
+      properties:
+        feedback: { type: string, maxLength: 10000, default: "" }
+    CreateOpsTask:
+      type: object
+      additionalProperties: false
+      required: [type]
+      properties:
+        type:
+          type: string
+          enum: [wp_page, wp_post, wp_update, stripe_link, stripe_product]
+        title: { type: string, minLength: 1, maxLength: 1000 }
+        content: { type: string, maxLength: 2000000 }
+        wp_status:
+          type: string
+          enum: [draft, publish, pending, private]
+        slug: { type: string, maxLength: 200 }
+        wp_id: { type: integer, minimum: 1 }
+        is_page: { type: boolean }
+        updates:
+          type: object
+          additionalProperties: true
+        name: { type: string, minLength: 1, maxLength: 250 }
+        description: { type: string, maxLength: 5000 }
+        amount: { type: integer, minimum: 0, maximum: 99999999 }
+        redirect: { type: string, format: uri }
+        shipping: { type: boolean }
+    OpsTask:
+      type: object
+      additionalProperties: true
+      required: [id, type, status]
+      properties:
+        id: { type: string }
+        type:
+          type: string
+          enum: [wp_page, wp_post, wp_update, stripe_link, stripe_product]
+        status:
+          type: string
+          enum: [pending, processing, completed, failed, change_requested]
+        title: { type: string }
+        content: { type: string }
+        wp_status:
+          type: string
+          enum: [draft, publish, pending, private, future]
+        slug: { type: string }
+        wp_id: { type: integer, minimum: 1 }
+        is_page: { type: boolean }
+        updates:
+          type: object
+          additionalProperties: true
+        name: { type: string }
+        description: { type: string }
+        amount: { type: integer, minimum: 0, maximum: 99999999 }
+        redirect: { type: string }
+        shipping: { type: boolean }
+        feedback: { type: string }
+        result: { $ref: "#/components/schemas/TaskResult" }
+    TaskResult:
+      type: object
+      required: [success]
+      properties:
+        success: { type: boolean }
+        id:
+          oneOf:
+            - { type: string }
+            - { type: number }
+        link: { type: string }
+        url: { type: string }
+        error: { type: string }
+    HealthStatus:
+      type: object
+      properties:
+        status:
+          type: string
+      required:
+        - status
+

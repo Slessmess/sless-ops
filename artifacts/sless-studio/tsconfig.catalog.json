@@ -1,0 +1,6 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": { "incremental": false, "types": ["node"] },
+  "include": ["generation/catalog/**/*.ts", "generation/to-platform.ts", "tests/catalog*.test.ts", "tests/support/**/*.ts"],
+  "exclude": ["node_modules"]
+}

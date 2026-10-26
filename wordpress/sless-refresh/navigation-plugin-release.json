@@ -1,0 +1,14 @@
+{
+  "active": true,
+  "hashes": {
+    "sless-merch-discovery.php": "d228f8b252ecad820724a474f65c3307bd34ceb817846fcde16637f271654189",
+    "views.php": "9496e359ee02c700812c1ec457a96100678b8f213bf27b48dd67ab0a825f9878",
+    "discovery.css": "acc1d84acd42a1129834eb747b17fb384ae911a16e000b960fb3e1e28fa82b33",
+    "discovery.js": "0f04a949c3acdd02da200518bc8cb9debf032136fdb776d6b502c16af73b02f1",
+    "cart-layout.css": "01163c64168639ba80d6dae22482fd197aedbfa5858132c529ab31f7f8d34072"
+  },
+  "frontPageUnchanged": true,
+  "homepageContentAndMediaUnchanged": true,
+  "ordersCreated": false,
+  "installedAt": "2026-10-18T19:02:05+00:00"
+}

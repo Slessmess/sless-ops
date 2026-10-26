@@ -1,0 +1,39 @@
+{
+  "checkedAt": "2026-10-19T15:48:29.889Z",
+  "metaConnectionVerified": true,
+  "metaPixelId": "910105715704651",
+  "metaCatalogId": "1111828728494235",
+  "metaPixelAllowed": false,
+  "metaProductSyncEnabled": false,
+  "trackingHold": true,
+  "ga4MeasurementId": "G-RZLZGN6CRQ",
+  "googleAnalyticsSnippetEnabled": false,
+  "ga4ReportsAdsLinked": false,
+  "googleCommerceConnected": true,
+  "googleAdsAccountId": "9802841961",
+  "googleMerchantId": "5876721373",
+  "googleAdsConversion": {
+    "status": "ENABLED",
+    "conversion_id": "AW-971817202",
+    "conversion_label": "WspvCJzGvKIdEPKBs88D"
+  },
+  "googleCommerceTrackingDisabled": true,
+  "googleCommerceTagServiceNeeded": false,
+  "privacyPolicyStatus": "draft",
+  "storefrontChecks": [
+    {
+      "url": "https://slessismore.org/",
+      "httpStatus": 200,
+      "googleTrackingScript": false,
+      "googleAdsConfig": false,
+      "metaTrackingReference": false
+    },
+    {
+      "url": "https://slessismore.org/product/sless-after-dark-halloween-tee/",
+      "httpStatus": 200,
+      "googleTrackingScript": false,
+      "googleAdsConfig": false,
+      "metaTrackingReference": false
+    }
+  ]
+}

@@ -1,0 +1,528 @@
+{
+  "frontId": 147,
+  "frontTitle": "Home",
+  "frontContent": "<!-- wp:html -->\n<style>\n.sless{--ink:#0a0a0a;--panel:#141414;--line:#34312a;--gold:#ffd700;--paper:#f6f3eb;--muted:#b8b5ad;color:var(--paper);background:var(--ink);font:16px/1.6 Inter,Roboto,Arial,sans-serif;isolation:isolate;overflow:hidden}.sless *{box-sizing:border-box}.sless h1,.sless h2,.sless h3,.sless .display{font-family:Anton,Oswald,Impact,sans-serif;text-transform:uppercase;line-height:.95;letter-spacing:.015em;margin:0}.sless a{color:inherit;text-decoration:none}.sless a:hover{color:var(--gold)}.sless a:focus-visible,.sless summary:focus-visible,.sless button:focus-visible{outline:3px solid var(--gold);outline-offset:4px}.sless img,.sless video{display:block;max-width:100%}.sless .wrap{max-width:1240px;width:calc(100% - 48px);margin:auto}.sless .topline{border-bottom:1px solid #2d2a24;background:#0d0d0c}.sless .nav{min-height:82px;display:flex;align-items:center;justify-content:space-between;gap:24px}.sless .brand img{width:116px;height:68px;object-fit:contain}.sless .navlinks{display:flex;gap:25px;align-items:center;font-size:12px;font-weight:800;letter-spacing:.13em;text-transform:uppercase}.sless .navlinks .nav-cta{padding:12px 17px;background:var(--gold);color:#090909}.sless .mobile-nav{display:none}.sless .eyebrow{color:var(--gold);font-size:11px;font-weight:800;letter-spacing:.24em;text-transform:uppercase}.sless .btn{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:13px 20px;background:var(--gold);color:#090909;font-size:12px;font-weight:900;letter-spacing:.12em;text-transform:uppercase;border:1px solid var(--gold);transition:transform .2s,opacity .2s}.sless .btn:hover{color:#090909;transform:translateY(-2px)}.sless .btn.secondary{background:transparent;color:var(--paper);border-color:#716d62}.sless .hero{padding:68px 0 40px;position:relative}.sless .hero:before{content:\"\";position:absolute;top:0;right:-160px;width:590px;height:590px;border:1px solid #2f2a1b;border-radius:50%;box-shadow:0 0 0 40px #0d0d0c,0 0 0 41px #231f16;pointer-events:none}.sless .hero-inner{position:relative;display:grid;grid-template-columns:1fr .92fr;align-items:center;gap:54px}.sless .hero h1{font-size:clamp(72px,12vw,150px);max-width:740px;line-height:.78;letter-spacing:-.025em}.sless .hero h1 span{display:block;color:var(--gold)}.sless .hero-copy{max-width:490px;color:#d2cec4;margin:27px 0 25px;font-size:17px}.sless .actions{display:flex;flex-wrap:wrap;gap:12px}.sless .hero-mark{border-left:1px solid #38342b;padding:18px 0 18px 30px}.sless .hero-mark img{width:min(100%,400px);max-height:405px;object-fit:contain;filter:drop-shadow(0 18px 36px #000)}.sless .video-stage{padding:12px;background:#171613;border:1px solid #514522;box-shadow:14px 14px 0 #201c10}.sless .video-stage video{width:100%;aspect-ratio:16/9;background:#000;object-fit:cover}.sless .video-caption{display:flex;justify-content:space-between;gap:15px;padding:12px 4px 0;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:#d0c9b7}.sless .section{padding:84px 0}.sless .section-head{display:flex;align-items:end;justify-content:space-between;gap:28px;margin-bottom:34px}.sless .section h2{font-size:clamp(42px,7vw,82px)}.sless .section-intro{color:var(--muted);max-width:470px;margin:0}.sless .split{display:grid;grid-template-columns:1fr 1fr;gap:14px}.sless .path{position:relative;min-height:320px;padding:34px;background:linear-gradient(135deg,#191814,#101010);border:1px solid #39352a;display:flex;flex-direction:column;justify-content:space-between;overflow:hidden}.sless .path:after{content:attr(data-number);position:absolute;right:20px;top:-27px;font:170px/1 Anton,Impact,sans-serif;color:#25221a;pointer-events:none}.sless .path>*{position:relative;z-index:1}.sless .path h3{font-size:48px;color:var(--gold)}.sless .path p{max-width:410px;color:#c6c2b8}.sless .arrow-link{font-size:12px;font-weight:900;letter-spacing:.13em;text-transform:uppercase}.sless .shirts{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.sless .shirt{background:#f1efe9;color:#111;display:flex;flex-direction:column}.sless .shirt img{width:100%;height:260px;object-fit:cover;object-position:center 40%}.sless .shirt-info{padding:22px}.sless .shirt h3{font-size:24px;min-height:48px}.sless .shirt-info p{font-size:13px;margin:12px 0;color:#5f5b52}.sless .price{font:24px Anton,Impact,sans-serif}.sless .shirt .btn{width:100%;margin-top:12px}.sless .shirt .btn.secondary{color:#111;border-color:#111}.sless .closing{border-top:1px solid #363126;background:#12110e;padding:42px 0}.sless .closing-inner{display:flex;align-items:center;justify-content:space-between;gap:24px}.sless .closing h2{font-size:40px}.sless .footer{border-top:1px solid #302d27;padding:23px 0;color:#aaa69b;font-size:11px}.sless .footer-inner{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}.sless .footer-links{display:flex;gap:16px;flex-wrap:wrap}.sless .note{font-size:12px;color:#aaa69b}.sless .skip{position:absolute;left:-9999px}.sless .skip:focus{left:20px;top:10px;background:#111;padding:10px;z-index:9}\n@media(max-width:760px){.sless .wrap{width:calc(100% - 32px)}.sless .nav{min-height:70px}.sless .brand img{width:98px;height:58px}.sless .navlinks{display:none}.sless .mobile-nav{display:block;position:relative}.sless .mobile-nav summary{list-style:none;cursor:pointer;border:1px solid #6e5d22;padding:9px 12px;color:var(--gold);font-size:11px;font-weight:900;letter-spacing:.12em;text-transform:uppercase}.sless .mobile-nav summary::-webkit-details-marker{display:none}.sless .mobile-nav .menu{position:absolute;right:0;top:44px;z-index:5;min-width:190px;padding:12px;background:#151410;border:1px solid #53451c;display:grid;gap:12px;font-size:12px;font-weight:800;text-transform:uppercase}.sless .hero{padding:45px 0 25px}.sless .hero-inner{grid-template-columns:1fr;gap:28px}.sless .hero h1{font-size:clamp(66px,19vw,108px)}.sless .hero-copy{font-size:15px}.sless .hero-mark{display:none}.sless .section{padding:60px 0}.sless .section-head{align-items:start;flex-direction:column}.sless .split,.sless .shirts{grid-template-columns:1fr}.sless .path{min-height:270px}.sless .shirt img{height:auto;max-height:360px;object-fit:cover}.sless .closing-inner{align-items:start;flex-direction:column}.sless .video-caption{flex-direction:column;gap:3px}}\n@media(prefers-reduced-motion:reduce){.sless *, .sless *:before,.sless *:after{scroll-behavior:auto!important;transition:none!important;animation:none!important}}\n</style>\n<style>\n.sless .shirt img{object-fit:contain;background:#fff}\n.sless .video-stage video{object-fit:contain}\n@media(max-width:760px){.sless .hero:before{display:none}}\n</style>\n<div class=\"sless\">\n<a class=\"skip\" href=\"#sless-main\">Skip to content</a>\n<header class=\"topline\"><div class=\"wrap nav\"><a class=\"brand\" href=\"https://slessismore.org/\" aria-label=\"Sless Is More home\"><img src=\"https://slessismore.org/wp-content/uploads/2024/10/trainwithsless-01-1.png\" alt=\"Sless Is More illustrated logo\"></a><nav class=\"navlinks\" aria-label=\"Main navigation\"><a href=\"https://slessismore.org/wrestling/\">Wrestling</a><a href=\"https://slessismore.org/ai/\">SlessBox AI</a><a href=\"https://slessismore.org/store/\">Store</a><a href=\"https://slessismore.org/giveaway/\">Fall Brawl</a><a class=\"nav-cta\" href=\"https://slessismore.org/wrestling/\">Watch matches</a></nav><details class=\"mobile-nav\"><summary aria-label=\"Open navigation menu\">Menu</summary><nav class=\"menu\" aria-label=\"Mobile navigation\"><a href=\"https://slessismore.org/wrestling/\">Wrestling</a><a href=\"https://slessismore.org/ai/\">SlessBox AI</a><a href=\"https://slessismore.org/store/\">Store</a><a href=\"https://slessismore.org/giveaway/\">Fall Brawl</a></nav></details></div></header>\n<main id=\"sless-main\"><section class=\"hero\"><div class=\"wrap hero-inner\"><div><p class=\"eyebrow\">Sless Taylor · Professional wrestler</p><h1>SLESS IS <span>MORE</span></h1><p class=\"hero-copy\">Real wrestling. AI that runs on your Windows machine. Statement shirts made for people who show up as themselves. Get to know Sless Taylor—and choose your way in.</p><div class=\"actions\"><a class=\"btn\" href=\"https://slessismore.org/wrestling/\">Watch the matches</a><a class=\"btn secondary\" href=\"https://slessismore.org/ai/\">Explore SlessBox</a></div></div><div class=\"hero-mark\"><img src=\"https://slessismore.org/wp-content/uploads/2024/10/trainwithsless-01-1.png\" alt=\"Sless Is More wrestler illustration and logo\"></div></div></section>\n<section class=\"wrap\" aria-label=\"Original Sless Is More video\"><div class=\"video-stage\"><video controls playsinline preload=\"metadata\" poster=\"https://slessismore.org/wp-content/uploads/2024/10/trainwithsless-01-1.png\" aria-label=\"Original Sless Is More video\"><source src=\"https://slessismore.org/wp-content/uploads/2024/10/White-Dynamic-Bold-Video-Gallery-Adventure-Video.mp4\" type=\"video/mp4\">Your browser does not support HTML video.</video><div class=\"video-caption\"><span>From the Sless Is More archive</span><span>Original brand video</span></div><p style=\"font-size:13px;color:#d0c9b7;border-left:2px solid #ffd700;padding:9px 12px;margin:12px 0 0\">Original Sless Is More footage. If playback is unavailable, explore the match archive below. <a style=\"color:#ffd700;text-decoration:underline\" href=\"https://slessismore.org/wrestling/\">Watch real match footage in Wrestling →</a></p></div></section>\n<section class=\"section\"><div class=\"wrap\"><div class=\"section-head\"><div><p class=\"eyebrow\">Three ways in</p><h2>Pick your corner.</h2></div><p class=\"section-intro\">A wrestler's world beyond the ring: watch the work, run private AI locally, or wear the words.</p></div><div class=\"split\"><article class=\"path\" data-number=\"01\"><div><p class=\"eyebrow\">In the ring</p><h3>Wrestling</h3><p>Meet Sless Taylor through real match footage, including Sless vs Brandon Fields and more from the archive.</p></div><a class=\"arrow-link\" href=\"https://slessismore.org/wrestling/\">Enter the match archive →</a></article><article class=\"path\" data-number=\"02\"><div><p class=\"eyebrow\">On your machine</p><h3>Local AI</h3><p>SlessBox is local Windows AI. Your AI. Your Machine. One Click.</p></div><a class=\"arrow-link\" href=\"https://slessismore.org/ai/\">Explore SlessBox →</a></article></div></div></section>\n<section class=\"section\" style=\"background:#11110f\"><div class=\"wrap\"><div class=\"section-head\"><div><p class=\"eyebrow\">Fall Collection</p><h2>Wear the words.</h2></div><p class=\"section-intro\">Three statement shirts. Unisex tees, black print on white. Each one says enough.</p><a class=\"arrow-link\" href=\"https://slessismore.org/store/\">See the collection →</a></div><div class=\"shirts\"><article class=\"shirt\"><img src=\"https://slessismore.org/wp-content/uploads/2026/10/sless-fall-shirt-1-1.png\" alt=\"White Fall Collection tee with NO INTRODUCTION NEEDED graphic\" loading=\"lazy\"><div class=\"shirt-info\"><h3>NO INTRODUCTION NEEDED</h3><p>Unisex tee · black print on white</p><span class=\"price\">$25</span><a class=\"btn secondary\" href=\"https://slessismore.org/store/\">View in store</a></div></article><article class=\"shirt\"><img src=\"https://slessismore.org/wp-content/uploads/2026/10/sless-fall-shirt-2-1.png\" alt=\"White Fall Collection tee with STAY UNDENIABLE graphic\" loading=\"lazy\"><div class=\"shirt-info\"><h3>STAY UNDENIABLE</h3><p>Unisex tee · black print on white</p><span class=\"price\">$25</span><a class=\"btn secondary\" href=\"https://slessismore.org/store/\">View in store</a></div></article><article class=\"shirt\"><img src=\"https://slessismore.org/wp-content/uploads/2026/10/sless-fall-shirt-3-1.png\" alt=\"White Fall Collection tee with BUILT DIFFERENT. PROVEN DAILY. graphic\" loading=\"lazy\"><div class=\"shirt-info\"><h3>BUILT DIFFERENT. PROVEN DAILY.</h3><p>Unisex tee · black print on white</p><span class=\"price\">$25</span><a class=\"btn secondary\" href=\"https://slessismore.org/store/\">View in store</a></div></article></div></div></section>\n<section class=\"closing\"><div class=\"wrap closing-inner\"><div><p class=\"eyebrow\">Sless Is More</p><h2>Start where the action is.</h2></div><a class=\"btn\" href=\"https://slessismore.org/wrestling/\">Watch Sless Taylor</a></div></section><!-- SLESS_NEWSLETTER_START -->\n<section class=\"sless-newsletter\" id=\"newsletter\" aria-labelledby=\"newsletter-heading-home\">\n<style>\n.sless .sless-newsletter{border-top:1px solid #34312a;background:#141414;padding:48px 0;color:#f6f3eb}\n.sless .sless-newsletter-inner{max-width:900px;width:calc(100% - 48px);margin:auto}\n.sless .sless-newsletter h2{font-size:clamp(32px,6vw,56px);margin:0 0 16px}\n.sless .sless-newsletter p{line-height:1.6;color:#b8b5ad}\n.sless .sless-newsletter label{display:block;font:600 14px/1.5 Inter,Roboto,Arial,sans-serif}\n.sless .sless-newsletter .email-row{display:flex;gap:12px;margin:8px 0 16px;align-items:stretch}\n.sless .sless-newsletter input[type=email]{flex:1;min-width:0;border:1px solid #777269;background:#f6f3eb;color:#0a0a0a;padding:14px;font:16px Inter,Roboto,Arial,sans-serif;border-radius:0}\n.sless .sless-newsletter button{border:1px solid #ffd700;background:#ffd700;color:#0a0a0a;padding:14px 20px;font:900 12px Inter,Roboto,Arial,sans-serif;text-transform:uppercase;letter-spacing:.08em;cursor:pointer}\n.sless .sless-newsletter .consent{display:flex;align-items:flex-start;gap:10px}\n.sless .sless-newsletter input[type=checkbox]{width:18px;height:18px;flex:0 0 18px;margin:2px 0;accent-color:#ffd700}\n.sless .sless-newsletter input:focus-visible,.sless .sless-newsletter button:focus-visible{outline:3px solid #ffd700;outline-offset:3px}\n.sless .sless-newsletter .newsletter-note{font-size:12px;line-height:1.6}\n.sless .sless-newsletter .newsletter-note a{color:#ffd700;text-decoration:underline}\n.sless .sless-newsletter .newsletter-trap{position:absolute;left:-5000px}\n@media(max-width:600px){.sless .sless-newsletter-inner{width:calc(100% - 32px)}.sless .sless-newsletter .email-row{flex-direction:column}}\n</style>\n<div class=\"sless-newsletter-inner\">\n<h2 id=\"newsletter-heading-home\">Stay in the loop.</h2>\n<p>Wrestling updates, SlessBox news, and store announcements from Sless Brand.</p>\n<form action=\"https://slessismore.us19.list-manage.com/subscribe/post?u=86811064e2c362fe2c0d0d025&amp;id=e9025fad09\" method=\"post\" aria-label=\"Sless Brand newsletter signup\">\n<label for=\"newsletter-email-home\">Email address</label>\n<div class=\"email-row\"><input type=\"email\" name=\"EMAIL\" id=\"newsletter-email-home\" autocomplete=\"email\" autocapitalize=\"off\" autocorrect=\"off\" required placeholder=\"you@example.com\"><button type=\"submit\" name=\"subscribe\">Join the email list</button></div>\n<label class=\"consent\" for=\"newsletter-consent-home\"><input type=\"checkbox\" name=\"SLESS_MARKETING_CONSENT\" value=\"yes\" id=\"newsletter-consent-home\" required><span>I want marketing emails from Sless Brand. I can unsubscribe at any time.</span></label>\n<div class=\"newsletter-trap\" aria-hidden=\"true\"><input type=\"text\" name=\"b_86811064e2c362fe2c0d0d025_e9025fad09\" tabindex=\"-1\" value=\"\" autocomplete=\"off\"></div>\n<p class=\"newsletter-note\">You’ll continue to Mailchimp. Check your inbox to confirm your subscription. This signup does not grant giveaway entries, software download access, or confirm a purchase. <a href=\"https://slessismore.us19.list-manage.com/subscribe?u=86811064e2c362fe2c0d0d025&amp;id=e9025fad09\">Use the hosted signup form instead.</a></p>\n</form>\n</div>\n</section>\n<!-- SLESS_NEWSLETTER_END -->\n</main>\n<footer class=\"footer\"><div class=\"wrap footer-inner\"><span>© Sless Is More · Sless Taylor</span><nav class=\"footer-links\" aria-label=\"Footer navigation\"><a href=\"https://slessismore.org/\">Home</a><a href=\"https://slessismore.org/wrestling/\">Wrestling</a><a href=\"https://slessismore.org/ai/\">AI</a><a href=\"https://slessismore.org/store/\">Store</a></nav></div></footer>\n</div>\n<!-- /wp:html -->",
+  "frontElementor": "[{\"id\":\"slessroot\",\"elType\":\"section\",\"settings\":{\"layout\":\"full_width\",\"content_width\":{\"unit\":\"%\",\"size\":100},\"gap\":\"no\",\"padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":true}},\"elements\":[{\"id\":\"slesscol\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"_inline_size\":null},\"elements\":[{\"id\":\"slesshtml\",\"elType\":\"widget\",\"widgetType\":\"html\",\"settings\":{\"html\":\"<style>\\n.sless{--ink:#0a0a0a;--panel:#141414;--line:#34312a;--gold:#ffd700;--paper:#f6f3eb;--muted:#b8b5ad;color:var(--paper);background:var(--ink);font:16px\\/1.6 Inter,Roboto,Arial,sans-serif;isolation:isolate;overflow:hidden}.sless *{box-sizing:border-box}.sless h1,.sless h2,.sless h3,.sless .display{font-family:Anton,Oswald,Impact,sans-serif;text-transform:uppercase;line-height:.95;letter-spacing:.015em;margin:0}.sless a{color:inherit;text-decoration:none}.sless a:hover{color:var(--gold)}.sless a:focus-visible,.sless summary:focus-visible,.sless button:focus-visible{outline:3px solid var(--gold);outline-offset:4px}.sless img,.sless video{display:block;max-width:100%}.sless .wrap{max-width:1240px;width:calc(100% - 48px);margin:auto}.sless .topline{border-bottom:1px solid #2d2a24;background:#0d0d0c}.sless .nav{min-height:82px;display:flex;align-items:center;justify-content:space-between;gap:24px}.sless .brand img{width:116px;height:68px;object-fit:contain}.sless .navlinks{display:flex;gap:25px;align-items:center;font-size:12px;font-weight:800;letter-spacing:.13em;text-transform:uppercase}.sless .navlinks .nav-cta{padding:12px 17px;background:var(--gold);color:#090909}.sless .mobile-nav{display:none}.sless .eyebrow{color:var(--gold);font-size:11px;font-weight:800;letter-spacing:.24em;text-transform:uppercase}.sless .btn{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:13px 20px;background:var(--gold);color:#090909;font-size:12px;font-weight:900;letter-spacing:.12em;text-transform:uppercase;border:1px solid var(--gold);transition:transform .2s,opacity .2s}.sless .btn:hover{color:#090909;transform:translateY(-2px)}.sless .btn.secondary{background:transparent;color:var(--paper);border-color:#716d62}.sless .hero{padding:68px 0 40px;position:relative}.sless .hero:before{content:\\\"\\\";position:absolute;top:0;right:-160px;width:590px;height:590px;border:1px solid #2f2a1b;border-radius:50%;box-shadow:0 0 0 40px #0d0d0c,0 0 0 41px #231f16;pointer-events:none}.sless .hero-inner{position:relative;display:grid;grid-template-columns:1fr .92fr;align-items:center;gap:54px}.sless .hero h1{font-size:clamp(72px,12vw,150px);max-width:740px;line-height:.78;letter-spacing:-.025em}.sless .hero h1 span{display:block;color:var(--gold)}.sless .hero-copy{max-width:490px;color:#d2cec4;margin:27px 0 25px;font-size:17px}.sless .actions{display:flex;flex-wrap:wrap;gap:12px}.sless .hero-mark{border-left:1px solid #38342b;padding:18px 0 18px 30px}.sless .hero-mark img{width:min(100%,400px);max-height:405px;object-fit:contain;filter:drop-shadow(0 18px 36px #000)}.sless .video-stage{padding:12px;background:#171613;border:1px solid #514522;box-shadow:14px 14px 0 #201c10}.sless .video-stage video{width:100%;aspect-ratio:16\\/9;background:#000;object-fit:cover}.sless .video-caption{display:flex;justify-content:space-between;gap:15px;padding:12px 4px 0;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:#d0c9b7}.sless .section{padding:84px 0}.sless .section-head{display:flex;align-items:end;justify-content:space-between;gap:28px;margin-bottom:34px}.sless .section h2{font-size:clamp(42px,7vw,82px)}.sless .section-intro{color:var(--muted);max-width:470px;margin:0}.sless .split{display:grid;grid-template-columns:1fr 1fr;gap:14px}.sless .path{position:relative;min-height:320px;padding:34px;background:linear-gradient(135deg,#191814,#101010);border:1px solid #39352a;display:flex;flex-direction:column;justify-content:space-between;overflow:hidden}.sless .path:after{content:attr(data-number);position:absolute;right:20px;top:-27px;font:170px\\/1 Anton,Impact,sans-serif;color:#25221a;pointer-events:none}.sless .path>*{position:relative;z-index:1}.sless .path h3{font-size:48px;color:var(--gold)}.sless .path p{max-width:410px;color:#c6c2b8}.sless .arrow-link{font-size:12px;font-weight:900;letter-spacing:.13em;text-transform:uppercase}.sless .shirts{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.sless .shirt{background:#f1efe9;color:#111;display:flex;flex-direction:column}.sless .shirt img{width:100%;height:260px;object-fit:cover;object-position:center 40%}.sless .shirt-info{padding:22px}.sless .shirt h3{font-size:24px;min-height:48px}.sless .shirt-info p{font-size:13px;margin:12px 0;color:#5f5b52}.sless .price{font:24px Anton,Impact,sans-serif}.sless .shirt .btn{width:100%;margin-top:12px}.sless .shirt .btn.secondary{color:#111;border-color:#111}.sless .closing{border-top:1px solid #363126;background:#12110e;padding:42px 0}.sless .closing-inner{display:flex;align-items:center;justify-content:space-between;gap:24px}.sless .closing h2{font-size:40px}.sless .footer{border-top:1px solid #302d27;padding:23px 0;color:#aaa69b;font-size:11px}.sless .footer-inner{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}.sless .footer-links{display:flex;gap:16px;flex-wrap:wrap}.sless .note{font-size:12px;color:#aaa69b}.sless .skip{position:absolute;left:-9999px}.sless .skip:focus{left:20px;top:10px;background:#111;padding:10px;z-index:9}\\n@media(max-width:760px){.sless .wrap{width:calc(100% - 32px)}.sless .nav{min-height:70px}.sless .brand img{width:98px;height:58px}.sless .navlinks{display:none}.sless .mobile-nav{display:block;position:relative}.sless .mobile-nav summary{list-style:none;cursor:pointer;border:1px solid #6e5d22;padding:9px 12px;color:var(--gold);font-size:11px;font-weight:900;letter-spacing:.12em;text-transform:uppercase}.sless .mobile-nav summary::-webkit-details-marker{display:none}.sless .mobile-nav .menu{position:absolute;right:0;top:44px;z-index:5;min-width:190px;padding:12px;background:#151410;border:1px solid #53451c;display:grid;gap:12px;font-size:12px;font-weight:800;text-transform:uppercase}.sless .hero{padding:45px 0 25px}.sless .hero-inner{grid-template-columns:1fr;gap:28px}.sless .hero h1{font-size:clamp(66px,19vw,108px)}.sless .hero-copy{font-size:15px}.sless .hero-mark{display:none}.sless .section{padding:60px 0}.sless .section-head{align-items:start;flex-direction:column}.sless .split,.sless .shirts{grid-template-columns:1fr}.sless .path{min-height:270px}.sless .shirt img{height:auto;max-height:360px;object-fit:cover}.sless .closing-inner{align-items:start;flex-direction:column}.sless .video-caption{flex-direction:column;gap:3px}}\\n@media(prefers-reduced-motion:reduce){.sless *, .sless *:before,.sless *:after{scroll-behavior:auto!important;transition:none!important;animation:none!important}}\\n<\\/style>\\n<style>\\n.sless .shirt img{object-fit:contain;background:#fff}\\n.sless .video-stage video{object-fit:contain}\\n@media(max-width:760px){.sless .hero:before{display:none}}\\n<\\/style>\\n<div class=\\\"sless\\\">\\n<a class=\\\"skip\\\" href=\\\"#sless-main\\\">Skip to content<\\/a>\\n<header class=\\\"topline\\\"><div class=\\\"wrap nav\\\"><a class=\\\"brand\\\" href=\\\"https:\\/\\/slessismore.org\\/\\\" aria-label=\\\"Sless Is More home\\\"><img src=\\\"https:\\/\\/slessismore.org\\/wp-content\\/uploads\\/2024\\/10\\/trainwithsless-01-1.png\\\" alt=\\\"Sless Is More illustrated logo\\\"><\\/a><nav class=\\\"navlinks\\\" aria-label=\\\"Main navigation\\\"><a href=\\\"https:\\/\\/slessismore.org\\/wrestling\\/\\\">Wrestling<\\/a><a href=\\\"https:\\/\\/slessismore.org\\/ai\\/\\\">SlessBox AI<\\/a><a href=\\\"https:\\/\\/slessismore.org\\/store\\/\\\">Store<\\/a><a href=\\\"https:\\/\\/slessismore.org\\/giveaway\\/\\\">Fall Brawl<\\/a><a class=\\\"nav-cta\\\" href=\\\"https:\\/\\/slessismore.org\\/wrestling\\/\\\">Watch matches<\\/a><\\/nav><details class=\\\"mobile-nav\\\"><summary aria-label=\\\"Open navigation menu\\\">Menu<\\/summary><nav class=\\\"menu\\\" aria-label=\\\"Mobile navigation\\\"><a href=\\\"https:\\/\\/slessismore.org\\/wrestling\\/\\\">Wrestling<\\/a><a href=\\\"https:\\/\\/slessismore.org\\/ai\\/\\\">SlessBox AI<\\/a><a href=\\\"https:\\/\\/slessismore.org\\/store\\/\\\">Store<\\/a><a href=\\\"https:\\/\\/slessismore.org\\/giveaway\\/\\\">Fall Brawl<\\/a><\\/nav><\\/details><\\/div><\\/header>\\n<main id=\\\"sless-main\\\"><section class=\\\"hero\\\"><div class=\\\"wrap hero-inner\\\"><div><p class=\\\"eyebrow\\\">Sless Taylor \\u00b7 Professional wrestler<\\/p><h1>SLESS IS <span>MORE<\\/span><\\/h1><p class=\\\"hero-copy\\\">Real wrestling. AI that runs on your Windows machine. Statement shirts made for people who show up as themselves. Get to know Sless Taylor\\u2014and choose your way in.<\\/p><div class=\\\"actions\\\"><a class=\\\"btn\\\" href=\\\"https:\\/\\/slessismore.org\\/wrestling\\/\\\">Watch the matches<\\/a><a class=\\\"btn secondary\\\" href=\\\"https:\\/\\/slessismore.org\\/ai\\/\\\">Explore SlessBox<\\/a><\\/div><\\/div><div class=\\\"hero-mark\\\"><img src=\\\"https:\\/\\/slessismore.org\\/wp-content\\/uploads\\/2024\\/10\\/trainwithsless-01-1.png\\\" alt=\\\"Sless Is More wrestler illustration and logo\\\"><\\/div><\\/div><\\/section>\\n<section class=\\\"wrap\\\" aria-label=\\\"Original Sless Is More video\\\"><div class=\\\"video-stage\\\"><video controls playsinline preload=\\\"metadata\\\" poster=\\\"https:\\/\\/slessismore.org\\/wp-content\\/uploads\\/2024\\/10\\/trainwithsless-01-1.png\\\" aria-label=\\\"Original Sless Is More video\\\"><source src=\\\"https:\\/\\/slessismore.org\\/wp-content\\/uploads\\/2024\\/10\\/White-Dynamic-Bold-Video-Gallery-Adventure-Video.mp4\\\" type=\\\"video\\/mp4\\\">Your browser does not support HTML video.<\\/video><div class=\\\"video-caption\\\"><span>From the Sless Is More archive<\\/span><span>Original brand video<\\/span><\\/div><p style=\\\"font-size:13px;color:#d0c9b7;border-left:2px solid #ffd700;padding:9px 12px;margin:12px 0 0\\\">Original Sless Is More footage. If playback is unavailable, explore the match archive below. <a style=\\\"color:#ffd700;text-decoration:underline\\\" href=\\\"https:\\/\\/slessismore.org\\/wrestling\\/\\\">Watch real match footage in Wrestling \\u2192<\\/a><\\/p><\\/div><\\/section>\\n<section class=\\\"section\\\"><div class=\\\"wrap\\\"><div class=\\\"section-head\\\"><div><p class=\\\"eyebrow\\\">Three ways in<\\/p><h2>Pick your corner.<\\/h2><\\/div><p class=\\\"section-intro\\\">A wrestler's world beyond the ring: watch the work, run private AI locally, or wear the words.<\\/p><\\/div><div class=\\\"split\\\"><article class=\\\"path\\\" data-number=\\\"01\\\"><div><p class=\\\"eyebrow\\\">In the ring<\\/p><h3>Wrestling<\\/h3><p>Meet Sless Taylor through real match footage, including Sless vs Brandon Fields and more from the archive.<\\/p><\\/div><a class=\\\"arrow-link\\\" href=\\\"https:\\/\\/slessismore.org\\/wrestling\\/\\\">Enter the match archive \\u2192<\\/a><\\/article><article class=\\\"path\\\" data-number=\\\"02\\\"><div><p class=\\\"eyebrow\\\">On your machine<\\/p><h3>Local AI<\\/h3><p>SlessBox is local Windows AI. Your AI. Your Machine. One Click.<\\/p><\\/div><a class=\\\"arrow-link\\\" href=\\\"https:\\/\\/slessismore.org\\/ai\\/\\\">Explore SlessBox \\u2192<\\/a><\\/article><\\/div><\\/div><\\/section>\\n<section class=\\\"section\\\" style=\\\"background:#11110f\\\"><div class=\\\"wrap\\\"><div class=\\\"section-head\\\"><div><p class=\\\"eyebrow\\\">Fall Collection<\\/p><h2>Wear the words.<\\/h2><\\/div><p class=\\\"section-intro\\\">Three statement shirts. Unisex tees, black print on white. Each one says enough.<\\/p><a class=\\\"arrow-link\\\" href=\\\"https:\\/\\/slessismore.org\\/store\\/\\\">See the collection \\u2192<\\/a><\\/div><div class=\\\"shirts\\\"><article class=\\\"shirt\\\"><img src=\\\"https:\\/\\/slessismore.org\\/wp-content\\/uploads\\/2026\\/10\\/sless-fall-shirt-1-1.png\\\" alt=\\\"White Fall Collection tee with NO INTRODUCTION NEEDED graphic\\\" loading=\\\"lazy\\\"><div class=\\\"shirt-info\\\"><h3>NO INTRODUCTION NEEDED<\\/h3><p>Unisex tee \\u00b7 black print on white<\\/p><span class=\\\"price\\\">$25<\\/span><a class=\\\"btn secondary\\\" href=\\\"https:\\/\\/slessismore.org\\/store\\/\\\">View in store<\\/a><\\/div><\\/article><article class=\\\"shirt\\\"><img src=\\\"https:\\/\\/slessismore.org\\/wp-content\\/uploads\\/2026\\/10\\/sless-fall-shirt-2-1.png\\\" alt=\\\"White Fall Collection tee with STAY UNDENIABLE graphic\\\" loading=\\\"lazy\\\"><div class=\\\"shirt-info\\\"><h3>STAY UNDENIABLE<\\/h3><p>Unisex tee \\u00b7 black print on white<\\/p><span class=\\\"price\\\">$25<\\/span><a class=\\\"btn secondary\\\" href=\\\"https:\\/\\/slessismore.org\\/store\\/\\\">View in store<\\/a><\\/div><\\/article><article class=\\\"shirt\\\"><img src=\\\"https:\\/\\/slessismore.org\\/wp-content\\/uploads\\/2026\\/10\\/sless-fall-shirt-3-1.png\\\" alt=\\\"White Fall Collection tee with BUILT DIFFERENT. PROVEN DAILY. graphic\\\" loading=\\\"lazy\\\"><div class=\\\"shirt-info\\\"><h3>BUILT DIFFERENT. PROVEN DAILY.<\\/h3><p>Unisex tee \\u00b7 black print on white<\\/p><span class=\\\"price\\\">$25<\\/span><a class=\\\"btn secondary\\\" href=\\\"https:\\/\\/slessismore.org\\/store\\/\\\">View in store<\\/a><\\/div><\\/article><\\/div><\\/div><\\/section>\\n<section class=\\\"closing\\\"><div class=\\\"wrap closing-inner\\\"><div><p class=\\\"eyebrow\\\">Sless Is More<\\/p><h2>Start where the action is.<\\/h2><\\/div><a class=\\\"btn\\\" href=\\\"https:\\/\\/slessismore.org\\/wrestling\\/\\\">Watch Sless Taylor<\\/a><\\/div><\\/section><!-- SLESS_NEWSLETTER_START -->\\n<section class=\\\"sless-newsletter\\\" id=\\\"newsletter\\\" aria-labelledby=\\\"newsletter-heading-home\\\">\\n<style>\\n.sless .sless-newsletter{border-top:1px solid #34312a;background:#141414;padding:48px 0;color:#f6f3eb}\\n.sless .sless-newsletter-inner{max-width:900px;width:calc(100% - 48px);margin:auto}\\n.sless .sless-newsletter h2{font-size:clamp(32px,6vw,56px);margin:0 0 16px}\\n.sless .sless-newsletter p{line-height:1.6;color:#b8b5ad}\\n.sless .sless-newsletter label{display:block;font:600 14px\\/1.5 Inter,Roboto,Arial,sans-serif}\\n.sless .sless-newsletter .email-row{display:flex;gap:12px;margin:8px 0 16px;align-items:stretch}\\n.sless .sless-newsletter input[type=email]{flex:1;min-width:0;border:1px solid #777269;background:#f6f3eb;color:#0a0a0a;padding:14px;font:16px Inter,Roboto,Arial,sans-serif;border-radius:0}\\n.sless .sless-newsletter button{border:1px solid #ffd700;background:#ffd700;color:#0a0a0a;padding:14px 20px;font:900 12px Inter,Roboto,Arial,sans-serif;text-transform:uppercase;letter-spacing:.08em;cursor:pointer}\\n.sless .sless-newsletter .consent{display:flex;align-items:flex-start;gap:10px}\\n.sless .sless-newsletter input[type=checkbox]{width:18px;height:18px;flex:0 0 18px;margin:2px 0;accent-color:#ffd700}\\n.sless .sless-newsletter input:focus-visible,.sless .sless-newsletter button:focus-visible{outline:3px solid #ffd700;outline-offset:3px}\\n.sless .sless-newsletter .newsletter-note{font-size:12px;line-height:1.6}\\n.sless .sless-newsletter .newsletter-note a{color:#ffd700;text-decoration:underline}\\n.sless .sless-newsletter .newsletter-trap{position:absolute;left:-5000px}\\n@media(max-width:600px){.sless .sless-newsletter-inner{width:calc(100% - 32px)}.sless .sless-newsletter .email-row{flex-direction:column}}\\n<\\/style>\\n<div class=\\\"sless-newsletter-inner\\\">\\n<h2 id=\\\"newsletter-heading-home\\\">Stay in the loop.<\\/h2>\\n<p>Wrestling updates, SlessBox news, and store announcements from Sless Brand.<\\/p>\\n<form action=\\\"https:\\/\\/slessismore.us19.list-manage.com\\/subscribe\\/post?u=86811064e2c362fe2c0d0d025&amp;id=e9025fad09\\\" method=\\\"post\\\" aria-label=\\\"Sless Brand newsletter signup\\\">\\n<label for=\\\"newsletter-email-home\\\">Email address<\\/label>\\n<div class=\\\"email-row\\\"><input type=\\\"email\\\" name=\\\"EMAIL\\\" id=\\\"newsletter-email-home\\\" autocomplete=\\\"email\\\" autocapitalize=\\\"off\\\" autocorrect=\\\"off\\\" required placeholder=\\\"you@example.com\\\"><button type=\\\"submit\\\" name=\\\"subscribe\\\">Join the email list<\\/button><\\/div>\\n<label class=\\\"consent\\\" for=\\\"newsletter-consent-home\\\"><input type=\\\"checkbox\\\" name=\\\"SLESS_MARKETING_CONSENT\\\" value=\\\"yes\\\" id=\\\"newsletter-consent-home\\\" required><span>I want marketing emails from Sless Brand. I can unsubscribe at any time.<\\/span><\\/label>\\n<div class=\\\"newsletter-trap\\\" aria-hidden=\\\"true\\\"><input type=\\\"text\\\" name=\\\"b_86811064e2c362fe2c0d0d025_e9025fad09\\\" tabindex=\\\"-1\\\" value=\\\"\\\" autocomplete=\\\"off\\\"><\\/div>\\n<p class=\\\"newsletter-note\\\">You\\u2019ll continue to Mailchimp. Check your inbox to confirm your subscription. This signup does not grant giveaway entries, software download access, or confirm a purchase. <a href=\\\"https:\\/\\/slessismore.us19.list-manage.com\\/subscribe?u=86811064e2c362fe2c0d0d025&amp;id=e9025fad09\\\">Use the hosted signup form instead.<\\/a><\\/p>\\n<\\/form>\\n<\\/div>\\n<\\/section>\\n<!-- SLESS_NEWSLETTER_END -->\\n<\\/main>\\n<footer class=\\\"footer\\\"><div class=\\\"wrap footer-inner\\\"><span>\\u00a9 Sless Is More \\u00b7 Sless Taylor<\\/span><nav class=\\\"footer-links\\\" aria-label=\\\"Footer navigation\\\"><a href=\\\"https:\\/\\/slessismore.org\\/\\\">Home<\\/a><a href=\\\"https:\\/\\/slessismore.org\\/wrestling\\/\\\">Wrestling<\\/a><a href=\\\"https:\\/\\/slessismore.org\\/ai\\/\\\">AI<\\/a><a href=\\\"https:\\/\\/slessismore.org\\/store\\/\\\">Store<\\/a><\\/nav><\\/div><\\/footer>\\n<\\/div>\"},\"elements\":[]}]}]}]",
+  "theme": "hello-elementor",
+  "menuLocations": [],
+  "menus": [],
+  "categories": [
+    {
+      "term_id": 32,
+      "name": "Canvas Wall Art",
+      "slug": "canvas-wall-art",
+      "term_group": 0,
+      "term_taxonomy_id": 32,
+      "taxonomy": "product_cat",
+      "description": "",
+      "parent": 0,
+      "count": 1,
+      "filter": "raw"
+    },
+    {
+      "term_id": 30,
+      "name": "Halloween",
+      "slug": "halloween",
+      "term_group": 0,
+      "term_taxonomy_id": 30,
+      "taxonomy": "product_cat",
+      "description": "",
+      "parent": 0,
+      "count": 2,
+      "filter": "raw"
+    },
+    {
+      "term_id": 31,
+      "name": "T-Shirts",
+      "slug": "t-shirts",
+      "term_group": 0,
+      "term_taxonomy_id": 31,
+      "taxonomy": "product_cat",
+      "description": "",
+      "parent": 0,
+      "count": 1,
+      "filter": "raw"
+    },
+    {
+      "term_id": 29,
+      "name": "Uncategorized",
+      "slug": "uncategorized",
+      "term_group": 0,
+      "term_taxonomy_id": 29,
+      "taxonomy": "product_cat",
+      "description": "",
+      "parent": 0,
+      "count": 53,
+      "filter": "raw"
+    }
+  ],
+  "products": [
+    {
+      "id": 680,
+      "name": "Sless After Dark — Halloween Canvas, 6 × 6 in",
+      "categories": [
+        32,
+        30
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 660,
+      "name": "Sless After Dark — Halloween Tee",
+      "categories": [
+        30,
+        31
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 502,
+      "name": "BUILT DIFFERENT. PROVEN DAILY.",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 493,
+      "name": "STAY UNDENIABLE",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 485,
+      "name": "NO INTRODUCTION NEEDED",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 483,
+      "name": "More Gratitude — Thanksgiving Coaster",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 479,
+      "name": "Sless Is More — Matte Vertical Posters",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 475,
+      "name": "Sless Is More — Matte Canvas, 12 × 20 in",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 473,
+      "name": "More Cheer — Christmas Throw Pillow",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 470,
+      "name": "More Cheer — Christmas Plush Blanket",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 466,
+      "name": "Sless Is More — Sherpa Fleece Blanket",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 463,
+      "name": "Sless Is More — Desk Mat",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 454,
+      "name": "Sless Is More — Slim Phone Cases",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 446,
+      "name": "Sless Is More — Tough Phone Cases",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 441,
+      "name": "Sless Is More — Laptop Sleeve",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 439,
+      "name": "More Gratitude — Thanksgiving Journal",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 434,
+      "name": "Sless Is More — Spiral Notebook - Ruled Line",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 427,
+      "name": "Sless After Dark — Halloween Vinyl Sticker",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 425,
+      "name": "More Gratitude — Thanksgiving Insulated Bottle",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 422,
+      "name": "Sless Is More — Tumbler 20oz",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 418,
+      "name": "Sless Is More — Stainless Steel Travel Mug",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 415,
+      "name": "Sless Is More — Enamel Camping Mug",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 412,
+      "name": "More Cheer — Christmas Latte Mug",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 408,
+      "name": "Sless After Dark — Halloween Black Mug",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 405,
+      "name": "Sless Is More — Mug 15oz",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 403,
+      "name": "Sless Is More — Mug 11oz",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 401,
+      "name": "Sless Is More — Backpack",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 397,
+      "name": "Sless Is More — Weekender Bag",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 394,
+      "name": "Sless After Dark — Halloween Canvas Tote",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 392,
+      "name": "Sless Is More — Organic Canvas Tote Bag",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 388,
+      "name": "Sless Is More — Cotton Tote Bag",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 386,
+      "name": "Sless Holiday Star — Christmas Embroidered Beanie",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 382,
+      "name": "Sless Is More — Classic Dad Cap",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 378,
+      "name": "Sless Is More — Snapback Trucker Cap",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 376,
+      "name": "Sless Is More — Trucker Caps",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 373,
+      "name": "Sless Is More — Low Profile Baseball Cap",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 364,
+      "name": "Sless Is More — Basketball Shorts (AOP)",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 356,
+      "name": "Sless Is More — Athletic Joggers (AOP)",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 348,
+      "name": "Sless Is More — Unisex Heavy Blend™ Full Zip Hooded Sweatshirt",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 339,
+      "name": "Sless Is More — Unisex Sponge Fleece Pullover Hoodie",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 330,
+      "name": "Sless After Dark — Halloween Hoodie",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 323,
+      "name": "More Gratitude — Thanksgiving Garment-Dyed Sweatshirt",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 314,
+      "name": "More Cheer — Christmas Crewneck",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 305,
+      "name": "Sless Is More — Women's Ideal Racerback Tank",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 298,
+      "name": "Sless Is More — Unisex Jersey Tank",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 293,
+      "name": "Sless Is More — Unisex 34 Sleeve Baseball Tee",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 283,
+      "name": "Sless Is More — Unisex Garment-dyed Long Sleeve T-Shirt",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 276,
+      "name": "Sless Is More — Unisex Jersey Long Sleeve Tee",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 269,
+      "name": "Sless Is More — Unisex Jersey Short Sleeve V-Neck Tee",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 260,
+      "name": "More Gratitude — Thanksgiving Triblend Tee",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 251,
+      "name": "Sless Is More — Unisex Cotton Crew Tee",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 244,
+      "name": "Sless Is More — Unisex Jersey Short Sleeve Tee",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 238,
+      "name": "Sless After Dark — Halloween Oversized Tee",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 230,
+      "name": "Sless Is More — Unisex Garment-Dyed T-shirt",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    },
+    {
+      "id": 225,
+      "name": "Sless Is More — Kiss-Cut Stickers",
+      "categories": [
+        29
+      ],
+      "type": "variable"
+    }
+  ],
+  "templates": [
+    {
+      "id": 34,
+      "title": "Elementor Single Post #34",
+      "type": "single-post"
+    },
+    {
+      "id": 23,
+      "title": "Elementor Footer #23",
+      "type": "footer"
+    },
+    {
+      "id": 12,
+      "title": "Elementor Header #12",
+      "type": "header"
+    },
+    {
+      "id": 7,
+      "title": "Default Kit",
+      "type": "kit"
+    }
+  ],
+  "shop": "https://slessismore.org/shop/",
+  "cart": "https://slessismore.org/cart/",
+  "account": "https://slessismore.org/my-account/"
+}

@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Sless Media Group"
+description = "Restaurant-focused social-media production business with $99/month self-service and $499/month managed packages, restaurant profiles, AI video and post production, calendars, approvals and lead tracking."
+version = "1.0.0"
+id = "artifacts/sless-media-group"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 21023
+
+[services.development]
+run = "pnpm --filter @workspace/sless-media-group run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/sless-media-group", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/sless-media-group/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "21023"
+BASE_PATH = "/"

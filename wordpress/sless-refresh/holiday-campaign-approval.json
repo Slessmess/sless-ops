@@ -1,0 +1,105 @@
+{
+  "approvedAt": "2026-10-19T17:30:34.384Z",
+  "approval": "Owner selected Approve all 12",
+  "approved": [
+    {
+      "id": "I01",
+      "file": "feed-01-660.jpg",
+      "assetSha256": "906d15c70db93f8e43746edc361eb2974329030915867aafcfbedf08568e7782",
+      "captionsSha256": "3fa22f1c45a2116c0d2780b2da67d6b90e2055302826b8b9652720563a2a6963",
+      "notBefore": null,
+      "expiresAt": "2026-10-25T23:59:59-04:00"
+    },
+    {
+      "id": "I02",
+      "file": "feed-02-330.jpg",
+      "assetSha256": "ebb72a0419ef9b5adf45b315504eeb2270bcf09846e39b54504847c894dd6414",
+      "captionsSha256": "5a17133b641598d533cfe5e16a605315cf938d3b4db33f538c4ebeef572a727b",
+      "notBefore": null,
+      "expiresAt": "2026-10-25T23:59:59-04:00"
+    },
+    {
+      "id": "I03",
+      "file": "feed-03-238.jpg",
+      "assetSha256": "1bf9b2d3c8664b85f98a85dca3f53989a518588e1901b35b994c65a687d8a11b",
+      "captionsSha256": "d3df0cc3837baac0dce6d1160c7c80c0819cf1f17094d232c260b95e38e7ee20",
+      "notBefore": null,
+      "expiresAt": "2026-10-25T23:59:59-04:00"
+    },
+    {
+      "id": "I04",
+      "file": "feed-04-260.jpg",
+      "assetSha256": "9e16f15a4909686ae5a684b3505bce63e055ec5750f15e1470c05211b33d28c2",
+      "captionsSha256": "54debbfd330bf1f69981a10a7a63a720967ce58e45629b055a3f7a263421bd8d",
+      "notBefore": null,
+      "expiresAt": "2026-10-25T23:59:59-04:00"
+    },
+    {
+      "id": "I05",
+      "file": "feed-05-323.jpg",
+      "assetSha256": "30f8a470f172e7cf13114c05554bcf42844e11301a79c4387bd33cfa109cd394",
+      "captionsSha256": "9f1c715fada816cad50d903a24155763a2ed0eed3162dda4bac28386533d8c62",
+      "notBefore": null,
+      "expiresAt": "2026-10-25T23:59:59-04:00"
+    },
+    {
+      "id": "I06",
+      "file": "feed-06-735.jpg",
+      "assetSha256": "90c494cfbe8880a096f96a514583817f2d6b7623f6f8d1b81bb60a84ae7ffc66",
+      "captionsSha256": "d07239eb4ae5190458a5722eee008955b1c7c206263cf7194546dc1fe22b8653",
+      "notBefore": null,
+      "expiresAt": "2026-10-25T23:59:59-04:00"
+    },
+    {
+      "id": "I07",
+      "file": "feed-07-314.jpg",
+      "assetSha256": "fe939b4bc65ca4ca61816f9f342ee7e50e9c140b021f8069b5830ba4a069243a",
+      "captionsSha256": "8105e5a4649ed322bb8edcf5e194068cfb5f39f0e5fa374a515a3007b076cd63",
+      "notBefore": null,
+      "expiresAt": "2026-10-25T23:59:59-04:00"
+    },
+    {
+      "id": "I08",
+      "file": "feed-08-all-seven.jpg",
+      "assetSha256": "74d4220389c2246c32adaaf632712f36566ed69ee6965d73bb6e724d927d6017",
+      "captionsSha256": "8e6493e5ef6199e4beea308279da0c11dea5ef49b0e5645239046e5c61fb9039",
+      "notBefore": null,
+      "expiresAt": "2026-10-25T23:59:59-04:00"
+    },
+    {
+      "id": "I09",
+      "file": "feed-09-last-call.jpg",
+      "assetSha256": "ce1e69e7d529a0e337386fe2fed6c7833104d3f9e696d2042019d17bb21d2ca6",
+      "captionsSha256": "56789405404d0702216fbab65c514078fb2f537fae8d24e8c07fa3cd18e7eb5b",
+      "notBefore": "2026-10-25",
+      "expiresAt": "2026-10-25T23:59:59-04:00"
+    },
+    {
+      "id": "V01",
+      "file": "reel-01-halloween.mp4",
+      "assetSha256": "ff80d098957abf609ee63a6b8d2ab75a95903c2d9891614e6730b0b675ab7a95",
+      "captionsSha256": "76aff58164f117d093e52e0964f8f7dfd4788a22da509000579393bbd41e78be",
+      "notBefore": null,
+      "expiresAt": "2026-10-25T23:59:59-04:00"
+    },
+    {
+      "id": "V02",
+      "file": "reel-02-thanksgiving.mp4",
+      "assetSha256": "3549cee82f5dc63c1b498cf0e6bc92fde7dff506c59635b9d7300b6607b88abb",
+      "captionsSha256": "e093454a3debb384599fa4d74fba566e50687cc4e0ed84e970182467efab0828",
+      "notBefore": null,
+      "expiresAt": "2026-10-25T23:59:59-04:00"
+    },
+    {
+      "id": "V03",
+      "file": "reel-03-christmas.mp4",
+      "assetSha256": "dc7a4ff5ace202bbd296d0ce78effc085ab4f15a6e3fc0a0818fd3a1dd9fac3b",
+      "captionsSha256": "5c54cafeca63c2d862510287dbd4a3247f23d80c3fdac96d49eb4c11d7075347",
+      "notBefore": null,
+      "expiresAt": "2026-10-25T23:59:59-04:00"
+    }
+  ],
+  "paidAdvertisingSpendAuthorized": false,
+  "storyLinkStickerRequired": true,
+  "automaticSchedulingConfigured": false
+}

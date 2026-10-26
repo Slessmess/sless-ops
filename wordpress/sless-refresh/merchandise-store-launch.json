@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-10-18T16:02:44.720Z",
+  "applied": true,
+  "ready": true,
+  "chargesEnabled": true,
+  "payoutsEnabled": true,
+  "liveWebhookEnabled": true,
+  "webhookSigningSecretConfigured": true,
+  "before": {
+    "testMode": "yes",
+    "comingSoon": "yes"
+  },
+  "stripeTestMode": "no",
+  "comingSoon": "no",
+  "merchantKeysChanged": false,
+  "ordersOrChargesCreated": false
+}

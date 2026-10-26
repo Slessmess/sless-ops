@@ -1,0 +1,11 @@
+{
+  "before": [
+    "include/singular"
+  ],
+  "after": [
+    "include/singular",
+    "exclude/singular/product"
+  ],
+  "articleTemplateUnchanged": true,
+  "ordersCreated": false
+}
